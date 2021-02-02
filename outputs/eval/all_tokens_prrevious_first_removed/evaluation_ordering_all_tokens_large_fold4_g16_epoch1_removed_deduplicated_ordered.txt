@@ -1,0 +1,37 @@
+washing dishes;get dish from sink and put it in the water.;turn on water in sink.
+washing dishes;put dish in the sink.;turn off water.
+washing dishes;get your hands wet.;wait until the water is warm.
+washing dishes;wait until the water is warm.;put dish in the sink.
+washing dishes;turn on water in sink.;get your hands wet.
+washing dishes;turn off water.;put dish away.
+making a bonfire;clean up the firewood and fuel;take the wood and fuel to the yard
+making a bonfire;place wood or stick into the fire;place fuel over fire
+making a bonfire;place wood or sticks on the bonfire;light the wood and stick on fire
+making a bonfire;place fuel over fire;wait for flames to die down
+making a bonfire;put away the firewood and fuel;turn off the fire
+making a bonfire;take the fuel from the wood;place wood or stick into the fire
+making a bonfire;wait for flames to die down;set firewood on fire
+making a bonfire;take the wood and fuel to the yard;put away the firewood and fuel
+making a bonfire;light the wood and stick on fire;take the fuel from the wood
+making a bonfire;set firewood on fire;clean up the firewood and fuel
+going to the sauna;use a massage if necessary;sit and relax
+going to the sauna;wash your body;use a massage if necessary
+going to the sauna;get into the sauna;wash your body
+going to the sauna;sit and relax;turn off the water
+going to the sauna;enter the sauna;go in the shower
+going to the sauna;go to the sauna;take off clothes
+going to the sauna;go in the shower;get into the sauna
+going to the sauna;get a towel;go to the sauna
+going to the sauna;take off clothes;enter the sauna
+going to the sauna;turn off the water;dry yourself with a towel
+making coffee;take the coffee out of the water;serve it to the people
+making coffee;open the coffee when it has boiled;take the coffee out of the water
+making coffee;add ingredients;wait for the coffee to boil
+making coffee;get a coffee mug;add ingredients
+making coffee;wait for the coffee to boil;open the coffee when it has boiled
+going to the swimming pool;drive to the swimming pool;park your car at the pool
+going to the swimming pool;walk inside the pool;get into the pool
+going to the swimming pool;walk up to the gate;walk inside the pool
+going to the swimming pool;park your car at the pool;walk up to the gate
+going to the swimming pool;get in the car;drive to the swimming pool
+going to the swimming pool;get into the pool;swim

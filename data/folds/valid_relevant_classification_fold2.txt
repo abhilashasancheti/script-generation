@@ -1,0 +1,1774 @@
+going bowling: </s> go into bowling alley 1
+going bowling: </s> walk up to rental counter 1
+going bowling: </s> pay for bowling shoes and game 1
+going bowling: </s> go to assigned lane 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> find a bowling ball 1
+going bowling: </s> pick up bowling ball 1
+going bowling: </s> walk up to lane line 1
+going bowling: </s> swing ball back 1
+going bowling: </s> release ball in front of you down the lane towards pins 1
+going bowling: </s> continue bowling all 10 frames 1
+going bowling: </s> return shoes 1
+going bowling: </s> leave bowling alley 1
+going bowling: </s> get your bowling gear 1
+going bowling: </s> go to the bowling alley 1
+going bowling: </s> enter the bowling alley 1
+going bowling: </s> go to front desk ask for a lane 1
+going bowling: </s> change your shoes 1
+going bowling: </s> look up a nearby bowling alley. 1
+going bowling: </s> drive to the alley. 1
+going bowling: </s> pay for a lane. 1
+going bowling: </s> put on bowling shoes. 1
+going bowling: </s> go bowling. 1
+going bowling: </s> you walk into bowling alley. 1
+going bowling: </s> you rent shoes and get a lane. 1
+going bowling: </s> you sit down and put shoes on. 1
+going bowling: </s> you get up and look for a ball. 1
+going bowling: </s> you hold your ball and step up to alley. 1
+going bowling: </s> you walk and swing your arm back and throw the ball. 1
+going bowling: </s> the ball rolls down lane. 1
+going bowling: </s> you wait for ball to come back. 1
+going bowling: </s> you throw it again. 1
+going bowling: </s> you take off shoes. 1
+going bowling: </s> pay your bill and leave. 1
+going bowling: </s> go to counter 1
+going bowling: </s> get a lane 1
+going bowling: </s> get shoes 1
+going bowling: </s> get ball 1
+going bowling: </s> go to lane 1
+going bowling: </s> put shoes on 1
+going bowling: </s> put names in score computer 1
+going bowling: </s> play x amount of games 1
+going bowling: </s> take off shoes 1
+going bowling: </s> return ball 1
+going bowling: </s> return shoes 1
+going bowling: </s> leave 1
+going bowling: </s> find a pair of clean socks to wear at the bowling alley. 1
+going bowling: </s> go to bowling alley. 1
+going bowling: </s> rent bowling shoes that are your size. 1
+going bowling: </s> pay for a few games of bowling. 1
+going bowling: </s> purchase some nachos and a drink from the snack bar. 1
+going bowling: </s> find bowling lane that you have been assigned to play at. 1
+going bowling: </s> place snacks and personal belongings in area near your bowling lane. 1
+going bowling: </s> put bowling shoes on. 1
+going bowling: </s> choose a bowling ball to play with. 1
+going bowling: </s> set up computer at your bowling lane with information about who will be bowling with you. 1
+going bowling: </s> bowl until game is finished. 1
+going bowling: </s> begin another game if you have paid and would like to continue bowling. 1
+going bowling: </s> walk into bowling alley. 1
+going bowling: </s> go to counter. 1
+going bowling: </s> pay for game of bowling and shoe rental. 1
+going bowling: </s> take rental shoes from attendant. 1
+going bowling: </s> go to assigned lane. 1
+going bowling: </s> change into rented shoes. 1
+going bowling: </s> select ball from rack. 1
+going bowling: </s> enter player names into computer. 1
+going bowling: </s> take turns rolling ball down alley toward pins. 1
+going bowling: </s> return ball to rack. 1
+going bowling: </s> change out of rented shoes. 1
+going bowling: </s> return rental shoes to attendant. 1
+going bowling: </s> leave the bowling alley. 1
+going bowling: </s> arrive bowling alley 1
+going bowling: </s> wear bowling shoes 1
+going bowling: </s> roll bowling ball 1
+going bowling: </s> watch tally 1
+going bowling: </s> declare myself champion 1
+going bowling: </s> reserve a lane 1
+going bowling: </s> collect bowling balls 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> pay for lane privileges 1
+going bowling: </s> pay for food or drinks 1
+going bowling: </s> select funny names 1
+going bowling: </s> set up score thingie with funny names 1
+going bowling: </s> warm up hands and arms properly 1
+going bowling: </s> commence bowling 1
+going bowling: </s> try not to lose 1
+going bowling: </s> get in car 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> get out of car 1
+going bowling: </s> enter bowling alley 1
+going bowling: </s> get shoes from counter 1
+going bowling: </s> select bowling ball 1
+going bowling: </s> find assigned alley 1
+going bowling: </s> set balls on return 1
+going bowling: </s> enter bowler information on screen 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> pick up bowling ball 1
+going bowling: </s> roll ball down alley 1
+going bowling: </s> repeat until games are finished 1
+going bowling: </s> take off shoes 1
+going bowling: </s> return to counter 1
+going bowling: </s> pay for bowling and leave 1
+going bowling: </s> get some friends together 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> go to office and rent bowling shoes - assuming you did not bring your own. 1
+going bowling: </s> get appropriate balls - also assuming rental from bowling alley. 1
+going bowling: </s> pick a free alley 1
+going bowling: </s> order some beer and pizza 1
+going bowling: </s> bowl 1
+going bowling: </s> go to the bowling alley. 1
+going bowling: </s> go to the sales counter. 1
+going bowling: </s> tell attendant how many games you want to play. 1
+going bowling: </s> pick your bowling shoes. 1
+going bowling: </s> go to your lane and enter your names in the computer. 1
+going bowling: </s> go bowl. 1
+going bowling: </s> call friends 1
+going bowling: </s> get in car 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> pay for shoes and beer 1
+going bowling: </s> find the best ball 1
+going bowling: </s> play! 1
+going bowling: </s> get dressed 1
+going bowling: </s> go to the car 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> park 1
+going bowling: </s> go inside 1
+going bowling: </s> get bowling shoes 1
+going bowling: </s> go to alley 1
+going bowling: </s> put shoes on 1
+going bowling: </s> pick out ball 1
+going bowling: </s> bowl. 1
+going bowling: </s> get dressed 1
+going bowling: </s> call friends 1
+going bowling: </s> have a drink 1
+going bowling: </s> leave house 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> go in 1
+going bowling: </s> pay money and pick shoes 1
+going bowling: </s> pick bowling ball 1
+going bowling: </s> pick an alley 1
+going bowling: </s> play with friends 1
+going bowling: </s> call friends 1
+going bowling: </s> arrange meeting at bowling alley 1
+going bowling: </s> meet friends at bowling alley 1
+going bowling: </s> buy a game 1
+going bowling: </s> rent shoes 1
+going bowling: </s> put on shoes 1
+going bowling: </s> roll ball down aisle multiple times 1
+going bowling: </s> return shoes 1
+going bowling: </s> leave 1
+going bowling: </s> pick a place 1
+going bowling: </s> pick a lane 1
+going bowling: </s> pick a ball 1
+going bowling: </s> rent shoes 1
+going bowling: </s> have fun 1
+going bowling: </s> call someone to bowl with. 1
+going bowling: </s> meet bowling partner at bowling alley. 1
+going bowling: </s> pay for bowling. 1
+going bowling: </s> get shoes. 1
+going bowling: </s> pick out a bowling ball. 1
+going bowling: </s> go to designated lane. 1
+going bowling: </s> put on shoes. 1
+going bowling: </s> fill in names on the score sheet. 1
+going bowling: </s> start bowling. 1
+going bowling: </s> keep score. 1
+going bowling: </s> when finished turn in shoes. 1
+going bowling: </s> return ball to where you got it. 1
+going bowling: </s> leave bowling alley. 1
+going bowling: </s> go to the bowling alley 1
+going bowling: </s> get shoes 1
+going bowling: </s> pick a ball 1
+going bowling: </s> choose a lane 1
+going bowling: </s> roll the ball 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> go to counter 1
+going bowling: </s> pay for number of desired games 1
+going bowling: </s> rent shoes if necessary 1
+going bowling: </s> change shoes to bowling shoes 1
+going bowling: </s> go to lane 1
+going bowling: </s> play purchased number of games 1
+going bowling: </s> optional 1
+going bowling: </s> get dressed 1
+going bowling: </s> get your bowling shoes 1
+going bowling: </s> get your bowling ball 1
+going bowling: </s> put your bowling ball in bowling bag 1
+going bowling: </s> drive to the bowling rink 1
+going bowling: </s> pay for the number of rounds you wish to play 1
+going bowling: </s> find your lane 1
+going bowling: </s> put on your bowling shoes 1
+going bowling: </s> remove your bowling ball from bag 1
+going bowling: </s> start game 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> pay for shoes and game 1
+going bowling: </s> pick out bowling ball and put on shoes 1
+going bowling: </s> take ball to empty lane 1
+going bowling: </s> fill out electronic score keeping 1
+going bowling: </s> take turns rolling ball down lane to knock over pins 1
+going bowling: </s> repeat until all frames are completed 1
+going bowling: </s> decide who won 1
+going bowling: </s> return ball and shoes 1
+going bowling: </s> drive home 1
+going bowling: </s> make plans with friends to meet at a bowling alley 1
+going bowling: </s> go to the bowling alley 1
+going bowling: </s> pay 1
+going bowling: </s> get some shoes 1
+going bowling: </s> find a ball 1
+going bowling: </s> go to your lane 1
+going bowling: </s> take turns rolling your balls down the lane and keep score 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> park car and get out 1
+going bowling: </s> step inside the establishment 1
+going bowling: </s> go to front desk 1
+going bowling: </s> pay for bowling shoes and bowling ball 1
+going bowling: </s> go to your lane 1
+going bowling: </s> start bowling 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> purchase desired amount of games to play 1
+going bowling: </s> obtain bowling shoes 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> go to correct lane 1
+going bowling: </s> enter name onto screen 1
+going bowling: </s> bowl 1
+going bowling: </s> go to the bowling alley 1
+going bowling: </s> pick out shoes 1
+going bowling: </s> pay for shoes and game 1
+going bowling: </s> put bowling shoes on 1
+going bowling: </s> pick out ball 1
+going bowling: </s> go to lane 1
+going bowling: </s> throw ball 1
+going bowling: </s> call your friends 1
+going bowling: </s> plan to go bowling 1
+going bowling: </s> wear bowling shoes 1
+going bowling: </s> get in the car 1
+going bowling: </s> go to the bowling arena 1
+going bowling: </s> enjoy bowling with friends 1
+going bowling: </s> find location of bowling alley 1
+going bowling: </s> go to bowling alley and rent a bowling lane and shoes 1
+going bowling: </s> go to your lane and put on shoes 1
+going bowling: </s> pick out a bowling ball that is comfortable to you 1
+going bowling: </s> set up the bowling game score sheet 1
+going bowling: </s> bowl til end of game 1
+going bowling: </s> return ball to shelf 1
+going bowling: </s> return rented shoes 1
+going bowling: </s> leave bowling alley 1
+going bowling: </s> arrive at bowling alley 1
+going bowling: </s> get lane assignment at front desk 1
+going bowling: </s> get rental shoes 1
+going bowling: </s> select ball 1
+going bowling: </s> prepare to roll 1
+going bowling: </s> roll a strike 1
+going bowling: </s> repeat steps 5 - 7 1
+going bowling: </s> return rental shoes 1
+going bowling: </s> exit alley 1
+going bowling: </s> entering the bowling alley 1
+going bowling: </s> paying for a string 1
+going bowling: </s> getting shoes 1
+going bowling: </s> put shoes on 1
+going bowling: </s> find alley 1
+going bowling: </s> set up score card 1
+going bowling: </s> begin bowling 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> walk in door 1
+going bowling: </s> walk to counter 1
+going bowling: </s> pay for lane/shoe rental 1
+going bowling: </s> go to lane and put on shoes 1
+going bowling: </s> pick out bowling ball 1
+going bowling: </s> take bowling ball to lane 1
+going bowling: </s> set up score board 1
+going bowling: </s> play game 1
+going bowling: </s> return bowling ball to rack 1
+going bowling: </s> return shoes to counter 1
+going bowling: </s> walk out door 1
+going bowling: </s> drive home 1
+going bowling: </s> go to bowling alley. 1
+going bowling: </s> go to front desk pay for a lane and rent a pair of shoes. 1
+going bowling: </s> find a bowling ball of the appropriate weight, 1
+going bowling: </s> go to your lane. 1
+going bowling: </s> enter names into system. 1
+going bowling: </s> throw ball down lane. 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> pay for bowling and shoe rental 1
+going bowling: </s> choose a bowling ball 1
+going bowling: </s> go to assigned lane 1
+going bowling: </s> play game of bowling 1
+going bowling: </s> replace bowling ball on rack 1
+going bowling: </s> return shoes 1
+going bowling: </s> leave bowling alley 1
+going bowling: </s> enter bowling ally 1
+going bowling: </s> pay for a game 1
+going bowling: </s> select bowling shoes and put them on 1
+going bowling: </s> select ball 1
+going bowling: </s> go to lane and wait turn 1
+going bowling: </s> throw ball down the lane and knock down pins 1
+going bowling: </s> repeat last step if strike is not achieved 1
+going bowling: </s> mark score 1
+going bowling: </s> repeat steps 5 - 8 until game is over 1
+going bowling: </s> return ball and shoes 1
+going bowling: </s> leave bowling ally 1
+going bowling: </s> get in car 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> park at bowling alley 1
+going bowling: </s> walk into bowling alley 1
+going bowling: </s> purchase bowling games 1
+going bowling: </s> walk to shoe rental counter 1
+going bowling: </s> request correct size shoes 1
+going bowling: </s> choose a bowling ball 1
+going bowling: </s> walk to assigned lane 1
+going bowling: </s> put bowling ball on rack 1
+going bowling: </s> take off shoes 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> walk to lane 1
+going bowling: </s> pick up bowling ball 1
+going bowling: </s> roll a strike 1
+going bowling: </s> if you have your own bowling gear, pack it. 1
+going bowling: </s> go to the bowling alley. 1
+going bowling: </s> go to the front desk and pay for your lane. 1
+going bowling: </s> if you need shoes, ask for them and also go pick out your ball. 1
+going bowling: </s> find your lane. 1
+going bowling: </s> you can play alone or with friends. 1
+going bowling: </s> work hard to get a strike. 1
+going bowling: </s> enjoy your game! 1
+going bowling: </s> go to the bowling alley 1
+going bowling: </s> hand in shoes at the desk 1
+going bowling: </s> receive bowling shoes 1
+going bowling: </s> go to assigned lane 1
+going bowling: </s> enter name into scoreboard 1
+going bowling: </s> choose bowling ball 1
+going bowling: </s> throw the ball 1
+going bowling: </s> knock down as many pins as possible 1
+going bowling: </s> repeat until game is over 1
+going bowling: </s> get in a car 1
+going bowling: </s> drive to bowling lane 1
+going bowling: </s> get out of car 1
+going bowling: </s> go into bowling lane 1
+going bowling: </s> rent shoes and a lane 1
+going bowling: </s> pick a bowling ball 1
+going bowling: </s> bowl one or more games 1
+going bowling: </s> choose bowling alley 1
+going bowling: </s> get in car and drive to bowling alley 1
+going bowling: </s> pay for a lane and bowling shoes 1
+going bowling: </s> chose bowling ball that fits fingers 1
+going bowling: </s> go to lane and remove regular shoes 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> throw ball down lane 1
+going bowling: </s> try to hit as many pins as possible 1
+going bowling: </s> get dressed to go bowling 1
+going bowling: </s> get in car to drive to bowling ally 1
+going bowling: </s> go into bowling ally 1
+going bowling: </s> go to desk to get bowling shoes 1
+going bowling: </s> go pick out a bowling ball 1
+going bowling: </s> pick out a bowling lane 1
+going bowling: </s> start bowling 1
+going bowling: </s> finish bowling 1
+going bowling: </s> pay for bowling 1
+going bowling: </s> 10. drive home from bowling lane 1
+going bowling: </s> go to bowling ally 1
+going bowling: </s> go into bowling ally 1
+going bowling: </s> go to counter 1
+going bowling: </s> get shoes 1
+going bowling: </s> put shoes on 1
+going bowling: </s> find ball 1
+going bowling: </s> take ball to lane 1
+going bowling: </s> put ball on ball return 1
+going bowling: </s> get score screen ready 1
+going bowling: </s> wait turn 1
+going bowling: </s> pick up ball 1
+going bowling: </s> roll ball down lane 1
+going bowling: </s> get strike 1
+going bowling: </s> jump up and down 1
+going bowling: </s> finish game 1
+going bowling: </s> walk into bowling alley. 1
+going bowling: </s> walk up to the front desk. 1
+going bowling: </s> ask the employee for a lane. 1
+going bowling: </s> tell them how many games you would like to play. 1
+going bowling: </s> ask them for a pair of shoes in your size. 1
+going bowling: </s> pay for your game(s). 1
+going bowling: </s> they will direct you to the lane you are assigned. 1
+going bowling: </s> pick out a ball that fits you. 1
+going bowling: </s> start the game by rolling the ball down your lane aiming for the middle of the pins. 1
+going bowling: </s> each round allows you to roll the ball twice. 1
+going bowling: </s> try to knock down all the pins. 1
+going bowling: </s> continue this until your game(s) is over. 1
+going bowling: </s> when finished return the ball and the shoes. 1
+going bowling: </s> walk out of the bowling alley. 1
+going bowling: </s> go to the front desk 1
+going bowling: </s> rent shoes 1
+going bowling: </s> pay for lanes 1
+going bowling: </s> change shoes 1
+going bowling: </s> enter names into computer 1
+going bowling: </s> choose bowling ball 1
+going bowling: </s> throw the ball down the lane 1
+going bowling: </s> have fun 1
+going bowling: </s> get food and drinks 1
+going bowling: </s> change shoes 1
+going bowling: </s> return ball 1
+going bowling: </s> go home 1
+going bowling: </s> go to local bowling alley with friends or whomever 1
+going bowling: </s> pay for an alley and bowling shoes if needed 1
+going bowling: </s> buy food if desired 1
+going bowling: </s> choose the bowling balls needed 1
+going bowling: </s> start a game of bowling 1
+going bowling: </s> go to bowling alley. 1
+going bowling: </s> pay fees. 1
+going bowling: </s> put shoes on. 1
+going bowling: </s> pick out a ball. 1
+going bowling: </s> pick out a team. 1
+going bowling: </s> roll ball down lane. 1
+going bowling: </s> enter bowling alley 1
+going bowling: </s> pay for bowling at counter 1
+going bowling: </s> get lane assignment 1
+going bowling: </s> get shoes 1
+going bowling: </s> walk to assigned lane 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> find suitable bowling ball 1
+going bowling: </s> bowl with friends 1
+going bowling: </s> try to get higher score than friends 1
+going bowling: </s> finish bowling 1
+going bowling: </s> return shoes to counter. 1
+going bowling: </s> leave bowling alley. 1
+going bowling: </s> gather friends and family for bowling night 1
+going bowling: </s> get into car 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> pay for bowling lane and shoe rental 1
+going bowling: </s> order food and drinks 1
+going bowling: </s> pick out bowling ball 1
+going bowling: </s> list names on bowling scorecard 1
+going bowling: </s> bowl 1
+going bowling: </s> choose your bowling alley. 1
+going bowling: </s> travel to the bowling alley. 1
+going bowling: </s> get your bowling shoes at the counter, and ask the person working to assign you to a lane. 1
+going bowling: </s> walk to your designated lane and select the bowling ball you would like to use. 1
+going bowling: </s> enter your group's information into the scoring computer. 1
+going bowling: </s> decide the order in which your group will bowl. 1
+going bowling: </s> when it is your turn, travel to the line and roll your bowling ball. 1
+going bowling: </s> bowl until 10 rounds have passed. 1
+going bowling: </s> return your shoes to the counter and pay for your game. 1
+going bowling: </s> leave the bowling alley. 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> pay for alley, bowling balls, shoes 1
+going bowling: </s> put bowling shoes on 1
+going bowling: </s> go to assigned alley 1
+going bowling: </s> choose your bowling balls 1
+going bowling: </s> start bowling 1
+going bowling: </s> drive to the bowling alley. 1
+going bowling: </s> go to the counter and rent shoes. 1
+going bowling: </s> choose how many games you will bowl and pay for those in advance. 1
+going bowling: </s> choose a bowling ball that fits your hand and strength. 1
+going bowling: </s> go to the lane assigned to you. 1
+going bowling: </s> try to roll the ball down the lane and knock down as many pins as possible. 1
+going bowling: </s> don't cross over the line when you roll the ball. 1
+going bowling: </s> play for 10 frames. 1
+going bowling: </s> play again if you like. 1
+going bowling: </s> open garage 1
+going bowling: </s> get into the car 1
+going bowling: </s> drive to the bowling club 1
+going bowling: </s> park the car 1
+going bowling: </s> enter the bowling club 1
+going bowling: </s> register name 1
+going bowling: </s> go to the bowling area 1
+going bowling: </s> join the team 1
+going bowling: </s> they walk into the bowling alley 1
+going bowling: </s> they go to the desk 1
+going bowling: </s> they rent shoes 1
+going bowling: </s> they choose bowling balls 1
+going bowling: </s> they go to the alley section 1
+going bowling: </s> they sit down 1
+going bowling: </s> they put on shoes 1
+going bowling: </s> they get up 1
+going bowling: </s> they take the ball 1
+going bowling: </s> they walk to the lane 1
+going bowling: </s> they hold the ball 1
+going bowling: </s> they swing the ball back 1
+going bowling: </s> they walk forward in the lane 1
+going bowling: </s> they release the ball on the alley 1
+going bowling: </s> they hit bowling pins 1
+going bowling: </s> they repeat the process for any remaining pins 1
+going bowling: </s> enter bowling alley 1
+going bowling: </s> go to counter 1
+going bowling: </s> get a lane 1
+going bowling: </s> rent shoes 1
+going bowling: </s> find a ball 1
+going bowling: </s> take ball and shoes to your lane 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> pick up ball 1
+going bowling: </s> walk to lane 1
+going bowling: </s> throw ball down the lane 1
+going bowling: </s> repeat until you are finished bowling 1
+going bowling: </s> take off bowling shoes 1
+going bowling: </s> put ball away 1
+going bowling: </s> leave shoes at counter 1
+going bowling: </s> pay for bowling 1
+going bowling: </s> leave bowling alley 1
+going bowling: </s> arrive at bowling place 1
+going bowling: </s> pay admission 1
+going bowling: </s> choose shoe size 1
+going bowling: </s> attendant gives shoes 1
+going bowling: </s> put on shoes 1
+going bowling: </s> select a ball 1
+going bowling: </s> try it out 1
+going bowling: </s> pick a different ball 1
+going bowling: </s> go to lane 1
+going bowling: </s> bowl 1
+going bowling: </s> gather your friends 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> enter bowling alley 1
+going bowling: </s> reserve a lane 1
+going bowling: </s> rent shoes from cashier 1
+going bowling: </s> order snacks and drinks 1
+going bowling: </s> go to bowling lane 1
+going bowling: </s> select bowling balls 1
+going bowling: </s> enter names into score sheet 1
+going bowling: </s> wait for pins to set 1
+going bowling: </s> roll first bowl 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> pay for lane 1
+going bowling: </s> put on shoes 1
+going bowling: </s> find the right ball 1
+going bowling: </s> go to lane 1
+going bowling: </s> throw ball 1
+going bowling: </s> hit some pins 1
+going bowling: </s> take off shoes 1
+going bowling: </s> go home 1
+going bowling: </s> enter the bowling alley. 1
+going bowling: </s> go to the front desk. 1
+going bowling: </s> rent shoes. 1
+going bowling: </s> put on shoes and pick a lane. 1
+going bowling: </s> start the game. 1
+going bowling: </s> play your best against your friends. 1
+going bowling: </s> return your shoes. 1
+going bowling: </s> leave the bowling alley. 1
+going bowling: </s> find bowling shoes in closet. 1
+going bowling: </s> drive to bowling alley. 1
+going bowling: </s> check in at service counter. 1
+going bowling: </s> pay for lane time. 1
+going bowling: </s> get assigned lane number. 1
+going bowling: </s> walk to lane. 1
+going bowling: </s> find correctly weighted ball to use. 1
+going bowling: </s> turn on computer screen. 1
+going bowling: </s> enter name. 1
+going bowling: </s> walk to lane edge with ball. 1
+going bowling: </s> bowl ball, down lane, and attempt to hit pins. 1
+going bowling: </s> wait for ball to return to try again. 1
+going bowling: </s> take turns with bowling teammates until end of game. 1
+going bowling: </s> find a bowling alley. 1
+going bowling: </s> drive to the bowling alley. 1
+going bowling: </s> pay for shoe rentals and a lane. 1
+going bowling: </s> obtain your bowling shoes. 1
+going bowling: </s> put on your bowling shoes. 1
+going bowling: </s> go to your lane. 1
+going bowling: </s> find a bowling ball(s) that you wish to use for bowling. 1
+going bowling: </s> throw the ball at the pins when it is your turn. 1
+going bowling: </s> repeat until the game is over. 1
+going bowling: </s> return your bowling shoes. 1
+going bowling: </s> leave the bowling alley. 1
+going bowling: </s> ask friends if they want to go 1
+going bowling: </s> go to the bowling alley 1
+going bowling: </s> pay for bowling 1
+going bowling: </s> get rental shoes 1
+going bowling: </s> find a ball to use 1
+going bowling: </s> put names into the score board 1
+going bowling: </s> begin bowling. 1
+going bowling: </s> pay for lanes 1
+going bowling: </s> rent shoes 1
+going bowling: </s> put on shoes 1
+going bowling: </s> find suitable ball 1
+going bowling: </s> enter names into score keeper 1
+going bowling: </s> roll the ball toward the pins, attempting to knock down all 10 1
+going bowling: </s> repeat 10 times per game 1
+going bowling: </s> return ball 1
+going bowling: </s> return shoes 1
+going bowling: </s> stand for long shot 1
+going bowling: </s> running fast 1
+going bowling: </s> reach the line 1
+going bowling: </s> throw the ball 1
+going bowling: </s> get a wicket 1
+going bowling: </s> enjoy to team members 1
+going bowling: </s> enter the bowling alley 1
+going bowling: </s> register name along with friends 1
+going bowling: </s> wear bowling shoes provided 1
+going bowling: </s> wait in the hall viewing magazines 1
+going bowling: </s> upon calling go to the bowling table 1
+going bowling: </s> take the ball insert fingers in the slots properly 1
+going bowling: </s> bowl 1
+going bowling: </s> give the ball to friends 1
+going bowling: </s> wait for my turn 1
+going bowling: </s> finish the game finally 1
+going bowling: </s> come out of the bowling alley 1
+going bowling: </s> go to the alley 1
+going bowling: </s> pay at the desk 1
+going bowling: </s> rent shoes 1
+going bowling: </s> change shoes 1
+going bowling: </s> go to the alley 1
+going bowling: </s> bowl 1
+going bowling: </s> record the score 1
+going bowling: </s> repeat for all rounds 1
+going bowling: </s> change shoes 1
+going bowling: </s> return shoes 1
+going bowling: </s> leave the alley 1
+going bowling: </s> put on proper bowling shoes. 1
+going bowling: </s> get an adequate ball. 1
+going bowling: </s> hold ball and look down the lane. 1
+going bowling: </s> walk steadily toward the line. 1
+going bowling: </s> swing the ball back. 1
+going bowling: </s> bring the ball forward and release ball. 1
+going bowling: </s> watch ball roll toward pins. 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> rent shoes to wear 1
+going bowling: </s> get set up on assigned lane 1
+going bowling: </s> pick out ball from racks 1
+going bowling: </s> start bowling 1
+going bowling: </s> when finished, return ball to rack 1
+going bowling: </s> change shoes 1
+going bowling: </s> return shoes to counter 1
+going bowling: </s> pay for how many games you played 1
+going bowling: </s> go home 1
+going bowling: </s> go to bowling alley. 1
+going bowling: </s> pay for game and shoes. 1
+going bowling: </s> tell attendant shoe size. 1
+going bowling: </s> take shoes. 1
+going bowling: </s> go to lane. 1
+going bowling: </s> put on shoes. 1
+going bowling: </s> enter players into scorekeeping machine. 1
+going bowling: </s> find ball that's the correct size. 1
+going bowling: </s> bowl game. 1
+going bowling: </s> take off bowling shoes and put back on regular shoes. 1
+going bowling: </s> return bowling shoes to counter. 1
+going bowling: </s> drive to the bowling alley 1
+going bowling: </s> rent a lane and bowling shoes 1
+going bowling: </s> set up scoring computer with everyone's names 1
+going bowling: </s> find a ball that is your desired weight 1
+going bowling: </s> take turns throwing the bowling ball down the lane to hit the pins 1
+going bowling: </s> put your ball back when you are done 1
+going bowling: </s> return your shoes and pay for the time you bowled 1
+going bowling: </s> go home 1
+going bowling: </s> call your friends 1
+going bowling: </s> decide bowling place with them 1
+going bowling: </s> pick friends and go there 1
+going bowling: </s> pay the game fees 1
+going bowling: </s> get the balls 1
+going bowling: </s> roll the balls down the track 1
+going bowling: </s> enjoy the game 1
+going bowling: </s> pick a bowling alley. 1
+going bowling: </s> find friends to go with you. 1
+going bowling: </s> go to bowling alley. 1
+going bowling: </s> go in. 1
+going bowling: </s> go up to clerk. 1
+going bowling: </s> pay clerk to bowl. 1
+going bowling: </s> pay clerk to rent bowling shoes. 1
+going bowling: </s> wait for all friends to join you in a game. 1
+going bowling: </s> start bowling. 1
+going bowling: </s> enjoy. 1
+going bowling: </s> get bowling ball from closet 1
+going bowling: </s> pack car 1
+going bowling: </s> drive car to bowling alley 1
+going bowling: </s> pay for game 1
+going bowling: </s> go to lane 1
+going bowling: </s> start up lane scoring computer 1
+going bowling: </s> throw ball down lane 1
+going bowling: </s> play 10 frames 1
+going bowling: </s> look at score 1
+going bowling: </s> drive to the bowling alley 1
+going bowling: </s> park your car 1
+going bowling: </s> walk into the bowling alley 1
+going bowling: </s> pay the clerk 1
+going bowling: </s> get your shoes from the clerk 1
+going bowling: </s> go to your lane 1
+going bowling: </s> put on your bowling shoes 1
+going bowling: </s> choose your ball 1
+going bowling: </s> bowl 1
+going bowling: </s> put some clothes on you can go out in. 1
+going bowling: </s> drive to bowling alley. 1
+going bowling: </s> go inside. 1
+going bowling: </s> rent some bowling shoes. 1
+going bowling: </s> find a bowling ball. 1
+going bowling: </s> play a game of bowling. 1
+going bowling: </s> return shoes and pay for the game. 1
+going bowling: </s> drive home. 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> purchase rental of shoes 1
+going bowling: </s> purchase number of games 1
+going bowling: </s> select bowling ball 1
+going bowling: </s> begin game 1
+going bowling: </s> roll ball down the alley towards the pins 1
+going bowling: </s> attempt to knock the pins down with the ball 1
+going bowling: </s> go to the bowling alley 1
+going bowling: </s> pay for shoes and how many games you want to play 1
+going bowling: </s> tell clerk what size shoes you need 1
+going bowling: </s> try shoes on to ensure they fit 1
+going bowling: </s> go to assigned bowling lane 1
+going bowling: </s> set up computer with names of all players 1
+going bowling: </s> bowl 1
+going bowling: </s> driving to bowling alley 1
+going bowling: </s> renting bowling shoes 1
+going bowling: </s> going to lane 1
+going bowling: </s> setting up computer for bowling match 1
+going bowling: </s> throwing ball at pins 1
+going bowling: </s> get in car 1
+going bowling: </s> drive to bowling ally 1
+going bowling: </s> find parking spot 1
+going bowling: </s> go into bowling ally 1
+going bowling: </s> find an empty lane 1
+going bowling: </s> start bowling 1
+going bowling: </s> finish game 1
+going bowling: </s> leave bowling ally 1
+going bowling: </s> drive home 1
+going bowling: </s> drive to bowling alley. 1
+going bowling: </s> walk into bowling alley. 1
+going bowling: </s> walk up to front desk. 1
+going bowling: </s> pay. 1
+going bowling: </s> get your bowling shoes. 1
+going bowling: </s> walk to your lane. 1
+going bowling: </s> play bowling. 1
+going bowling: </s> arrive at bowling center 1
+going bowling: </s> go to cashier 1
+going bowling: </s> pay for game and get bowling shoes 1
+going bowling: </s> go to your lane 1
+going bowling: </s> put on your shoes 1
+going bowling: </s> choose a ball 1
+going bowling: </s> roll your ball really hard down the lane trying to knock over pins 1
+going bowling: </s> roll again trying to knock them over 1
+going bowling: </s> take turns with the other players 1
+going bowling: </s> end game 1
+going bowling: </s> return ball and shoes 1
+going bowling: </s> go home 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> rent shoes 1
+going bowling: </s> pay for games 1
+going bowling: </s> change into bowling shoes 1
+going bowling: </s> pick a ball 1
+going bowling: </s> set up lane 1
+going bowling: </s> pick up ball 1
+going bowling: </s> bowl ball down lane 1
+going bowling: </s> hit pens 1
+going bowling: </s> pick up ball again 1
+going bowling: </s> bowl down lane 1
+going bowling: </s> repeat till end of game 1
+going bowling: </s> take off shoes 1
+going bowling: </s> return shoes 1
+going bowling: </s> leave bowling alley 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> rent shoes 1
+going bowling: </s> rent a lane 1
+going bowling: </s> find a suitable bowling ball 1
+going bowling: </s> start bowling 1
+going bowling: </s> pay for foot gear 1
+going bowling: </s> change foot gear 1
+going bowling: </s> find ball you like 1
+going bowling: </s> roll ball when it is your turn 1
+going bowling: </s> knock down pins with ball 1
+going bowling: </s> return foot gear 1
+going bowling: </s> go home 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> enter and select bowling ball 1
+going bowling: </s> go to center desk 1
+going bowling: </s> pay to rent a lane and shoes 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> go to appropriate lane 1
+going bowling: </s> begin bowling 1
+going bowling: </s> begin keeping score on device provided 1
+going bowling: </s> return shoes and bowling ball 1
+going bowling: </s> leave 1
+going bowling: </s> decide which bowling alley to go to 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> enter bowling alley 1
+going bowling: </s> go to counter 1
+going bowling: </s> rent shoes 1
+going bowling: </s> pay for the lane 1
+going bowling: </s> go to lane 1
+going bowling: </s> pick out bowling ball 1
+going bowling: </s> put on bowling shoes 1
+going bowling: </s> put names in computer 1
+going bowling: </s> begin bowling 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> pay for lane 1
+going bowling: </s> rent shoes 1
+going bowling: </s> go to lane 1
+going bowling: </s> when it's your turn, bowl ball down lane towards pins 1
+going bowling: </s> if pins still standing, bowl another ball towards pins 1
+going bowling: </s> add up your score 1
+going bowling: </s> repeat 5-7 until end of game 1
+going bowling: </s> find a bowling alley 1
+going bowling: </s> go to cashier when you arrive and reserve a lane 1
+going bowling: </s> go to the shoe rental and get bowling shoes 1
+going bowling: </s> but on shoes 1
+going bowling: </s> find your lane 1
+going bowling: </s> pick a ball 1
+going bowling: </s> put your name in so you can keep score 1
+going bowling: </s> throw ball down lane 1
+going bowling: </s> end game 1
+going bowling: </s> repeat 1
+going bowling: </s> dress in comfortable clothing 1
+going bowling: </s> get or put on socks 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> pay for shoe and lane rental 1
+going bowling: </s> go to assigned lane 1
+going bowling: </s> take off street shoes and put on bowling shoes 1
+going bowling: </s> enter bowlers information into computer scoreboard 1
+going bowling: </s> find ball of right size 1
+going bowling: </s> start bowling when turn comes up 1
+going bowling: </s> bowl all lanes in turn until all frames ended 1
+going bowling: </s> return ball to storage area 1
+going bowling: </s> take off rental shoes and exchange for own shoes 1
+going bowling: </s> leave bowling alley 1
+going bowling: </s> driving to the bowling alley 1
+going bowling: </s> paying for a lane and a number of games' 1
+going bowling: </s> get fitted for bowling shoes 1
+going bowling: </s> program your name into the lane's computer 1
+going bowling: </s> roll the bowling ball at some pins 1
+going bowling: </s> call friends 1
+going bowling: </s> talk to friends 1
+going bowling: </s> decide where to go 1
+going bowling: </s> leave house 1
+going bowling: </s> enter car 1
+going bowling: </s> drive car 1
+going bowling: </s> go to friends house 1
+going bowling: </s> wait for him 1
+going bowling: </s> leave with friend 1
+going bowling: </s> drive to bowling center 1
+going bowling: </s> bowl with friends 1
+going bowling: </s> drive to the bowling alley. 1
+going bowling: </s> purchase your game and bowling shoes. 1
+going bowling: </s> go pick a ball. 1
+going bowling: </s> find your lane and place ball. 1
+going bowling: </s> put your shoes on. 1
+going bowling: </s> set computer with names playing. 1
+going bowling: </s> start bowling! 1
+going bowling: </s> drive to the bowling alley. 1
+going bowling: </s> rent ball and shoes at the front desk. 1
+going bowling: </s> change shoes by the bowling lane. 1
+going bowling: </s> put the bowling ball in the holder. 1
+going bowling: </s> fill out the score card. 1
+going bowling: </s> drive to bowling alley. 1
+going bowling: </s> pay for use of lanes. 1
+going bowling: </s> rent bowling shoes. 1
+going bowling: </s> put on bowling shoes. 1
+going bowling: </s> pick out bowling ball that is not too heavy. 1
+going bowling: </s> put names into computer to keep score. 1
+going bowling: </s> take turns throwing ball down the lane at the pins. 1
+going bowling: </s> laugh when ball goes into gutter. 1
+going bowling: </s> when finished bowling return ball to racks. 1
+going bowling: </s> return bowling shoes to cashier. 1
+going bowling: </s> go home. 1
+going bowling: </s> enter the bowling alley 1
+going bowling: </s> purchase a ticket to play 1
+going bowling: </s> grab a bowling ball 1
+going bowling: </s> aim at the target 1
+going bowling: </s> release the ball towards the target 1
+going bowling: </s> drive to bowling alley. 1
+going bowling: </s> pa'y for lane 1
+going bowling: </s> get rental shoes. 1
+going bowling: </s> put on rental shoes. 1
+going bowling: </s> pick a ball. 1
+going bowling: </s> throw ball down lane 1
+going bowling: </s> knock over all pin and be a winner. 1
+going bowling: </s> we need to know the basics learning 1
+going bowling: </s> need to understand the bowling lane 1
+going bowling: </s> understand the bowling pins 1
+going bowling: </s> need to learn the scoring 1
+going bowling: </s> make sure to get some bowling shoes 1
+going bowling: </s> choose the right ball 1
+going bowling: </s> get some friends together 1
+going bowling: </s> find and go to a local bowling ally 1
+going bowling: </s> pay for game and get shoes 1
+going bowling: </s> start game 1
+going bowling: </s> take turns throwing a ball at pins 1
+going bowling: </s> go to the bowling alley. 1
+going bowling: </s> pay for bowling game. 1
+going bowling: </s> rent bowling shoes. 1
+going bowling: </s> go to reserved lane. 1
+going bowling: </s> put on bowling shoes. 1
+going bowling: </s> bowl your game(s) 1
+going bowling: </s> remove bowling shoes. 1
+going bowling: </s> return bowling shoes to rental counter. 1
+going bowling: </s> go home. 1
+going bowling: </s> obtain your bowling ball and bowling shoes 1
+going bowling: </s> drive to the bowling ally 1
+going bowling: </s> pay for how many games you are playing 1
+going bowling: </s> go to designated bowling lane 1
+going bowling: </s> insert name into the score list 1
+going bowling: </s> put on your bowling shoes 1
+going bowling: </s> get out your bowling ball and bowl 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> walk in 1
+going bowling: </s> pay for games and shoes 1
+going bowling: </s> put bowling shoes on 1
+going bowling: </s> pick a bowling ball 1
+going bowling: </s> roll ball down lane and knock pins down 1
+going bowling: </s> take out sewing kit 0
+going bowling: </s> determine correct route and trains 0
+going bowling: </s> wait for approval 0
+going bowling: </s> choose color for new paint 0
+going bowling: </s> wait for the timer to go off 0
+going bowling: </s> apply shampoo to hair, spreading evenly over head 0
+going bowling: </s> replacing light fixtures 0
+going bowling: </s> have child put on pajamas. 0
+going bowling: </s> obtain pasta 0
+going bowling: </s> greet the instructor 0
+going bowling: </s> buy food from store 0
+going bowling: </s> add parmesan cheese 0
+going bowling: </s> put the credit card back in your wallet 0
+going bowling: </s> put your carry-on in the overhead compartment 0
+going bowling: </s> swipe credit card. 0
+going bowling: </s> return ball as many times as possible. 0
+going bowling: </s> wait for train on platform 0
+going bowling: </s> wear shirt when convenient 0
+going bowling: </s> enjoy movie 0
+going bowling: </s> rub hair until completely covered with shampoo 0
+going bowling: </s> all the dishes will then be clean. 0
+going bowling: </s> get music 0
+going bowling: </s> wash body and hair 0
+going bowling: </s> find price-appropriate gas station 0
+going bowling: </s> replace gas cap 0
+going bowling: </s> put back all the materials 0
+going bowling: </s> watch film 0
+going bowling: </s> place coffee pot in brewer 0
+going bowling: </s> go to the check in counter 0
+going bowling: </s> go to washer. 0
+going bowling: </s> surround with rocks 0
+going bowling: </s> wait to get to destination 0
+going bowling: </s> put clothes back on 0
+going bowling: </s> turn on the gas for the grill 0
+going bowling: </s> repeat steps 6-8 until someone wins the game 0
+going bowling: </s> measure ingredients into bowl 0
+going bowling: </s> remove clothing (optional) 0
+going bowling: </s> place the sticks in a pile, on the ground, inside the circle 0
+going bowling: </s> add soap. 0
+going bowling: </s> re-introduce furniture into the room 0
+going bowling: </s> applying shampoo to hair 0
+going bowling: </s> open the battery compartment 0
+going bowling: </s> park the car 0
+going bowling: </s> buy eggs 0
+going bowling: </s> find item you would like to purchase 0
+going bowling: </s> vacuum carpet. 0
+going bowling: </s> get the book 0
+going bowling: </s> write your initials on the slip that they give you 0
+going bowling: </s> fill pot with water 0
+going bowling: </s> board the train 0
+going bowling: </s> get off train 0
+going bowling: </s> go into library 0
+going bowling: </s> listen to eulogy and rest of service 0
+going bowling: </s> purchase train ticket. 0
+going bowling: </s> pour milk into the bowl 0
+going bowling: </s> dust the furniture and objects around the house 0
+going bowling: </s> put the ingredients in the oven 0
+going bowling: </s> drive to swimming pool 0
+going bowling: </s> assemble into a bonfire 0
+going bowling: </s> pass through turnstyle 0
+going bowling: </s> enter the pool 0
+going bowling: </s> pile the kindling together 0
+going bowling: </s> hang or stand erect the clock. 0
+going bowling: </s> say good night 0
+going bowling: </s> put clean dishes in dish drain 0
+going bowling: </s> close gas tank 0
+going bowling: </s> go to court. 0
+going bowling: </s> pass id screening. 0
+going bowling: </s> go to the library. 0
+going bowling: </s> walk to ticket counter 0
+going bowling: </s> get to lesson on time 0
+going bowling: </s> walk into the water 0
+going bowling: </s> now enjoy the sip of coffee. 0
+going bowling: </s> wait for machine to finish brewing 0
+going bowling: </s> put decorations into room. 0
+going bowling: </s> when bus arrives, board bus 0
+going bowling: </s> comb hair 0
+going bowling: </s> choose library 0
+going bowling: </s> get to destination 0
+going bowling: </s> design it with cream on borders and write name with cone if desired. 0
+going bowling: </s> schedule an appointment 0
+going bowling: </s> when train stops, get off 0
+going bowling: </s> order food from restaurant 0
+going bowling: </s> add dirty clothes 0
+going bowling: </s> sorting and preparing dirty clothes 0
+going bowling: </s> listen to instructor feedback 0
+going bowling: </s> bring books up to front desk clerk 0
+going bowling: </s> enjoy. 0
+going bowling: </s> login 0
+going bowling: </s> condition hair. 0
+going bowling: </s> leave cemetery 0
+going bowling: </s> go to the airport 0
+going bowling: </s> set timer. 0
+going bowling: </s> start the grill 0
+going bowling: </s> rub hands together and put in hair 0
+going bowling: </s> turn on the washer 0
+going bowling: </s> ask him to take it back 0
+going bowling: </s> rounding in sky 0
+going bowling: </s> put on swimsuit cover up. 0
+going bowling: </s> move items 0
+going bowling: </s> wait to be called 0
+going bowling: </s> squeeze out small amount 0
+going bowling: </s> open the alarm clock's battery hatch 0
+going bowling: </s> plug in iron. 0
+going bowling: </s> repeat 0
+going bowling: </s> get credit card from wallet 0
+going bowling: </s> lather shampoo into hair 0
+going bowling: </s> get out of car 0
+going bowling: </s> pour in detergent 0
+going bowling: </s> whisk while heating 0
+going bowling: </s> place newspaper on ground 0
+going bowling: </s> mix eggs with whisk or fork 0
+going bowling: </s> place the button at right place 0
+going bowling: </s> pull out your credit 0
+going bowling: </s> get bowl to mix batter 0
+going bowling: </s> eat meat with friends 0
+going bowling: </s> stand on opposite side of court from opponent. 0
+going bowling: </s> pay for purchase 0
+going bowling: </s> pay when you get there 0
+going bowling: </s> gather your supplies - mop, broom, duster, etc... 0
+going bowling: </s> step out of shower 0
+going bowling: </s> sit on operating chair 0
+going bowling: </s> get on bus through door. 0
+going bowling: </s> wait in line to enter 0
+going bowling: </s> tip the driver 0
+going bowling: </s> gather small brush 0
+going bowling: </s> review your menu choices online or using a paper menu 0
+going bowling: </s> wait for the bus to arrive. 0
+going bowling: </s> place the pasta into a bowl with a pat of butter. 0
+going bowling: </s> choose drink 0
+going bowling: </s> turn on iron 0
+going bowling: </s> place clothes on ironing board 0
+going bowling: </s> gather swimming paraphernalia 0
+going bowling: </s> choose film to watch 0
+going bowling: </s> wait for train to arrive. 0
+going bowling: </s> check dryer vent 0
+going bowling: </s> have a shower and leave the house 0
+going bowling: </s> provide explanation for wanting to send back food 0
+going bowling: </s> sit on the chair 0
+going bowling: </s> dispose of old batteries properly. 0
+going bowling: </s> pay for ticket to pool 0
+going bowling: </s> take out racket from cover 0
+going bowling: </s> plate cooked eggs 0
+going bowling: </s> gather all of your ingredients (varies depending on your recipe) 0
+going bowling: </s> sit down 0
+going bowling: </s> get in 0
+going bowling: </s> replace the pot 0
+going bowling: </s> leave store 0
+going bowling: </s> wrap towel around body 0
+going bowling: </s> press item with iron. 0
+going bowling: </s> find clothing in need of ironing 0
+going bowling: </s> remove paper receipt from printer 0
+going bowling: </s> set alarm 0
+going bowling: </s> undress. 0
+going bowling: </s> sit on the seat 0
+going bowling: </s> order your pizza 0
+going bowling: </s> ask if they want a bed time story 0
+going bowling: </s> rinse the dishes 0
+going bowling: </s> buy meat at store. 0
+going bowling: </s> enjoy the flight 0
+going bowling: </s> sit patiently and relax. 0
+going bowling: </s> take out the old batteries. 0
+going bowling: </s> apply sunscreen 0
+going bowling: </s> close gas cap 0
+going bowling: </s> paint room 0
+going bowling: </s> give complaint 0
+going bowling: </s> tell pizzeria which toppings that you want 0
+going bowling: </s> put kindling in a pit surrounded by rocks 0
+going bowling: </s> swipe card 0
+going bowling: </s> pour pasta into water slowly, avoid splashing water 0
+going bowling: </s> put away iron and ironing board 0
+going bowling: </s> get the coffee from the cabinet 0
+going bowling: </s> go home 0
+going bowling: </s> go up to the counter and buy tickets if you have not already bought them. 0
+going bowling: </s> plug in iron and turn on 0
+going bowling: </s> do not leave iron on clothing for more than a few seconds 0
+going bowling: </s> swipe your oyster card or buy ticket 0
+going bowling: </s> carpool back 0
+going bowling: </s> confirm insurance 0
+going bowling: </s> pour them into a pan. 0
+going bowling: </s> vacuum the carpet 0
+going bowling: </s> sit down and relax in sauna 0
+going bowling: </s> grab pasta 0
+going bowling: </s> fold laundry and put away 0
+going bowling: </s> return the book to the library 0
+going bowling: </s> eat replacement food 0
+going bowling: </s> place dishes in sink. 0
+going bowling: </s> get off bus 0
+going bowling: </s> arrive at theater early enough to wait in line. 0
+going bowling: </s> let machine do its cycle 0
+going bowling: </s> tell cashier you are paying with credit. 0
+going bowling: </s> get coffee. 0
+going bowling: </s> crack eggs in a bowl. 0
+going bowling: </s> go to the front 0
+going bowling: </s> wait to be called 0
+going bowling: </s> leave the house 0
+going bowling: </s> place alarm clock in original location 0
+going bowling: </s> put on black dress 0
+going bowling: </s> pay at the turnstile and enter the platform area. 0
+going bowling: </s> wait your turn 0
+going bowling: </s> get towel and change of chothes 0
+going bowling: </s> find out times and prices 0
+going bowling: </s> sit down in seat 0
+going bowling: </s> get prices from stores for items to buy myself 0
+going bowling: </s> wait for further instruction 0
+going bowling: </s> get shampoo 0
+going bowling: </s> turn cell phone on silent 0
+going bowling: </s> get charcoal or gas. 0
+going bowling: </s> go to changing room 0
+going bowling: </s> make a fire pit 0
+going bowling: </s> cross over to perpendicular hole, push needle back through 0
+going bowling: </s> get a thimble 0
+going bowling: </s> whisk eggs 0
+going bowling: </s> get waiters attention 0
+going bowling: </s> go to register 0
+going bowling: </s> get a large container of water to drink 0
+going bowling: </s> insert nozzle in car 0
+going bowling: </s> have child put on pj's 0
+going bowling: </s> buy supplies 0
+going bowling: </s> drive to tennis court 0
+going bowling: </s> go to bus stop 0
+going bowling: </s> pick stuff up off the floor 0
+going bowling: </s> wait for cup to fill 0
+going bowling: </s> take child to their room 0
+going bowling: </s> place order with pizza place 0
+going bowling: </s> collect all laundry to be ironed 0
+going bowling: </s> go to my yard. 0
+going bowling: </s> plug in the iron to heat 0
+going bowling: </s> pour a small amount of dish liquid over dishes. 0
+going bowling: </s> fill pot with water. 0
+going bowling: </s> grab my license. 0
+going bowling: </s> wash your hair 0
+going bowling: </s> remove clothes from dryer when dry. 0
+going bowling: </s> taste food or look at food 0
+going bowling: </s> enter exp date 0
+going bowling: </s> find a seat 0
+going bowling: </s> repeat with other items 0
+going bowling: </s> hang up the ironed clothes. 0
+going bowling: </s> dry off with a towel 0
+going bowling: </s> dry off before entering car 0
+going bowling: </s> clear off table 0
+going bowling: </s> board train when it arrives 0
+going bowling: </s> test alarm clock 0
+going bowling: </s> find a place to sit 0
+going bowling: </s> get dust cloth 0
+going bowling: </s> plan which renovations to start in efficient order. 0
+going bowling: </s> put on swim suit. 0
+going bowling: </s> unplug clock. 0
+going bowling: </s> sit down 0
+going bowling: </s> leave the sauna when you are done. 0
+going bowling: </s> get tennis racket and balls 0
+going bowling: </s> wait for new food to arrive 0
+going bowling: </s> pull through on the other side 0
+going bowling: </s> set a budget. 0
+going bowling: </s> leave house 0
+going bowling: </s> check your surroundings 0
+going bowling: </s> wait for your turn 0
+going bowling: </s> scoop coffee into coffee filter 0
+going bowling: </s> pick up dirty dish 0
+going bowling: </s> collect luggage. 0
+going bowling: </s> get appropriate attire 0
+going bowling: </s> get up and walk off the bus. 0
+going bowling: </s> if it is, eat 0
+going bowling: </s> dump clothes in washing machine 0
+going bowling: </s> enter pin number if required. 0
+going bowling: </s> refrigerate any leftovers 0
+going bowling: </s> sow the thread through the button holes quite a few times 0
+going bowling: </s> get eggs 0
+going bowling: </s> be unhappy with your food 0
+going bowling: </s> let it stay in for two minutes 0
+going bowling: </s> take sauna bath 0
+going bowling: </s> to make good coffee first choose good beans. 0
+going bowling: </s> boil water in pot 0
+going bowling: </s> rinse. 0
+going bowling: </s> put dirty dishes in soapy water 0
+going bowling: </s> close door. 0
+going bowling: </s> return back home 0
+going bowling: </s> find your specific theater and enter 0
+going bowling: </s> get iron 0
+going bowling: </s> get needle. 0
+going bowling: </s> put the cloth in shower 0
+going bowling: </s> carefully fold or hang up ironed clothing 0
+going bowling: </s> get new furniture 0
+going bowling: </s> select the desired movie. 0
+going bowling: </s> drive home 0
+going bowling: </s> rinse hair out. 0
+going bowling: </s> still and serve quickly 0
+going bowling: </s> lightly grease bottom of baking pan 0
+going bowling: </s> go to ticket counter 0
+going bowling: </s> get into shower. 0
+going bowling: </s> put meat on grill 0
+going bowling: </s> starting with one side, iron body of shirt. 0
+going bowling: </s> decide to borrow the book 0
+going bowling: </s> rinse the dishes 0
+going bowling: </s> check train schedules 0
+going bowling: </s> boil the water. 0
+going bowling: </s> put away clean dishes. 0
+going bowling: </s> get popcorn 0
+going bowling: </s> go to pump. 0
+going bowling: </s> place your luggage overhead or beneath seat 0
+going bowling: </s> pay condolences and behave, being fairly quiet and not too noisy. 0
+going bowling: </s> figure out how to renovate your room 0
+going bowling: </s> check any luggage or, if preferred, carry your luggage with you. 0
+going bowling: </s> once eggs are slightly runny put them on plate 0
+going bowling: </s> open sauce and pour into pot 0
+going bowling: </s> putting the button on the fabric 0
+going bowling: </s> turn off car. 0
+going bowling: </s> waiting for the waiter to respond 0
+going bowling: </s> shop for supplies 0
+going bowling: </s> serve the meat 0
+going bowling: </s> arrive at dentist office. 0
+going bowling: </s> take a shower 0
+going bowling: </s> leave oven cooking for proper amount of time 0
+going bowling: </s> go to to the bus station 0
+going bowling: </s> wait for pizza to be delivered 0
+going bowling: </s> pour pasta and water into strainer 0
+going bowling: </s> present your bags 0
+going bowling: </s> eat and drink. 0
+going bowling: </s> find rail for your train 0
+going bowling: </s> clear off table 0
+going bowling: </s> place rinsed dishes in dish rack 0
+going bowling: </s> get off train 0
+going bowling: </s> travel to the airport. 0
+going bowling: </s> add pasta 0
+going bowling: </s> go to the forest 0
+going bowling: </s> place wood in pile 0
+going bowling: </s> pray 0
+going bowling: </s> get out of the car 0
+going bowling: </s> renovate for room as planned 0
+going bowling: </s> gather kindling 0
+going bowling: </s> purchase the tickets 0
+going bowling: </s> pay for pizza and tip driver. 0
+going bowling: </s> take receipt and purchases 0
+going bowling: </s> floss teeth 0
+going bowling: </s> get a button to match 0
+going bowling: </s> getting dressed up to go to the theater 0
+going bowling: </s> go in room 0
+going bowling: </s> dust flat. 0
+going bowling: </s> remove the furniture from the room. 0
+going bowling: </s> welcome guests. 0
+going bowling: </s> fill cracks in walls 0
+going bowling: </s> arrive at the location of the driving lesson. 0
+going bowling: </s> sign the receipt 0
+going bowling: </s> get any instructions from dentist. 0
+going bowling: </s> identify self and produce government picture id 0
+going bowling: </s> go to the main desk. 0
+going bowling: </s> get flight itinerary 0
+going bowling: </s> turn alarm clock over 0
+going bowling: </s> add cream and sugar. 0
+going bowling: </s> go on bus 0
+going bowling: </s> grind coffee beans 0
+going bowling: </s> get in the shower 0
+going bowling: </s> rinse off shampoo 0
+going bowling: </s> get money or buss pass 0
+going bowling: </s> make sure your racquet is properly strung. 0
+going bowling: </s> read the book 0
+going bowling: </s> select a good spot for the barbecue 0
+going bowling: </s> sort your laundry by the type you want to wash it with. 0
+going bowling: </s> add desired amount of detergent to the filling tub. 0
+going bowling: </s> vacuum the carpets. 0
+going bowling: </s> allow charcoal to get hot 0
+going bowling: </s> wet hair under shower. 0
+going bowling: </s> clean the sinks and toilets 0
+going bowling: </s> set the timer on the sauna 0
+going bowling: </s> get waiter's attention 0
+going bowling: </s> take an appointment with the dentist by calling 0
+going bowling: </s> when the work is finished, remove any remaining tools and materials. 0
+going bowling: </s> turn on stove 0
+going bowling: </s> find a friend or relative to teach you. 0
+going bowling: </s> wait until the water is boiling. 0
+going bowling: </s> recover. 0
+going bowling: </s> give id to worker 0
+going bowling: </s> choose which pasta you want to cook 0
+going bowling: </s> wash dishes. 0
+going bowling: </s> make a large pile with the wood 0
+going bowling: </s> get eggs from fridge 0
+going bowling: </s> turn off stove. 0
+going bowling: </s> turn your clock over 0
+going bowling: </s> get thread 0
+going bowling: </s> board the train when it arrives. 0
+going bowling: </s> pack id and luggage 0
+going bowling: </s> place meat on grill 0
+going bowling: </s> throw old batteries away 0
+going bowling: </s> go to bus door 0
+going bowling: </s> enjoy end of show and then go home. 0
+going bowling: </s> ask to send food back 0
+going bowling: </s> make sure the wood catches 0
+going bowling: </s> put coffee pot under dripper. 0
+going bowling: </s> take the book with you 0
+going bowling: </s> turn off stove 0
+going bowling: </s> listen to music or read 0
+going bowling: </s> take food from them 0
+going bowling: </s> head to wherever reception or wake is being held. 0
+going bowling: </s> soap up my hair 0
+going bowling: </s> drive to airport 0
+going bowling: </s> choose new furniture and accessories 0
+going bowling: </s> check in 0
+going bowling: </s> get sewing kit 0
+going bowling: </s> get dressed 0
+going bowling: </s> get ingredients for meal 0
+going bowling: </s> close fuel door 0
+going bowling: </s> go to airport 0
+going bowling: </s> heat butter or oil in a skillet.  add only enough to cover the surface. 0
+going bowling: </s> wash the dish till cleaning liquid goes. 0
+going bowling: </s> get towel 0
+going bowling: </s> take items to checkout counter 0
+going bowling: </s> go to or call pizza place in your area 0
+going bowling: </s> iron the clothes 0
+going bowling: </s> sit down in seat 0
+going bowling: </s> place food on grill to cook 0
+going bowling: </s> wait for cycle to finish 0
+going bowling: </s> wait at train stop 0
+going bowling: </s> say thank you 0
+going bowling: </s> put pump in tank. 0
+going bowling: </s> turn on burner 0
+going bowling: </s> drain water from pasta 0
+going bowling: </s> call for waiter 0
+going bowling: </s> arrive at the correct terminal 0
+going bowling: </s> let the dishes soak for about 15-30 mins. 0
+going bowling: </s> select pay inside/pay at pump 0
+going bowling: </s> place larger sticks on top as the fire grows 0
+going bowling: </s> place individual laundry items on iron 0
+going bowling: </s> pay for gas. 0
+going bowling: </s> once dry, remove the dish and place it where it belongs. 0
+going bowling: </s> gather your belongings from the chair. 0
+going bowling: </s> give to cashier 0
+going bowling: </s> open battery compartment 0
+going bowling: </s> clean room in areas of renovation (remove furniture and clutter in areas of renovation) 0
+going bowling: </s> wait for the clerk to load your luggage on conveyor 0
+going bowling: </s> leave plane 0
+going bowling: </s> drive to funeral home 0
+going bowling: </s> go to bathroom 0
+going bowling: </s> mop all the rooms 0
+going bowling: </s> turn iron off. 0
+going bowling: </s> repeat if necessary 0
+going bowling: </s> go to changing room 0
+going bowling: </s> get a beer and sit down. 0
+going bowling: </s> get racket and ball. 0
+going bowling: </s> take colors out of the dryer 0
+going bowling: </s> remove your seat belt 0
+going bowling: </s> wait in line 0
+going bowling: </s> wash plates 0
+going bowling: </s> ensure everything is in its proper place. 0
+going bowling: </s> take off clothes 0
+going bowling: </s> when dishes are dry put them away 0
+going bowling: </s> check the platform number and arrival time 0
+going bowling: </s> plug in vacuum cleaner 0
+going bowling: </s> while in swim suit relax on declining chair next to pool 0
+going bowling: </s> crack egg into bowl 0
+going bowling: </s> wait for water to heat up. 0
+going bowling: </s> kiss them goodnight 0
+going bowling: </s> answer if you'd like receipt 0
+going bowling: </s> get in car. 0
+going bowling: </s> tape off trim 0
+going bowling: </s> put towel down on seat 0
+going bowling: </s> when train arrives, board a car. 0
+going bowling: </s> get dressed in loose clothes and tennis shoes 0
+going bowling: </s> pack a bag 0
+going bowling: </s> let the water get warm or hot. 0
+going bowling: </s> get directions to which room it is in 0
+going bowling: </s> get you bags from vehicle 0
+going bowling: </s> go to your assigned side of the tennis court. 0
+going bowling: </s> drive to the local gym that has a sauna. 0
+going bowling: </s> select seats 0
+going bowling: </s> when the bus approaches your destination, press the button to signal a stop. 0
+going bowling: </s> go to train station. 0
+going bowling: </s> wash soap off 0
+going bowling: </s> serve the food. 0
+going bowling: </s> wipe down heavily used items and surfaces with cleaning product and rag 0
+going bowling: </s> get on the train 0
+going bowling: </s> remove nozzle and handle from pump. 0
+going bowling: </s> take a shower 0
+going bowling: </s> enter train 0
+going bowling: </s> get clothes to iron 0
+going bowling: </s> wear shirt when convenient 0
+going bowling: </s> drive to nearest theater 0
+going bowling: </s> measure teaspoons of coffee to match amount of water 0
+going bowling: </s> fill sink with hot water 0
+going bowling: </s> listening to the driving instructor 0
+going bowling: </s> going to the store 0
+going bowling: </s> put up hair. 0
+going bowling: </s> go in shower 0
+going bowling: </s> turn on washing machine and wait for it to end. 0
+going bowling: </s> plan a date and time for the barbecue 0
+going bowling: </s> dress appropriately 0
+going bowling: </s> get in your car and wait for the funeral procession to go to the cemetery 0
+going bowling: </s> book ticket 0
+going bowling: </s> put all ingredients in a cake tin 0
+going bowling: </s> take out old batteries 0
+going bowling: </s> everyone will want to be outside, so have some games for the kids and music playing. 0
+going bowling: </s> get bill 0
+going bowling: </s> riding the rapid 0
+going bowling: </s> help child change into pajamas 0
+going bowling: </s> assemble cleaning supplies 0
+going bowling: </s> turn on faucet 0
+going bowling: </s> secure the campsite 0
+going bowling: </s> repeat steps 5 and 6 until the clothing is complete. 0
+going bowling: </s> hit the ball with the racket, aiming for the ground on the other side of the net 0
+going bowling: </s> dry your hair 0
+going bowling: </s> turn the sauna to the right temperature. 0
+going bowling: </s> let them know you appreciate their understanding. 0
+going bowling: </s> sign out the membership card 0
+going bowling: </s> ask for a new plate of food 0
+going bowling: </s> take off clothes. 0
+going bowling: </s> (repeat steps 5-11 if transfers are necessary) 0
+going bowling: </s> leave the restaurant 0
+going bowling: </s> swim 0
+going bowling: </s> wait for clerk 0
+going bowling: </s> rest 0
+going bowling: </s> find some newspaper to get fire started. 0
+going bowling: </s> turn stove off 0
+going bowling: </s> take book from clerk 0
+going bowling: </s> call and make appointment 0
+going bowling: </s> pay for your ticket 0
+going bowling: </s> get up 0
+going bowling: </s> purchase your train ticket. 0
+going bowling: </s> find your terminal 0
+going bowling: </s> drive to funeral home 0
+going bowling: </s> take out credit card from the wallet 0
+going bowling: </s> enter dentist's office 0
+going bowling: </s> buy a ticket 0
+going bowling: </s> put dish soap on rag or scrubbie. 0
+going bowling: </s> do dishes 0
+going bowling: </s> take a seat 0
+going bowling: </s> read bedtime story to child 0
+going bowling: </s> change his clothes 0
+going bowling: </s> sew the button onto the garment by passing the needle through all 4 button holes. 0
+going bowling: </s> pay cashier 0
+going bowling: </s> discard eggshells 0
+going bowling: </s> doorbell rings 0
+going bowling: </s> take a nap. 0
+going bowling: </s> leave restaurant. 0
+going bowling: </s> remove pot after desired amount of time 0
+going bowling: </s> ask him to return it to the kitchen 0
+going bowling: </s> pick the toppings you would like. 0
+going bowling: </s> drive to a theater 0
+going bowling: </s> add eggs 0
+going bowling: </s> drive to tennis court 0
+going bowling: </s> have your payment ready 0
+going bowling: </s> get on train 0
+going bowling: </s> order your pizza 0
+going bowling: </s> take food of grill. 0
+going bowling: </s> get undressed 0
+going bowling: </s> tell the child it is bed time. 0
+going bowling: </s> when iron is ready, select one item of clothing for ironing 0
+going bowling: </s> board the train 0
+going bowling: </s> put right foot on brake 0
+going bowling: </s> add dishes a few at a time 0
+going bowling: </s> gather dirty laundry into a basket 0
+going bowling: </s> choose a seat 0
+going bowling: </s> place button on clothing 0
+going bowling: </s> exit bus at destination 0
+going bowling: </s> take out the eggs 0
+going bowling: </s> get racket and balls 0
+going bowling: </s> browse through the books in the sections you like 0
+going bowling: </s> mix all the wet ingredients together in one bowl 0
+going bowling: </s> wait for clerk to scan purchases. 0
+going bowling: </s> get a towel 0
+going bowling: </s> put supplies away. 0
+going bowling: </s> get your towel 0
+going bowling: </s> fill a pot with water 0
+going bowling: </s> vacuum or sweep and mop the floors 0
+going bowling: </s> go home 0
+going bowling: </s> star washing machine 0
+going bowling: </s> go into library 0
+going bowling: </s> turn off water 0
+going bowling: </s> close the shampoo bottle 0
+going bowling: </s> leave sauna 0
+going bowling: </s> eat your pizza 0
+going bowling: </s> pick conservative dress or suit. 0
+going bowling: </s> set up ironing board 0
+going bowling: </s> helping them change into pjs 0
+going bowling: </s> attend the primary theory class with all attention 0
+going bowling: </s> lay clothing flat on ironing board 0
+going bowling: </s> put dishes in cupboards. 0
+going bowling: </s> add more wood to grow fire 0
+going bowling: </s> if flame goes out, blow on coals to reignite 0
+going bowling: </s> wet your hair in the shower 0
+going bowling: </s> put pasta in bowl 0
+going bowling: </s> put in padding 0
+going bowling: </s> when train arrives, board a car. 0
+going bowling: </s> hand over luggage and check it. 0
+going bowling: </s> cut thread 0
+going bowling: </s> set up iron board. 0
+going bowling: </s> walk to the door of the bedroom. 0
+going bowling: </s> have x-rays taken 0
+going bowling: </s> sign the receipt 0
+going bowling: </s> purchase paint and supplies 0
+going bowling: </s> call the number. 0
+going bowling: </s> ask them to get into bed. 0
+going bowling: </s> get on train when instructed 0
+going bowling: </s> plane will taxi down the runway 0
+going bowling: </s> allow to run full cycle 0
+going bowling: </s> bring book to front desk 0
+going bowling: </s> get sponge 0
+going bowling: </s> call for waiter 0
+going bowling: </s> wash hair with fingers 0
+going bowling: </s> enjoy your sauna bath 0
+going bowling: </s> add new furniture 0
+going bowling: </s> buckle your seat belt. 0
+going bowling: </s> check in 0
+going bowling: </s> put your card in to pay 0
+going bowling: </s> pay bus fair 0
+going bowling: </s> iron with the hot iron 0
+going bowling: </s> grease pan with shortning. 0
+going bowling: </s> wait for the family to view the body 0
+going bowling: </s> start grilling 0
+going bowling: </s> add new elements 0
+going bowling: </s> when presented with your corrected food, inspect it 0
+going bowling: </s> plug in iron 0
+going bowling: </s> go to tennis court 0
+going bowling: </s> go to the librarian 0
+going bowling: </s> start measuring things 0
+going bowling: </s> using the light rail 0
+going bowling: </s> rinse soap off dish 0
+going bowling: </s> pull up to the pump 0
+going bowling: </s> turn dish washer on 0
+going bowling: </s> knot and cut thread 0
+going bowling: </s> dry self with towel 0
+going bowling: </s> select items to be ironed 0
+going bowling: </s> pour enough washing liquid detergent and let it soak 0
+going bowling: </s> wet hair entirely 0
+going bowling: </s> go through security checkpoint scanner 0
+going bowling: </s> sprinkle some fuel on the wood 0
+going bowling: </s> discard old batteries 0
+going bowling: </s> sign the credit card reciept 0
+going bowling: </s> leave gas station 0
+going bowling: </s> find out information on flight 0
+going bowling: </s> get out of car 0
+going bowling: </s> buy ticket 0
+going bowling: </s> wait till cooked smell comes 0
+going bowling: </s> when the train arrives, get on 0
+going bowling: </s> gather dry and/or dead wood for bonfire. 0
+going bowling: </s> get whisk 0
+going bowling: </s> enter into the bathroom 0
+going bowling: </s> rinse the shampoo out of the hair. 0
+going bowling: </s> put on your seatbelt 0
+going bowling: </s> the cashier tells you the cash amount required for purchase 0
+going bowling: </s> measure each ingredient according to the recipe 0
+going bowling: </s> pay delivery person for pizza 0
+going bowling: </s> take items home 0
+going bowling: </s> drive home 0
+going bowling: </s> find correct counter or kiosk 0
+going bowling: </s> get on the train 0
+going bowling: </s> wait for train 0
+going bowling: </s> show identification 0
+going bowling: </s> give desired pizza size and toppings 0
+going bowling: </s> whisk the mixture don't add salt for it may make tough. 0
+going bowling: </s> put batteries in the alarm clock. 0
+going bowling: </s> leave subway station 0
+going bowling: </s> pay last respects 0
+going bowling: </s> take out old batteries 0
+going bowling: </s> add salt if desired 0
+going bowling: </s> test alarm clock 0
+going bowling: </s> make a followup appointment if needed 0
+going bowling: </s> pour ground coffee into coffee basket 0
+going bowling: </s> get out pasta. 0
+going bowling: </s> put in washer 0
+going bowling: </s> get bowl to mix batter 0
+going bowling: </s> going into funeral home 0
+going bowling: </s> replace old batteries with new batteries 0
+going bowling: </s> pass through the body scanner 0
+going bowling: </s> make smores :) 0
+going bowling: </s> go to pizza place 0
+going bowling: </s> get in your car or call a cab or friend to drive you to the dentist 0
+going bowling: </s> place new batteries into clock. 0
+going bowling: </s> as eggs begin to set, gently pull the eggs across the pan with an inverted turner. 0
+going bowling: </s> go home. 0
+going bowling: </s> get boarding pass 0
+going bowling: </s> set the alarm 0
+going bowling: </s> get whisk 0
+going bowling: </s> hang up item 0
+going bowling: </s> marinade the meats. 0
+going bowling: </s> obtain needle and thread 0
+going bowling: </s> sit 0
+going bowling: </s> push lever down 0
+going bowling: </s> break two eggs into a bowl 0
+going bowling: </s> ask the waiter to take the charge for the food off of the bill. 0
+going bowling: </s> show librarian your library card 0
+going bowling: </s> put pajamas on child 0
+going bowling: </s> turn off water 0
+going bowling: </s> swing racket at incoming serves. 0
+going bowling: </s> add laundry detergent to washing machine 0
+going bowling: </s> buy and gather supplies 0
+going bowling: </s> allow waitress to take food away. 0
+going bowling: </s> listen to eulogies 0
+going bowling: </s> chill drinks 0
+going bowling: </s> replace with new batteries 0
+going bowling: </s> pick up things off the ground 0
+going bowling: </s> line an area with stones 0
+going bowling: </s> wash the dish 0
+going bowling: </s> turn on grill to heat up 0
+going bowling: </s> remove from heat and serve. 0
+going bowling: </s> toast marshmellows over the flames 0
+going bowling: </s> find a seat. 0
+going bowling: </s> decide what you want 0
+going bowling: </s> drive to the funeral 0
+going bowling: </s> taste and approve or send back again 0
+going bowling: </s> drain the pasta in a colander 0
+going bowling: </s> wait for bus stop 0
+going bowling: </s> load flavoring 0
+going bowling: </s> get pot. 0
+going bowling: </s> putting on seatbelt 0
+going bowling: </s> enter 0
+going bowling: </s> put in oven 0
+going bowling: </s> get ironing board 0
+going bowling: </s> open mouth and sit still when dentist is working on mouth. 0
+going bowling: </s> go through security 0
+going bowling: </s> grill to completion 0
+going bowling: </s> enter the gate to the pool. 0
+going bowling: </s> start driving 0
+going bowling: </s> remove filter and empty grounds 0
+going bowling: </s> clean up 0
+going bowling: </s> buy items 0
+going bowling: </s> add ingredients 0
+going bowling: </s> turn on machine 0
+going bowling: </s> board my train. 0
+going bowling: </s> put water in iron. 0
+going bowling: </s> order pizza 0
+going bowling: </s> place in old decorations 0
+going bowling: </s> repeat several times until button is secure 0
+going bowling: </s> confirm the total 0
+going bowling: </s> tell child it is time for bed. 0
+going bowling: </s> take out box of cake mix from shelf 0
+going bowling: </s> buy flowers. 0
+going bowling: </s> once hole is dug, take the underground 0
+going bowling: </s> walk into airport. 0
+going bowling: </s> watch bonfire 0
+going bowling: </s> drive home 0
+going bowling: </s> get bill 0
+going bowling: </s> fill tank 0
+going bowling: </s> go to waiting point 0
+going bowling: </s> follow dentist or professional's directions during examination, cleaning or procedure. 0
+going bowling: </s> dry dishes 0
+going bowling: </s> discover what is wrong. 0
+going bowling: </s> explain what is wrong with food. 0
+going bowling: </s> rinse shampoo out of hair 0
+going bowling: </s> get on the bus when it arrives 0
+going bowling: </s> put button on shirt 0
+going bowling: </s> once cycle is complete, pour your coffee 0
+going bowling: </s> wait for guests to arrive 0
+going bowling: </s> return ball as many times as possible. 0
+going bowling: </s> drive to a train station 0
+going bowling: </s> book the ticket online or go to the theater for current booking. 0
+going bowling: </s> put luggage and personal belongings on the conveyor belt. 0
+going bowling: </s> go through to dentist 0
+going bowling: </s> browse library for books 0
+going bowling: </s> place needle through clothing. 0
+going bowling: </s> turn on shower 0
+going bowling: </s> strain pasta 0
+going bowling: </s> walk off the bus 0
+going bowling: </s> meet your instructor 0
+going bowling: </s> leave 0
+going bowling: </s> find the book you are looking for 0
+going bowling: </s> put away the supplies and clean up. 0
+going bowling: </s> child falls asleep 0
+going bowling: </s> dust furniture in flat 0
+going bowling: </s> eat food. 0
+going bowling: </s> choose correct settings on washing machine 0
+going bowling: </s> throw match on wood 0
+going bowling: </s> get new battery 0
+going bowling: </s> ride 0
+going bowling: </s> say i love you and goodnight. 0
+going bowling: </s> thank server 0
+going bowling: </s> wait at train stop for train. 0
+going bowling: </s> wear appropriate tennis shoes for the tennis court. 0
+going bowling: </s> enter the stadium 0
+going bowling: </s> go to train station 0
+going bowling: </s> use sponge to remove and clean dishes 0
+going bowling: </s> lay near to child 0
+going bowling: </s> serve the ball 0
+going bowling: </s> put a pan on the burner. 0
+going bowling: </s> receive your boarding pass 0
+going bowling: </s> take your place on court with racquet and balls 0
+going bowling: </s> wait at bus station for bus. 0
+going bowling: </s> go over car controls 0
+going bowling: </s> leave swimming pool. 0
+going bowling: </s> board the train 0
+going bowling: </s> walk up to check-out counter 0
+going bowling: </s> follow rules of the road. 0
+going bowling: </s> wait for the train. 0
+going bowling: </s> get sponge 0
+going bowling: </s> serve it nicely 0
+going bowling: </s> board plane 0
+going bowling: </s> leave plane 0
+going bowling: </s> get a shirt. 0
+going bowling: </s> get out of shower. 0
+going bowling: </s> take off clothes 0
+going bowling: </s> give card info by slideing or entering it online 0
+going bowling: </s> follow requests of instructor 0
+going bowling: </s> tell them what you want 0
+going bowling: </s> fold them 0
+going bowling: </s> tie the knot on that end 0
+going bowling: </s> remove old batteries 0
+going bowling: </s> get credit card out of wallet 0
+going bowling: </s> wet hair 0
+going bowling: </s> go to your appropriate gate 0
+going bowling: </s> get tennis racket and balls 0
+going bowling: </s> repeat for every dirty dish. 0
+going bowling: </s> get new batteries 0
+going bowling: </s> sign your name 0
+going bowling: </s> go to funeral service 0
+going bowling: </s> remove anything not wanted in room 0
+going bowling: </s> check-in the bags 0
+going bowling: </s> find seat 0
+going bowling: </s> find a seat on the bus 0
+going bowling: </s> play however many matches you agreed upon 0
+going bowling: </s> get waiter's attention 0
+going bowling: </s> watching movie 0
+going bowling: </s> sign up for lessons. 0
+going bowling: </s> push order 0
+going bowling: </s> getting dirty clothes. 0
+going bowling: </s> enjoy the show 0
+going bowling: </s> go to ticket window 0
+going bowling: </s> make sure battery cover is in place. 0
+going bowling: </s> wait for cycle to end 0
+going bowling: </s> enter shower 0
+going bowling: </s> sew the button on the cloth using the needle 0
+going bowling: </s> place your order 0
+going bowling: </s> tape areas where no new paint is wanted. 0
+going bowling: </s> put a load in the washer of one color 0
+going bowling: </s> change into my suit. 0
+going bowling: </s> order at the checkout. 0
+going bowling: </s> get new batteries from the store 0
+going bowling: </s> determine time and location of funeral 0
+going bowling: </s> turn on clock 0
+going bowling: </s> take item to register 0
+going bowling: </s> enter library 0
+going bowling: </s> take out somber clothing 0
+going bowling: </s> boil water 0
+going bowling: </s> thread a needle 0
+going bowling: </s> get in pool 0
+going bowling: </s> pour pasta into boiling water 0
+going bowling: </s> buy bus pass on buss 0
+going bowling: </s> find some thread and needle 0
+going bowling: </s> either hand you card to the merchant to be swiped, or swipe the card yourself 0
+going bowling: </s> remove plastic 0
+going bowling: </s> get flight itinerary 0
+going bowling: </s> take tray to trash spot and discard trash 0
+going bowling: </s> put charcoal into the grill 0
+going bowling: </s> lay down tarps 0
+going bowling: </s> locate where batteries are 0
+going bowling: </s> go to pool. 0
+going bowling: </s> head down the stairs and wait for train 0
+going bowling: </s> lather the shampoo into your hair 0
+going bowling: </s> when iron is ready, select one item of clothing for ironing 0
+going bowling: </s> he apologizes for the mistake 0
+going bowling: </s> close cover 0
+going bowling: </s> leave conditioner on for several minutes 0
+going bowling: </s> return home with book 0
+going bowling: </s> whisk eggs briskly with fork or whisk until the whites are no longer visible. 0
+going bowling: </s> scan the book. 0
+going bowling: </s> sit down 0
+going bowling: </s> wait for barcode to be scanned 0
+going bowling: </s> cook 8-10 minutes 0
+going bowling: </s> take out eggs 0
+going bowling: </s> decide where you want to eat 0
+going bowling: </s> ride on the bus 0
+going bowling: </s> add more wood as needed 0
+going bowling: </s> check in 0
+going bowling: </s> wait for pizza. 0
+going bowling: </s> arrive at the airport 0
+going bowling: </s> gather luggage 0
+going bowling: </s> sign up for the lesson 0
+going bowling: </s> when your destination is called, get off train. 0
+going bowling: </s> put wet clothes in dryer 0
+going bowling: </s> put on counter 0
+going bowling: </s> hire a contractor 0
+going bowling: </s> travel 0
+going bowling: </s> pick up trash and miscellaneous items from floor 0
+going bowling: </s> going to the store 0
+going bowling: </s> take items and receipt from cashier 0
+going bowling: </s> wait for pizza to arrive. 0
+going bowling: </s> wait until done 0
+going bowling: </s> hand over luggage 0
+going bowling: </s> decide if you want cash back 0
+going bowling: </s> find a needle and thread 0
+going bowling: </s> pour into preheated skillet. 0
+going bowling: </s> rinse with clean water 0
+going bowling: </s> eat food 0
+going bowling: </s> frost and decorate cake 0
+going bowling: </s> hand my library car to clerk. 0
+going bowling: </s> get receipt 0
+going bowling: </s> turn the washing machine on 0
+going bowling: </s> fire up wood 0
+going bowling: </s> schedule a time to play tennis 0
+going bowling: </s> enter the library 0

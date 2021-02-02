@@ -1,0 +1,9 @@
+having a barbecue;place the meat in the large piece of ground that was made.;keep a small amount of dirt in th
+having a barbecue;fill the larger portion of the ground with the large portion of the ground.;place the meat in the large piece of ground that was made.
+having a barbecue;gather a large amount of meat for a big piece of meat.;gather all of the food necessary to cook a hot dog.
+ordering a pizza;have pizza delivered;pay
+ordering a pizza;pay;have a pizza
+ordering a pizza;call pizza place;order
+cleaning up a flat;add a drop of dish soap;scrub with a sponge
+making scrambled eggs;add noodles;add sauce
+making scrambled eggs;add sauce;put eggs into pan

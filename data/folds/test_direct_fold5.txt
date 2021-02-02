@@ -1,0 +1,5 @@
+<BOS> taking a shower: 
+<BOS> ironing laundry: 
+<BOS> taking a driving lesson: 
+<BOS> going to the dentist: 
+<BOS> going to a funeral: 

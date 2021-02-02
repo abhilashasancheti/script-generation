@@ -1,0 +1,31 @@
+having a barbecue;start the fire 
+having a barbecue;put some wood in a hole 
+having a barbecue;gather materials for a pit 
+having a barbecue;add some food and water 
+having a barbecue;add more wood or water when needed 
+ordering a pizza;pay 
+ordering a pizza;have pizza delivered 
+ordering a pizza;enjoy pizza 
+ordering a pizza;have a pizza 
+ordering a pizza;order 
+ordering a pizza;call pizza place 
+cleaning up a flat;take things off of the floor 
+cleaning up a flat;dry with a dryer sheet 
+cleaning up a flat;put on a clean towel 
+cleaning up a flat;get soap and water 
+cleaning up a flat;put things away 
+cleaning up a flat;scrub up everything 
+cleaning up a flat;turn on the water 
+cleaning up a flat;rinse off everything 
+making scrambled eggs;stir 
+making scrambled eggs;wait for eggs to boil 
+making scrambled eggs;add eggs to boiling water 
+making scrambled eggs;gather eggs 
+making scrambled eggs;boil water 
+making scrambled eggs;place on plate 
+taking the underground;enter the storage room 
+taking the underground;walk through the door 
+taking the underground;take a look at the wall 
+taking the underground;climb the stairs 
+taking the underground;enter the tunnel 
+taking the underground;walk to the next floor 

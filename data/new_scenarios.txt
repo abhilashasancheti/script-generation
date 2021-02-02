@@ -1,0 +1,15 @@
+<BOS> here is a sequence of events that happen while ordering fastfood online
+<BOS> here is a sequence of events that happen while cooking in a microwave
+<BOS> here is a sequence of events that happen while answering telephone 
+<BOS> here is a sequence of events that happen while buying from a vending machine 
+<BOS> here is a sequence of events that happen while tying shoe laces
+<BOS> here is a sequence of events that happen while brushing teeth
+<BOS> here is a sequence of events that happen while making ginger paste
+<BOS> here is a sequence of events that happen while going for a wedding
+<BOS> here is a sequence of events that happen while attending a wedding
+<BOS> here is a sequence of events that happen while washing a car
+<BOS> here is a sequence of events that happen while taking out trash
+<BOS> here is a sequence of events that happen while taking a taxi
+<BOS> here is a sequence of events that happen while surfing the internet
+<BOS> here is a sequence of events that happen while watching television
+<BOS> here is a sequence of events that happen while going to a club to dance

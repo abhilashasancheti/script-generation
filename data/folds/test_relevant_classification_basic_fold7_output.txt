@@ -1,0 +1,244 @@
+having a barbecue: </s> gather friends and family to get together for the meal 1
+having a barbecue: </s> get some meats to cook 1
+having a barbecue: </s> put food in a basket 1
+having a barbecue: </s> get a plate 1
+having a barbecue: </s> take food to another area 1
+having a barbecue: </s> start a fire 1
+having a barbecue: </s> sit on a stool 1
+having a barbecue: </s> eat food 1
+having a barbecue: </s> drink water 1
+having a barbecue: </s> get up 1
+having a barbecue: </s> leave 1
+having a barbecue: </s> get a smoker 1
+having a barbecue: </s> get some coals 1
+having a barbecue: </s> go to your car 1
+having a barbecue: </s> put some salt on the coals 1
+having a barbecue: </s> put some water on the coals 1
+having a barbecue: </s> put some mustard on the coals 1
+having a barbecue: </s> put the water in the water pan 1
+having a barbecue: </s> place the hot coals on the fire pan 1
+having a barbecue: </s> place the hot coals on the water pan 1
+having a barbecue: </s> place the lid on the pan 1
+having a barbecue: </s> put the lid on the pot 1
+having a barbecue: </s> wait for the coals to reach the desired temperature 1
+having a barbecue: </s> put the lid back on the pot 1
+having a barbecue: </s> cook the food 1
+having a barbecue: </s> take the pot off the stove 1
+having a barbecue: </s> throw the coals on the ground 1
+having a barbecue: </s> enjoy the food 1
+having a barbecue: </s> choose a good spot for the barbecue. 1
+having a barbecue: </s> gather some food. 1
+having a barbecue: </s> get your barbecue utensils. 1
+having a barbecue: </s> get your favorite kind of sauce. 1
+having a barbecue: </s> fill up your gas tank with water. 1
+having a barbecue: </s> get your plate out. 1
+having a barbecue: </s> go to the barbecue. 1
+having a barbecue: </s> get some more food. 1
+having a barbecue: </s> wait for your food to be ready. 1
+having a barbecue: </s> dig into your favorite food. 1
+having a barbecue: </s> get a pack of supplies 1
+having a barbecue: </s> get the necessary supplies 1
+having a barbecue: </s> go to the local grocery store 1
+having a barbecue: </s> purchase food from the store 1
+having a barbecue: </s> go to the gas station 1
+having a barbecue: </s> pay for gas 1
+having a barbecue: </s> pick up the groceries 1
+having a barbecue: </s> go to the picnic area 1
+having a barbecue: </s> enjoy a meal 1
+having a barbecue: </s> purchase a bunch of things 1
+having a barbecue: </s> put the things in a large place 1
+having a barbecue: </s> take food out 1
+having a barbecue: </s> throw the food down on the ground 1
+having a barbecue: </s> add salt 1
+having a barbecue: </s> mix up the sauce 1
+having a barbecue: </s> eat 1
+ordering a pizza: </s> go to the restaurant. 1
+ordering a pizza: </s> go to the counter. 1
+ordering a pizza: </s> show the waiter your order. 1
+ordering a pizza: </s> give your order to the waitress. 1
+ordering a pizza: </s> wait for your food. 1
+ordering a pizza: </s> choose toppings 1
+ordering a pizza: </s> choose delivery person 1
+ordering a pizza: </s> pay for pizza 1
+ordering a pizza: </s> pick a pizza from menu 1
+ordering a pizza: </s> eat your pizza 1
+ordering a pizza: </s> look up the pizza place. 1
+ordering a pizza: </s> make sure you can get the pizza. 1
+ordering a pizza: </s> look for the date on the menu. 1
+ordering a pizza: </s> get the pizza. 1
+ordering a pizza: </s> go to the pizza place. 1
+ordering a pizza: </s> tell the person what to order. 1
+ordering a pizza: </s> pay the person the money. 1
+ordering a pizza: </s> wait for your pizza to arrive. 1
+ordering a pizza: </s> get a napkin. 1
+ordering a pizza: </s> sit down. 1
+ordering a pizza: </s> eat the pizza. 1
+ordering a pizza: </s> take a nap. 1
+ordering a pizza: </s> throw away the trash. 1
+ordering a pizza: </s> get up and leave. 1
+ordering a pizza: </s> order a pizza 1
+ordering a pizza: </s> go to the restaurant 1
+ordering a pizza: </s> order the pizza 1
+ordering a pizza: </s> wait for it to be ready 1
+ordering a pizza: </s> give the pizza to the waiters 1
+ordering a pizza: </s> walk into store 1
+ordering a pizza: </s> put the order in 1
+ordering a pizza: </s> find a pizza 1
+ordering a pizza: </s> get the food 1
+ordering a pizza: </s> get the cashier to take the food 1
+ordering a pizza: </s> pay for food 1
+cleaning up a flat: </s> get the flat 1
+cleaning up a flat: </s> take the flat to the bathroom 1
+cleaning up a flat: </s> take some water 1
+cleaning up a flat: </s> take the flat to the sink 1
+cleaning up a flat: </s> turn on the water 1
+cleaning up a flat: </s> let it wash the flat 1
+cleaning up a flat: </s> then put in some dryer sheet 1
+cleaning up a flat: </s> get a sponge 1
+cleaning up a flat: </s> scrub the flat 1
+cleaning up a flat: </s> put the flat in the dryer 1
+cleaning up a flat: </s> when done dry the flat with a towel 1
+cleaning up a flat: </s> put away the flat 1
+cleaning up a flat: </s> clear the flat area 1
+cleaning up a flat: </s> grab the water from the drain 1
+cleaning up a flat: </s> pour the water into the sponge 1
+cleaning up a flat: </s> apply some soap on the sponge 1
+cleaning up a flat: </s> scrub your area 1
+cleaning up a flat: </s> rinse your area 1
+cleaning up a flat: </s> place the washed item into the dryer 1
+cleaning up a flat: </s> let the dryer get to temperature 1
+cleaning up a flat: </s> place the cleaned item into the dryer 1
+cleaning up a flat: </s> wait for the item to dry 1
+cleaning up a flat: </s> put the cleaned item away 1
+cleaning up a flat: </s> dry your items 1
+cleaning up a flat: </s> go to the park. 1
+cleaning up a flat: </s> get a shovel. 1
+cleaning up a flat: </s> dig a hole. 1
+cleaning up a flat: </s> put the shovel in the hole. 1
+cleaning up a flat: </s> cover the hole with dirt. 1
+cleaning up a flat: </s> put on a clean shirt. 1
+cleaning up a flat: </s> go home. 1
+cleaning up a flat: </s> take everything off of the floor 1
+cleaning up a flat: </s> get clothes on 1
+cleaning up a flat: </s> take things out of the room 1
+cleaning up a flat: </s> pick up the toothbrush 1
+cleaning up a flat: </s> take out the hair dryer 1
+cleaning up a flat: </s> put on a dryer sheet 1
+cleaning up a flat: </s> open the door 1
+cleaning up a flat: </s> get in the room 1
+cleaning up a flat: </s> wash everything out 1
+cleaning up a flat: </s> put the things away 1
+cleaning up a flat: </s> take out trash 1
+cleaning up a flat: </s> throw away items 1
+cleaning up a flat: </s> collect items 1
+cleaning up a flat: </s> pick up items 1
+cleaning up a flat: </s> take them to area of flat 1
+cleaning up a flat: </s> get out of the car 1
+cleaning up a flat: </s> put items in a garbage bag 1
+making scrambled eggs: </s> find out what size eggs you need 1
+making scrambled eggs: </s> take out the box that you are using 1
+making scrambled eggs: </s> go inside the box 1
+making scrambled eggs: </s> find out what ingredients you need 1
+making scrambled eggs: </s> mix the ingredients together 1
+making scrambled eggs: </s> pour the ingredients into the bowl 1
+making scrambled eggs: </s> mix the ingredients together 1
+making scrambled eggs: </s> pour the mixture into the eggs 1
+making scrambled eggs: </s> place in the fridge to let it cool 1
+making scrambled eggs: </s> remove the egg from the box 1
+making scrambled eggs: </s> put in a small bowl 1
+making scrambled eggs: </s> get eggs 1
+making scrambled eggs: </s> get oil 1
+making scrambled eggs: </s> go to store to get eggs 1
+making scrambled eggs: </s> get oil 1
+making scrambled eggs: </s> get out a bowl 1
+making scrambled eggs: </s> get a large pot 1
+making scrambled eggs: </s> put eggs in a bowl 1
+making scrambled eggs: </s> add oil 1
+making scrambled eggs: </s> add oil to the eggs 1
+making scrambled eggs: </s> add a little salt 1
+making scrambled eggs: </s> cook in a pot until the eggs are cooked 1
+making scrambled eggs: </s> remove eggs and drain oil 1
+making scrambled eggs: </s> put oil in a pan 1
+making scrambled eggs: </s> add some butter 1
+making scrambled eggs: </s> cook on the stove to get a nice golden brown color 1
+making scrambled eggs: </s> put on plate with eggs 1
+making scrambled eggs: </s> put on a plate and enjoy 1
+making scrambled eggs: </s> gather eggs 1
+making scrambled eggs: </s> boil water 1
+making scrambled eggs: </s> add eggs to boiling water 1
+making scrambled eggs: </s> wait for eggs to boil 1
+making scrambled eggs: </s> throw away egg when done 1
+making scrambled eggs: </s> take eggs out of box 1
+making scrambled eggs: </s> add ingredients to eggs 1
+making scrambled eggs: </s> mix ingredients with a spatula 1
+making scrambled eggs: </s> add mixture into a strainer over sink 1
+making scrambled eggs: </s> turn off the heat 1
+making scrambled eggs: </s> add water to strainer to add eggs 1
+making scrambled eggs: </s> turn off the heat 1
+making scrambled eggs: </s> turn off the eggs 1
+making scrambled eggs: </s> put into strainer to cool 1
+making scrambled eggs: </s> get eggs 1
+making scrambled eggs: </s> go to kitchen 1
+making scrambled eggs: </s> get eggs in cart 1
+making scrambled eggs: </s> gather ingredients 1
+making scrambled eggs: </s> add ingredients to pan 1
+making scrambled eggs: </s> boil the eggs 1
+making scrambled eggs: </s> take out of the oven 1
+making scrambled eggs: </s> eat eggs 1
+taking the underground: </s> get in car 1
+taking the underground: </s> drive to location 1
+taking the underground: </s> park 1
+taking the underground: </s> walk to site 1
+taking the underground: </s> enter site 1
+taking the underground: </s> remove clothing 1
+taking the underground: </s> remove belt 1
+taking the underground: </s> insert credit card into machine 1
+taking the underground: </s> swipe credit card 1
+taking the underground: </s> insert credit card back 1
+taking the underground: </s> remove items 1
+taking the underground: </s> go to area 1
+taking the underground: </s> exit site 1
+taking the underground: </s> go home 1
+taking the underground: </s> enter the underground 1
+taking the underground: </s> go to the gate 1
+taking the underground: </s> wait for your turn 1
+taking the underground: </s> go to the ticket booth 1
+taking the underground: </s> go inside 1
+taking the underground: </s> pay for ticket 1
+taking the underground: </s> put the ticket in your pocket 1
+taking the underground: </s> get your tube 1
+taking the underground: </s> walk to the tube station 1
+taking the underground: </s> pay for your ticket 1
+taking the underground: </s> go to your car 1
+taking the underground: </s> get out of the car 1
+taking the underground: </s> get into your car 1
+taking the underground: </s> get your tube 1
+taking the underground: </s> walk back to the ticket booth 1
+taking the underground: </s> drive to underground park 1
+taking the underground: </s> park at the location you are taking to 1
+taking the underground: </s> find a seat and enjoy the scenery 1
+taking the underground: </s> remove the cover from the container 1
+taking the underground: </s> pour the water into the container 1
+taking the underground: </s> add the dried food into the container 1
+taking the underground: </s> close the lid 1
+taking the underground: </s> wait for the food to finish drying 1
+taking the underground: </s> take the container out 1
+taking the underground: </s> throw away the container 1
+taking the underground: </s> take your container and get out of the car 1
+taking the underground: </s> walk to the right side of the road 1
+taking the underground: </s> turn right 1
+taking the underground: </s> go under the highway 1
+taking the underground: </s> get in the car 1
+taking the underground: </s> drive to the house 1
+taking the underground: </s> grab food 1
+taking the underground: </s> eat the food 1
+taking the underground: </s> take a shower 1
+taking the underground: </s> drive home 1
+taking the underground: </s> arrive at the designated location 1
+taking the underground: </s> get in car 1
+taking the underground: </s> park in car 1
+taking the underground: </s> walk into the designated area 1
+taking the underground: </s> enter the room 1
+taking the underground: </s> find a chair 1
+taking the underground: </s> sit on a chair 1
+taking the underground: </s> watch movie 1

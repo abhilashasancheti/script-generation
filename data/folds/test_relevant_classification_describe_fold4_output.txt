@@ -1,0 +1,240 @@
+washing dishes: </s> grab dirty dishes 1
+washing dishes: </s> turn on water 1
+washing dishes: </s> put dish in sink 1
+washing dishes: </s> fill sink with water 1
+washing dishes: </s> run water in sink 1
+washing dishes: </s> wash dishes 1
+washing dishes: </s> let sink fill up 1
+washing dishes: </s> turn off water 1
+washing dishes: </s> put dish in washing machine 1
+washing dishes: </s> put on lid 1
+washing dishes: </s> turn on water 1
+washing dishes: </s> pour dish onto laundry basket 1
+washing dishes: </s> close lid 1
+washing dishes: </s> turn on cycle 1
+washing dishes: </s> get the sponge and wash cloth 1
+washing dishes: </s> get the soap and a towel 1
+washing dishes: </s> open the dishwasher 1
+washing dishes: </s> get the soap and dishwasher 1
+washing dishes: </s> put the cloth on the dishwasher 1
+washing dishes: </s> get the sponge and wash cloth 1
+washing dishes: </s> get the soap and dishwasher 1
+washing dishes: </s> put the cloth on the dishwasher 1
+washing dishes: </s> turn on the dishwasher 1
+washing dishes: </s> open the dishwasher 1
+washing dishes: </s> put the cloth on the dishwasher 1
+washing dishes: </s> get the soap and dishwasher 1
+washing dishes: </s> put the cloth on the dishwasher 1
+washing dishes: </s> turn on the dishwasher 1
+washing dishes: </s> open the dishwasher 1
+washing dishes: </s> get the sponge and wash cloth 1
+washing dishes: </s> collect the utensils and clean table and counter 1
+washing dishes: </s> take a bowl and the soap 1
+washing dishes: </s> get into the kitchen and take out the water 1
+washing dishes: </s> use the soap and clean the dishes 1
+washing dishes: </s> put the utensils and clean dishes in the sink and make the dishes 1
+washing dishes: </s> wash the dishes in the shower 1
+washing dishes: </s> wash the dishes in the dishwasher 1
+washing dishes: </s> take out pot 1
+washing dishes: </s> put water in pot 1
+washing dishes: </s> turn on water 1
+washing dishes: </s> add soap 1
+washing dishes: </s> wash dishes 1
+washing dishes: </s> enter the kitchen. 1
+washing dishes: </s> get in the kitchen. 1
+washing dishes: </s> get a sponge. 1
+washing dishes: </s> wash the dishes. 1
+washing dishes: </s> open the dishwasher. 1
+washing dishes: </s> empty the dishes in the dishwasher. 1
+washing dishes: </s> close the dishwasher. 1
+washing dishes: </s> close the dishwasher. 1
+washing dishes: </s> open the sink. 1
+washing dishes: </s> get a sponge. 1
+washing dishes: </s> clean the dishes. 1
+washing dishes: </s> open the sink. 1
+washing dishes: </s> get a new sponge. 1
+washing dishes: </s> clean the dishes. 1
+washing dishes: </s> open the sink. 1
+washing dishes: </s> get a new sponge. 1
+washing dishes: </s> clean the dishes. 1
+making a bonfire: </s> get a fire 1
+making a bonfire: </s> gather supplies for the fire 1
+making a bonfire: </s> go outside and get fuel 1
+making a bonfire: </s> light the fire 1
+making a bonfire: </s> watch for fire to die down 1
+making a bonfire: </s> remove the fuel and replace it with coal 1
+making a bonfire: </s> watch the fire burn 1
+making a bonfire: </s> clean the fire 1
+making a bonfire: </s> gather charcoal 1
+making a bonfire: </s> light charcoal 1
+making a bonfire: </s> put charcoal in small pile 1
+making a bonfire: </s> place in bonfire 1
+making a bonfire: </s> wait until all charcoal is lit 1
+making a bonfire: </s> watch it burn 1
+making a bonfire: </s> remove from the bonfire 1
+making a bonfire: </s> light candles 1
+making a bonfire: </s> leave the bonfire 1
+making a bonfire: </s> find wood 1
+making a bonfire: </s> light a fire 1
+making a bonfire: </s> gather items 1
+making a bonfire: </s> put items in a container 1
+making a bonfire: </s> bring items to another room 1
+making a bonfire: </s> light a fire 1
+making a bonfire: </s> buy a lighter 1
+making a bonfire: </s> go to a bonfire site 1
+making a bonfire: </s> light a match 1
+making a bonfire: </s> watch it smolder 1
+making a bonfire: </s> throw the lighter out 1
+making a bonfire: </s> fill the wood with charcoal 1
+making a bonfire: </s> light the charcoal 1
+making a bonfire: </s> set up the fire 1
+making a bonfire: </s> put fuel in the fire 1
+making a bonfire: </s> turn the fire on 1
+making a bonfire: </s> enjoy the smoke 1
+going to the sauna: </s> get out of your clothes 1
+going to the sauna: </s> get in the sauna 1
+going to the sauna: </s> wash your hair 1
+going to the sauna: </s> turn on the sauna 1
+going to the sauna: </s> turn off the sauna 1
+going to the sauna: </s> exit the sauna 1
+going to the sauna: </s> get dressed 1
+going to the sauna: </s> pack a towel 1
+going to the sauna: </s> get undressed 1
+going to the sauna: </s> get into sauna 1
+going to the sauna: </s> turn on water temperature 1
+going to the sauna: </s> get into sauna 1
+going to the sauna: </s> sit on chair 1
+going to the sauna: </s> relax 1
+going to the sauna: </s> dry off 1
+going to the sauna: </s> get dressed 1
+going to the sauna: </s> go to the sauna. 1
+going to the sauna: </s> put on a suit. 1
+going to the sauna: </s> undress. 1
+going to the sauna: </s> turn on the water. 1
+going to the sauna: </s> get into the sauna. 1
+going to the sauna: </s> get into the sauna. 1
+going to the sauna: </s> adjust the temperature. 1
+going to the sauna: </s> lay down and relax. 1
+going to the sauna: </s> get dressed. 1
+going to the sauna: </s> leave the sauna. 1
+going to the sauna: </s> make sure there is no room in the sauna for your clothes 1
+going to the sauna: </s> turn on the sauna 1
+going to the sauna: </s> remove your clothes 1
+going to the sauna: </s> walk in the sauna 1
+going to the sauna: </s> dry your hair 1
+going to the sauna: </s> walk out the sauna 1
+going to the sauna: </s> make an appointment 1
+going to the sauna: </s> drive to the sauna 1
+going to the sauna: </s> pay the attendant 1
+going to the sauna: </s> sit and change into the appropriate clothes 1
+going to the sauna: </s> undress 1
+going to the sauna: </s> get into the sauna 1
+going to the sauna: </s> use the soap 1
+going to the sauna: </s> close the door 1
+going to the sauna: </s> get out of the sauna 1
+making coffee: </s> take the coffee pot 1
+making coffee: </s> turn on the stove 1
+making coffee: </s> get the water in the pot 1
+making coffee: </s> boil the water 1
+making coffee: </s> put the hot water into the pot 1
+making coffee: </s> add a pinch of salt 1
+making coffee: </s> turn off the stove 1
+making coffee: </s> pour the hot water into the coffee pot 1
+making coffee: </s> let it heat 1
+making coffee: </s> pour some milk in the pot 1
+making coffee: </s> let it heat 1
+making coffee: </s> pour the milk into the coffee pot 1
+making coffee: </s> pour some sugar into the pot 1
+making coffee: </s> let it heat 1
+making coffee: </s> pour some milk into the sugar 1
+making coffee: </s> get some coffee 1
+making coffee: </s> get some water 1
+making coffee: </s> add a little sugar 1
+making coffee: </s> turn on the stove 1
+making coffee: </s> put some coffee beans in a strainer 1
+making coffee: </s> pour into a strainer 1
+making coffee: </s> add some milk 1
+making coffee: </s> stir the coffee beans 1
+making coffee: </s> turn off the stove 1
+making coffee: </s> pour the strainer 1
+making coffee: </s> wait for the water to boil 1
+making coffee: </s> grab the coffee maker 1
+making coffee: </s> take the coffee out of its wrapper 1
+making coffee: </s> pour the coffee into the pot 1
+making coffee: </s> start the pot 1
+making coffee: </s> keep boiling for 3 minutes 1
+making coffee: </s> add milk and sugar 1
+making coffee: </s> keep stirring the water and add butter 1
+making coffee: </s> pour into the pot 1
+making coffee: </s> wait for the coffee to finish boiling 1
+making coffee: </s> put the pot on the table 1
+making coffee: </s> set up coffee machine 1
+making coffee: </s> take out coffee 1
+making coffee: </s> open can of coffee 1
+making coffee: </s> add desired amount of water 1
+making coffee: </s> turn on coffee machine 1
+making coffee: </s> wait for desired amount of time 1
+making coffee: </s> remove can of coffee from machine 1
+making coffee: </s> get mug 1
+making coffee: </s> go to coffee shop 1
+making coffee: </s> sit in front of coffee shop 1
+making coffee: </s> grab a cup 1
+making coffee: </s> pour a coffee in cup 1
+making coffee: </s> turn off machine 1
+making coffee: </s> get another cup 1
+making coffee: </s> pour some milk into cup 1
+making coffee: </s> turn off machine 1
+making coffee: </s> put mug in cup holder 1
+making coffee: </s> pour a cup of coffee 1
+making coffee: </s> wait for coffee to finish 1
+making coffee: </s> take cup 1
+making coffee: </s> get up 1
+making coffee: </s> leave coffee shop 1
+going to the swimming pool: </s> find the swimming pool. 1
+going to the swimming pool: </s> drive to the swimming pool. 1
+going to the swimming pool: </s> find a spot to sit and enjoy the pool. 1
+going to the swimming pool: </s> remove your clothing when you arrive. 1
+going to the swimming pool: </s> begin swimming at your assigned spot. 1
+going to the swimming pool: </s> enjoy the water. 1
+going to the swimming pool: </s> turn the water off when you reach your desired depth. 1
+going to the swimming pool: </s> exit the swimming pool and remove all clothing. 1
+going to the swimming pool: </s> return to your car and get in. 1
+going to the swimming pool: </s> gather gear 1
+going to the swimming pool: </s> pack the car 1
+going to the swimming pool: </s> drive to the swimming pool 1
+going to the swimming pool: </s> park the car 1
+going to the swimming pool: </s> enter the swimming pool 1
+going to the swimming pool: </s> choose the swimming pool where you want to go. 1
+going to the swimming pool: </s> enter the pool. 1
+going to the swimming pool: </s> select a swim suit or towel. 1
+going to the swimming pool: </s> get into the pool. 1
+going to the swimming pool: </s> put on your swimsuit or towel. 1
+going to the swimming pool: </s> get out of the pool. 1
+going to the swimming pool: </s> put on your shower or towel. 1
+going to the swimming pool: </s> wash your hair. 1
+going to the swimming pool: </s> put on your shower or towel. 1
+going to the swimming pool: </s> get dressed. 1
+going to the swimming pool: </s> get in your car and drive to your house. 1
+going to the swimming pool: </s> change into your nightclothes. 1
+going to the swimming pool: </s> drive to your bedroom. 1
+going to the swimming pool: </s> turn on the lights. 1
+going to the swimming pool: </s> get into bed and read a book or listen to some music. 1
+going to the swimming pool: </s> turn off the lights. 1
+going to the swimming pool: </s> drive to the pool 1
+going to the swimming pool: </s> check in at the counter 1
+going to the swimming pool: </s> pay the fee 1
+going to the swimming pool: </s> find a spot to swim 1
+going to the swimming pool: </s> stretch out 1
+going to the swimming pool: </s> get ready to swim 1
+going to the swimming pool: </s> arrive at the swimming pool 1
+going to the swimming pool: </s> get in line 1
+going to the swimming pool: </s> register for the pool 1
+going to the swimming pool: </s> choose your swimsuit 1
+going to the swimming pool: </s> choose your water temperature 1
+going to the swimming pool: </s> get in the water 1
+going to the swimming pool: </s> go to the swim pool 1
+going to the swimming pool: </s> put your swimsuits on 1
+going to the swimming pool: </s> take your swimsuits off 1
+going to the swimming pool: </s> get out of the pool 1
+going to the swimming pool: </s> go to the toilet 1
+going to the swimming pool: </s> get dressed 1

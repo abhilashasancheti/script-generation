@@ -1,0 +1,566 @@
+renovating a room: </s> remove furniture </s> take out walls 1
+renovating a room: </s> take out flooring </s> remove furniture 0
+renovating a room: </s> get flooring </s> remove furniture 0
+renovating a room: </s> dust flooring </s> remove furniture 0
+renovating a room: </s> move furniture to new location </s> remove furniture 0
+renovating a room: </s> remove furniture </s> put flooring back 1
+renovating a room: </s> remove furniture </s> turn on light 1
+renovating a room: </s> put away old carpet </s> remove furniture 0
+renovating a room: </s> clean walls and floors </s> remove furniture 0
+renovating a room: </s> take out flooring </s> take out walls 0
+renovating a room: </s> take out walls </s> get flooring 1
+renovating a room: </s> take out walls </s> dust flooring 1
+renovating a room: </s> take out walls </s> move furniture to new location 1
+renovating a room: </s> take out walls </s> put flooring back 1
+renovating a room: </s> turn on light </s> take out walls 0
+renovating a room: </s> put away old carpet </s> take out walls 0
+renovating a room: </s> clean walls and floors </s> take out walls 0
+renovating a room: </s> take out flooring </s> get flooring 1
+renovating a room: </s> dust flooring </s> take out flooring 0
+renovating a room: </s> take out flooring </s> move furniture to new location 1
+renovating a room: </s> take out flooring </s> put flooring back 1
+renovating a room: </s> turn on light </s> take out flooring 0
+renovating a room: </s> put away old carpet </s> take out flooring 0
+renovating a room: </s> clean walls and floors </s> take out flooring 0
+renovating a room: </s> get flooring </s> dust flooring 1
+renovating a room: </s> get flooring </s> move furniture to new location 1
+renovating a room: </s> put flooring back </s> get flooring 0
+renovating a room: </s> turn on light </s> get flooring 0
+renovating a room: </s> get flooring </s> put away old carpet 1
+renovating a room: </s> clean walls and floors </s> get flooring 0
+renovating a room: </s> dust flooring </s> move furniture to new location 1
+renovating a room: </s> dust flooring </s> put flooring back 1
+renovating a room: </s> turn on light </s> dust flooring 0
+renovating a room: </s> put away old carpet </s> dust flooring 0
+renovating a room: </s> clean walls and floors </s> dust flooring 0
+renovating a room: </s> put flooring back </s> move furniture to new location 0
+renovating a room: </s> move furniture to new location </s> turn on light 1
+renovating a room: </s> move furniture to new location </s> put away old carpet 1
+renovating a room: </s> move furniture to new location </s> clean walls and floors 1
+renovating a room: </s> turn on light </s> put flooring back 0
+renovating a room: </s> put flooring back </s> put away old carpet 1
+renovating a room: </s> clean walls and floors </s> put flooring back 0
+renovating a room: </s> put away old carpet </s> turn on light 0
+renovating a room: </s> clean walls and floors </s> turn on light 0
+renovating a room: </s> clean walls and floors </s> put away old carpet 0
+renovating a room: </s> make sure all the items are clean </s> take out items from their place in the house 0
+renovating a room: </s> clean the items </s> take out items from their place in the house 0
+renovating a room: </s> take out items from their place in the house </s> put the door back up 1
+renovating a room: </s> put the items back in their place </s> take out items from their place in the house 0
+renovating a room: </s> make sure all the items are clean </s> clean the items 1
+renovating a room: </s> make sure all the items are clean </s> put the door back up 1
+renovating a room: </s> put the items back in their place </s> make sure all the items are clean 0
+renovating a room: </s> put the door back up </s> clean the items 0
+renovating a room: </s> put the items back in their place </s> clean the items 0
+renovating a room: </s> put the door back up </s> put the items back in their place 1
+renovating a room: </s> buy a new door </s> select a new window 0
+renovating a room: </s> select a new window </s> take a look at the existing rooms 1
+renovating a room: </s> decide which room to put </s> select a new window 0
+renovating a room: </s> take out old windows </s> select a new window 0
+renovating a room: </s> select a new window </s> put new windows in 1
+renovating a room: </s> select a new window </s> make sure all furniture is back on the wall 1
+renovating a room: </s> make sure everything is neat and clean </s> select a new window 0
+renovating a room: </s> buy a new door </s> take a look at the existing rooms 1
+renovating a room: </s> buy a new door </s> decide which room to put 1
+renovating a room: </s> buy a new door </s> take out old windows 1
+renovating a room: </s> buy a new door </s> put new windows in 1
+renovating a room: </s> buy a new door </s> make sure all furniture is back on the wall 1
+renovating a room: </s> make sure everything is neat and clean </s> buy a new door 0
+renovating a room: </s> decide which room to put </s> take a look at the existing rooms 0
+renovating a room: </s> take a look at the existing rooms </s> take out old windows 1
+renovating a room: </s> put new windows in </s> take a look at the existing rooms 0
+renovating a room: </s> make sure all furniture is back on the wall </s> take a look at the existing rooms 0
+renovating a room: </s> take a look at the existing rooms </s> make sure everything is neat and clean 1
+renovating a room: </s> take out old windows </s> decide which room to put 0
+renovating a room: </s> decide which room to put </s> put new windows in 1
+renovating a room: </s> decide which room to put </s> make sure all furniture is back on the wall 1
+renovating a room: </s> make sure everything is neat and clean </s> decide which room to put 0
+renovating a room: </s> take out old windows </s> put new windows in 1
+renovating a room: </s> take out old windows </s> make sure all furniture is back on the wall 1
+renovating a room: </s> take out old windows </s> make sure everything is neat and clean 1
+renovating a room: </s> put new windows in </s> make sure all furniture is back on the wall 1
+renovating a room: </s> put new windows in </s> make sure everything is neat and clean 1
+renovating a room: </s> make sure everything is neat and clean </s> make sure all furniture is back on the wall 0
+renovating a room: </s> put it up in good condition </s> take the room in 0
+renovating a room: </s> take the room in </s> place the door 1
+renovating a room: </s> take the room in </s> put things around it 1
+renovating a room: </s> turn on lights and put things in the room </s> take the room in 0
+renovating a room: </s> take the room in </s> enjoy the new room 1
+renovating a room: </s> place the door </s> put it up in good condition 0
+renovating a room: </s> put it up in good condition </s> put things around it 1
+renovating a room: </s> put it up in good condition </s> turn on lights and put things in the room 1
+renovating a room: </s> put it up in good condition </s> enjoy the new room 1
+renovating a room: </s> place the door </s> put things around it 1
+renovating a room: </s> place the door </s> turn on lights and put things in the room 1
+renovating a room: </s> place the door </s> enjoy the new room 1
+renovating a room: </s> put things around it </s> turn on lights and put things in the room 1
+renovating a room: </s> enjoy the new room </s> put things around it 0
+renovating a room: </s> enjoy the new room </s> turn on lights and put things in the room 0
+renovating a room: </s> take out a room. </s> select a room to renovate. 0
+renovating a room: </s> select a room to renovate. </s> take away everything old. 1
+renovating a room: </s> select a room to renovate. </s> put everything new. 1
+renovating a room: </s> select a room to renovate. </s> put on some light furniture. 1
+renovating a room: </s> select a room to renovate. </s> make sure you have the correct number of rooms. 1
+renovating a room: </s> select a room to renovate. </s> put all furniture in the room. 1
+renovating a room: </s> select a room to renovate. </s> put the lights in the room. 1
+renovating a room: </s> select a room to renovate. </s> let the room cool down. 1
+renovating a room: </s> when it's cool, get out everything. </s> select a room to renovate. 0
+renovating a room: </s> select a room to renovate. </s> turn the lights off. 1
+renovating a room: </s> take away everything old. </s> take out a room. 0
+renovating a room: </s> put everything new. </s> take out a room. 0
+renovating a room: </s> take out a room. </s> put on some light furniture. 1
+renovating a room: </s> take out a room. </s> make sure you have the correct number of rooms. 1
+renovating a room: </s> put all furniture in the room. </s> take out a room. 0
+renovating a room: </s> put the lights in the room. </s> take out a room. 0
+renovating a room: </s> take out a room. </s> let the room cool down. 1
+renovating a room: </s> take out a room. </s> when it's cool, get out everything. 1
+renovating a room: </s> turn the lights off. </s> take out a room. 0
+renovating a room: </s> take away everything old. </s> put everything new. 1
+renovating a room: </s> take away everything old. </s> put on some light furniture. 1
+renovating a room: </s> take away everything old. </s> make sure you have the correct number of rooms. 1
+renovating a room: </s> put all furniture in the room. </s> take away everything old. 0
+renovating a room: </s> put the lights in the room. </s> take away everything old. 0
+renovating a room: </s> let the room cool down. </s> take away everything old. 0
+renovating a room: </s> take away everything old. </s> when it's cool, get out everything. 1
+renovating a room: </s> take away everything old. </s> turn the lights off. 1
+renovating a room: </s> put on some light furniture. </s> put everything new. 0
+renovating a room: </s> make sure you have the correct number of rooms. </s> put everything new. 0
+renovating a room: </s> put all furniture in the room. </s> put everything new. 0
+renovating a room: </s> put everything new. </s> put the lights in the room. 1
+renovating a room: </s> let the room cool down. </s> put everything new. 0
+renovating a room: </s> when it's cool, get out everything. </s> put everything new. 0
+renovating a room: </s> put everything new. </s> turn the lights off. 1
+renovating a room: </s> put on some light furniture. </s> make sure you have the correct number of rooms. 1
+renovating a room: </s> put on some light furniture. </s> put all furniture in the room. 1
+renovating a room: </s> put the lights in the room. </s> put on some light furniture. 0
+renovating a room: </s> put on some light furniture. </s> let the room cool down. 1
+renovating a room: </s> put on some light furniture. </s> when it's cool, get out everything. 1
+renovating a room: </s> turn the lights off. </s> put on some light furniture. 0
+renovating a room: </s> make sure you have the correct number of rooms. </s> put all furniture in the room. 1
+renovating a room: </s> put the lights in the room. </s> make sure you have the correct number of rooms. 0
+renovating a room: </s> let the room cool down. </s> make sure you have the correct number of rooms. 0
+renovating a room: </s> make sure you have the correct number of rooms. </s> when it's cool, get out everything. 1
+renovating a room: </s> make sure you have the correct number of rooms. </s> turn the lights off. 1
+renovating a room: </s> put all furniture in the room. </s> put the lights in the room. 1
+renovating a room: </s> put all furniture in the room. </s> let the room cool down. 1
+renovating a room: </s> put all furniture in the room. </s> when it's cool, get out everything. 1
+renovating a room: </s> put all furniture in the room. </s> turn the lights off. 1
+renovating a room: </s> let the room cool down. </s> put the lights in the room. 0
+renovating a room: </s> when it's cool, get out everything. </s> put the lights in the room. 0
+renovating a room: </s> put the lights in the room. </s> turn the lights off. 1
+renovating a room: </s> when it's cool, get out everything. </s> let the room cool down. 0
+renovating a room: </s> let the room cool down. </s> turn the lights off. 1
+renovating a room: </s> turn the lights off. </s> when it's cool, get out everything. 0
+cooking pasta: </s> heat up a pan </s> get a pan 0
+cooking pasta: </s> add some garlic and onion </s> get a pan 0
+cooking pasta: </s> get a pan </s> mix up a saucepan 1
+cooking pasta: </s> add some flour </s> get a pan 0
+cooking pasta: </s> get a pan </s> put a plate of pasta in the pan 1
+cooking pasta: </s> cook the pasta for a few minutes </s> get a pan 0
+cooking pasta: </s> turn off the burner </s> get a pan 0
+cooking pasta: </s> serve the pasta </s> get a pan 0
+cooking pasta: </s> add some garlic and onion </s> heat up a pan 0
+cooking pasta: </s> mix up a saucepan </s> heat up a pan 0
+cooking pasta: </s> heat up a pan </s> add some flour 1
+cooking pasta: </s> heat up a pan </s> put a plate of pasta in the pan 1
+cooking pasta: </s> cook the pasta for a few minutes </s> heat up a pan 0
+cooking pasta: </s> turn off the burner </s> heat up a pan 0
+cooking pasta: </s> serve the pasta </s> heat up a pan 0
+cooking pasta: </s> mix up a saucepan </s> add some garlic and onion 0
+cooking pasta: </s> add some garlic and onion </s> add some flour 1
+cooking pasta: </s> put a plate of pasta in the pan </s> add some garlic and onion 0
+cooking pasta: </s> add some garlic and onion </s> cook the pasta for a few minutes 1
+cooking pasta: </s> turn off the burner </s> add some garlic and onion 0
+cooking pasta: </s> add some garlic and onion </s> serve the pasta 1
+cooking pasta: </s> add some flour </s> mix up a saucepan 0
+cooking pasta: </s> put a plate of pasta in the pan </s> mix up a saucepan 0
+cooking pasta: </s> mix up a saucepan </s> cook the pasta for a few minutes 1
+cooking pasta: </s> turn off the burner </s> mix up a saucepan 0
+cooking pasta: </s> serve the pasta </s> mix up a saucepan 0
+cooking pasta: </s> put a plate of pasta in the pan </s> add some flour 0
+cooking pasta: </s> add some flour </s> cook the pasta for a few minutes 1
+cooking pasta: </s> turn off the burner </s> add some flour 0
+cooking pasta: </s> serve the pasta </s> add some flour 0
+cooking pasta: </s> put a plate of pasta in the pan </s> cook the pasta for a few minutes 1
+cooking pasta: </s> put a plate of pasta in the pan </s> turn off the burner 1
+cooking pasta: </s> put a plate of pasta in the pan </s> serve the pasta 1
+cooking pasta: </s> turn off the burner </s> cook the pasta for a few minutes 0
+cooking pasta: </s> serve the pasta </s> cook the pasta for a few minutes 0
+cooking pasta: </s> serve the pasta </s> turn off the burner 0
+cooking pasta: </s> grab pasta </s> put sauce on 1
+cooking pasta: </s> pour sauce on pasta </s> grab pasta 0
+cooking pasta: </s> cook in oven </s> grab pasta 0
+cooking pasta: </s> grab pasta </s> eat 1
+cooking pasta: </s> put sauce on </s> pour sauce on pasta 1
+cooking pasta: </s> put sauce on </s> cook in oven 1
+cooking pasta: </s> put sauce on </s> eat 1
+cooking pasta: </s> pour sauce on pasta </s> cook in oven 1
+cooking pasta: </s> eat </s> pour sauce on pasta 0
+cooking pasta: </s> cook in oven </s> eat 1
+cooking pasta: </s> turn on stove </s> go to kitchen 0
+cooking pasta: </s> turn on burner </s> go to kitchen 0
+cooking pasta: </s> go to kitchen </s> place pan on burner 1
+cooking pasta: </s> go to kitchen </s> wait for burner to heat up 1
+cooking pasta: </s> go to kitchen </s> get pan from burner 1
+cooking pasta: </s> place pan on stove </s> go to kitchen 0
+cooking pasta: </s> go to kitchen </s> add meat to pan 1
+cooking pasta: </s> go to kitchen </s> stir occasionally 1
+cooking pasta: </s> go to kitchen </s> cook meat 1
+cooking pasta: </s> go to kitchen </s> turn off stove 1
+cooking pasta: </s> go to kitchen </s> take out of oven 1
+cooking pasta: </s> add eggs </s> go to kitchen 0
+cooking pasta: </s> serve </s> go to kitchen 0
+cooking pasta: </s> enjoy! </s> go to kitchen 0
+cooking pasta: </s> turn on stove </s> turn on burner 1
+cooking pasta: </s> turn on stove </s> place pan on burner 1
+cooking pasta: </s> turn on stove </s> wait for burner to heat up 1
+cooking pasta: </s> get pan from burner </s> turn on stove 0
+cooking pasta: </s> turn on stove </s> place pan on stove 1
+cooking pasta: </s> turn on stove </s> add meat to pan 1
+cooking pasta: </s> turn on stove </s> stir occasionally 1
+cooking pasta: </s> cook meat </s> turn on stove 0
+cooking pasta: </s> turn on stove </s> turn off stove 1
+cooking pasta: </s> take out of oven </s> turn on stove 0
+cooking pasta: </s> turn on stove </s> add eggs 1
+cooking pasta: </s> serve </s> turn on stove 0
+cooking pasta: </s> enjoy! </s> turn on stove 0
+cooking pasta: </s> place pan on burner </s> turn on burner 0
+cooking pasta: </s> turn on burner </s> wait for burner to heat up 1
+cooking pasta: </s> turn on burner </s> get pan from burner 1
+cooking pasta: </s> place pan on stove </s> turn on burner 0
+cooking pasta: </s> add meat to pan </s> turn on burner 0
+cooking pasta: </s> turn on burner </s> stir occasionally 1
+cooking pasta: </s> turn on burner </s> cook meat 1
+cooking pasta: </s> turn off stove </s> turn on burner 0
+cooking pasta: </s> turn on burner </s> take out of oven 1
+cooking pasta: </s> turn on burner </s> add eggs 1
+cooking pasta: </s> turn on burner </s> serve 1
+cooking pasta: </s> turn on burner </s> enjoy! 1
+cooking pasta: </s> wait for burner to heat up </s> place pan on burner 0
+cooking pasta: </s> place pan on burner </s> get pan from burner 1
+cooking pasta: </s> place pan on burner </s> place pan on stove 1
+cooking pasta: </s> add meat to pan </s> place pan on burner 0
+cooking pasta: </s> stir occasionally </s> place pan on burner 0
+cooking pasta: </s> place pan on burner </s> cook meat 1
+cooking pasta: </s> place pan on burner </s> turn off stove 1
+cooking pasta: </s> place pan on burner </s> take out of oven 1
+cooking pasta: </s> place pan on burner </s> add eggs 1
+cooking pasta: </s> serve </s> place pan on burner 0
+cooking pasta: </s> enjoy! </s> place pan on burner 0
+cooking pasta: </s> get pan from burner </s> wait for burner to heat up 0
+cooking pasta: </s> wait for burner to heat up </s> place pan on stove 1
+cooking pasta: </s> wait for burner to heat up </s> add meat to pan 1
+cooking pasta: </s> wait for burner to heat up </s> stir occasionally 1
+cooking pasta: </s> wait for burner to heat up </s> cook meat 1
+cooking pasta: </s> turn off stove </s> wait for burner to heat up 0
+cooking pasta: </s> take out of oven </s> wait for burner to heat up 0
+cooking pasta: </s> wait for burner to heat up </s> add eggs 1
+cooking pasta: </s> serve </s> wait for burner to heat up 0
+cooking pasta: </s> wait for burner to heat up </s> enjoy! 1
+cooking pasta: </s> get pan from burner </s> place pan on stove 1
+cooking pasta: </s> add meat to pan </s> get pan from burner 0
+cooking pasta: </s> get pan from burner </s> stir occasionally 1
+cooking pasta: </s> get pan from burner </s> cook meat 1
+cooking pasta: </s> turn off stove </s> get pan from burner 0
+cooking pasta: </s> get pan from burner </s> take out of oven 1
+cooking pasta: </s> get pan from burner </s> add eggs 1
+cooking pasta: </s> serve </s> get pan from burner 0
+cooking pasta: </s> get pan from burner </s> enjoy! 1
+cooking pasta: </s> add meat to pan </s> place pan on stove 0
+cooking pasta: </s> place pan on stove </s> stir occasionally 1
+cooking pasta: </s> cook meat </s> place pan on stove 0
+cooking pasta: </s> turn off stove </s> place pan on stove 0
+cooking pasta: </s> take out of oven </s> place pan on stove 0
+cooking pasta: </s> place pan on stove </s> add eggs 1
+cooking pasta: </s> serve </s> place pan on stove 0
+cooking pasta: </s> enjoy! </s> place pan on stove 0
+cooking pasta: </s> stir occasionally </s> add meat to pan 0
+cooking pasta: </s> cook meat </s> add meat to pan 0
+cooking pasta: </s> turn off stove </s> add meat to pan 0
+cooking pasta: </s> add meat to pan </s> take out of oven 1
+cooking pasta: </s> add meat to pan </s> add eggs 1
+cooking pasta: </s> add meat to pan </s> serve 1
+cooking pasta: </s> add meat to pan </s> enjoy! 1
+cooking pasta: </s> stir occasionally </s> cook meat 1
+cooking pasta: </s> stir occasionally </s> turn off stove 1
+cooking pasta: </s> stir occasionally </s> take out of oven 1
+cooking pasta: </s> add eggs </s> stir occasionally 0
+cooking pasta: </s> stir occasionally </s> serve 1
+cooking pasta: </s> enjoy! </s> stir occasionally 0
+cooking pasta: </s> turn off stove </s> cook meat 0
+cooking pasta: </s> cook meat </s> take out of oven 1
+cooking pasta: </s> add eggs </s> cook meat 0
+cooking pasta: </s> serve </s> cook meat 0
+cooking pasta: </s> enjoy! </s> cook meat 0
+cooking pasta: </s> take out of oven </s> turn off stove 0
+cooking pasta: </s> turn off stove </s> add eggs 1
+cooking pasta: </s> turn off stove </s> serve 1
+cooking pasta: </s> turn off stove </s> enjoy! 1
+cooking pasta: </s> take out of oven </s> add eggs 1
+cooking pasta: </s> take out of oven </s> serve 1
+cooking pasta: </s> take out of oven </s> enjoy! 1
+cooking pasta: </s> add eggs </s> serve 1
+cooking pasta: </s> add eggs </s> enjoy! 1
+cooking pasta: </s> serve </s> enjoy! 1
+cooking pasta: </s> put a bowl in the kitchen </s> place a skillet on the stove 1
+cooking pasta: </s> put a pan on the stove </s> put a bowl in the kitchen 0
+cooking pasta: </s> put a bowl in the kitchen </s> heat the pan 1
+cooking pasta: </s> add some pasta </s> put a bowl in the kitchen 0
+cooking pasta: </s> let the pasta cook until done </s> put a bowl in the kitchen 0
+cooking pasta: </s> stir the pasta to avoid sticking </s> put a bowl in the kitchen 0
+cooking pasta: </s> take the cooked pasta and put it in the saucepan </s> put a bowl in the kitchen 0
+cooking pasta: </s> put a bowl in the kitchen </s> stir it to make it smooth 1
+cooking pasta: </s> turn off stove and serve the pasta </s> put a bowl in the kitchen 0
+cooking pasta: </s> put a bowl in the kitchen </s> serve more of the sauce 1
+cooking pasta: </s> place a skillet on the stove </s> put a pan on the stove 1
+cooking pasta: </s> heat the pan </s> place a skillet on the stove 0
+cooking pasta: </s> place a skillet on the stove </s> add some pasta 1
+cooking pasta: </s> let the pasta cook until done </s> place a skillet on the stove 0
+cooking pasta: </s> stir the pasta to avoid sticking </s> place a skillet on the stove 0
+cooking pasta: </s> place a skillet on the stove </s> take the cooked pasta and put it in the saucepan 1
+cooking pasta: </s> place a skillet on the stove </s> stir it to make it smooth 1
+cooking pasta: </s> turn off stove and serve the pasta </s> place a skillet on the stove 0
+cooking pasta: </s> place a skillet on the stove </s> serve more of the sauce 1
+cooking pasta: </s> put a pan on the stove </s> heat the pan 1
+cooking pasta: </s> put a pan on the stove </s> add some pasta 1
+cooking pasta: </s> let the pasta cook until done </s> put a pan on the stove 0
+cooking pasta: </s> stir the pasta to avoid sticking </s> put a pan on the stove 0
+cooking pasta: </s> put a pan on the stove </s> take the cooked pasta and put it in the saucepan 1
+cooking pasta: </s> put a pan on the stove </s> stir it to make it smooth 1
+cooking pasta: </s> put a pan on the stove </s> turn off stove and serve the pasta 1
+cooking pasta: </s> put a pan on the stove </s> serve more of the sauce 1
+cooking pasta: </s> heat the pan </s> add some pasta 1
+cooking pasta: </s> let the pasta cook until done </s> heat the pan 0
+cooking pasta: </s> heat the pan </s> stir the pasta to avoid sticking 1
+cooking pasta: </s> take the cooked pasta and put it in the saucepan </s> heat the pan 0
+cooking pasta: </s> heat the pan </s> stir it to make it smooth 1
+cooking pasta: </s> turn off stove and serve the pasta </s> heat the pan 0
+cooking pasta: </s> heat the pan </s> serve more of the sauce 1
+cooking pasta: </s> let the pasta cook until done </s> add some pasta 0
+cooking pasta: </s> add some pasta </s> stir the pasta to avoid sticking 1
+cooking pasta: </s> take the cooked pasta and put it in the saucepan </s> add some pasta 0
+cooking pasta: </s> stir it to make it smooth </s> add some pasta 0
+cooking pasta: </s> turn off stove and serve the pasta </s> add some pasta 0
+cooking pasta: </s> serve more of the sauce </s> add some pasta 0
+cooking pasta: </s> stir the pasta to avoid sticking </s> let the pasta cook until done 0
+cooking pasta: </s> take the cooked pasta and put it in the saucepan </s> let the pasta cook until done 0
+cooking pasta: </s> let the pasta cook until done </s> stir it to make it smooth 1
+cooking pasta: </s> turn off stove and serve the pasta </s> let the pasta cook until done 0
+cooking pasta: </s> let the pasta cook until done </s> serve more of the sauce 1
+cooking pasta: </s> stir the pasta to avoid sticking </s> take the cooked pasta and put it in the saucepan 1
+cooking pasta: </s> stir the pasta to avoid sticking </s> stir it to make it smooth 1
+cooking pasta: </s> stir the pasta to avoid sticking </s> turn off stove and serve the pasta 1
+cooking pasta: </s> stir the pasta to avoid sticking </s> serve more of the sauce 1
+cooking pasta: </s> stir it to make it smooth </s> take the cooked pasta and put it in the saucepan 0
+cooking pasta: </s> turn off stove and serve the pasta </s> take the cooked pasta and put it in the saucepan 0
+cooking pasta: </s> serve more of the sauce </s> take the cooked pasta and put it in the saucepan 0
+cooking pasta: </s> stir it to make it smooth </s> turn off stove and serve the pasta 1
+cooking pasta: </s> serve more of the sauce </s> stir it to make it smooth 0
+cooking pasta: </s> serve more of the sauce </s> turn off stove and serve the pasta 0
+cooking pasta: </s> gather ingredients in bowl </s> buy pasta 0
+cooking pasta: </s> put into the refrigerator </s> buy pasta 0
+cooking pasta: </s> set the timer </s> buy pasta 0
+cooking pasta: </s> buy pasta </s> when timer goes off, set the timer 1
+cooking pasta: </s> put the pasta into the pan </s> buy pasta 0
+cooking pasta: </s> buy pasta </s> stir constantly 1
+cooking pasta: </s> gather ingredients in bowl </s> put into the refrigerator 1
+cooking pasta: </s> gather ingredients in bowl </s> set the timer 1
+cooking pasta: </s> gather ingredients in bowl </s> when timer goes off, set the timer 1
+cooking pasta: </s> gather ingredients in bowl </s> put the pasta into the pan 1
+cooking pasta: </s> stir constantly </s> gather ingredients in bowl 0
+cooking pasta: </s> set the timer </s> put into the refrigerator 0
+cooking pasta: </s> when timer goes off, set the timer </s> put into the refrigerator 0
+cooking pasta: </s> put into the refrigerator </s> put the pasta into the pan 1
+cooking pasta: </s> stir constantly </s> put into the refrigerator 0
+cooking pasta: </s> when timer goes off, set the timer </s> set the timer 0
+cooking pasta: </s> set the timer </s> put the pasta into the pan 1
+cooking pasta: </s> set the timer </s> stir constantly 1
+cooking pasta: </s> when timer goes off, set the timer </s> put the pasta into the pan 1
+cooking pasta: </s> when timer goes off, set the timer </s> stir constantly 1
+cooking pasta: </s> stir constantly </s> put the pasta into the pan 0
+sewing a button: </s> get out an item that you need to sew </s> open up the sewing machine 1
+sewing a button: </s> get out an item that you need to sew </s> insert the button 1
+sewing a button: </s> insert the rest of the button </s> get out an item that you need to sew 0
+sewing a button: </s> insert the button </s> open up the sewing machine 0
+sewing a button: </s> open up the sewing machine </s> insert the rest of the button 1
+sewing a button: </s> insert the rest of the button </s> insert the button 0
+sewing a button: </s> find a garment </s> find some cloth to use as backing 1
+sewing a button: </s> find a garment </s> fold it out 1
+sewing a button: </s> sew on the top </s> find a garment 0
+sewing a button: </s> hang up the garment </s> find a garment 0
+sewing a button: </s> find some cloth to use as backing </s> fold it out 1
+sewing a button: </s> find some cloth to use as backing </s> sew on the top 1
+sewing a button: </s> find some cloth to use as backing </s> hang up the garment 1
+sewing a button: </s> sew on the top </s> fold it out 0
+sewing a button: </s> fold it out </s> hang up the garment 1
+sewing a button: </s> sew on the top </s> hang up the garment 1
+sewing a button: </s> pick out the right material. </s> gather the buttons. 1
+sewing a button: </s> pick out the right material. </s> go to the sewing machine. 1
+sewing a button: </s> pick out the right material. </s> close the button hole. 1
+sewing a button: </s> sew the button. </s> pick out the right material. 0
+sewing a button: </s> pick out the right material. </s> put the buttons back. 1
+sewing a button: </s> gather the buttons. </s> go to the sewing machine. 1
+sewing a button: </s> gather the buttons. </s> close the button hole. 1
+sewing a button: </s> gather the buttons. </s> sew the button. 1
+sewing a button: </s> put the buttons back. </s> gather the buttons. 0
+sewing a button: </s> close the button hole. </s> go to the sewing machine. 0
+sewing a button: </s> sew the button. </s> go to the sewing machine. 0
+sewing a button: </s> go to the sewing machine. </s> put the buttons back. 1
+sewing a button: </s> close the button hole. </s> sew the button. 1
+sewing a button: </s> put the buttons back. </s> close the button hole. 0
+sewing a button: </s> put the buttons back. </s> sew the button. 0
+sewing a button: </s> find spot to put seam </s> take off garment 0
+sewing a button: </s> take off garment </s> place seam on seam 1
+sewing a button: </s> take off garment </s> make a stitch 1
+sewing a button: </s> press button </s> take off garment 0
+sewing a button: </s> place seam on seam </s> find spot to put seam 0
+sewing a button: </s> make a stitch </s> find spot to put seam 0
+sewing a button: </s> find spot to put seam </s> press button 1
+sewing a button: </s> place seam on seam </s> make a stitch 1
+sewing a button: </s> place seam on seam </s> press button 1
+sewing a button: </s> press button </s> make a stitch 0
+sewing a button: </s> open up buttons </s> take out buttons 0
+sewing a button: </s> take out buttons </s> place button on machine 1
+sewing a button: </s> press button </s> take out buttons 0
+sewing a button: </s> take out buttons </s> wait for it to press 1
+sewing a button: </s> put button on garment </s> take out buttons 0
+sewing a button: </s> sew buttons </s> take out buttons 0
+sewing a button: </s> place button on machine </s> open up buttons 0
+sewing a button: </s> press button </s> open up buttons 0
+sewing a button: </s> open up buttons </s> wait for it to press 1
+sewing a button: </s> put button on garment </s> open up buttons 0
+sewing a button: </s> open up buttons </s> sew buttons 1
+sewing a button: </s> place button on machine </s> press button 1
+sewing a button: </s> place button on machine </s> wait for it to press 1
+sewing a button: </s> put button on garment </s> place button on machine 0
+sewing a button: </s> place button on machine </s> sew buttons 1
+sewing a button: </s> press button </s> wait for it to press 1
+sewing a button: </s> press button </s> put button on garment 1
+sewing a button: </s> sew buttons </s> press button 0
+sewing a button: </s> put button on garment </s> wait for it to press 0
+sewing a button: </s> wait for it to press </s> sew buttons 1
+sewing a button: </s> sew buttons </s> put button on garment 0
+doing laundry: </s> turn on water </s> put on clothes 1
+doing laundry: </s> turn on water </s> pick out clothes to wash 1
+doing laundry: </s> hang them up </s> turn on water 0
+doing laundry: </s> put on clothes </s> pick out clothes to wash 1
+doing laundry: </s> hang them up </s> put on clothes 0
+doing laundry: </s> hang them up </s> pick out clothes to wash 0
+doing laundry: </s> get clothes </s> turn on clothes 1
+doing laundry: </s> put clothes in machine </s> get clothes 0
+doing laundry: </s> put water in machine </s> get clothes 0
+doing laundry: </s> get clothes </s> wash each side of the clothes 1
+doing laundry: </s> turn on clothes </s> put clothes in machine 1
+doing laundry: </s> put water in machine </s> turn on clothes 0
+doing laundry: </s> wash each side of the clothes </s> turn on clothes 0
+doing laundry: </s> put clothes in machine </s> put water in machine 1
+doing laundry: </s> wash each side of the clothes </s> put clothes in machine 0
+doing laundry: </s> wash each side of the clothes </s> put water in machine 0
+doing laundry: </s> put items in drying rack. </s> remove clothes from laundry basket. 0
+doing laundry: </s> add laundry to drying rack. </s> remove clothes from laundry basket. 0
+doing laundry: </s> place item in drying rack. </s> remove clothes from laundry basket. 0
+doing laundry: </s> put bag in the dryer. </s> remove clothes from laundry basket. 0
+doing laundry: </s> add laundry to drying rack. </s> put items in drying rack. 0
+doing laundry: </s> put items in drying rack. </s> place item in drying rack. 1
+doing laundry: </s> put items in drying rack. </s> put bag in the dryer. 1
+doing laundry: </s> add laundry to drying rack. </s> place item in drying rack. 1
+doing laundry: </s> add laundry to drying rack. </s> put bag in the dryer. 1
+doing laundry: </s> place item in drying rack. </s> put bag in the dryer. 1
+doing laundry: </s> grab it and put it in the machine </s> turn on laundry 0
+doing laundry: </s> put the laundry away </s> turn on laundry 0
+doing laundry: </s> put the laundry on the dryer </s> turn on laundry 0
+doing laundry: </s> turn off the laundry </s> turn on laundry 0
+doing laundry: </s> grab it and put it in the machine </s> put the laundry away 1
+doing laundry: </s> put the laundry on the dryer </s> grab it and put it in the machine 0
+doing laundry: </s> turn off the laundry </s> grab it and put it in the machine 0
+doing laundry: </s> put the laundry away </s> put the laundry on the dryer 1
+doing laundry: </s> turn off the laundry </s> put the laundry away 0
+doing laundry: </s> turn off the laundry </s> put the laundry on the dryer 0
+doing laundry: </s> get laundry out of the dryer </s> put on clothes 1
+doing laundry: </s> wash and dry the laundry </s> get laundry out of the dryer 0
+doing laundry: </s> put the clothes away </s> get laundry out of the dryer 0
+doing laundry: </s> wash and dry the laundry </s> put on clothes 0
+doing laundry: </s> put the clothes away </s> put on clothes 0
+doing laundry: </s> put the clothes away </s> wash and dry the laundry 0
+going bowling: </s> find a bowling alley. </s> walk to the alley. 1
+going bowling: </s> find a bowling alley. </s> sit on the lanes. 1
+going bowling: </s> find a bowling alley. </s> bowl. 1
+going bowling: </s> walk to the alley. </s> sit on the lanes. 1
+going bowling: </s> walk to the alley. </s> bowl. 1
+going bowling: </s> sit on the lanes. </s> bowl. 1
+going bowling: </s> go to bowling alley </s> decide what time you want to go bowling 0
+going bowling: </s> decide what time you want to go bowling </s> buy a drink 1
+going bowling: </s> decide what time you want to go bowling </s> walk into alley 1
+going bowling: </s> start bowling </s> decide what time you want to go bowling 0
+going bowling: </s> drink your drink </s> decide what time you want to go bowling 0
+going bowling: </s> decide what time you want to go bowling </s> get up 1
+going bowling: </s> leave bowling alley </s> decide what time you want to go bowling 0
+going bowling: </s> go to bowling alley </s> buy a drink 1
+going bowling: </s> walk into alley </s> go to bowling alley 0
+going bowling: </s> go to bowling alley </s> start bowling 1
+going bowling: </s> drink your drink </s> go to bowling alley 0
+going bowling: </s> get up </s> go to bowling alley 0
+going bowling: </s> go to bowling alley </s> leave bowling alley 1
+going bowling: </s> buy a drink </s> walk into alley 1
+going bowling: </s> buy a drink </s> start bowling 1
+going bowling: </s> buy a drink </s> drink your drink 1
+going bowling: </s> buy a drink </s> get up 1
+going bowling: </s> leave bowling alley </s> buy a drink 0
+going bowling: </s> walk into alley </s> start bowling 1
+going bowling: </s> walk into alley </s> drink your drink 1
+going bowling: </s> get up </s> walk into alley 0
+going bowling: </s> leave bowling alley </s> walk into alley 0
+going bowling: </s> start bowling </s> drink your drink 1
+going bowling: </s> get up </s> start bowling 0
+going bowling: </s> leave bowling alley </s> start bowling 0
+going bowling: </s> drink your drink </s> get up 1
+going bowling: </s> leave bowling alley </s> drink your drink 0
+going bowling: </s> leave bowling alley </s> get up 0
+going bowling: </s> enter into bowling alley </s> select a game to play 1
+going bowling: </s> enter into bowling alley </s> throw a ball 1
+going bowling: </s> watch the ball go around </s> enter into bowling alley 0
+going bowling: </s> score a point </s> enter into bowling alley 0
+going bowling: </s> enter into bowling alley </s> exit out of bowling alley 1
+going bowling: </s> watch the ball bounce in the air </s> enter into bowling alley 0
+going bowling: </s> score another point </s> enter into bowling alley 0
+going bowling: </s> leave bowling alley </s> enter into bowling alley 0
+going bowling: </s> select a game to play </s> throw a ball 1
+going bowling: </s> watch the ball go around </s> select a game to play 0
+going bowling: </s> score a point </s> select a game to play 0
+going bowling: </s> select a game to play </s> exit out of bowling alley 1
+going bowling: </s> watch the ball bounce in the air </s> select a game to play 0
+going bowling: </s> score another point </s> select a game to play 0
+going bowling: </s> select a game to play </s> leave bowling alley 1
+going bowling: </s> throw a ball </s> watch the ball go around 1
+going bowling: </s> throw a ball </s> score a point 1
+going bowling: </s> throw a ball </s> exit out of bowling alley 1
+going bowling: </s> watch the ball bounce in the air </s> throw a ball 0
+going bowling: </s> score another point </s> throw a ball 0
+going bowling: </s> throw a ball </s> leave bowling alley 1
+going bowling: </s> watch the ball go around </s> score a point 1
+going bowling: </s> exit out of bowling alley </s> watch the ball go around 0
+going bowling: </s> watch the ball go around </s> watch the ball bounce in the air 1
+going bowling: </s> score another point </s> watch the ball go around 0
+going bowling: </s> watch the ball go around </s> leave bowling alley 1
+going bowling: </s> exit out of bowling alley </s> score a point 0
+going bowling: </s> score a point </s> watch the ball bounce in the air 1
+going bowling: </s> score a point </s> score another point 1
+going bowling: </s> leave bowling alley </s> score a point 0
+going bowling: </s> exit out of bowling alley </s> watch the ball bounce in the air 1
+going bowling: </s> score another point </s> exit out of bowling alley 0
+going bowling: </s> leave bowling alley </s> exit out of bowling alley 0
+going bowling: </s> score another point </s> watch the ball bounce in the air 0
+going bowling: </s> leave bowling alley </s> watch the ball bounce in the air 0
+going bowling: </s> leave bowling alley </s> score another point 0
+going bowling: </s> buy a ticket. </s> go to the bowling alley. 1
+going bowling: </s> buy a ticket. </s> get on the bowling lane. 1
+going bowling: </s> score the ball and let it fall. </s> buy a ticket. 0
+going bowling: </s> go to the bowling alley. </s> get on the bowling lane. 1
+going bowling: </s> score the ball and let it fall. </s> go to the bowling alley. 0
+going bowling: </s> get on the bowling lane. </s> score the ball and let it fall. 1
+going bowling: </s> arrive to bowling alley </s> drive to bowling alley 1
+going bowling: </s> arrive to bowling alley </s> buy tickets 1
+going bowling: </s> arrive to bowling alley </s> get dressed 1
+going bowling: </s> buy tickets </s> drive to bowling alley 0
+going bowling: </s> get dressed </s> drive to bowling alley 0
+going bowling: </s> buy tickets </s> get dressed 1

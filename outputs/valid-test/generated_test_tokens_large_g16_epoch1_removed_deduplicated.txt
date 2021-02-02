@@ -1,0 +1,25 @@
+<BOS> <SCR> baking a cake <ESCR>: 1. gather ingredients for cake 2. place all ingredients in a cup 3. melt the butter in a pan 4. add sugar to the pan 5. mix with a fork 6. add salt to the pan 7. stir the mixture in pan 8. pour the batter into the prepared pan 9. wait until done 10. pour the cake into the plate 
+<BOS> <SCR> baking a cake <ESCR>: 1. get a loaf of bread 2. get some water 3. put some butter on the top of the bread 4. turn on the oven 5. wait for the oven to be hot 6. take the bread out of the oven 7. place the cake in the cake holder 8. eat the cake 
+<BOS> <SCR> baking a cake <ESCR>: 1. decide on a cake 2. add oil to a pan 3. get a piece of cake 4. add ingredients to the pan 5. put a spoonful of water into the pan 6. turn on burner 7. pour the water onto the cake 8. pour more batter on top 9. add cream cheese 10. serve 
+<BOS> <SCR> baking a cake <ESCR>: 1. get a pan 2. get an oven 3. fill it with water 4. take the cake 5. mix it with the water 6. get the cake out of the water 7. put the cake on the pan 
+<BOS> <SCR> baking a cake <ESCR>: 1. fill a pan with water 2. add sugar, butter and eggs 3. mix the sugar with the butter 4. place the cake in the pan 5. turn the heat to high 6. cook for a few minutes 7. pour the mixture into a cupcake 8. enjoy. 
+<BOS> <SCR> borrowing a book from the library <ESCR>: 1. go to the library 2. choose a book 3. find a seat on a bench 4. put on a book 5. read the book 
+<BOS> <SCR> borrowing a book from the library <ESCR>: 1. choose book 2. find book you need 3. take book 4. open book in library 5. put book away 6. walk out of library 
+<BOS> <SCR> borrowing a book from the library <ESCR>: 1. call library 2. tell the librarian you'd like to borrow a book 3. give librarian your address 4. tell librarian if you have children 5. tell librarian that you want the book 6. put the book in the library's safe 7. return to the library 8. retrieve the book 
+<BOS> <SCR> borrowing a book from the library <ESCR>: 1. pick a book you want to read. 2. enter the library. 3. pick the book you want to borrow. 4. pick the books to buy from the shelves. 5. put away the book. 
+<BOS> <SCR> borrowing a book from the library <ESCR>: 1. search for what you want to read 2. find a book to borrow 3. go to the library 4. pick out what you want to read 5. open the library doors 6. find a seat 7. read the book 8. pay for the book 9. leave 
+<BOS> <SCR> flying in an airplane <ESCR>: 1. get in the car 2. drive to the airport 3. check in 4. get my ticket 5. go to the airplane 
+<BOS> <SCR> flying in an airplane <ESCR>: 1. buy flight tickets 2. find airline 3. go to airline ticket counter 4. hand flight ticket 5. get confirmation 6. find airport 7. find gate 
+<BOS> <SCR> flying in an airplane <ESCR>: 1. go to airport 2. go to flight attendant 3. take seat 4. give luggage to attendant 5. put on seat cushion 6. sit in seat 7. listen to flight attendant 8. check in ticket 9. take baggage 10. leave airplane 
+<BOS> <SCR> flying in an airplane <ESCR>: 1. find flight attendant 2. tell her you are headed to the airport 3. give her your id and luggage 4. tell her what flight you are flying 5. get out of the airplane 
+<BOS> <SCR> flying in an airplane <ESCR>: 1. find your airline 2. travel to the airport 3. check in at the desk 4. receive your ticket and boarding pass 5. enter the airport 6. receive your seat 7. find a quiet spot 8. check your instruments 9. get on the plane 
+<BOS> <SCR> going on a train <ESCR>: 1. walk to station 2. buy ticket 3. board train 4. wait for your destination 5. go home 
+<BOS> <SCR> going on a train <ESCR>: 1. get off at correct stop 2. go to correct stop 3. buy ticket 4. go to station 5. get on to correct train 
+<BOS> <SCR> going on a train <ESCR>: 1. arrive at station 2. take a seat 3. put luggage on seat 4. go through security 5. get on train 6. travel to destination 
+<BOS> <SCR> going on a train <ESCR>: 1. walk up to correct stop 2. find seat 3. pay for ticket 4. find a seat 5. get off train 6. walk to destination 
+<BOS> <SCR> going on a train <ESCR>: 1. get dressed 2. go to station 3. pay for a ticket 4. wait for the train to arrive 5. find a seat in the train 6. enjoy the ride 
+<BOS> <SCR> riding on a bus <ESCR>: 1. find a seat 2. put on seatbelt 3. put seat belt on 4. get off 5. get into bus 6. ride 
+<BOS> <SCR> riding on a bus <ESCR>: 1. arrive at bus stop 2. get on bus 3. wait for train 4. board bus 5. drive to destination 
+<BOS> <SCR> riding on a bus <ESCR>: 1. grab the nearest stop 2. board the bus 3. get off at the stop 4. wait for the next stop 5. wait for the next bus 
+<BOS> <SCR> riding on a bus <ESCR>: 1. buy your ticket. 2. get on bus. 3. sit down. 4. listen to the driver. 5. wait for the bus to stop. 6. exit bus. 
+<BOS> <SCR> riding on a bus <ESCR>: 1. arrive at bus stop 2. get on bus 3. wait for turn 4. get off bus 5. get back on bus 

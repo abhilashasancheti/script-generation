@@ -1,0 +1,18 @@
+washing dishes;run the water for a minute 
+washing dishes;lather up with the soap 
+washing dishes;rinse 
+washing dishes;open the water 
+making a bonfire;fill up a fuel container with fuel 
+making a bonfire;light the match 
+making a bonfire;put the fuel container out of the fire 
+making a bonfire;wait for the flame to finish 
+going to the sauna;pack a towel 
+going to the sauna;start sauna 
+going to the sauna;leave sauna 
+going to the sauna;get into sauna 
+making coffee;fill machine with water 
+making coffee;add milk or other beverage that will be flavored 
+going to the swimming pool;pay for parking 
+going to the swimming pool;enjoy the water 
+going to the swimming pool;exit the pool 
+going to the swimming pool;rinse yourself 

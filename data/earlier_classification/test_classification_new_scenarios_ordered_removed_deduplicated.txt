@@ -1,0 +1,1110 @@
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> place the order </s> choose the type of food you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make sure the food is delivered </s> choose the type of food you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> choose the delivery service </s> choose the type of food you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> choose the type of food you want </s> pay for the delivery service 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> choose the type of food you want </s> wait for the order to come 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take the delivery </s> choose the type of food you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> choose the type of food you want </s> eat the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make sure the food is delivered </s> place the order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> place the order </s> choose the delivery service 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay for the delivery service </s> place the order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> place the order </s> wait for the order to come 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> place the order </s> take the delivery 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> place the order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make sure the food is delivered </s> choose the delivery service 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay for the delivery service </s> make sure the food is delivered 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> wait for the order to come </s> make sure the food is delivered 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take the delivery </s> make sure the food is delivered 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> make sure the food is delivered 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> choose the delivery service </s> pay for the delivery service 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> choose the delivery service </s> wait for the order to come 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> choose the delivery service </s> take the delivery 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> choose the delivery service 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay for the delivery service </s> wait for the order to come 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take the delivery </s> pay for the delivery service 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay for the delivery service </s> eat the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> wait for the order to come </s> take the delivery 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> wait for the order to come </s> eat the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> take the delivery 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go online and select the menu that you want </s> go to the store 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go online and select the menu that you want </s> select what you want to order 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> type your name and address in the box </s> go online and select the menu that you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go online and select the menu that you want </s> enter your order in the basket 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the total and receive the item at the counter </s> go online and select the menu that you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go online and select the menu that you want </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select what you want to order </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> type your name and address in the box </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to the store </s> enter your order in the basket 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the total and receive the item at the counter </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> leave the store </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> type your name and address in the box </s> select what you want to order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enter your order in the basket </s> select what you want to order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the total and receive the item at the counter </s> select what you want to order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> leave the store </s> select what you want to order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> type your name and address in the box </s> enter your order in the basket 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the total and receive the item at the counter </s> type your name and address in the box 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> leave the store </s> type your name and address in the box 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enter your order in the basket </s> pay the total and receive the item at the counter 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enter your order in the basket </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the total and receive the item at the counter </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to website </s> select what you want 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to website </s> call the company 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to website </s> tell them what you want 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to website </s> have your credit card or debit card ready 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> wait for them to take your order </s> go to website 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enjoy the food </s> go to website 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select what you want </s> call the company 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> tell them what you want </s> select what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have your credit card or debit card ready </s> select what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> wait for them to take your order </s> select what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select what you want </s> enjoy the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call the company </s> tell them what you want 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have your credit card or debit card ready </s> call the company 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call the company </s> wait for them to take your order 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enjoy the food </s> call the company 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have your credit card or debit card ready </s> tell them what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> wait for them to take your order </s> tell them what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enjoy the food </s> tell them what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have your credit card or debit card ready </s> wait for them to take your order 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have your credit card or debit card ready </s> enjoy the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> wait for them to take your order </s> enjoy the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select from menu </s> look at what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> look at what you want </s> get phone 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call them </s> look at what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> look at what you want </s> tell them what you want 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to phone </s> look at what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay and then wait for it to take </s> look at what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat </s> look at what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> look at what you want </s> get your receipt 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select from menu </s> get phone 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select from menu </s> call them 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select from menu </s> tell them what you want 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to phone </s> select from menu 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select from menu </s> pay and then wait for it to take 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> select from menu </s> eat 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get your receipt </s> select from menu 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call them </s> get phone 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> tell them what you want </s> get phone 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get phone </s> go to phone 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay and then wait for it to take </s> get phone 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat </s> get phone 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get your receipt </s> get phone 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call them </s> tell them what you want 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to phone </s> call them 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call them </s> pay and then wait for it to take 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call them </s> eat 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get your receipt </s> call them 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to phone </s> tell them what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> tell them what you want </s> pay and then wait for it to take 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat </s> tell them what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get your receipt </s> tell them what you want 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to phone </s> pay and then wait for it to take 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> go to phone </s> eat 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get your receipt </s> go to phone 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay and then wait for it to take </s> eat 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get your receipt </s> pay and then wait for it to take 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get your receipt </s> eat 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get an order of food from a grocery store </s> make an order for food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make an order for food </s> enter the internet to order food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call the store to order food </s> make an order for food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up food </s> make an order for food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up phone and call the store to place order </s> make an order for food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make an order for food </s> pay the bill 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make an order for food </s> pick up the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make an order for food </s> take food to the drive-through window 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make an order for food </s> have food prepared 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> make an order for food </s> drive the car to the drive-through window 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> make an order for food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get an order of food from a grocery store </s> enter the internet to order food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get an order of food from a grocery store </s> call the store to order food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get an order of food from a grocery store </s> pick up food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up phone and call the store to place order </s> get an order of food from a grocery store 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get an order of food from a grocery store </s> pay the bill 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get an order of food from a grocery store </s> pick up the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take food to the drive-through window </s> get an order of food from a grocery store 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> get an order of food from a grocery store </s> have food prepared 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> drive the car to the drive-through window </s> get an order of food from a grocery store 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> get an order of food from a grocery store 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call the store to order food </s> enter the internet to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up food </s> enter the internet to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up phone and call the store to place order </s> enter the internet to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enter the internet to order food </s> pay the bill 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up the food </s> enter the internet to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take food to the drive-through window </s> enter the internet to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enter the internet to order food </s> have food prepared 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> drive the car to the drive-through window </s> enter the internet to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> enter the internet to order food </s> eat the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call the store to order food </s> pick up food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call the store to order food </s> pick up phone and call the store to place order 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the bill </s> call the store to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up the food </s> call the store to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take food to the drive-through window </s> call the store to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> call the store to order food </s> have food prepared 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> drive the car to the drive-through window </s> call the store to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> call the store to order food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up phone and call the store to place order </s> pick up food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up food </s> pay the bill 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up food </s> pick up the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take food to the drive-through window </s> pick up food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have food prepared </s> pick up food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> drive the car to the drive-through window </s> pick up food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> pick up food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up phone and call the store to place order </s> pay the bill 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up phone and call the store to place order </s> pick up the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up phone and call the store to place order </s> take food to the drive-through window 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up phone and call the store to place order </s> have food prepared 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> drive the car to the drive-through window </s> pick up phone and call the store to place order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> pick up phone and call the store to place order 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up the food </s> pay the bill 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the bill </s> take food to the drive-through window 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have food prepared </s> pay the bill 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the bill </s> drive the car to the drive-through window 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pay the bill </s> eat the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take food to the drive-through window </s> pick up the food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have food prepared </s> pick up the food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> drive the car to the drive-through window </s> pick up the food 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> pick up the food </s> eat the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have food prepared </s> take food to the drive-through window 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> take food to the drive-through window </s> drive the car to the drive-through window 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> take food to the drive-through window 0
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have food prepared </s> drive the car to the drive-through window 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> have food prepared </s> eat the food 1
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: </s> eat the food </s> drive the car to the drive-through window 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> plug in the microwave </s> turn on the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> plug in the microwave </s> cook the food 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> remove the food from the microwave </s> plug in the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn on the microwave </s> cook the food 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> remove the food from the microwave </s> turn on the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> cook the food </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place some water in the microwave </s> plug in and turn on the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place a cup of water on the plate </s> plug in and turn on the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> plug in and turn on the microwave </s> put a spoon in the water 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> plug in and turn on the microwave </s> add salt and butter to the water 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> plug in and turn on the microwave </s> stir the butter and salt 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> plug in and turn on the microwave </s> take the spatula out of the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> plug in and turn on the microwave </s> pour in the food 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn the stove on to heat </s> plug in and turn on the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> plug in and turn on the microwave </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place a cup of water on the plate </s> place some water in the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put a spoon in the water </s> place some water in the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place some water in the microwave </s> add salt and butter to the water 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> stir the butter and salt </s> place some water in the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> take the spatula out of the microwave </s> place some water in the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> pour in the food </s> place some water in the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn the stove on to heat </s> place some water in the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place some water in the microwave </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put a spoon in the water </s> place a cup of water on the plate 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place a cup of water on the plate </s> add salt and butter to the water 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place a cup of water on the plate </s> stir the butter and salt 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> take the spatula out of the microwave </s> place a cup of water on the plate 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place a cup of water on the plate </s> pour in the food 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place a cup of water on the plate </s> turn the stove on to heat 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> place a cup of water on the plate </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> add salt and butter to the water </s> put a spoon in the water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put a spoon in the water </s> stir the butter and salt 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put a spoon in the water </s> take the spatula out of the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put a spoon in the water </s> pour in the food 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn the stove on to heat </s> put a spoon in the water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put a spoon in the water </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> stir the butter and salt </s> add salt and butter to the water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> take the spatula out of the microwave </s> add salt and butter to the water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> pour in the food </s> add salt and butter to the water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn the stove on to heat </s> add salt and butter to the water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> remove the food from the microwave </s> add salt and butter to the water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> take the spatula out of the microwave </s> stir the butter and salt 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> stir the butter and salt </s> pour in the food 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn the stove on to heat </s> stir the butter and salt 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> stir the butter and salt </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> take the spatula out of the microwave </s> pour in the food 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn the stove on to heat </s> take the spatula out of the microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> take the spatula out of the microwave </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> pour in the food </s> turn the stove on to heat 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> pour in the food </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn the stove on to heat </s> remove the food from the microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> open the microwave. </s> get ready to cook. 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> get ready to cook. </s> set the desired time on the machine. 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> wait for the time to be set on the machine. </s> get ready to cook. 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> open the microwave. </s> set the desired time on the machine. 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> open the microwave. </s> wait for the time to be set on the machine. 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> wait for the time to be set on the machine. </s> set the desired time on the machine. 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put water in microwave </s> put food in water 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put water in microwave </s> turn on microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put water in microwave </s> wait for food to cook 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> throw away unused water </s> put water in microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put water in microwave </s> turn off microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn on microwave </s> put food in water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> put food in water </s> wait for food to cook 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> throw away unused water </s> put food in water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn off microwave </s> put food in water 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn on microwave </s> wait for food to cook 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn on microwave </s> throw away unused water 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn off microwave </s> turn on microwave 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> throw away unused water </s> wait for food to cook 0
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> wait for food to cook </s> turn off microwave 1
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: </s> turn off microwave </s> throw away unused water 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> take the phone </s> answer the phone 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> take the phone </s> let the receptionist know what kind of order you want 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> take the phone </s> wait for your order to be called 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> take the phone </s> ask for your order to be called 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get your order </s> take the phone 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> take the phone </s> hang up the phone 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> leave the store </s> take the phone 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer the phone </s> let the receptionist know what kind of order you want 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> wait for your order to be called </s> answer the phone 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer the phone </s> ask for your order to be called 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get your order </s> answer the phone 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> hang up the phone </s> answer the phone 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer the phone </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> let the receptionist know what kind of order you want </s> wait for your order to be called 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> let the receptionist know what kind of order you want </s> ask for your order to be called 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> let the receptionist know what kind of order you want </s> get your order 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> hang up the phone </s> let the receptionist know what kind of order you want 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> let the receptionist know what kind of order you want </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> ask for your order to be called </s> wait for your order to be called 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get your order </s> wait for your order to be called 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> wait for your order to be called </s> hang up the phone 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> leave the store </s> wait for your order to be called 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get your order </s> ask for your order to be called 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> hang up the phone </s> ask for your order to be called 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> leave the store </s> ask for your order to be called 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get your order </s> hang up the phone 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get your order </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> hang up the phone </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get phone </s> dial number 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> find out phone number </s> get phone 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer </s> get phone 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get phone </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get phone </s> call back 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> dial number </s> find out phone number 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer </s> dial number 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> dial number </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> dial number </s> call back 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> find out phone number </s> answer 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> hang up </s> find out phone number 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> call back </s> find out phone number 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> hang up </s> answer 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> call back </s> answer 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> call back </s> hang up 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> give a name to the person </s> dial the number that is answered 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> give the person your location </s> dial the number that is answered 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> ask what's the problem </s> dial the number that is answered 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> dial the number that is answered </s> answer the call 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> give a name to the person </s> give the person your location 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> ask what's the problem </s> give a name to the person 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer the call </s> give a name to the person 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> give the person your location </s> ask what's the problem 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer the call </s> give the person your location 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer the call </s> ask what's the problem 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> put in answering machine </s> pull phone from pocket 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> pull phone from pocket </s> answer 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> pull phone from pocket </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> put in answering machine </s> answer 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> put in answering machine </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> answer </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> tell operator i'm calling </s> put phone on speaker 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> put phone on speaker </s> listen to operator 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get the right number </s> put phone on speaker 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> wait for the person to call </s> put phone on speaker 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> put phone on speaker </s> ask for details 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> put phone on speaker </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> listen to operator </s> tell operator i'm calling 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get the right number </s> tell operator i'm calling 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> wait for the person to call </s> tell operator i'm calling 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> tell operator i'm calling </s> ask for details 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> tell operator i'm calling </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> listen to operator </s> get the right number 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> listen to operator </s> wait for the person to call 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> listen to operator </s> ask for details 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> hang up </s> listen to operator 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> get the right number </s> wait for the person to call 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> ask for details </s> get the right number 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> hang up </s> get the right number 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> ask for details </s> wait for the person to call 0
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> wait for the person to call </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you answer telephone: </s> ask for details </s> hang up 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> walk into store </s> look at available items 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> take items to the register </s> walk into store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go buy item </s> walk into store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> leave store </s> walk into store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> take items to the register </s> look at available items 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go buy item </s> look at available items 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> leave store </s> look at available items 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> take items to the register </s> go buy item 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> take items to the register </s> leave store 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go buy item </s> leave store 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> drive to the store </s> go to the counter and ask for order 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> order food </s> drive to the store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> get my receipt </s> drive to the store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> drive to the store </s> go to the front counter 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> tell the cashier what order I want </s> drive to the store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> drive to the store </s> hand my card to the cashier 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> drive to the store </s> pay 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> drive to the store </s> go back to the counter 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> order food </s> go to the counter and ask for order 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the counter and ask for order </s> get my receipt 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the counter and ask for order </s> go to the front counter 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the counter and ask for order </s> tell the cashier what order I want 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> hand my card to the cashier </s> go to the counter and ask for order 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> pay </s> go to the counter and ask for order 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the counter and ask for order </s> go back to the counter 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> get my receipt </s> order food 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the front counter </s> order food 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> tell the cashier what order I want </s> order food 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> hand my card to the cashier </s> order food 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> pay </s> order food 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go back to the counter </s> order food 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the front counter </s> get my receipt 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> tell the cashier what order I want </s> get my receipt 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> hand my card to the cashier </s> get my receipt 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> pay </s> get my receipt 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> get my receipt </s> go back to the counter 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the front counter </s> tell the cashier what order I want 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> hand my card to the cashier </s> go to the front counter 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the front counter </s> pay 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go to the front counter </s> go back to the counter 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> hand my card to the cashier </s> tell the cashier what order I want 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> pay </s> tell the cashier what order I want 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go back to the counter </s> tell the cashier what order I want 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> hand my card to the cashier </s> pay 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> hand my card to the cashier </s> go back to the counter 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> go back to the counter </s> pay 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> find the correct amount of merchandise </s> drive to store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> buy it from the employee </s> drive to store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> drive to store </s> enter the store 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> drive to store </s> pay for the merchandise 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> drive to store </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> find the correct amount of merchandise </s> buy it from the employee 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> enter the store </s> find the correct amount of merchandise 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> pay for the merchandise </s> find the correct amount of merchandise 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> leave the store </s> find the correct amount of merchandise 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> enter the store </s> buy it from the employee 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> buy it from the employee </s> pay for the merchandise 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> buy it from the employee </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> pay for the merchandise </s> enter the store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> leave the store </s> enter the store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> pay for the merchandise </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait in line </s> enter store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> enter store </s> purchase item 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> leave </s> enter store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> get receipt </s> enter store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> purchase item </s> wait in line 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> leave </s> wait in line 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> get receipt </s> wait in line 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> leave </s> purchase item 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> get receipt </s> purchase item 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> leave </s> get receipt 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> arrive at the right store </s> choose the correct product 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> arrive at the right store </s> enter information 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> arrive at the right store </s> wait for your item to be called back to you 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> arrive at the right store </s> pay for your item 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait for your item to be returned </s> arrive at the right store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> take your item back to the counter </s> arrive at the right store 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> choose the correct product </s> enter information 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait for your item to be called back to you </s> choose the correct product 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> choose the correct product </s> pay for your item 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> choose the correct product </s> wait for your item to be returned 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> take your item back to the counter </s> choose the correct product 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait for your item to be called back to you </s> enter information 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> pay for your item </s> enter information 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> enter information </s> wait for your item to be returned 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> take your item back to the counter </s> enter information 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait for your item to be called back to you </s> pay for your item 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait for your item to be called back to you </s> wait for your item to be returned 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait for your item to be called back to you </s> take your item back to the counter 1
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait for your item to be returned </s> pay for your item 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> take your item back to the counter </s> pay for your item 0
+<BOS> here is an ordered sequence of events that occur when you buy from a vending machine: </s> wait for your item to be returned </s> take your item back to the counter 1
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> find your shoes </s> find shoes 0
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> place the laces on your shoe </s> take out shoes and shoe laces 0
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> tie the laces at the other end of the string </s> take out shoes and shoe laces 0
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> place the laces on your shoe </s> tie the laces at the other end of the string 1
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> find out a nice shoes that can help you get your shoes on. </s> put on a nice pair of shoes and shoes. 1
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> tie knot and place shoe on ground. </s> find out a nice shoes that can help you get your shoes on. 0
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> find out a nice shoes that can help you get your shoes on. </s> put shoe back on. 1
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> tie knot and place shoe on ground. </s> put on a nice pair of shoes and shoes. 0
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> put shoe back on. </s> put on a nice pair of shoes and shoes. 0
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> put shoe back on. </s> tie knot and place shoe on ground. 0
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> put on shoes </s> get shoes 0
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> get shoes </s> use the shoe laces as a knot 1
+<BOS> here is an ordered sequence of events that occur when you tie shoe laces: </s> put on shoes </s> use the shoe laces as a knot 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> pick up toothbrush </s> rub the bristles with the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> place the sponge on the toothbrush </s> pick up toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush the toothbrush thoroughly to remove any debris </s> pick up toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the sponge and place it back on the toothbrush </s> pick up toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> pick up toothbrush </s> repeat brushing until the toothbrush is no longer wet 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothbrush and put it back on the toothbrush </s> pick up toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> pick up toothbrush </s> repeat the brushing until the toothbrush is dry 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> pick up toothbrush </s> rinse the toothbrush and place it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rub the bristles with the toothbrush </s> place the sponge on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rub the bristles with the toothbrush </s> brush the toothbrush thoroughly to remove any debris 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rub the bristles with the toothbrush </s> rinse the sponge and place it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rub the bristles with the toothbrush </s> repeat brushing until the toothbrush is no longer wet 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothbrush and put it back on the toothbrush </s> rub the bristles with the toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat the brushing until the toothbrush is dry </s> rub the bristles with the toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rub the bristles with the toothbrush </s> rinse the toothbrush and place it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> place the sponge on the toothbrush </s> brush the toothbrush thoroughly to remove any debris 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the sponge and place it back on the toothbrush </s> place the sponge on the toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> place the sponge on the toothbrush </s> repeat brushing until the toothbrush is no longer wet 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> place the sponge on the toothbrush </s> rinse the toothbrush and put it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat the brushing until the toothbrush is dry </s> place the sponge on the toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> place the sponge on the toothbrush </s> rinse the toothbrush and place it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush the toothbrush thoroughly to remove any debris </s> rinse the sponge and place it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush the toothbrush thoroughly to remove any debris </s> repeat brushing until the toothbrush is no longer wet 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothbrush and put it back on the toothbrush </s> brush the toothbrush thoroughly to remove any debris 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat the brushing until the toothbrush is dry </s> brush the toothbrush thoroughly to remove any debris 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothbrush and place it back on the toothbrush </s> brush the toothbrush thoroughly to remove any debris 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the sponge and place it back on the toothbrush </s> repeat brushing until the toothbrush is no longer wet 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the sponge and place it back on the toothbrush </s> rinse the toothbrush and put it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat the brushing until the toothbrush is dry </s> rinse the sponge and place it back on the toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the sponge and place it back on the toothbrush </s> rinse the toothbrush and place it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat brushing until the toothbrush is no longer wet </s> rinse the toothbrush and put it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat brushing until the toothbrush is no longer wet </s> repeat the brushing until the toothbrush is dry 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat brushing until the toothbrush is no longer wet </s> rinse the toothbrush and place it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothbrush and put it back on the toothbrush </s> repeat the brushing until the toothbrush is dry 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothbrush and place it back on the toothbrush </s> rinse the toothbrush and put it back on the toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat the brushing until the toothbrush is dry </s> rinse the toothbrush and place it back on the toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the teeth washed </s> get the brush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the brush </s> brush teeth with toothbrush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the toothpaste </s> get the brush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the brush </s> wash teeth with toothpaste 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse out the toothpaste </s> get the brush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the brush </s> brush the teeth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush teeth with toothbrush </s> get the teeth washed 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the teeth washed </s> get the toothpaste 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> wash teeth with toothpaste </s> get the teeth washed 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the teeth washed </s> rinse out the toothpaste 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush the teeth </s> get the teeth washed 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the toothpaste </s> brush teeth with toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush teeth with toothbrush </s> wash teeth with toothpaste 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush teeth with toothbrush </s> rinse out the toothpaste 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush the teeth </s> brush teeth with toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get the toothpaste </s> wash teeth with toothpaste 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse out the toothpaste </s> get the toothpaste 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush the teeth </s> get the toothpaste 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse out the toothpaste </s> wash teeth with toothpaste 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> wash teeth with toothpaste </s> brush the teeth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush the teeth </s> rinse out the toothpaste 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> find toothpaste </s> get toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get toothbrush </s> put toothbrush in mouth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get toothbrush </s> place a little bit of toothpaste on the brush 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get toothbrush </s> scrub the teeth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get toothbrush </s> rinse the toothpaste out of the mouth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat this for all teeth </s> get toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> put toothbrush in mouth </s> find toothpaste 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> place a little bit of toothpaste on the brush </s> find toothpaste 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> scrub the teeth </s> find toothpaste 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> find toothpaste </s> rinse the toothpaste out of the mouth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat this for all teeth </s> find toothpaste 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> place a little bit of toothpaste on the brush </s> put toothbrush in mouth 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> put toothbrush in mouth </s> scrub the teeth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothpaste out of the mouth </s> put toothbrush in mouth 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat this for all teeth </s> put toothbrush in mouth 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> scrub the teeth </s> place a little bit of toothpaste on the brush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothpaste out of the mouth </s> place a little bit of toothpaste on the brush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> repeat this for all teeth </s> place a little bit of toothpaste on the brush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothpaste out of the mouth </s> scrub the teeth 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> scrub the teeth </s> repeat this for all teeth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> rinse the toothpaste out of the mouth </s> repeat this for all teeth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush with toothbrush </s> put toothpaste in mouth 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get toothbrush from bathroom </s> put toothpaste in mouth 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> put toothpaste in mouth </s> use toothbrush to clean teeth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> put toothpaste back in mouth </s> put toothpaste in mouth 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get toothbrush from bathroom </s> brush with toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> use toothbrush to clean teeth </s> brush with toothbrush 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> brush with toothbrush </s> put toothpaste back in mouth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> use toothbrush to clean teeth </s> get toothbrush from bathroom 0
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> get toothbrush from bathroom </s> put toothpaste back in mouth 1
+<BOS> here is an ordered sequence of events that occur when you brush teeth: </s> put toothpaste back in mouth </s> use toothbrush to clean teeth 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> add some ginger paste to it </s> whisk the paste with a fork 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> add some ginger paste to it </s> mix the ingredients well with a spoon until a paste forms 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> keep stirring till you get a good paste </s> add some ginger paste to it 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> add some ginger paste to it </s> use the paste to make paste with the ginger and sugar 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> keep using the tray to get more paste until all the water has been taken away </s> add some ginger paste to it 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> whisk the paste with a fork </s> mix the ingredients well with a spoon until a paste forms 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> keep stirring till you get a good paste </s> whisk the paste with a fork 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> use the paste to make paste with the ginger and sugar </s> whisk the paste with a fork 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> whisk the paste with a fork </s> keep using the tray to get more paste until all the water has been taken away 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> keep stirring till you get a good paste </s> mix the ingredients well with a spoon until a paste forms 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> use the paste to make paste with the ginger and sugar </s> mix the ingredients well with a spoon until a paste forms 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> mix the ingredients well with a spoon until a paste forms </s> keep using the tray to get more paste until all the water has been taken away 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> use the paste to make paste with the ginger and sugar </s> keep stirring till you get a good paste 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> keep using the tray to get more paste until all the water has been taken away </s> keep stirring till you get a good paste 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> use the paste to make paste with the ginger and sugar </s> keep using the tray to get more paste until all the water has been taken away 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> get a bunch of ginger. </s> put ginger in a bowl. 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> use your fingers to spread paste on a plate. </s> get a bunch of ginger. 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> use your fingers to spread paste on a plate. </s> put ginger in a bowl. 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> add paste to water </s> stir until paste is evenly cooked 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> add paste to water </s> pour paste on plate 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> pour paste on plate </s> stir until paste is evenly cooked 0
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> get a food processor. </s> pulse the food processor until you get a thick paste. 1
+<BOS> here is an ordered sequence of events that occur when you make ginger paste: </s> stir until paste becomes bubbly </s> put paste in pot 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> look at the dress in the store </s> decide on a wedding outfit that matches the color of the venue 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> give name to clerk </s> decide on a wedding outfit that matches the color of the venue 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to the reception </s> decide on a wedding outfit that matches the color of the venue 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> watch the ceremony </s> decide on a wedding outfit that matches the color of the venue 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> look at the dress in the store </s> give name to clerk 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> look at the dress in the store </s> go to the reception 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> look at the dress in the store </s> watch the ceremony 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> give name to clerk </s> go to the reception 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> watch the ceremony </s> give name to clerk 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> watch the ceremony </s> go to the reception 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to the reception area. </s> go to reception. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> take your guests to your place. </s> go to reception. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to reception. </s> give your dress and shoes to the reception. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> leave the reception and go home. </s> go to reception. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> put on your gown and take your guests. </s> go to reception. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to reception. </s> walk back to the reception and sit at a table. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to reception. </s> walk out of the reception and go home. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to reception. </s> leave reception and leave the reception area. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to the reception area. </s> take your guests to your place. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> give your dress and shoes to the reception. </s> go to the reception area. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> leave the reception and go home. </s> go to the reception area. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to the reception area. </s> put on your gown and take your guests. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> walk back to the reception and sit at a table. </s> go to the reception area. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> walk out of the reception and go home. </s> go to the reception area. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> leave reception and leave the reception area. </s> go to the reception area. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> take your guests to your place. </s> give your dress and shoes to the reception. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> leave the reception and go home. </s> take your guests to your place. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> take your guests to your place. </s> put on your gown and take your guests. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> walk back to the reception and sit at a table. </s> take your guests to your place. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> walk out of the reception and go home. </s> take your guests to your place. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> leave reception and leave the reception area. </s> take your guests to your place. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> give your dress and shoes to the reception. </s> leave the reception and go home. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> put on your gown and take your guests. </s> give your dress and shoes to the reception. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> give your dress and shoes to the reception. </s> walk back to the reception and sit at a table. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> give your dress and shoes to the reception. </s> walk out of the reception and go home. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> give your dress and shoes to the reception. </s> leave reception and leave the reception area. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> put on your gown and take your guests. </s> leave the reception and go home. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> walk back to the reception and sit at a table. </s> leave the reception and go home. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> walk out of the reception and go home. </s> leave the reception and go home. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> leave reception and leave the reception area. </s> leave the reception and go home. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> put on your gown and take your guests. </s> walk back to the reception and sit at a table. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> put on your gown and take your guests. </s> walk out of the reception and go home. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> put on your gown and take your guests. </s> leave reception and leave the reception area. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> walk out of the reception and go home. </s> walk back to the reception and sit at a table. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> walk back to the reception and sit at a table. </s> leave reception and leave the reception area. 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> leave reception and leave the reception area. </s> walk out of the reception and go home. 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> make a list of things to do at a wedding </s> arrive at the venue 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> enjoy the ceremony and reception </s> make a list of things to do at a wedding 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> enjoy the ceremony and reception </s> arrive at the venue 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> find a good wedding dress </s> ask if they would like to go to the wedding 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> find a good wedding dress </s> drive to the wedding 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> ask if they would like to go to the wedding </s> drive to the wedding 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> take an itinerary </s> go to the ceremony place 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> have the groom do his work </s> take an itinerary 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> take an itinerary </s> talk to guests 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> take an itinerary </s> enjoy the ceremony 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> go to the ceremony place </s> have the groom do his work 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> talk to guests </s> go to the ceremony place 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> enjoy the ceremony </s> go to the ceremony place 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> have the groom do his work </s> talk to guests 1
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> enjoy the ceremony </s> have the groom do his work 0
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: </s> talk to guests </s> enjoy the ceremony 1
+<BOS> here is an ordered sequence of events that occur when you attend a wedding: </s> pack a small outfit for the occasion </s> find out who your guests are 0
+<BOS> here is an ordered sequence of events that occur when you attend a wedding: </s> enter the ceremony room </s> find out who your guests are 0
+<BOS> here is an ordered sequence of events that occur when you attend a wedding: </s> give and accept compliments from the couple </s> find out who your guests are 0
+<BOS> here is an ordered sequence of events that occur when you attend a wedding: </s> enter the ceremony room </s> pack a small outfit for the occasion 0
+<BOS> here is an ordered sequence of events that occur when you attend a wedding: </s> pack a small outfit for the occasion </s> give and accept compliments from the couple 1
+<BOS> here is an ordered sequence of events that occur when you attend a wedding: </s> enter the ceremony room </s> give and accept compliments from the couple 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn off car </s> get car in bucket 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wet car </s> turn off car 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn off car </s> remove car 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn off car </s> dry car 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn off car </s> put away car 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wet car </s> get car in bucket 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> remove car </s> get car in bucket 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> dry car </s> get car in bucket 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> get car in bucket </s> put away car 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wet car </s> remove car 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wet car </s> dry car 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put away car </s> wet car 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> dry car </s> remove car 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> remove car </s> put away car 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put away car </s> dry car 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> remove and wash car </s> put car in washer 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> go in to the carwash </s> go to the carwash 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wash car </s> go to the carwash 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> go to the carwash </s> put in the proper vehicle 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> leave the carwash </s> go to the carwash 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wash car </s> go in to the carwash 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put in the proper vehicle </s> go in to the carwash 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> leave the carwash </s> go in to the carwash 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wash car </s> put in the proper vehicle 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wash car </s> leave the carwash 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> leave the carwash </s> put in the proper vehicle 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> take clean cloth and get car </s> remove any other items from the car 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wet car </s> remove any other items from the car 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wet car </s> take clean cloth and get car 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn it on. </s> put the car in the washer. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> remove the car. </s> put the car in the washer. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put the car in the washer. </s> clean the car thoroughly. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put car back in the washer. </s> put the car in the washer. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put the car in the washer. </s> wait for it to finish. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put the car in the washer. </s> put it in the duster. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> hang up the car. </s> put the car in the washer. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn it on. </s> remove the car. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn it on. </s> clean the car thoroughly. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn it on. </s> put car back in the washer. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn it on. </s> wait for it to finish. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn it on. </s> put it in the duster. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> turn it on. </s> hang up the car. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> clean the car thoroughly. </s> remove the car. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> remove the car. </s> put car back in the washer. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> remove the car. </s> wait for it to finish. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> remove the car. </s> put it in the duster. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> hang up the car. </s> remove the car. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> clean the car thoroughly. </s> put car back in the washer. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wait for it to finish. </s> clean the car thoroughly. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> clean the car thoroughly. </s> put it in the duster. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> hang up the car. </s> clean the car thoroughly. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wait for it to finish. </s> put car back in the washer. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put car back in the washer. </s> put it in the duster. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put car back in the washer. </s> hang up the car. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> put it in the duster. </s> wait for it to finish. 0
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> wait for it to finish. </s> hang up the car. 1
+<BOS> here is an ordered sequence of events that occur when you wash a car: </s> hang up the car. </s> put it in the duster. 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash bags </s> pick up a piece of trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash bags in trash can </s> pick up a piece of trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash cans in trash can </s> pick up a piece of trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> throw away trash </s> pick up a piece of trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash bags </s> put trash bags in trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash cans in trash can </s> pick up trash bags 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> throw away trash </s> pick up trash bags 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash bags in trash can </s> put trash cans in trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> throw away trash </s> put trash bags in trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash cans in trash can </s> throw away trash 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> walk to dumpster </s> pick up trash 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> walk to dumpster </s> dump trash into recycling 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> throw away trash </s> walk to dumpster 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> dump trash into recycling </s> pick up trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> throw away trash </s> pick up trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> dump trash into recycling </s> throw away trash 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> take trash bags </s> gather trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> gather trash </s> dispose of trash 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash </s> gather trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> gather trash </s> put trash bags in trash box 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash bags away </s> gather trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> dispose of trash </s> take trash bags 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash </s> take trash bags 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> take trash bags </s> put trash bags in trash box 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> take trash bags </s> put trash bags away 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash </s> dispose of trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash bags in trash box </s> dispose of trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> dispose of trash </s> put trash bags away 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash </s> put trash bags in trash box 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash </s> put trash bags away 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash bags away </s> put trash bags in trash box 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in trash can </s> pick up trash when done 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> dump trash </s> put trash in trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in trash can </s> put trash into recycling 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in recycling bin </s> put trash in trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in trash can </s> throw trash in trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash when done </s> dump trash 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash when done </s> put trash into recycling 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash when done </s> put trash in recycling bin 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pick up trash when done </s> throw trash in trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash into recycling </s> dump trash 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> dump trash </s> put trash in recycling bin 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> dump trash </s> throw trash in trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash into recycling </s> put trash in recycling bin 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> throw trash in trash can </s> put trash into recycling 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in recycling bin </s> throw trash in trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> take trash from bag to trash can </s> put trash into bag 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash into bag </s> put garbage into trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash into bag </s> pour cleaner into trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> remove trash </s> put trash into bag 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash into bag </s> put trash in trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put garbage into trash can </s> take trash from bag to trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> pour cleaner into trash can </s> take trash from bag to trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> take trash from bag to trash can </s> remove trash 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in trash can </s> take trash from bag to trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put garbage into trash can </s> pour cleaner into trash can 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put garbage into trash can </s> remove trash 1
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in trash can </s> put garbage into trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> remove trash </s> pour cleaner into trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in trash can </s> pour cleaner into trash can 0
+<BOS> here is an ordered sequence of events that occur when you take out trash: </s> put trash in trash can </s> remove trash 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> enter the building </s> approach the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> enter the building </s> tell the driver where you want to go 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the driver </s> enter the building 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> enter the building </s> get your payment 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> enter the building </s> get the ride 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> approach the driver </s> tell the driver where you want to go 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> approach the driver </s> wait for the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get your payment </s> approach the driver 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get the ride </s> approach the driver 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> tell the driver where you want to go </s> wait for the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get your payment </s> tell the driver where you want to go 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get the ride </s> tell the driver where you want to go 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get your payment </s> wait for the driver 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the driver </s> get the ride 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get your payment </s> get the ride 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call the taxi </s> get into the car 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> drive to the street </s> call the taxi 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call the taxi </s> find the car 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call the taxi </s> wait for the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> pay the driver </s> call the taxi 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call the taxi </s> get out the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get into the car </s> drive to the street 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> find the car </s> get into the car 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the driver </s> get into the car 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> pay the driver </s> get into the car 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get into the car </s> get out the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> drive to the street </s> find the car 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> drive to the street </s> wait for the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> pay the driver </s> drive to the street 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get out the driver </s> drive to the street 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> find the car </s> wait for the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> find the car </s> pay the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get out the driver </s> find the car 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> pay the driver </s> wait for the driver 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get out the driver </s> wait for the driver 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get out the driver </s> pay the driver 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for a cab </s> wait for the driver to arrive at your destination 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get in the cab </s> wait for a cab 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for a cab </s> wait for the driver to get out of the cab 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for a cab </s> walk to the exit 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for a cab </s> get out of the taxi 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get in the cab </s> wait for the driver to arrive at your destination 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the driver to get out of the cab </s> wait for the driver to arrive at your destination 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> walk to the exit </s> wait for the driver to arrive at your destination 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get out of the taxi </s> wait for the driver to arrive at your destination 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get in the cab </s> wait for the driver to get out of the cab 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> walk to the exit </s> get in the cab 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get out of the taxi </s> get in the cab 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the driver to get out of the cab </s> walk to the exit 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get out of the taxi </s> wait for the driver to get out of the cab 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> walk to the exit </s> get out of the taxi 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call a taxi </s> wait for the taxi 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call a taxi </s> park in the spot the taxi is parked 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call a taxi </s> wait for the taxi to arrive 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call a taxi </s> get in the car 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the taxi </s> park in the spot the taxi is parked 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the taxi </s> wait for the taxi to arrive 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the taxi </s> get in the car 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the taxi to arrive </s> park in the spot the taxi is parked 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get in the car </s> park in the spot the taxi is parked 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get in the car </s> wait for the taxi to arrive 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> get inside the taxi </s> call a taxi 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call a taxi </s> wait for the driver 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> drive to where your destination is </s> call a taxi 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> call a taxi </s> pay for your fare 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the driver </s> get inside the taxi 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> drive to where your destination is </s> get inside the taxi 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> pay for your fare </s> get inside the taxi 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> wait for the driver </s> drive to where your destination is 1
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> pay for your fare </s> wait for the driver 0
+<BOS> here is an ordered sequence of events that occur when you take a taxi: </s> drive to where your destination is </s> pay for your fare 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> find a surfing website </s> purchase internet from the website 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> wait for online payment </s> find a surfing website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> sign out of account </s> find a surfing website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> get out of internet service </s> find a surfing website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> purchase internet from the website </s> wait for online payment 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> sign out of account </s> purchase internet from the website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> purchase internet from the website </s> get out of internet service 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> wait for online payment </s> sign out of account 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> get out of internet service </s> wait for online payment 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> get out of internet service </s> sign out of account 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the computer </s> log on to the computer 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the computer </s> type in your e-mail address 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the computer </s> enter the URL of the website you want to surf 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> enter the password you used on the computer </s> go to the computer 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the computer </s> click on send this link to a friend 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> close the browser window </s> go to the computer 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the computer </s> return the form. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> log on to the computer </s> type in your e-mail address 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> enter the URL of the website you want to surf </s> log on to the computer 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> log on to the computer </s> enter the password you used on the computer 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> click on send this link to a friend </s> log on to the computer 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> close the browser window </s> log on to the computer 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> log on to the computer </s> return the form. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> enter the URL of the website you want to surf </s> type in your e-mail address 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> enter the password you used on the computer </s> type in your e-mail address 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> type in your e-mail address </s> click on send this link to a friend 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> close the browser window </s> type in your e-mail address 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> return the form. </s> type in your e-mail address 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> enter the password you used on the computer </s> enter the URL of the website you want to surf 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> enter the URL of the website you want to surf </s> click on send this link to a friend 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> close the browser window </s> enter the URL of the website you want to surf 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> enter the URL of the website you want to surf </s> return the form. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> enter the password you used on the computer </s> click on send this link to a friend 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> close the browser window </s> enter the password you used on the computer 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> return the form. </s> enter the password you used on the computer 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> close the browser window </s> click on send this link to a friend 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> click on send this link to a friend </s> return the form. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> return the form. </s> close the browser window 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the website </s> log onto the internet 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the page you want to watch </s> log onto the internet 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> sign up for the account </s> log onto the internet 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> view the video, if you wish to. </s> log onto the internet 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> log onto the internet </s> go to the exit of the website 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> log onto the internet </s> log off the internet and leave 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the page you want to watch </s> go to the website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> sign up for the account </s> go to the website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> view the video, if you wish to. </s> go to the website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the exit of the website </s> go to the website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the website </s> log off the internet and leave 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> sign up for the account </s> go to the page you want to watch 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the page you want to watch </s> view the video, if you wish to. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to the page you want to watch </s> go to the exit of the website 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> log off the internet and leave </s> go to the page you want to watch 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> sign up for the account </s> view the video, if you wish to. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> sign up for the account </s> go to the exit of the website 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> sign up for the account </s> log off the internet and leave 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> view the video, if you wish to. </s> go to the exit of the website 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> log off the internet and leave </s> view the video, if you wish to. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> log off the internet and leave </s> go to the exit of the website 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> choose your favorite web sites </s> surf the web 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> decide which website to surf </s> choose your favorite web sites 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to your website to find a link </s> choose your favorite web sites 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> read the content </s> choose your favorite web sites 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> decide which website to surf </s> surf the web 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to your website to find a link </s> surf the web 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> surf the web </s> read the content 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to your website to find a link </s> decide which website to surf 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> read the content </s> decide which website to surf 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> read the content </s> go to your website to find a link 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> put on sunglasses. </s> get in a car. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> get in a car. </s> go to a website. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> get in a car. </s> select a surfing spot. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> get in a car. </s> find a surfboard. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> get in a car. </s> wait for surfers to join you. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> surf! </s> get in a car. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> put on sunglasses. </s> go to a website. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> select a surfing spot. </s> put on sunglasses. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> find a surfboard. </s> put on sunglasses. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> wait for surfers to join you. </s> put on sunglasses. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> surf! </s> put on sunglasses. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> select a surfing spot. </s> go to a website. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to a website. </s> find a surfboard. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to a website. </s> wait for surfers to join you. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> go to a website. </s> surf! 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> select a surfing spot. </s> find a surfboard. 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> wait for surfers to join you. </s> select a surfing spot. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> select a surfing spot. </s> surf! 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> wait for surfers to join you. </s> find a surfboard. 0
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> find a surfboard. </s> surf! 1
+<BOS> here is an ordered sequence of events that occur when you surf the internet: </s> surf! </s> wait for surfers to join you. 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> adjust the television </s> turn on the television 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> turn on the television </s> read the screen 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> get ready to watch the television </s> turn on the television 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> take out the television and put it in the room </s> turn on the television 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> turn on the television </s> watch the television 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> read the screen </s> adjust the television 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> adjust the television </s> get ready to watch the television 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> adjust the television </s> take out the television and put it in the room 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> adjust the television </s> watch the television 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> get ready to watch the television </s> read the screen 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> take out the television and put it in the room </s> read the screen 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> watch the television </s> read the screen 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> get ready to watch the television </s> take out the television and put it in the room 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> watch the television </s> get ready to watch the television 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> take out the television and put it in the room </s> watch the television 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> enter room </s> turn on TV 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> sit down and watch the show </s> enter room 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> enter room </s> enjoy. 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> sit down and watch the show </s> turn on TV 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> enjoy. </s> turn on TV 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> enjoy. </s> sit down and watch the show 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> set up appropriate settings on the TV </s> set up appropriate signal 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> set up the cable or satellite </s> set up appropriate signal 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> set up appropriate signal </s> start watching the program 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> set up appropriate signal </s> when the program ends, switch off the TV 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> set up appropriate settings on the TV </s> set up the cable or satellite 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> start watching the program </s> set up appropriate settings on the TV 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> when the program ends, switch off the TV </s> set up appropriate settings on the TV 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> start watching the program </s> set up the cable or satellite 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> set up the cable or satellite </s> when the program ends, switch off the TV 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> when the program ends, switch off the TV </s> start watching the program 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> enter room. </s> find a good movie to watch. 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> enter room. </s> get a movie. 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> watch it. </s> enter room. 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> get up and leave room. </s> enter room. 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> find a good movie to watch. </s> get a movie. 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> watch it. </s> find a good movie to watch. 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> find a good movie to watch. </s> get up and leave room. 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> watch it. </s> get a movie. 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> get up and leave room. </s> get a movie. 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> watch it. </s> get up and leave room. 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> turn the television off </s> get up 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> get up </s> turn it on 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> read newspaper </s> get up 0
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> turn the television off </s> turn it on 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> turn the television off </s> read newspaper 1
+<BOS> here is an ordered sequence of events that occur when you watch television: </s> read newspaper </s> turn it on 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into the club </s> walk into a dance 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> pay to dance </s> walk into the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get dancing shoes </s> walk into the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> sit down and dance </s> walk into the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into a dance </s> pay to dance 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into a dance </s> get dancing shoes 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> sit down and dance </s> walk into a dance 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get dancing shoes </s> pay to dance 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> pay to dance </s> sit down and dance 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> sit down and dance </s> get dancing shoes 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive to club. </s> choose music to dance to. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> choose music to dance to. </s> purchase drinks. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter club. </s> choose music to dance to. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> choose music to dance to. </s> go to booth. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter room. </s> choose music to dance to. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> choose music to dance to. </s> find a seat. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dance until finished. </s> choose music to dance to. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get dressed. </s> choose music to dance to. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> choose music to dance to. </s> drive home. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase drinks. </s> drive to club. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive to club. </s> enter club. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to booth. </s> drive to club. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive to club. </s> enter room. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive to club. </s> find a seat. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive to club. </s> dance until finished. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive to club. </s> get dressed. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive home. </s> drive to club. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter club. </s> purchase drinks. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase drinks. </s> go to booth. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase drinks. </s> enter room. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase drinks. </s> find a seat. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dance until finished. </s> purchase drinks. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get dressed. </s> purchase drinks. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive home. </s> purchase drinks. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to booth. </s> enter club. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter club. </s> enter room. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter club. </s> find a seat. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter club. </s> dance until finished. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get dressed. </s> enter club. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive home. </s> enter club. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter room. </s> go to booth. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to booth. </s> find a seat. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to booth. </s> dance until finished. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get dressed. </s> go to booth. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to booth. </s> drive home. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> find a seat. </s> enter room. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dance until finished. </s> enter room. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter room. </s> get dressed. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive home. </s> enter room. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> find a seat. </s> dance until finished. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get dressed. </s> find a seat. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> find a seat. </s> drive home. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dance until finished. </s> get dressed. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dance until finished. </s> drive home. 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive home. </s> get dressed. 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to the bouncer and tell them you're there </s> find a place where you can dance 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> find a place where you can dance </s> go over the rules of the dance 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> find a place where you can dance </s> give your tickets to the bouncer 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> ask the bouncer if there is a dance floor </s> find a place where you can dance 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> wait for your turn </s> find a place where you can dance 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go over the rules of the dance </s> go up to the bouncer and tell them you're there 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to the bouncer and tell them you're there </s> give your tickets to the bouncer 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> ask the bouncer if there is a dance floor </s> go up to the bouncer and tell them you're there 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> wait for your turn </s> go up to the bouncer and tell them you're there 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go over the rules of the dance </s> give your tickets to the bouncer 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> ask the bouncer if there is a dance floor </s> go over the rules of the dance 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> wait for your turn </s> go over the rules of the dance 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> ask the bouncer if there is a dance floor </s> give your tickets to the bouncer 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> give your tickets to the bouncer </s> wait for your turn 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> ask the bouncer if there is a dance floor </s> wait for your turn 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to club </s> dress in black 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to club </s> walk into club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to club </s> go up to bouncers 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to club </s> tell bouncers what you want to drink 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to club </s> give them your number 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go into booth with your drinks </s> go to club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the back of the club </s> go to club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to club </s> wait for your turn 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the front of the club </s> go to club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> pay for your drink </s> go to club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to club </s> get your drinks from the bouncers 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> leave the club </s> go to club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into club </s> dress in black 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to bouncers </s> dress in black 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> tell bouncers what you want to drink </s> dress in black 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> give them your number </s> dress in black 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dress in black </s> go into booth with your drinks 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dress in black </s> go to the back of the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dress in black </s> wait for your turn 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the front of the club </s> dress in black 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dress in black </s> pay for your drink 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> dress in black 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> leave the club </s> dress in black 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to bouncers </s> walk into club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> tell bouncers what you want to drink </s> walk into club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into club </s> give them your number 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into club </s> go into booth with your drinks 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the back of the club </s> walk into club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into club </s> wait for your turn 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the front of the club </s> walk into club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into club </s> pay for your drink 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> walk into club </s> get your drinks from the bouncers 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> leave the club </s> walk into club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to bouncers </s> tell bouncers what you want to drink 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> give them your number </s> go up to bouncers 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to bouncers </s> go into booth with your drinks 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the back of the club </s> go up to bouncers 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> wait for your turn </s> go up to bouncers 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to bouncers </s> go to the front of the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to bouncers </s> pay for your drink 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> go up to bouncers 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go up to bouncers </s> leave the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> tell bouncers what you want to drink </s> give them your number 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go into booth with your drinks </s> tell bouncers what you want to drink 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the back of the club </s> tell bouncers what you want to drink 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> tell bouncers what you want to drink </s> wait for your turn 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the front of the club </s> tell bouncers what you want to drink 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> pay for your drink </s> tell bouncers what you want to drink 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> tell bouncers what you want to drink 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> tell bouncers what you want to drink </s> leave the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> give them your number </s> go into booth with your drinks 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the back of the club </s> give them your number 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> give them your number </s> wait for your turn 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the front of the club </s> give them your number 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> give them your number </s> pay for your drink 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> give them your number 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> leave the club </s> give them your number 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go into booth with your drinks </s> go to the back of the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> wait for your turn </s> go into booth with your drinks 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go into booth with your drinks </s> go to the front of the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go into booth with your drinks </s> pay for your drink 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> go into booth with your drinks 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> leave the club </s> go into booth with your drinks 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the back of the club </s> wait for your turn 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the front of the club </s> go to the back of the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> pay for your drink </s> go to the back of the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> go to the back of the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> leave the club </s> go to the back of the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the front of the club </s> wait for your turn 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> wait for your turn </s> pay for your drink 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> wait for your turn </s> get your drinks from the bouncers 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> leave the club </s> wait for your turn 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> pay for your drink </s> go to the front of the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> go to the front of the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> go to the front of the club </s> leave the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> pay for your drink 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> pay for your drink </s> leave the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get your drinks from the bouncers </s> leave the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dress in a dark colored outfit that matches the dance floor </s> drive to the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase your tickets at the front desk </s> dress in a dark colored outfit that matches the dance floor 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dress in a dark colored outfit that matches the dance floor </s> check in at the front desk 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter the club </s> dress in a dark colored outfit that matches the dance floor 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dress in a dark colored outfit that matches the dance floor </s> get to your seat 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> start dancing to music and dancing up and down the floor </s> dress in a dark colored outfit that matches the dance floor 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> dress in a dark colored outfit that matches the dance floor </s> exit the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase your tickets at the front desk </s> drive to the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> drive to the club </s> check in at the front desk 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter the club </s> drive to the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get to your seat </s> drive to the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> start dancing to music and dancing up and down the floor </s> drive to the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> exit the club </s> drive to the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase your tickets at the front desk </s> check in at the front desk 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase your tickets at the front desk </s> enter the club 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> get to your seat </s> purchase your tickets at the front desk 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> purchase your tickets at the front desk </s> start dancing to music and dancing up and down the floor 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> exit the club </s> purchase your tickets at the front desk 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter the club </s> check in at the front desk 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> check in at the front desk </s> get to your seat 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> start dancing to music and dancing up and down the floor </s> check in at the front desk 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> exit the club </s> check in at the front desk 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> enter the club </s> get to your seat 1
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> start dancing to music and dancing up and down the floor </s> enter the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> exit the club </s> enter the club 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> start dancing to music and dancing up and down the floor </s> get to your seat 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> exit the club </s> get to your seat 0
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: </s> start dancing to music and dancing up and down the floor </s> exit the club 1

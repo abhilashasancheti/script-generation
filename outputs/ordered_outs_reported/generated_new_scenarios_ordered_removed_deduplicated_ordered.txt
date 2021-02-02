@@ -1,0 +1,75 @@
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: 1. choose the type of food you want 2. place the order 3. make sure the food is delivered 4. choose the delivery service 5. pay for the delivery service 6. wait for the order to come 7. take the delivery 8. eat the food
+order fastfood online: 1. go online and select the menu that you want 2. select what you want to order 3. go to the store 4. enter your order in the basket 5. type your name and address in the box 6. pay the total and receive the item at the counter 7. leave the store 
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: 1. go to website 2. select what you want 3. call the company 4. tell them what you want 5. have your credit card or debit card ready 6. wait for them to take your order 7. enjoy the food
+order fastfood online: 1. select from menu 2. look at what you want 3. go to phone 4. get phone 5. call them 6. tell them what you want 7. pay and then wait for it to take 8. get your receipt 9. eat 
+<BOS> here is an ordered sequence of events that occur when you order fastfood online: 1. make an order for food 2. get an order of food from a grocery store 3. enter the internet to order food 4. call the store to order food 5. pick up food 6. pick up phone and call the store to place order 7. pay the bill 8. pick up the food 9. take food to the drive-through window 10. have food prepared 11. drive the car to the drive-through window 12. eat the food
+cook in a microwave: 1. place pan on stove 
+cook in a microwave: 1. plug in the microwave 2. turn on the microwave 3. cook the food 4. remove the food from the microwave 
+cook in a microwave: 1. add salt and butter to the water 2. plug in and turn on the microwave 3. place some water in the microwave 4. turn the stove on to heat 5. put a spoon in the water 6. stir the butter and salt 7. pour in the food 8. take the spatula out of the microwave 9. place a cup of water on the plate 10. remove the food from the microwave 
+<BOS> here is an ordered sequence of events that occur when you cook in a microwave: 1. get ready to cook. 2. open the microwave. 3. set the desired time on the machine. 4. wait for the time to be set on the machine.
+cook in a microwave: 1. put water in microwave 2. put food in water 3. turn on microwave 4. wait for food to cook 5. turn off microwave 6. throw away unused water 
+answer telephone: 1. take the phone 2. answer the phone 3. let the receptionist know what kind of order you want 4. ask for your order to be called 5. wait for your order to be called 6. get your order 7. hang up the phone 8. leave the store 
+answer telephone: 1. get phone 2. find out phone number 3. dial number 4. call back 5. answer 6. hang up 
+answer telephone: 1. dial the number that is answered 2. give a name to the person 3. answer the call 4. give the person your location 5. ask what's the problem 
+answer telephone: 1. pull phone from pocket 2. put in answering machine 3. answer 4. hang up 
+answer telephone: 1. put phone on speaker 2. get the right number 3. wait for the person to call 4. tell operator i'm calling 5. listen to operator 6. ask for details 7. hang up 
+buy from a vending machine: 1. walk into store 2. look at available items 3. take items to the register 4. go buy item 5. leave store 
+buy from a vending machine: 1. drive to the store 2. go to the front counter 3. go to the counter and ask for order 4. tell the cashier what order I want 5. order food 6. hand my card to the cashier 7. go back to the counter 8. pay 9. get my receipt 
+buy from a vending machine: 1. drive to store 2. enter the store 3. find the correct amount of merchandise 4. buy it from the employee 5. pay for the merchandise 6. leave the store 
+buy from a vending machine: 1. enter store 2. wait in line 3. purchase item 4. get receipt 5. leave 
+buy from a vending machine: 1. arrive at the right store 2. enter information 3. choose the correct product 4. pay for your item 5. wait for your item to be called back to you 6. wait for your item to be returned 7. take your item back to the counter 
+tie shoe laces: 1. find shoes 2. find your shoes 
+tie shoe laces: 1. take out shoes and shoe laces 2. place the laces on your shoe 3. tie the laces at the other end of the string 
+tie shoe laces: 1. find shoe 
+tie shoe laces: 1. find out a nice shoes that can help you get your shoes on. 2. put on a nice pair of shoes and shoes. 3. tie knot and place shoe on ground. 4. put shoe back on. 
+tie shoe laces: 1. get shoes 2. put on shoes 3. use the shoe laces as a knot 
+brush teeth: 1. pick up toothbrush 2. rub the bristles with the toothbrush 3. brush the toothbrush thoroughly to remove any debris 4. place the sponge on the toothbrush 5. rinse the sponge and place it back on the toothbrush 6. rinse the toothbrush and place it back on the toothbrush 7. rinse the toothbrush and put it back on the toothbrush 8. repeat brushing until the toothbrush is no longer wet 9. repeat the brushing until the toothbrush is dry 
+<BOS> here is an ordered sequence of events that occur when you brush teeth: 1. get the brush 2. get the teeth washed 3. brush teeth with toothbrush 4. get the toothpaste 5. wash teeth with toothpaste 6. rinse out the toothpaste 7. brush the teeth
+<BOS> here is an ordered sequence of events that occur when you brush teeth: 1. get toothbrush 2. find toothpaste 3. put toothbrush in mouth 4. place a little bit of toothpaste on the brush 5. scrub the teeth 6. rinse the toothpaste out of the mouth 7. repeat this for all teeth
+<BOS> here is an ordered sequence of events that occur when you brush teeth: 1. put toothpaste in mouth 2. brush with toothbrush 3. get toothbrush from bathroom 4. use toothbrush to clean teeth 5. put toothpaste back in mouth
+brush teeth: 
+make ginger paste: 1. mix the ingredients well with a spoon until a paste forms 2. add some ginger paste to it 3. whisk the paste with a fork 4. use the paste to make paste with the ginger and sugar 5. keep stirring till you get a good paste 6. keep using the tray to get more paste until all the water has been taken away 
+make ginger paste: 1. get a bunch of ginger. 2. put ginger in a bowl. 3. use your fingers to spread paste on a plate. 
+make ginger paste: 1. add paste to water 2. stir until paste is evenly cooked 3. pour paste on plate 
+make ginger paste: 1. get a food processor. 2. pulse the food processor until you get a thick paste. 
+make ginger paste: 1. put paste in pot 2. stir until paste becomes bubbly 
+go for a wedding: 1. decide on a wedding outfit that matches the color of the venue 2. look at the dress in the store 3. give name to clerk 4. watch the ceremony 5. go to the reception 
+<BOS> here is an ordered sequence of events that occur when you go for a wedding: 1. go to reception. 2. go to the reception area. 3. take your guests to your place. 4. give your dress and shoes to the reception. 5. leave the reception and go home. 6. put on your gown and take your guests. 7. walk back to the reception and sit at a table. 8. walk out of the reception and go home. 9. leave reception and leave the reception area.
+go for a wedding: 1. make a list of things to do at a wedding 2. arrive at the venue 3. enjoy the ceremony and reception 
+go for a wedding: 1. find a good wedding dress 2. ask if they would like to go to the wedding 3. drive to the wedding 
+go for a wedding: 1. take an itinerary 2. go to the ceremony place 3. have the groom do his work 4. talk to guests 5. enjoy the ceremony 
+attend a wedding: 1. drive to church. 
+attend a wedding: 
+attend a wedding: 
+attend a wedding: 1. give the flowers to the couple 
+attend a wedding: 1. pack a small outfit for the occasion 2. enter the ceremony room 3. find out who your guests are 4. give and accept compliments from the couple 
+wash a car: 1. turn off car 2. remove car 3. get car in bucket 4. wet car 5. put away car 6. dry car 
+wash a car: 1. put car in washer 2. remove and wash car 
+wash a car: 1. go to the carwash 2. go in to the carwash 3. put in the proper vehicle 4. wash car 5. leave the carwash 
+<BOS> here is an ordered sequence of events that occur when you wash a car: 1. remove any other items from the car 2. take clean cloth and get car 3. wet car
+<BOS> here is an ordered sequence of events that occur when you wash a car: 1. put the car in the washer. 2. turn it on. 3. remove the car. 4. clean the car thoroughly. 5. put car back in the washer. 6. wait for it to finish. 7. put it in the duster. 8. hang up the car.
+take out trash: 1. pick up trash bags 2. pick up a piece of trash 3. put trash bags in trash can 4. throw away trash 5. put trash cans in trash can 
+take out trash: 1. pick up trash 2. walk to dumpster 3. throw away trash 4. dump trash into recycling 
+take out trash: 1. gather trash 2. take trash bags 3. pick up trash 4. put trash bags in trash box 5. dispose of trash 6. put trash bags away 
+take out trash: 1. put trash in trash can 2. throw trash in trash can 3. pick up trash when done 4. dump trash 5. put trash in recycling bin 6. put trash into recycling 
+<BOS> here is an ordered sequence of events that occur when you take out trash: 1. put trash into bag 2. take trash from bag to trash can 3. put garbage into trash can 4. pour cleaner into trash can 5. remove trash 6. put trash in trash can
+<BOS> here is an ordered sequence of events that occur when you take a taxi: 1. enter the building 2. approach the driver 3. tell the driver where you want to go 4. wait for the driver 5. get your payment 6. get the ride
+take a taxi: 1. call the taxi 2. find the car 3. get into the car 4. wait for the driver 5. drive to the street 6. get out the driver 7. pay the driver 
+take a taxi: 1. wait for a cab 2. get in the cab 3. wait for the driver to arrive at your destination 4. wait for the driver to get out of the cab 5. walk to the exit 6. get out of the taxi 
+take a taxi: 1. call a taxi 2. get in the car 3. wait for the taxi 4. wait for the taxi to arrive 5. park in the spot the taxi is parked 
+take a taxi: 1. call a taxi 2. wait for the driver 3. get inside the taxi 4. pay for your fare 5. drive to where your destination is 
+surf the internet: 1. find a surfing website 2. purchase internet from the website 3. wait for online payment 4. get out of internet service 5. sign out of account 
+<BOS> here is an ordered sequence of events that occur when you surf the internet: 1. go to the computer 2. log on to the computer 3. type in your e-mail address 4. enter the URL of the website you want to surf 5. enter the password you used on the computer 6. click on send this link to a friend 7. close the browser window 8. return the form.
+surf the internet: 1. log onto the internet 2. go to the website 3. sign up for the account 4. go to the page you want to watch 5. view the video, if you wish to. 6. go to the exit of the website 7. log off the internet and leave 
+surf the internet: 1. choose your favorite web sites 2. decide which website to surf 3. go to your website to find a link 4. surf the web 5. read the content 
+<BOS> here is an ordered sequence of events that occur when you surf the internet: 1. get in a car. 2. put on sunglasses. 3. go to a website. 4. select a surfing spot. 5. find a surfboard. 6. wait for surfers to join you. 7. surf!
+watch television: 1. get ready to watch the television 2. take out the television and put it in the room 3. turn on the television 4. adjust the television 5. read the screen 6. watch the television 
+watch television: 1. enter room 2. turn on TV 3. sit down and watch the show 4. enjoy. 
+watch television: 1. set up appropriate signal 2. set up the cable or satellite 3. set up appropriate settings on the TV 4. start watching the program 5. when the program ends, switch off the TV 
+watch television: 1. get a movie. 2. find a good movie to watch. 3. enter room. 4. watch it. 5. get up and leave room. 
+watch television: 1. turn it on 2. turn the television off 3. read newspaper 4. get up 
+go to a club to dance: 1. get dancing shoes 2. walk into the club 3. walk into a dance 4. pay to dance 5. sit down and dance 
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: 1. choose music to dance to. 2. drive to club. 3. purchase drinks. 4. enter club. 5. go to booth. 6. enter room. 7. find a seat. 8. dance until finished. 9. get dressed. 10. drive home.
+go to a club to dance: 1. go up to the bouncer and tell them you're there 2. give your tickets to the bouncer 3. wait for your turn 4. ask the bouncer if there is a dance floor 5. find a place where you can dance 6. go over the rules of the dance 
+<BOS> here is an ordered sequence of events that occur when you go to a club to dance: 1. go to club 2. dress in black 3. walk into club 4. go up to bouncers 5. tell bouncers what you want to drink 6. give them your number 7. go into booth with your drinks 8. go to the back of the club 9. wait for your turn 10. go to the front of the club 11. pay for your drink 12. get your drinks from the bouncers 13. leave the club
+go to a club to dance: 1. dress in a dark colored outfit that matches the dance floor 2. drive to the club 3. enter the club 4. check in at the front desk 5. purchase your tickets at the front desk 6. get to your seat 7. start dancing to music and dancing up and down the floor 8. exit the club 

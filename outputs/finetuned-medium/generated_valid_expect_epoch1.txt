@@ -1,0 +1,55 @@
+=== PROMPT <BOS> these are the things that you can expect while getting a hair cut: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> these are the things that you can expect while getting a hair cut: 1. enter dressing room 2. find an appropriate hair cut 3. make sure towel is ready 4. find scissors 5. cut and tie hair with scissors 6. put towel into sink 7. wait for the cut to finish 8. get shampoo out 9. wash and dry hair 10. leave for bathroom 
+=== GENERATED SEQUENCE 2 ===
+<BOS> these are the things that you can expect while getting a hair cut: 1. go to salon 2. get hair done 3. walk to a locker room 4. put on clothing 5. go to reception 6. wait in line 7. get hair cut 8. wait in the waiting room 9. get out of the locker room 10. get dressed 
+=== GENERATED SEQUENCE 3 ===
+<BOS> these are the things that you can expect while getting a hair cut: 1. walk to the nearest hair salon. 2. get into the car. 3. take out shampoo. 4. put on t-shirt. 5. walk to the nearest appointment. 6. give appointment to the hair technician. 7. wait in line. 8. go into the salon. 9. get in and out of the car. 10. when hair is cut, clean hair with shampoo. 11. return clothes. 12. leave the salon. 
+=== GENERATED SEQUENCE 4 ===
+<BOS> these are the things that you can expect while getting a hair cut: 1. get in the car 2. drive to the hair salon 3. go into the building 4. sit down 5. get out of the car 6. tell the receptionist to call them 7. tell them what you want 8. when they show up you will be asked to put your hair back down 9. put your hair back down 10. go back to the office 11. wait until they finish checking your hair 12. go back to the salon to get your hair cut 13. go back to your car 14. drive home 
+=== GENERATED SEQUENCE 5 ===
+<BOS> these are the things that you can expect while getting a hair cut: 1. walk to your local hair salon. 2. get in the car. 3. drive home. 4. put the scissors down the back of your head. 5. get dressed in your appropriate outfit. 
+=== PROMPT <BOS> these are the things that you can expect while going grocery shopping: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> these are the things that you can expect while going grocery shopping: 1. go to the store. 2. go to counter. 3. buy some things for your home. 4. put items on cart. 5. wait for items to be picked out. 6. buy stuff back. 7. return stuff to store. 8. go home. 
+=== GENERATED SEQUENCE 2 ===
+<BOS> these are the things that you can expect while going grocery shopping: 1. decide where you want to buy food 2. grab some supplies 3. walk to the store and buy everything 4. put stuff in the basket 5. return items to the counter 6. buy what you want 
+=== GENERATED SEQUENCE 3 ===
+<BOS> these are the things that you can expect while going grocery shopping: 1. find grocery store 2. go to cashier 3. tell cashier what you are buying 4. give cashier my card 5. walk to store 6. open store 7. get groceries 8. pay store clerk 9. leave 10. take off shopping bag 11. leave store 
+=== GENERATED SEQUENCE 4 ===
+<BOS> these are the things that you can expect while going grocery shopping: 1. drive to grocery store 2. get in car 3. buy items 4. leave store 5. drive to store 6. select items 7. drive to checkout 8. select items 9. pay 12. get out car 13. go home 
+=== GENERATED SEQUENCE 5 ===
+<BOS> these are the things that you can expect while going grocery shopping: 1. drive to store 2. pick out items from cart 3. go inside store 4. hand item to cashier 5. select item and pay 6. get items from rack 7. take items to counters 8. pick out items from shelves 9. take items from bags 10. carry items to checkout area 11. take item to counter 12. wait for item to be ready 13. take item to cashier 14. sign item for delivery to store 15. turn off cashier to ensure receipt 16. put item in back 16. store item in machine 17. cashier checks items for correct size 
+=== PROMPT <BOS> these are the things that you can expect while planting a tree: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> these are the things that you can expect while planting a tree: 1. make the plan 2. buy the wood 3. place the wood in the proper location 4. cut the wood out and gather the leaves 5. remove the leaves 6. plant the tree 
+=== GENERATED SEQUENCE 2 ===
+<BOS> these are the things that you can expect while planting a tree: 1. collect the branches 2. place them in a small area 3. put down some light 4. spray it with soapy water 5. place the leaves 6. put them in the ground 
+=== GENERATED SEQUENCE 3 ===
+<BOS> these are the things that you can expect while planting a tree: 1. go to the store. 2. pick out the most desired area and cut down the branches. 3. hang the branches in place. 4. pick out the proper place for the tree to be placed. 5. dig a hole. 6. dig a hole for the soil. 7. place the tree in the hole. 8. put out light. 9. when the tree is ready to be planted, tuck it under the ground. 
+=== GENERATED SEQUENCE 4 ===
+<BOS> these are the things that you can expect while planting a tree: 1. put some branches in the ground 2. get some small shrubs 3. place some kind of twigs under them 4. cover with leaves 5. watch the growth and decide if you want the tree to be big or small 
+=== GENERATED SEQUENCE 5 ===
+<BOS> these are the things that you can expect while planting a tree: 1. put up some trees 2. put up some bushes 3. put up some rocks 4. place a few things down in the middle 5. keep the place tidy 
+=== PROMPT <BOS> these are the things that you can expect while repairing a flat bicycle tire: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> these are the things that you can expect while repairing a flat bicycle tire: 1. check on car 2. find a flat bike 3. take the flat 4. plug in and go 
+=== GENERATED SEQUENCE 2 ===
+<BOS> these are the things that you can expect while repairing a flat bicycle tire: 1. get new tire 2. put new set of wheels on a new flat wheel 3. put new brake fluid in the tire 4. set the new position on the bike 5. when everything's ready, put new flat wheel on the car 
+=== GENERATED SEQUENCE 3 ===
+<BOS> these are the things that you can expect while repairing a flat bicycle tire: 1. determine what was wrong with the flat and put in a replacement or repair 2. go to the tire store 3. look at the price 4. determine what you would need to do 5. take the item to the store and get a receipt 6. pay for the item 7. return the item 8. remove the tire 9. put the item back to the tire store 
+=== GENERATED SEQUENCE 4 ===
+<BOS> these are the things that you can expect while repairing a flat bicycle tire: 1. open flat tires 2. plug in new tire 3. install new rubber 4. keep the tire flat 5. replace tire 6. replace the brake lever 
+=== GENERATED SEQUENCE 5 ===
+<BOS> these are the things that you can expect while repairing a flat bicycle tire: 1. take tire off and out of drive way 2. apply a small amount of solvent to the tire 3. fill the tire and brake it 4. get a repair kit from the store 5. put the repair kit on the wheel and set it up for the repair 6. get the repaired tire 7. go into the shop and place the repair kit on the wheel 8. take the repaired tire out and go home 
+=== PROMPT <BOS> these are the things that you can expect while taking a bath: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> these are the things that you can expect while taking a bath: 1. turn on water 2. place clothes on sink 3. put soap and water in the water 4. wait for soap to reach desired consistency 5. wash cloth with soap and water 6. rinse soap off cloth 7. throw away cloth 
+=== GENERATED SEQUENCE 2 ===
+<BOS> these are the things that you can expect while taking a bath: 1. fill tub with hot water. 2. put towel in tub. 3. get wet. 4. put soap on skin. 5. get into bathtub. 6. get out. 
+=== GENERATED SEQUENCE 3 ===
+<BOS> these are the things that you can expect while taking a bath: 1. enter bathroom 2. wet hair 3. turn on water 4. remove clothes 5. apply soap to hair 6. rinse hair 7. turn off water 
+=== GENERATED SEQUENCE 4 ===
+<BOS> these are the things that you can expect while taking a bath: 1. put on bath clothes 2. get in shower 3. sit in tub 4. rub soap up and down your body 5. rinse off soap 6. remove any soap stains 7. rinse all soap off 8. get out of shower 9. dry off 10. get in dryer 11. turn dryer on 12. when ready put towel down on tub 13. put on clothes 14. return to bathroom 
+=== GENERATED SEQUENCE 5 ===
+<BOS> these are the things that you can expect while taking a bath: 1. wet the bathroom floor 2. get in the shower 3. rinse the body 4. put on clothes 5. shower 6. dry the body 

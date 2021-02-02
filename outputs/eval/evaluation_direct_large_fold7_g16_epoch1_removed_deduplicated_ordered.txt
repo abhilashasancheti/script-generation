@@ -1,0 +1,5 @@
+<BOS> having a barbecue: 1. go to the house 2. put on a jacket 3. open the BBQ gate 4. put the grill in the center of the house 5. wait for the meat to cook
+<BOS> ordering a pizza: 1. go to the restaurant 2. wait to be seated 3. when seated, get food 4. order food 5. pay for food 6. wait 7. take food from waiter 8. sit on counter 9. eat food 10. leave restaurant
+<BOS> cleaning up a flat: 1. place all dirty items in the garage 2. remove all the items that need to be cleaned 3. remove the plug that controls air in the garage 4. place all the items that need to be cleaned in the dryer
+<BOS> making scrambled eggs: 1. get eggs 2. get some flour 3. preheat oven to a temperature that the eggs will cook 4. add flour to eggs 5. add eggs 6. add more flour if needed 7. put into oven 8. wait for eggs to finish 9. take out and cool 10. put the eggs back in the box
+<BOS> taking the underground: 1. come to a spot 2. enter the underground 3. go through the tunnel 4. leave the place

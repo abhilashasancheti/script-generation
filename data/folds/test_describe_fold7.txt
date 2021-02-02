@@ -1,0 +1,5 @@
+<BOS> describe having a barbecue in small sequences of short sentences: 
+<BOS> describe ordering a pizza in small sequences of short sentences: 
+<BOS> describe cleaning up a flat in small sequences of short sentences: 
+<BOS> describe making scrambled eggs in small sequences of short sentences: 
+<BOS> describe taking the underground in small sequences of short sentences: 

@@ -1,0 +1,5 @@
+<BOS> these are the things that you can expect while baking a cake: 
+<BOS> these are the things that you can expect while borrowing a book from the library: 
+<BOS> these are the things that you can expect while flying in an airplane: 
+<BOS> these are the things that you can expect while going on a train: 
+<BOS> these are the things that you can expect while riding on a bus: 

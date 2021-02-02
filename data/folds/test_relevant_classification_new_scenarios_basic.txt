@@ -1,0 +1,622 @@
+ordering fastfood online: </s> choose the type of food you want to order. 1
+ordering fastfood online: </s> choose your food delivery service. 1
+ordering fastfood online: </s> pay the delivery person and give your address. 1
+ordering fastfood online: </s> wait for your food to be delivered. 1
+ordering fastfood online: </s> receive your food. 1
+ordering fastfood online: </s> go online to fast food restaurant. 1
+ordering fastfood online: </s> choose a number for a restaurant. 1
+ordering fastfood online: </s> choose which fast food you want. 1
+ordering fastfood online: </s> find the fast food you want and pay for it. 1
+ordering fastfood online: </s> wait for the food to be ready. 1
+ordering fastfood online: </s> take the food to your table. 1
+ordering fastfood online: </s> wait for the food to cook. 1
+ordering fastfood online: </s> eat the food. 1
+ordering fastfood online: </s> throw the garbage away. 1
+ordering fastfood online: </s> go to fast food website 1
+ordering fastfood online: </s> call the restaurant 1
+ordering fastfood online: </s> make the order 1
+ordering fastfood online: </s> wait for the delivery 1
+ordering fastfood online: </s> go home 1
+ordering fastfood online: </s> make a list of things you want to order from 1
+ordering fastfood online: </s> go to the fast food restaurant 1
+ordering fastfood online: </s> choose what you want to order 1
+ordering fastfood online: </s> take your order at the counter 1
+ordering fastfood online: </s> order the food 1
+ordering fastfood online: </s> pay at the counter 1
+ordering fastfood online: </s> wait for your food to be done 1
+ordering fastfood online: </s> pick your fries or burgers 1
+ordering fastfood online: </s> eat your food 1
+ordering fastfood online: </s> go home 1
+ordering fastfood online: </s> make a list of items to order. 1
+ordering fastfood online: </s> go to the online ordering site 1
+ordering fastfood online: </s> input the items to order 1
+ordering fastfood online: </s> place the order 1
+ordering fastfood online: </s> wait for the items to be delivered 1
+ordering fastfood online: </s> check out 1
+ordering fastfood online: </s> take the items to the kitchen. 1
+ordering fastfood online: </s> take the items home 1
+ordering fastfood online: </s> open the bag of food 1
+ordering fastfood online: </s> throw away the garbage 1
+cooking in a microwave: </s> get a pot of water 1
+cooking in a microwave: </s> heat water to boil 1
+cooking in a microwave: </s> add a pinch of salt 1
+cooking in a microwave: </s> add the tomatoes 1
+cooking in a microwave: </s> mix the tomatoes together 1
+cooking in a microwave: </s> pour the tomatoes in the pot of boiling water 1
+cooking in a microwave: </s> put a lid on the pot 1
+cooking in a microwave: </s> cook the tomatoes 8 to 10 minutes 1
+cooking in a microwave: </s> remove the lid 1
+cooking in a microwave: </s> drain the water 1
+cooking in a microwave: </s> plug in the microwave 1
+cooking in a microwave: </s> turn on 1
+cooking in a microwave: </s> wait for it to heat up 1
+cooking in a microwave: </s> place food on stove 1
+cooking in a microwave: </s> wait for it to cook 1
+cooking in a microwave: </s> place food on plate when finished cooking 1
+cooking in a microwave: </s> put plate on counter 1
+cooking in a microwave: </s> remove food from microwave 1
+cooking in a microwave: </s> plug in the microwave. 1
+cooking in a microwave: </s> turn it on. 1
+cooking in a microwave: </s> wait for the timer to beep. 1
+cooking in a microwave: </s> put the pan on the stove. 1
+cooking in a microwave: </s> turn the heat to medium. 1
+cooking in a microwave: </s> place the food in the hot pan. 1
+cooking in a microwave: </s> cook the food until it is done. 1
+cooking in a microwave: </s> remove from heat. 1
+cooking in a microwave: </s> eat. 1
+cooking in a microwave: </s> get desired size pan. 1
+cooking in a microwave: </s> fill with water. 1
+cooking in a microwave: </s> add salt and pepper to water. 1
+cooking in a microwave: </s> turn on the microwave. 1
+cooking in a microwave: </s> wait until it gets up to temp. 1
+cooking in a microwave: </s> when the temperature is correct, remove from the microwave. 1
+cooking in a microwave: </s> cook the food. 1
+cooking in a microwave: </s> place it on the plate. 1
+cooking in a microwave: </s> eat the food. 1
+cooking in a microwave: </s> put water in microwave 1
+cooking in a microwave: </s> put hot water in microwave 1
+cooking in a microwave: </s> wait for water to heat 1
+cooking in a microwave: </s> when water is boiling, add salt 1
+cooking in a microwave: </s> add butter or butter substitute 1
+cooking in a microwave: </s> wait for butter or butter substitute to melt 1
+cooking in a microwave: </s> add pasta to butter or butter substitute 1
+answering telephone: </s> turn on phone 1
+answering telephone: </s> dial the number 1
+answering telephone: </s> wait for them to call you back 1
+answering telephone: </s> answer the question 1
+answering telephone: </s> hang up 1
+answering telephone: </s> get number 1
+answering telephone: </s> dial number 1
+answering telephone: </s> put on headset 1
+answering telephone: </s> listen to call 1
+answering telephone: </s> hang up 1
+answering telephone: </s> check number 1
+answering telephone: </s> place call 1
+answering telephone: </s> hang up 1
+answering telephone: </s> dial the number of the customer service person 1
+answering telephone: </s> tell the employee what kind of service you would like 1
+answering telephone: </s> wait for response 1
+answering telephone: </s> give them your address 1
+answering telephone: </s> wait for them to call you back 1
+answering telephone: </s> answer the call and hang up 1
+answering telephone: </s> dial number 1
+answering telephone: </s> speak to person on phone 1
+answering telephone: </s> tell person what you need 1
+answering telephone: </s> get receptionist's attention 1
+answering telephone: </s> answer questions about how you are being reached 1
+answering telephone: </s> pick up phone 1
+answering telephone: </s> dial number 1
+answering telephone: </s> wait for answer 1
+answering telephone: </s> speak to operator 1
+answering telephone: </s> follow answer 1
+answering telephone: </s> hang up 1
+buying from a vending machine: </s> put items from list into machine 1
+buying from a vending machine: </s> select number of items 1
+buying from a vending machine: </s> take items to cashier when machine opens 1
+buying from a vending machine: </s> pay for items 1
+buying from a vending machine: </s> leave the store 1
+buying from a vending machine: </s> enter the store 1
+buying from a vending machine: </s> select a product 1
+buying from a vending machine: </s> go to the cashier 1
+buying from a vending machine: </s> pay with the card 1
+buying from a vending machine: </s> select delivery or take the product 1
+buying from a vending machine: </s> put on the back 1
+buying from a vending machine: </s> wait for the delivery to get to the front 1
+buying from a vending machine: </s> get the product when it arrives 1
+buying from a vending machine: </s> put the product away 1
+buying from a vending machine: </s> get out of the store 1
+buying from a vending machine: </s> enter the shop 1
+buying from a vending machine: </s> look for the item you wish to purchase 1
+buying from a vending machine: </s> go into the register to purchase the item 1
+buying from a vending machine: </s> pay for the item 1
+buying from a vending machine: </s> take your item to your car 1
+buying from a vending machine: </s> take the item to the car and remove the card 1
+buying from a vending machine: </s> leave the shop 1
+buying from a vending machine: </s> return the card 1
+buying from a vending machine: </s> leave the shop 1
+buying from a vending machine: </s> park car 1
+buying from a vending machine: </s> enter car 1
+buying from a vending machine: </s> get into car 1
+buying from a vending machine: </s> drive to store 1
+buying from a vending machine: </s> park car in shopping cart 1
+buying from a vending machine: </s> enter store 1
+buying from a vending machine: </s> locate machine 1
+buying from a vending machine: </s> select size or flavor 1
+buying from a vending machine: </s> go to counter 1
+buying from a vending machine: </s> give order 1
+buying from a vending machine: </s> pay 1
+buying from a vending machine: </s> pick out desired number of items to buy 1
+buying from a vending machine: </s> place items in slot 1
+buying from a vending machine: </s> wait for items to be picked up 1
+buying from a vending machine: </s> pay for additional items 1
+buying from a vending machine: </s> take items 1
+buying from a vending machine: </s> exit kiosk 1
+tying shoe laces: </s> take off shoes. 1
+tying shoe laces: </s> put shoes on. 1
+tying shoe laces: </s> pick out a new set of laces. 1
+tying shoe laces: </s> pick up shoe that you want to tie laces. 1
+tying shoe laces: </s> tie shoe laces to shoe. 1
+tying shoe laces: </s> hang up shoes. 1
+tying shoe laces: </s> find out what size and color you want your laces to be 1
+tying shoe laces: </s> find a place you will hang your laces so they are not too loose or too tight 1
+tying shoe laces: </s> get your shoes and shoes laces ready 1
+tying shoe laces: </s> tie the laces 1
+tying shoe laces: </s> remove any loose ends 1
+tying shoe laces: </s> put the shoes away 1
+tying shoe laces: </s> take the shoes out of shoe case 1
+tying shoe laces: </s> remove shoes and shoes laces 1
+tying shoe laces: </s> unplug shoe cases 1
+tying shoe laces: </s> put them away 1
+tying shoe laces: </s> find shoe 1
+tying shoe laces: </s> open shoe 1
+tying shoe laces: </s> take out a knot 1
+tying shoe laces: </s> tie shoe 1
+tying shoe laces: </s> put shoe in drawer 1
+tying shoe laces: </s> take out a string 1
+tying shoe laces: </s> place string on top of shoe 1
+tying shoe laces: </s> tie shoe 1
+tying shoe laces: </s> get the other shoe 1
+tying shoe laces: </s> tie the string 1
+tying shoe laces: </s> enjoy a smooth knot 1
+tying shoe laces: </s> get shoes 1
+tying shoe laces: </s> find a place to tie them 1
+tying shoe laces: </s> get a needle and thread 1
+tying shoe laces: </s> pull the needle through the shoe laces 1
+tying shoe laces: </s> pull the thread through the other laces 1
+tying shoe laces: </s> tie the needle and thread 1
+tying shoe laces: </s> knot the knot with the needle 1
+tying shoe laces: </s> pull the thread through the other laces 1
+tying shoe laces: </s> pull the needle and thread through the shoes 1
+tying shoe laces: </s> tie the knot 1
+tying shoe laces: </s> cut the thread 1
+tying shoe laces: </s> put the shoes back on 1
+brushing teeth: </s> remove dirty toothpaste from the toothbrush 1
+brushing teeth: </s> clean the teeth 1
+brushing teeth: </s> rinse the teeth with warm water 1
+brushing teeth: </s> clean the teeth with toothpaste 1
+brushing teeth: </s> rinse the teeth 1
+brushing teeth: </s> get in the shower 1
+brushing teeth: </s> apply lather to the teeth 1
+brushing teeth: </s> rinse the teeth 1
+brushing teeth: </s> get out of the shower 1
+brushing teeth: </s> get into the sink 1
+brushing teeth: </s> wet the tongue 1
+brushing teeth: </s> spit the lather into the mouth 1
+brushing teeth: </s> lather the rest of the saliva into the mouth 1
+brushing teeth: </s> rinse the teeth 1
+brushing teeth: </s> get dressed 1
+brushing teeth: </s> turn on water 1
+brushing teeth: </s> get a clean towel 1
+brushing teeth: </s> turn off water 1
+brushing teeth: </s> get a clean brush 1
+brushing teeth: </s> brush teeth 1
+brushing teeth: </s> rinse off with clean water 1
+brushing teeth: </s> get a new clean towel 1
+brushing teeth: </s> turn off water 1
+brushing teeth: </s> get teeth wet 1
+brushing teeth: </s> put shampoo in your mouth 1
+brushing teeth: </s> use your teeth to brush 1
+brushing teeth: </s> wait for your teeth to come out of your mouth 1
+brushing teeth: </s> floss 1
+brushing teeth: </s> clean your teeth 1
+brushing teeth: </s> go into bathroom 1
+brushing teeth: </s> turn on faucet 1
+brushing teeth: </s> remove any dirt or debris 1
+brushing teeth: </s> grab a brush 1
+brushing teeth: </s> scrub and floss the teeth 1
+brushing teeth: </s> leave the bathroom 1
+brushing teeth: </s> get into the bathroom. 1
+brushing teeth: </s> get the toothbrush and wash your teeth. 1
+brushing teeth: </s> when the toothbrush is clean, you brush your teeth. 1
+brushing teeth: </s> when the toothbrush is clean, you floss your teeth. 1
+brushing teeth: </s> when the toothbrush is clean, you get out the toothpaste. 1
+brushing teeth: </s> when the toothpaste is dry, you put your toothbrush back in the toothbrush. 1
+brushing teeth: </s> when the toothbrush is clean, you put it back in your mouth. 1
+brushing teeth: </s> when the toothbrush is clean, you put toothpaste back in the toothbrush. 1
+brushing teeth: </s> when the toothbrush is clean, you put toothbrush back in the toothbrush. 1
+brushing teeth: </s> when the toothbrush is clean, you rins 1
+making ginger paste: </s> get your hot water 1
+making ginger paste: </s> get your bowl 1
+making ginger paste: </s> turn on the hot water 1
+making ginger paste: </s> whisk a bowl of sugar into a paste 1
+making ginger paste: </s> put the bowl on the stove 1
+making ginger paste: </s> turn on the hot water 1
+making ginger paste: </s> boil the paste 1
+making ginger paste: </s> add salt to the paste 1
+making ginger paste: </s> turn off the water 1
+making ginger paste: </s> put the bowl on a rack 1
+making ginger paste: </s> pour the hot water into a saucepan 1
+making ginger paste: </s> put some salt and sugar in the saucepan 1
+making ginger paste: </s> turn the heat on 1
+making ginger paste: </s> pour the sauce on to the bowl 1
+making ginger paste: </s> eat the paste 1
+making ginger paste: </s> get a container of ginger 1
+making ginger paste: </s> fill it with boiling water 1
+making ginger paste: </s> put it in a pan 1
+making ginger paste: </s> let it cook 1
+making ginger paste: </s> stir the ginger with a spoon 1
+making ginger paste: </s> serve the paste 1
+making ginger paste: </s> grab the packet of ginger powder 1
+making ginger paste: </s> get the pot 1
+making ginger paste: </s> fill it with water 1
+making ginger paste: </s> place the pot in the stove 1
+making ginger paste: </s> turn on burner 1
+making ginger paste: </s> wait for water to boil 1
+making ginger paste: </s> add the powder 1
+making ginger paste: </s> stir and stir until the paste is a bit wet 1
+making ginger paste: </s> put pot in the sink 1
+making ginger paste: </s> fill the pot with ice and water 1
+making ginger paste: </s> add salt to taste 1
+making ginger paste: </s> add some salt to the pot 1
+making ginger paste: </s> stir the pot 1
+making ginger paste: </s> add milk 1
+making ginger paste: </s> stir the pot 1
+making ginger paste: </s> put pot in the refrigerator 1
+making ginger paste: </s> after a while turn off the stove 1
+making ginger paste: </s> get an entire box of fresh ginger root. 1
+making ginger paste: </s> get a bottle of water. 1
+making ginger paste: </s> fill bottle with water. 1
+making ginger paste: </s> put in pot of water. 1
+making ginger paste: </s> turn on stove. 1
+making ginger paste: </s> put a pinch of salt and sugar in the water. 1
+making ginger paste: </s> boil the water. 1
+making ginger paste: </s> pour a teaspoon or so of ginger paste into the water. 1
+making ginger paste: </s> cook for 10 minutes. 1
+making ginger paste: </s> stir occasionally. 1
+making ginger paste: </s> pour the rest of the water from the pot into a bowl. 1
+making ginger paste: </s> add a few teaspoons of sugar. 1
+making ginger paste: </s> let sit for a few minutes. 1
+making ginger paste: </s> pour the whole thing out into a saucepan. 1
+making ginger paste: </s> put a few slices of lemon on top. 1
+making ginger paste: </s> stir it. 1
+making ginger paste: </s> fill a small pot with water 1
+making ginger paste: </s> place the water in a skillet 1
+making ginger paste: </s> turn on the heat 1
+making ginger paste: </s> add the ginger paste 1
+making ginger paste: </s> stir until dissolved 1
+making ginger paste: </s> add salt and pepper 1
+making ginger paste: </s> taste the paste 1
+making ginger paste: </s> add a few drops of milk if desired 1
+making ginger paste: </s> stir once the paste is dissolved 1
+going for a wedding: </s> decide on a wedding venue. 1
+going for a wedding: </s> get in the car. 1
+going for a wedding: </s> drive to the ceremony location. 1
+going for a wedding: </s> stand in line. 1
+going for a wedding: </s> listen to the ceremony. 1
+going for a wedding: </s> when ceremony is over, drive home. 1
+going for a wedding: </s> go to reception. 1
+going for a wedding: </s> go to the reception and purchase your supplies. 1
+going for a wedding: </s> go to the chapel and purchase your wedding dress and flowers. 1
+going for a wedding: </s> go to the reception and sit down. 1
+going for a wedding: </s> listen to the wedding service. 1
+going for a wedding: </s> sign your name in at the barber's table. 1
+going for a wedding: </s> sit and watch the wedding ceremony. 1
+going for a wedding: </s> give the flower and wedding dress to your parents. 1
+going for a wedding: </s> thank your parents. 1
+going for a wedding: </s> go home. 1
+going for a wedding: </s> get dressed in the wedding dress. 1
+going for a wedding: </s> go home. 1
+going for a wedding: </s> get dressed in your wedding flowers. 1
+going for a wedding: </s> thank your parents. 1
+going for a wedding: </s> go back to reception. 1
+going for a wedding: </s> thank your guests. 1
+going for a wedding: </s> make a list of things to do while going for a wedding 1
+going for a wedding: </s> call friends and family 1
+going for a wedding: </s> go to the chapel 1
+going for a wedding: </s> sit in the chapel 1
+going for a wedding: </s> be silent 1
+going for a wedding: </s> pray 1
+going for a wedding: </s> kiss the bride 1
+going for a wedding: </s> leave the chapel 1
+going for a wedding: </s> call your friend 1
+going for a wedding: </s> tell her you are getting married 1
+going for a wedding: </s> invite her over 1
+going for a wedding: </s> wait for her 1
+going for a wedding: </s> give her your ring and flowers 1
+going for a wedding: </s> invite your friends 1
+going for a wedding: </s> go to church 1
+going for a wedding: </s> talk to everyone 1
+going for a wedding: </s> look up suitable places to get married 1
+going for a wedding: </s> get in car with friends and family 1
+going for a wedding: </s> drive to the place you wish to get married 1
+going for a wedding: </s> register your name and address in order to attend 1
+going for a wedding: </s> get in line and get married 1
+attending a wedding: </s> get dress 1
+attending a wedding: </s> drive to wedding 1
+attending a wedding: </s> sign in 1
+attending a wedding: </s> attend ceremony 1
+attending a wedding: </s> eat cake 1
+attending a wedding: </s> go to the store 1
+attending a wedding: </s> purchase a dress 1
+attending a wedding: </s> go home 1
+attending a wedding: </s> make sure the invitations are up and ready 1
+attending a wedding: </s> attend the wedding ceremony 1
+attending a wedding: </s> watch the reception 1
+attending a wedding: </s> give the flowers and toast 1
+attending a wedding: </s> go home 1
+attending a wedding: </s> make sure your dress is good 1
+attending a wedding: </s> get there early for the wedding 1
+attending a wedding: </s> go to the reception room 1
+attending a wedding: </s> sit in the reception room 1
+attending a wedding: </s> wait for the ceremony 1
+attending a wedding: </s> when it is over, get dressed 1
+attending a wedding: </s> schedule an appointment for the reception 1
+attending a wedding: </s> drive to the venue 1
+attending a wedding: </s> show your guest information 1
+attending a wedding: </s> present your wedding ceremony/ reception to the guests 1
+attending a wedding: </s> invite the friends/ family/ coworkers/ etc. to the wedding 1
+attending a wedding: </s> present your wedding present to the guests 1
+attending a wedding: </s> make the guest list 1
+attending a wedding: </s> take the invitation 1
+attending a wedding: </s> go to the reception 1
+attending a wedding: </s> pay the fee/ gratuity 1
+attending a wedding: </s> give your guest his/her ticket 1
+attending a wedding: </s> leave the venue 1
+attending a wedding: </s> set up a reception area 1
+attending a wedding: </s> put on a black dress 1
+attending a wedding: </s> go to the reception area 1
+attending a wedding: </s> sit in the chair 1
+attending a wedding: </s> give out rings and flowers 1
+attending a wedding: </s> kiss the bride 1
+attending a wedding: </s> go back home 1
+washing a car: </s> take car to car wash 1
+washing a car: </s> get inside the car 1
+washing a car: </s> get dirty 1
+washing a car: </s> open water in water tank 1
+washing a car: </s> place dirty car in water tank 1
+washing a car: </s> put detergent in 1
+washing a car: </s> rinse 1
+washing a car: </s> put soap in 1
+washing a car: </s> rinse 1
+washing a car: </s> place car in dryer 1
+washing a car: </s> wait 1
+washing a car: </s> turn on dryer 1
+washing a car: </s> turn on car 1
+washing a car: </s> get out of car 1
+washing a car: </s> get into sink 1
+washing a car: </s> wash car 1
+washing a car: </s> rinse car with clean water 1
+washing a car: </s> put soap on car 1
+washing a car: </s> scrub car 1
+washing a car: </s> rinse soap off car 1
+washing a car: </s> get in car 1
+washing a car: </s> turn off engine 1
+washing a car: </s> put car back in car 1
+washing a car: </s> go to a carwash 1
+washing a car: </s> go in the carwash 1
+washing a car: </s> get some soap 1
+washing a car: </s> wet the sponge 1
+washing a car: </s> get soap 1
+washing a car: </s> pour some soap in the sponge 1
+washing a car: </s> wash the car 1
+washing a car: </s> remove any car parts 1
+washing a car: </s> get your hose 1
+washing a car: </s> apply water to car body 1
+washing a car: </s> turn on hose 1
+washing a car: </s> when water is warm, apply shampoo 1
+washing a car: </s> apply soap 1
+washing a car: </s> rinse 1
+washing a car: </s> apply car wash 1
+washing a car: </s> rinse 1
+washing a car: </s> apply dry shampoo 1
+washing a car: </s> turn on water 1
+washing a car: </s> get a washcloth 1
+washing a car: </s> pour soap into soap dish 1
+washing a car: </s> get in car 1
+washing a car: </s> close car door 1
+taking out trash: </s> pick up a newspaper 1
+taking out trash: </s> pick up a bag 1
+taking out trash: </s> throw away newspaper 1
+taking out trash: </s> put trash in bag 1
+taking out trash: </s> put trash in trash can 1
+taking out trash: </s> remove items from garbage 1
+taking out trash: </s> throw items away 1
+taking out trash: </s> recycle trash 1
+taking out trash: </s> put garbage away 1
+taking out trash: </s> dispose of garbage 1
+taking out trash: </s> make it easier 1
+taking out trash: </s> gather trash 1
+taking out trash: </s> take trash bag 1
+taking out trash: </s> dump trash in trash bag 1
+taking out trash: </s> put trash in trash bag 1
+taking out trash: </s> place trash bag in trash can 1
+taking out trash: </s> place trash can in recycling 1
+taking out trash: </s> put trash in receptacle 1
+taking out trash: </s> find trash bag 1
+taking out trash: </s> grab trash bag 1
+taking out trash: </s> pour trash into trash bag 1
+taking out trash: </s> pick up trash bag 1
+taking out trash: </s> put trash bag in trunk 1
+taking out trash: </s> take trash bag with contents 1
+taking out trash: </s> place trash in bag 1
+taking out trash: </s> take trash out 1
+taking out trash: </s> place trash bag into recycling bin 1
+taking out trash: </s> put bag away 1
+taking a taxi: </s> enter the station 1
+taking a taxi: </s> choose your destination 1
+taking a taxi: </s> enter the number assigned 1
+taking a taxi: </s> choose your ride 1
+taking a taxi: </s> confirm the fare 1
+taking a taxi: </s> enter the destination 1
+taking a taxi: </s> get in car 1
+taking a taxi: </s> get into car 1
+taking a taxi: </s> wait for taxi 1
+taking a taxi: </s> enter the car 1
+taking a taxi: </s> pay the fare 1
+taking a taxi: </s> get out the driver 1
+taking a taxi: </s> get out the door 1
+taking a taxi: </s> exit car 1
+taking a taxi: </s> decide where the taxi is going 1
+taking a taxi: </s> call the driver 1
+taking a taxi: </s> tell him what you need 1
+taking a taxi: </s> wait for the taxi to arrive 1
+taking a taxi: </s> get out of the taxi 1
+taking a taxi: </s> tell the driver where you are going to go 1
+taking a taxi: </s> get in car with driver 1
+taking a taxi: </s> get into cab 1
+taking a taxi: </s> drive to destination 1
+taking a taxi: </s> get out of car 1
+taking a taxi: </s> give cashier your id 1
+taking a taxi: </s> get out of cab 1
+taking a taxi: </s> pay with card 1
+taking a taxi: </s> get in back seat and wait 1
+taking a taxi: </s> go to check-in 1
+taking a taxi: </s> get in passenger seat 1
+taking a taxi: </s> wait for taxi to arrive 1
+taking a taxi: </s> pay the driver 1
+taking a taxi: </s> get out of car 1
+taking a taxi: </s> put money in the machine and get out 1
+taking a taxi: </s> get into the street 1
+taking a taxi: </s> call a taxi 1
+taking a taxi: </s> get into the taxi 1
+taking a taxi: </s> wait for the driver 1
+taking a taxi: </s> wait for your taxi to arrive 1
+taking a taxi: </s> pay for your taxi 1
+surfing the internet: </s> find a surfing website 1
+surfing the internet: </s> sign up for email notifications from website 1
+surfing the internet: </s> go to website 1
+surfing the internet: </s> download software from website 1
+surfing the internet: </s> go to website 1
+surfing the internet: </s> search for and click on search button to find surfing partner or friend 1
+surfing the internet: </s> decide which of you is the better surfer 1
+surfing the internet: </s> surf until there is a spot 1
+surfing the internet: </s> leave site 1
+surfing the internet: </s> pay to surfing partner or friend 1
+surfing the internet: </s> return to site 1
+surfing the internet: </s> read website 1
+surfing the internet: </s> go home 1
+surfing the internet: </s> go to the web 1
+surfing the internet: </s> search for a good web surfing option 1
+surfing the internet: </s> click the search button 1
+surfing the internet: </s> choose the kind of web surfing you want 1
+surfing the internet: </s> enter your password 1
+surfing the internet: </s> wait for the search result 1
+surfing the internet: </s> surf the web 1
+surfing the internet: </s> select surfing site 1
+surfing the internet: </s> go to website 1
+surfing the internet: </s> check your settings 1
+surfing the internet: </s> select your account 1
+surfing the internet: </s> select the surf route 1
+surfing the internet: </s> get surfing done 1
+surfing the internet: </s> decide what to surf 1
+surfing the internet: </s> buy internet 1
+surfing the internet: </s> go to surfing site 1
+surfing the internet: </s> wait for search to return 1
+surfing the internet: </s> go to the search page 1
+surfing the internet: </s> select the desired surfing site 1
+surfing the internet: </s> find what you want to do 1
+surfing the internet: </s> go surfing 1
+surfing the internet: </s> return if it doesn't work 1
+surfing the internet: </s> go back to the web site 1
+surfing the internet: </s> choose what you want to do 1
+surfing the internet: </s> go to the website 1
+surfing the internet: </s> read and answer questions 1
+surfing the internet: </s> exit the website 1
+surfing the internet: </s> go home 1
+surfing the internet: </s> get in the car. 1
+surfing the internet: </s> drive to the beach. 1
+surfing the internet: </s> rent a surfboard. 1
+surfing the internet: </s> go to the beach. 1
+surfing the internet: </s> put on my sunglasses. 1
+surfing the internet: </s> get in my car. 1
+surfing the internet: </s> drive to my beach. 1
+surfing the internet: </s> go to the surfing. 1
+watching television: </s> turn on the television 1
+watching television: </s> adjust the volume 1
+watching television: </s> read the news 1
+watching television: </s> go to the station 1
+watching television: </s> read the program 1
+watching television: </s> pay for the program 1
+watching television: </s> exit the station 1
+watching television: </s> choose which channel to watch. 1
+watching television: </s> get in the car. 1
+watching television: </s> drive to the place where the show is showing. 1
+watching television: </s> go to the kiosk. 1
+watching television: </s> buy the ticket. 1
+watching television: </s> sit down and watch the show. 1
+watching television: </s> leave the kiosk. 1
+watching television: </s> go home. 1
+watching television: </s> watch a movie. 1
+watching television: </s> take out old television 1
+watching television: </s> take out cable 1
+watching television: </s> turn on new television 1
+watching television: </s> turn off old television 1
+watching television: </s> turn off cable 1
+watching television: </s> turn on new cable 1
+watching television: </s> enter room. 1
+watching television: </s> find a show on screen. 1
+watching television: </s> place a hand on the remote. 1
+watching television: </s> turn on television. 1
+watching television: </s> select an episode. 1
+watching television: </s> choose when to watch show. 1
+watching television: </s> wait for the show to finish. 1
+watching television: </s> switch off remote. 1
+watching television: </s> exit room. 1
+watching television: </s> get your cable box 1
+watching television: </s> go to a TV 1
+watching television: </s> choose which show to watch 1
+watching television: </s> put your remote handle on the remote 1
+watching television: </s> go to the menu 1
+watching television: </s> select which channel you want 1
+watching television: </s> turn off your TV 1
+watching television: </s> turn on your computer 1
+watching television: </s> watch the show 1
+going to a club to dance: </s> put on a dance costume 1
+going to a club to dance: </s> drive to club 1
+going to a club to dance: </s> check in 1
+going to a club to dance: </s> wait in line 1
+going to a club to dance: </s> pay for entry 1
+going to a club to dance: </s> put on your dance shoes 1
+going to a club to dance: </s> grab your friends 1
+going to a club to dance: </s> go to the dance floor 1
+going to a club to dance: </s> dance around the floor 1
+going to a club to dance: </s> leave with friends 1
+going to a club to dance: </s> drive home 1
+going to a club to dance: </s> choose which club to attend. 1
+going to a club to dance: </s> drive or park your car. 1
+going to a club to dance: </s> get in your car. 1
+going to a club to dance: </s> go to the club. 1
+going to a club to dance: </s> enter the club. 1
+going to a club to dance: </s> get up and dance. 1
+going to a club to dance: </s> put on some dancing shoes 1
+going to a club to dance: </s> arrive at the club 1
+going to a club to dance: </s> go inside 1
+going to a club to dance: </s> dance with a partner 1
+going to a club to dance: </s> wear a partner's t-shirt 1
+going to a club to dance: </s> pay for your drink 1
+going to a club to dance: </s> tip the club 1
+going to a club to dance: </s> go to club 1
+going to a club to dance: </s> dress in black 1
+going to a club to dance: </s> pay 1
+going to a club to dance: </s> sit down 1
+going to a club to dance: </s> listen to music 1
+going to a club to dance: </s> gather friends to go 1
+going to a club to dance: </s> get dressed in loose clothing 1
+going to a club to dance: </s> travel to club 1
+going to a club to dance: </s> go inside 1
+going to a club to dance: </s> pay for a dance 1
+going to a club to dance: </s> find the music to dance to 1
+going to a club to dance: </s> dance on the floor 1
+going to a club to dance: </s> get on the dance floor 1
+going to a club to dance: </s> go home 1
+going to a club to dance: </s> clean up 1

@@ -1,0 +1,24 @@
+<BOS> making
+<BOS> taking
+<BOS> doing
+<BOS> going
+<BOS>
+<BOS> cooking
+<BOS> walking
+<BOS> giving
+<BOS> repairing
+<BOS> here is an ordered sequence of events that happen while ordering fastfood online
+<BOS> here is an ordered sequence of events that happen while cooking in a microwave
+<BOS> here is an ordered sequence of events that happen while answering telephone 
+<BOS> here is an ordered sequence of events that happen while buying from vending machine 
+<BOS> here is an ordered sequence of events that happen while tying shoe laces
+<BOS> here is an ordered sequence of events that happen while brushing teeth
+<BOS> here is an ordered sequence of events that happen while making ginger paste
+<BOS> here is an ordered sequence of events that happen while going for a wedding
+<BOS> here is an ordered sequence of events that happen while attending a wedding
+<BOS> here is an ordered sequence of events that happen while washing a car
+<BOS> here is an ordered sequence of events that happen while taking out trash
+<BOS> here is an ordered sequence of events that happen while taking a taxi
+<BOS> here is an ordered sequence of events that happen while surfing the internet
+<BOS> here is an ordered sequence of events that happen while watching television
+<BOS> here is an ordered sequence of events that happen while going to a club to dance

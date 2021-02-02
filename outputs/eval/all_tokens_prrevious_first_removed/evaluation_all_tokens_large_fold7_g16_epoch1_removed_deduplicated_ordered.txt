@@ -1,0 +1,5 @@
+<BOS> <SCR> having a barbecue <ESCR>: 1. get ready to go out 2. put away food 3. put away all food
+<BOS> <SCR> ordering a pizza <ESCR>: 1. walk up to counter 2. purchase pizza 3. wait for order 4. get your pizza 5. eat the pizza
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. wet rag 2. take a piece of soap 3. put soap on your hands 4. wash with rag 5. rinse soap off your hands
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. put eggs in a strainer 2. put strainer in kitchen sink 3. put in the sink 4. get a big pan 5. put eggs in the pan 6. stir 7. get a strainer 8. put in the strainer 9. add some of the cooked water 10. turn on the stove
+<BOS> <SCR> taking the underground <ESCR>: 1. find water. 2. find an open area. 3. put a tarp over you. 4. leave the building.

@@ -1,0 +1,5 @@
+<BOS> here is an ordered sequence of events that occur when you have a barbecue: 
+<BOS> here is an ordered sequence of events that occur when you order a pizza: 
+<BOS> here is an ordered sequence of events that occur when you clean up a flat: 
+<BOS> here is an ordered sequence of events that occur when you make scrambled eggs: 
+<BOS> here is an ordered sequence of events that occur when you take the underground: 

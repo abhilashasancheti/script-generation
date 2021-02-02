@@ -1,0 +1,26 @@
+washing dishes;open the drain;turn off the faucet
+washing dishes;turn off the faucet;close the drain
+washing dishes;get some dish soap;get a rag
+washing dishes;get a sponge;turn on the faucet
+washing dishes;put the dishes in the dishwasher;put the soap in the dish
+washing dishes;wipe the dishes;open the drain
+making a bonfire;find firewood;light firewood
+going to the sauna;take your clothes off;turn on the water
+going to the sauna;put your clothes back on;turn off the water
+going to the sauna;get in the sauna;put your clothes back on
+going to the sauna;walk into the sauna;get in the hot tub
+going to the sauna;put on your clothes;walk into the sauna
+going to the sauna;turn off the water;open the sauna
+making coffee;stir the water to make sure it's good;leave the pot on stove for several minutes until the coffee is done
+making coffee;pour the coffee into the cup;stir the water to make sure it's good
+making coffee;put the hot water into the pot;boil the water
+making coffee;pour the rest of the ice into the cup;turn off the stove
+making coffee;boil the water;add a pinch of salt
+making coffee;put the ice into the water;pour the rest of the ice into the cup
+making coffee;pour the cup;pour the coffee into the cup
+making coffee;take the coffee pot;turn on the stove
+going to the swimming pool;keep your swimming feet on the water;start swimming
+going to the swimming pool;walk to the water's edge;go back to the water's edge
+going to the swimming pool;swim to the edge of the pool;keep your swimming feet on the water
+going to the swimming pool;take off your swimsuit;leave the swimming pool
+going to the swimming pool;go back to the water's edge;get into the water

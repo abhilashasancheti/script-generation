@@ -1,0 +1,5 @@
+<BOS> here is a sequence of events that happen while renovating a room: 
+<BOS> here is a sequence of events that happen while cooking pasta: 
+<BOS> here is a sequence of events that happen while sewing a button: 
+<BOS> here is a sequence of events that happen while doing laundry: 
+<BOS> here is a sequence of events that happen while going bowling: 

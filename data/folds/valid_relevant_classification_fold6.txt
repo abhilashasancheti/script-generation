@@ -1,0 +1,1238 @@
+paying with a credit card: </s> bring purchases to cashier 1
+paying with a credit card: </s> cashier scans purchases 1
+paying with a credit card: </s> get total from cashier 1
+paying with a credit card: </s> take credit card out of wallet 1
+paying with a credit card: </s> swipe credit card in payment console 1
+paying with a credit card: </s> sign your name 1
+paying with a credit card: </s> put credit card back in wallet 1
+paying with a credit card: </s> take receipt and purchases 1
+paying with a credit card: </s> get credit card 1
+paying with a credit card: </s> swipe through the machine 1
+paying with a credit card: </s> follow on-screen instructions 1
+paying with a credit card: </s> when prompted, sign your name 1
+paying with a credit card: </s> wait for the payment to be processed 1
+paying with a credit card: </s> receive receipt for payment. 1
+paying with a credit card: </s> find a service or product needed. 1
+paying with a credit card: </s> swipe card at register. 1
+paying with a credit card: </s> type in your pin number. 1
+paying with a credit card: </s> press enter. 1
+paying with a credit card: </s> sign when prompted. 1
+paying with a credit card: </s> get receipt. 1
+paying with a credit card: </s> enjoy product or service. 1
+paying with a credit card: </s> drive to store 1
+paying with a credit card: </s> select goods and merchandise 1
+paying with a credit card: </s> take your purchases to check-out 1
+paying with a credit card: </s> have your purchases bagged 1
+paying with a credit card: </s> pay with credit card 1
+paying with a credit card: </s> select debit or credit 1
+paying with a credit card: </s> sign on machine 1
+paying with a credit card: </s> receive receipt 1
+paying with a credit card: </s> exit with purchases 1
+paying with a credit card: </s> swipe credit card 1
+paying with a credit card: </s> accept the charges 1
+paying with a credit card: </s> wait for your receipt 1
+paying with a credit card: </s> sign receipt 1
+paying with a credit card: </s> take customer copy of receipt 1
+paying with a credit card: </s> take purchases 1
+paying with a credit card: </s> leave store 1
+paying with a credit card: </s> bring items you want to buy to register 1
+paying with a credit card: </s> wait for clerk to tell you total 1
+paying with a credit card: </s> pull out credit card 1
+paying with a credit card: </s> swipe in credit card machine 1
+paying with a credit card: </s> sign your name on credit card machine or receipt 1
+paying with a credit card: </s> get receipt 1
+paying with a credit card: </s> get items 1
+paying with a credit card: </s> leave store 1
+paying with a credit card: </s> get my credit card. 1
+paying with a credit card: </s> hand it to the cashier. 1
+paying with a credit card: </s> cashier checks my id. 1
+paying with a credit card: </s> swipe the card. 1
+paying with a credit card: </s> type in some information. 1
+paying with a credit card: </s> sign my name. 1
+paying with a credit card: </s> put my card back in wallet. 1
+paying with a credit card: </s> take items to checkout counter 1
+paying with a credit card: </s> have the worker ring them up 1
+paying with a credit card: </s> get the total price 1
+paying with a credit card: </s> get your credit card out of your wallet 1
+paying with a credit card: </s> swipe the credit card through the card reader 1
+paying with a credit card: </s> put the credit card back in your wallet 1
+paying with a credit card: </s> get the receipt 1
+paying with a credit card: </s> take items and leave the store 1
+paying with a credit card: </s> see what brands the merchant accepts 1
+paying with a credit card: </s> reach into pocket 1
+paying with a credit card: </s> pull wallet out of pocket 1
+paying with a credit card: </s> find card that corresponds to brand accepted by merchant 1
+paying with a credit card: </s> pull card out of wallet 1
+paying with a credit card: </s> hand card to cashier to swipe 1
+paying with a credit card: </s> write signature on receipt 1
+paying with a credit card: </s> get copy of receipt from cashier 1
+paying with a credit card: </s> pull out wallet 1
+paying with a credit card: </s> grab credit card 1
+paying with a credit card: </s> swipe through machine 1
+paying with a credit card: </s> sign for payment 1
+paying with a credit card: </s> insert card in wallet 1
+paying with a credit card: </s> bring selected merchandise to the till counter 1
+paying with a credit card: </s> let the cashier scan all the items 1
+paying with a credit card: </s> take out credit card 1
+paying with a credit card: </s> ask the cashier for payment with credit card 1
+paying with a credit card: </s> give the cashier your credit card 1
+paying with a credit card: </s> watch her as she swipes the card 1
+paying with a credit card: </s> sign one copy of the receipt 1
+paying with a credit card: </s> collect other copy 1
+paying with a credit card: </s> take the credit card back from cashier 1
+paying with a credit card: </s> check credit card balance 1
+paying with a credit card: </s> find something to buy 1
+paying with a credit card: </s> take item to register 1
+paying with a credit card: </s> hand cashier card 1
+paying with a credit card: </s> sign for purchase 1
+paying with a credit card: </s> pay balance when bill arrives 1
+paying with a credit card: </s> go to checkout. 1
+paying with a credit card: </s> person will tell you the amount you owe. 1
+paying with a credit card: </s> hand them your credit card. 1
+paying with a credit card: </s> person will slide it through their machine. 1
+paying with a credit card: </s> receipt will print. 1
+paying with a credit card: </s> person will hand you the receipt and a pen. 1
+paying with a credit card: </s> sign your name in the area marked on the receipt. 1
+paying with a credit card: </s> give receipt and pen back to person. 1
+paying with a credit card: </s> person will hand you a copy of the receipt for you to keep. 1
+paying with a credit card: </s> get card back from person and put it away. 1
+paying with a credit card: </s> take purchase and leave. 1
+paying with a credit card: </s> get card out wallet 1
+paying with a credit card: </s> swipe card on machine 1
+paying with a credit card: </s> put password in 1
+paying with a credit card: </s> answer questions 1
+paying with a credit card: </s> get receipt 1
+paying with a credit card: </s> get out your card 1
+paying with a credit card: </s> hand bill to clerk 1
+paying with a credit card: </s> hand card to clerk 1
+paying with a credit card: </s> sign receipt 1
+paying with a credit card: </s> put away card 1
+paying with a credit card: </s> select desired credit card. 1
+paying with a credit card: </s> withdraw from wallet. 1
+paying with a credit card: </s> hand to cashier. 1
+paying with a credit card: </s> hand over id upon request. 1
+paying with a credit card: </s> wait for receipts to print. 1
+paying with a credit card: </s> sign receipt. 1
+paying with a credit card: </s> keep copy for records. 1
+paying with a credit card: </s> you get something to buy and walk to cashier. 1
+paying with a credit card: </s> cashier rings it up. 1
+paying with a credit card: </s> you give her your credit card. 1
+paying with a credit card: </s> she slides it and hands it back to you. 1
+paying with a credit card: </s> you put it in your purse. 1
+paying with a credit card: </s> you sign the receipt. 1
+paying with a credit card: </s> you get a copy. 1
+paying with a credit card: </s> you take your bags and leave. 1
+paying with a credit card: </s> find item you want in store 1
+paying with a credit card: </s> bring item to counter 1
+paying with a credit card: </s> slide card in reader 1
+paying with a credit card: </s> take items home 1
+paying with a credit card: </s> pull out credit card 1
+paying with a credit card: </s> swipe card in machine 1
+paying with a credit card: </s> or enter numbers online (if online purchase) 1
+paying with a credit card: </s> enter expiration date (if online) 1
+paying with a credit card: </s> enter csc (if online) 1
+paying with a credit card: </s> sign for purchase 1
+paying with a credit card: </s> return card to wallet 1
+paying with a credit card: </s> stand in line at counter 1
+paying with a credit card: </s> hand over items to cashier 1
+paying with a credit card: </s> watch prices as she scans items 1
+paying with a credit card: </s> get total of purchase 1
+paying with a credit card: </s> get out credit card. 1
+paying with a credit card: </s> swipe credit card on machine 1
+paying with a credit card: </s> punch credit 1
+paying with a credit card: </s> sign name 1
+paying with a credit card: </s> put card back into wallet 1
+paying with a credit card: </s> take receipt from cashier 1
+paying with a credit card: </s> find item you would like to purchase 1
+paying with a credit card: </s> take item to the cash register 1
+paying with a credit card: </s> wait for cashier to ring up item 1
+paying with a credit card: </s> swipe credit card through machine 1
+paying with a credit card: </s> approve the total 1
+paying with a credit card: </s> sign to authorize the purchase 1
+paying with a credit card: </s> take your receipt 1
+paying with a credit card: </s> find the item you want to buy 1
+paying with a credit card: </s> bring item to checkout 1
+paying with a credit card: </s> take out credit card 1
+paying with a credit card: </s> slide card through the reader 1
+paying with a credit card: </s> input pin number 1
+paying with a credit card: </s> press ok 1
+paying with a credit card: </s> open wallet. 1
+paying with a credit card: </s> take out credit card. 1
+paying with a credit card: </s> swipe credit card. 1
+paying with a credit card: </s> hit accept button. 1
+paying with a credit card: </s> wait for receipt to print. 1
+paying with a credit card: </s> sign receipt. 1
+paying with a credit card: </s> receive a bill that you will be paying for. 1
+paying with a credit card: </s> announce you will be paying by credit card. 1
+paying with a credit card: </s> swipe the card or allow the cashier to swipe. 1
+paying with a credit card: </s> wait for the transaction to be authorized. 1
+paying with a credit card: </s> sign the receipt if needed. 1
+paying with a credit card: </s> take your receipt. 1
+paying with a credit card: </s> make sure transaction posts correctly on your credit card bill. 1
+paying with a credit card: </s> take items to the counter 1
+paying with a credit card: </s> swipe the card 1
+paying with a credit card: </s> sign the receipt 1
+paying with a credit card: </s> take bagged items 1
+paying with a credit card: </s> take copy of the receipt 1
+paying with a credit card: </s> leave the store 1
+paying with a credit card: </s> select 'pay with credit' option 1
+paying with a credit card: </s> take credit card out of wallet 1
+paying with a credit card: </s> swipe credit card 1
+paying with a credit card: </s> sign your signature 1
+paying with a credit card: </s> put credit card back in wallet 1
+paying with a credit card: </s> decide what items you would like to buy. 1
+paying with a credit card: </s> proceed to checkout. 1
+paying with a credit card: </s> scan items. 1
+paying with a credit card: </s> swipe card through reader. 1
+paying with a credit card: </s> confirm amount on screen. 1
+paying with a credit card: </s> authorize purchase by signing. 1
+paying with a credit card: </s> leave store. 1
+paying with a credit card: </s> pay bill later. 1
+paying with a credit card: </s> go to cashier with what you are buying 1
+paying with a credit card: </s> get credit card out of wallet/purse 1
+paying with a credit card: </s> hand credit card to cashier 1
+paying with a credit card: </s> make sure it goes through 1
+paying with a credit card: </s> ask for receipt 1
+paying with a credit card: </s> remove card from wallet 1
+paying with a credit card: </s> slide it with the number facing upwards 1
+paying with a credit card: </s> input your pin number but don't let anyone see you doing it 1
+paying with a credit card: </s> sign your name using the stylus 1
+paying with a credit card: </s> receive your receipt 1
+paying with a credit card: </s> sign your name on the recite if required 1
+paying with a credit card: </s> choose what you wish to purchase 1
+paying with a credit card: </s> take it to the register 1
+paying with a credit card: </s> tell the worker that you wish to pay with credit 1
+paying with a credit card: </s> hand over your card or swipe it yourself 1
+paying with a credit card: </s> enter your pin number 1
+paying with a credit card: </s> write your initials on the slip that they give you 1
+paying with a credit card: </s> leave 1
+paying with a credit card: </s> find items to purchase 1
+paying with a credit card: </s> take item to sales clerk 1
+paying with a credit card: </s> clerk tallies up the amount 1
+paying with a credit card: </s> slide the credit card through the reader 1
+paying with a credit card: </s> sign your name on the reader 1
+paying with a credit card: </s> take receipt and items 1
+paying with a credit card: </s> leave store 1
+paying with a credit card: </s> after the cashier rings up your items, pull your card out 1
+paying with a credit card: </s> tell the cashier it is credit 1
+paying with a credit card: </s> swipe the card 1
+paying with a credit card: </s> sign the signature pad to accept the transaction 1
+paying with a credit card: </s> wait until the transaction is authorized 1
+paying with a credit card: </s> take receipt from cashier 1
+paying with a credit card: </s> get the bill 1
+paying with a credit card: </s> check the bill amount 1
+paying with a credit card: </s> take out credit card from the wallet 1
+paying with a credit card: </s> give the credit card to the cashier 1
+paying with a credit card: </s> cashier swipes the card 1
+paying with a credit card: </s> ensure the bill amount correctness 1
+paying with a credit card: </s> enter the pin 1
+paying with a credit card: </s> press enter button 1
+paying with a credit card: </s> take back the card 1
+paying with a credit card: </s> sign the receipt 1
+paying with a credit card: </s> get a copy of receipt 1
+paying with a credit card: </s> keep the credit card in the wallet 1
+paying with a credit card: </s> ring up items 1
+paying with a credit card: </s> wait for total amount 1
+paying with a credit card: </s> pull credit card from wallet 1
+paying with a credit card: </s> run credit card through scanner 1
+paying with a credit card: </s> wait for approval 1
+paying with a credit card: </s> show identification 1
+paying with a credit card: </s> sign scanner with digital pen 1
+paying with a credit card: </s> put credit card back in wallet 1
+paying with a credit card: </s> wait for receipt 1
+paying with a credit card: </s> take items 1
+paying with a credit card: </s> apply for credit card 1
+paying with a credit card: </s> wait for approval 1
+paying with a credit card: </s> go to store 1
+paying with a credit card: </s> choose item 1
+paying with a credit card: </s> bring item to clerk 1
+paying with a credit card: </s> hand them credit card 1
+paying with a credit card: </s> sign your name 1
+paying with a credit card: </s> take item and receipt 1
+paying with a credit card: </s> leave store 1
+paying with a credit card: </s> place order 1
+paying with a credit card: </s> give card info by slideing or entering it online 1
+paying with a credit card: </s> wait for payment to happen 1
+paying with a credit card: </s> get items you paid for 1
+paying with a credit card: </s> take note of money spent 1
+paying with a credit card: </s> take items to register 1
+paying with a credit card: </s> cashier rings up items 1
+paying with a credit card: </s> give credit card to cashier 1
+paying with a credit card: </s> cashier swipes card 1
+paying with a credit card: </s> cashier gives back card and receipt 1
+paying with a credit card: </s> put card away 1
+paying with a credit card: </s> sign the receipt 1
+paying with a credit card: </s> give the receipt to cashier 1
+paying with a credit card: </s> leave 1
+paying with a credit card: </s> wait in line. 1
+paying with a credit card: </s> hand purchases to clerk. 1
+paying with a credit card: </s> wait for clerk to scan purchases. 1
+paying with a credit card: </s> get total charge amount from clerk. 1
+paying with a credit card: </s> slide credit card through card reader. 1
+paying with a credit card: </s> follow prompts on machine. 1
+paying with a credit card: </s> sign name on card reader. 1
+paying with a credit card: </s> get receipt from clerk. 1
+paying with a credit card: </s> take purchases and leave store. 1
+paying with a credit card: </s> open wallet and select a credit card 1
+paying with a credit card: </s> pull out credit card and swipe in pos machine 1
+paying with a credit card: </s> enter credit or debit 1
+paying with a credit card: </s> enter pin if asked 1
+paying with a credit card: </s> wait for approval 1
+paying with a credit card: </s> take reciept 1
+paying with a credit card: </s> the cashier tells you the cash amount required for purchase 1
+paying with a credit card: </s> take out credit card from wallet 1
+paying with a credit card: </s> slide credit card on electronic card reader 1
+paying with a credit card: </s> sign the receipt 1
+paying with a credit card: </s> take your purchase 1
+paying with a credit card: </s> go shopping. 1
+paying with a credit card: </s> pick out goods. 1
+paying with a credit card: </s> go to the checkout. 1
+paying with a credit card: </s> pull out credit card. 1
+paying with a credit card: </s> checkout with credit. 1
+paying with a credit card: </s> get into a shop 1
+paying with a credit card: </s> choose the product 1
+paying with a credit card: </s> take the credit card 1
+paying with a credit card: </s> swipe your credit card for paying 1
+paying with a credit card: </s> enter the amount 1
+paying with a credit card: </s> get the statements 1
+paying with a credit card: </s> sign the bill 1
+paying with a credit card: </s> take the product purchased 1
+paying with a credit card: </s> leave the shop 1
+paying with a credit card: </s> cashier rings up all your items 1
+paying with a credit card: </s> give you a subtotal 1
+paying with a credit card: </s> slide your card through credit card console 1
+paying with a credit card: </s> click yes that you accept the charges 1
+paying with a credit card: </s> sign your name 1
+paying with a credit card: </s> claim your receipt and goods 1
+paying with a credit card: </s> make sure your price is right 1
+paying with a credit card: </s> pull out your credit 1
+paying with a credit card: </s> either hand you card to the merchant to be swiped, or swipe the card yourself 1
+paying with a credit card: </s> type in your pin number or zipcode if prompted 1
+paying with a credit card: </s> take your receipt 1
+paying with a credit card: </s> put your card back 1
+paying with a credit card: </s> take out credit card. 1
+paying with a credit card: </s> swipe card in machine. 1
+paying with a credit card: </s> sign authorization. 1
+paying with a credit card: </s> take receipt. 1
+paying with a credit card: </s> put card and receipt back in wallet. 1
+paying with a credit card: </s> ring up purchases with cashier 1
+paying with a credit card: </s> bag items 1
+paying with a credit card: </s> swipe credit card 1
+paying with a credit card: </s> wait for cashier to approve transaction 1
+paying with a credit card: </s> sign receipt 1
+paying with a credit card: </s> leave the store 1
+paying with a credit card: </s> pick the product you wish to buy 1
+paying with a credit card: </s> approach the cashier 1
+paying with a credit card: </s> take out your wallet 1
+paying with a credit card: </s> slide your credit card 1
+paying with a credit card: </s> collect receipt 1
+paying with a credit card: </s> leave the store 1
+paying with a credit card: </s> take wallet out of pocket 1
+paying with a credit card: </s> take credit card out of wallet 1
+paying with a credit card: </s> slide card into machine 1
+paying with a credit card: </s> pick correct options on machine 1
+paying with a credit card: </s> sign your name 1
+paying with a credit card: </s> enter point of sale area 1
+paying with a credit card: </s> receive total for items 1
+paying with a credit card: </s> select the card to pay with 1
+paying with a credit card: </s> swipe or hand card over as required 1
+paying with a credit card: </s> sign for charges when prompted 1
+paying with a credit card: </s> obtain receipt from business for payment 1
+paying with a credit card: </s> put items on cash wrap 1
+paying with a credit card: </s> retrieve card 1
+paying with a credit card: </s> give to cashier 1
+paying with a credit card: </s> cashier swipes 1
+paying with a credit card: </s> wait for approval 1
+paying with a credit card: </s> sign name 1
+paying with a credit card: </s> get card back 1
+paying with a credit card: </s> get receipt 1
+paying with a credit card: </s> leave store 1
+paying with a credit card: </s> make purchase 1
+paying with a credit card: </s> swipe card 1
+paying with a credit card: </s> sign screen 1
+paying with a credit card: </s> get receipt 1
+paying with a credit card: </s> leave store 1
+paying with a credit card: </s> wait for clerk to tell you your total, 1
+paying with a credit card: </s> tell cashier you are paying with credit. 1
+paying with a credit card: </s> swipe card. 1
+paying with a credit card: </s> press the button for credit card. 1
+paying with a credit card: </s> sign receipt. 1
+paying with a credit card: </s> select items to buy 1
+paying with a credit card: </s> get in check out line 1
+paying with a credit card: </s> give items to cashier 1
+paying with a credit card: </s> slide credit card into machine 1
+paying with a credit card: </s> sign for purchase 1
+paying with a credit card: </s> get bags from cashier 1
+paying with a credit card: </s> exit store 1
+paying with a credit card: </s> review your bill for accuracy. 1
+paying with a credit card: </s> remove your credit card from your wallet. 1
+paying with a credit card: </s> present your credit card as form of payment. 1
+paying with a credit card: </s> review receipt for accuracy. 1
+paying with a credit card: </s> sign your name on receipt. 1
+paying with a credit card: </s> take your copy of the receipt. 1
+paying with a credit card: </s> place your credit card back into your wallet. 1
+paying with a credit card: </s> provide the credit card to the seller 1
+paying with a credit card: </s> check the amount, how much we need to pay for our shopping 1
+paying with a credit card: </s> check the transfer amount and enter the pin number 1
+paying with a credit card: </s> collect the bill for money transfer 1
+paying with a credit card: </s> make sure the amount was transferred correctly 1
+paying with a credit card: </s> keep the credit card at safely while moving from that place 1
+paying with a credit card: </s> take out your wallet 1
+paying with a credit card: </s> find your card 1
+paying with a credit card: </s> present or swipe your card 1
+paying with a credit card: </s> verify the total 1
+paying with a credit card: </s> sign the receipt 1
+paying with a credit card: </s> take your copy of the receipt 1
+paying with a credit card: </s> open wallet 1
+paying with a credit card: </s> pull credit card out 1
+paying with a credit card: </s> swipe my card 1
+paying with a credit card: </s> put in my pin number 1
+paying with a credit card: </s> put card back in my wallet 1
+paying with a credit card: </s> put wallet in pocket 1
+paying with a credit card: </s> select items to purchase. 1
+paying with a credit card: </s> when asked if you are paying with credit or debit, choose credit. 1
+paying with a credit card: </s> input credit card type (visa, mastercard, etc) if asked. 1
+paying with a credit card: </s> enter pin number if required. 1
+paying with a credit card: </s> keep receipt from purchase for record-keeping. 1
+paying with a credit card: </s> look for cash register 1
+paying with a credit card: </s> place items in front of cashier 1
+paying with a credit card: </s> wait until cashier is finished ringing up items 1
+paying with a credit card: </s> swipe credit card 1
+paying with a credit card: </s> show cashier identification and credit card 1
+paying with a credit card: </s> sign name on machine when prompted 1
+paying with a credit card: </s> take credit card from wallet 1
+paying with a credit card: </s> swipe the card in the card reader 1
+paying with a credit card: </s> when prompted, sign on card reader screen using finger as pen 1
+paying with a credit card: </s> remove paper receipt from printer 1
+paying with a credit card: </s> examine receipt for accuracy 1
+paying with a credit card: </s> walk away. 1
+paying with a credit card: </s> walk to cashier or automated teller 1
+paying with a credit card: </s> take out credit card 1
+paying with a credit card: </s> swipe card 1
+paying with a credit card: </s> enter password 1
+paying with a credit card: </s> approve fee 1
+paying with a credit card: </s> get receipt 1
+paying with a credit card: </s> depart with purchases 1
+paying with a credit card: </s> present your card to make payment 1
+paying with a credit card: </s> swipe your card through the card machine 1
+paying with a credit card: </s> enter your pin 1
+paying with a credit card: </s> confirm the payment 1
+paying with a credit card: </s> sign your receipt 1
+paying with a credit card: </s> get your card out 1
+paying with a credit card: </s> slide it in the machine 1
+paying with a credit card: </s> wait than sign your name in box 1
+paying with a credit card: </s> put your card away 1
+paying with a credit card: </s> take your receipt 1
+paying with a credit card: </s> go to where you are buying an item 1
+paying with a credit card: </s> get your credit card out of wallet 1
+paying with a credit card: </s> swipe through the credit card machine 1
+paying with a credit card: </s> wait for cashier to give you a receipt to sign 1
+paying with a credit card: </s> sign the credit card reciept 1
+paying with a credit card: </s> give back signed receipt to clerk and leave 1
+paying with a credit card: </s> get bill 1
+paying with a credit card: </s> hand over credit card 1
+paying with a credit card: </s> let cashier swipe credit card 1
+paying with a credit card: </s> when receipt printed sign it 1
+paying with a credit card: </s> hand receipt to cashier 1
+paying with a credit card: </s> get credit card back from cashier 1
+paying with a credit card: </s> get customer copy of receipt back from cashier 1
+paying with a credit card: </s> drive to store 1
+paying with a credit card: </s> choose items you want to purchase 1
+paying with a credit card: </s> take items to checkout isle 1
+paying with a credit card: </s> after total is told to you slide card on credit card machine 1
+paying with a credit card: </s> answer questions as prompted by machine 1
+paying with a credit card: </s> receive receipt 1
+paying with a credit card: </s> take items 1
+paying with a credit card: </s> drive home 1
+paying with a credit card: </s> take out the credit card 1
+paying with a credit card: </s> swipe the card 1
+paying with a credit card: </s> wait for the clerk to do things 1
+paying with a credit card: </s> hit the ok button or sign 1
+paying with a credit card: </s> take receipt 1
+paying with a credit card: </s> get credit card out of wallet 1
+paying with a credit card: </s> hand credit card to cashier 1
+paying with a credit card: </s> wait for cashier to give credit card back 1
+paying with a credit card: </s> sign credit card slip given to me by cashier 1
+paying with a credit card: </s> put credit card back in wallet 1
+paying with a credit card: </s> going to the store 1
+paying with a credit card: </s> picking out product to buy 1
+paying with a credit card: </s> going to check out 1
+paying with a credit card: </s> handing card to cashier 1
+paying with a credit card: </s> signing for purchase 1
+paying with a credit card: </s> taking product 1
+paying with a credit card: </s> leaving the store 1
+paying with a credit card: </s> pull out your credit card 1
+paying with a credit card: </s> hand it to the cashier 1
+paying with a credit card: </s> wait for the clerk to swipe it 1
+paying with a credit card: </s> sign the slip of paper 1
+paying with a credit card: </s> get the card back from the cashier 1
+paying with a credit card: </s> take your item that you bought and leave 1
+paying with a credit card: </s> enter store 1
+paying with a credit card: </s> choose a product 1
+paying with a credit card: </s> go to cashier 1
+paying with a credit card: </s> give credit card 1
+paying with a credit card: </s> enter your pin 1
+paying with a credit card: </s> take credit card 1
+paying with a credit card: </s> get bill 1
+paying with a credit card: </s> leave with product 1
+paying with a credit card: </s> bring item up to buy 1
+paying with a credit card: </s> give item to cashier 1
+paying with a credit card: </s> wait for the cashier to say the total 1
+paying with a credit card: </s> get credit card out of purse/wallet 1
+paying with a credit card: </s> give it to the cashier 1
+paying with a credit card: </s> receive back items and card 1
+paying with a credit card: </s> order an item 1
+paying with a credit card: </s> pull out wallet 1
+paying with a credit card: </s> pull out credit card from wallet 1
+paying with a credit card: </s> swipe on the credit card machine 1
+paying with a credit card: </s> insert the pin number 1
+paying with a credit card: </s> answer if you want cash back or not 1
+paying with a credit card: </s> place credit card back in wallet 1
+paying with a credit card: </s> place wallet back in pocket 1
+paying with a credit card: </s> go to store 1
+paying with a credit card: </s> pick out item you wish to purchase 1
+paying with a credit card: </s> take item to checkout counter 1
+paying with a credit card: </s> give cashier your credit card 1
+paying with a credit card: </s> sign receipt and get card back 1
+paying with a credit card: </s> take item and your copy of receipt 1
+paying with a credit card: </s> leave store 1
+paying with a credit card: </s> remove card from wallet/purse. 1
+paying with a credit card: </s> swipe card in available scanner. 1
+paying with a credit card: </s> approve the total. 1
+paying with a credit card: </s> hit okay. 1
+paying with a credit card: </s> sign receipt. 1
+paying with a credit card: </s> grab copy for your records. 1
+paying with a credit card: </s> place card back in wallet/purse. 1
+paying with a credit card: </s> decide what to purchase 1
+paying with a credit card: </s> get my wallet out 1
+paying with a credit card: </s> take out my credit card 1
+paying with a credit card: </s> swipe my credit card 1
+paying with a credit card: </s> put my credit card back in my wallet 1
+paying with a credit card: </s> put my wallet back in my pants 1
+paying with a credit card: </s> run card through machine 1
+paying with a credit card: </s> select debit or credit 1
+paying with a credit card: </s> if debit, enter pin 1
+paying with a credit card: </s> sign the machine 1
+paying with a credit card: </s> press enter 1
+paying with a credit card: </s> wait for receipt 1
+paying with a credit card: </s> take card from wallet. 1
+paying with a credit card: </s> swipe card in the machine. 1
+paying with a credit card: </s> answer any question the machine asks. 1
+paying with a credit card: </s> press enter to confirm purchase. 1
+paying with a credit card: </s> wait for recipt. 1
+paying with a credit card: </s> walk to checkout 1
+paying with a credit card: </s> put items on counter 1
+paying with a credit card: </s> cashier rings up and bags items 1
+paying with a credit card: </s> look at your total on the card machine 1
+paying with a credit card: </s> confirm it is the correct total 1
+paying with a credit card: </s> slide your credit card in the indicated direction 1
+paying with a credit card: </s> sign your name when prompted 1
+paying with a credit card: </s> take items and receipt from cashier 1
+paying with a credit card: </s> leave store 1
+paying with a credit card: </s> check total 1
+paying with a credit card: </s> grab wallet 1
+paying with a credit card: </s> find card 1
+paying with a credit card: </s> swipe card 1
+paying with a credit card: </s> sign on screen 1
+paying with a credit card: </s> get receipt 1
+paying with a credit card: </s> find items you want to purchase. 1
+paying with a credit card: </s> take items to cashier. 1
+paying with a credit card: </s> watch total, and remove credit card from wallet. 1
+paying with a credit card: </s> slide credit card through payment machine. 1
+paying with a credit card: </s> follow prompts on machine, hitting yes and no where appropriate. 1
+paying with a credit card: </s> when receipt comes, sign on line at bottom. 1
+paying with a credit card: </s> leave store with items purchased. 1
+paying with a credit card: </s> wait for cashier to ring up purchases 1
+paying with a credit card: </s> give credit card to cashier 1
+paying with a credit card: </s> if asked show id to cashier 1
+paying with a credit card: </s> sign credit slip 1
+paying with a credit card: </s> take back credit card 1
+paying with a credit card: </s> take purchases and receipt and leave the store 1
+paying with a credit card: </s> select credit card you want to use 1
+paying with a credit card: </s> tell cashier you are paying with credit 1
+paying with a credit card: </s> slide card through machine 1
+paying with a credit card: </s> select option for credit 1
+paying with a credit card: </s> accept amount charged 1
+paying with a credit card: </s> decide if you want cash back 1
+paying with a credit card: </s> sign appropriate place on screen 1
+paying with a credit card: </s> accept receipt from cashier 1
+paying with a credit card: </s> take bags and leave store 1
+paying with a credit card: </s> take wallet out of pocket 1
+paying with a credit card: </s> open wallet 1
+paying with a credit card: </s> remove credit card 1
+paying with a credit card: </s> swipe credit card 1
+paying with a credit card: </s> verify amount is correct 1
+paying with a credit card: </s> follow prompts to approve payment 1
+paying with a credit card: </s> return credit card to wallet 1
+paying with a credit card: </s> put wallet back in pocket 1
+paying with a credit card: </s> pick out item 1
+paying with a credit card: </s> take card out of wallet 1
+paying with a credit card: </s> slide card through scanner 1
+paying with a credit card: </s> confirm the total 1
+paying with a credit card: </s> sign on the screen 1
+paying with a credit card: </s> take item and receipt 1
+paying with a credit card: </s> enter card number 1
+paying with a credit card: </s> enter name on card 1
+paying with a credit card: </s> enter exp date 1
+paying with a credit card: </s> enter verification code on back of card 1
+paying with a credit card: </s> confirm purchase 1
+paying with a credit card: </s> pull out wallet 1
+paying with a credit card: </s> select credit card from wallet 1
+paying with a credit card: </s> swipe credit card in reader 1
+paying with a credit card: </s> accept the total amount 1
+paying with a credit card: </s> sign your name 1
+paying with a credit card: </s> get receipt from cashier 1
+paying with a credit card: </s> purchase items 1
+paying with a credit card: </s> walk to check out 1
+paying with a credit card: </s> get credit card out of wallet 1
+paying with a credit card: </s> swipe credit card at register 1
+paying with a credit card: </s> press appropriate buttons upon swipe 1
+paying with a credit card: </s> receive receipt 1
+paying with a credit card: </s> go to check out 1
+paying with a credit card: </s> wait in line 1
+paying with a credit card: </s> watch cashier ring up stuff 1
+paying with a credit card: </s> scan card on credit thingy 1
+paying with a credit card: </s> get receipt 1
+paying with a credit card: </s> decide what you are going to purchase 1
+paying with a credit card: </s> tell the cashier you are paying by credit 1
+paying with a credit card: </s> give the card to the cashier 1
+paying with a credit card: </s> the cashier will run it 1
+paying with a credit card: </s> wait for approval 1
+paying with a credit card: </s> sign for your purchase 1
+paying with a credit card: </s> wait for receipt 1
+paying with a credit card: </s> take receipt 1
+paying with a credit card: </s> have item (s) or meal charged at establishment 1
+paying with a credit card: </s> determine cost 1
+paying with a credit card: </s> get credit card from wallet 1
+paying with a credit card: </s> hand credit card to clerk/ server 1
+paying with a credit card: </s> produce id if requested 1
+paying with a credit card: </s> sign receipt to acknowledge charge 1
+paying with a credit card: </s> take the items you would like to purchase to the register. 1
+paying with a credit card: </s> after they ring up the items they will give you a total. 1
+paying with a credit card: </s> let them know you would like to pay with a credit card. 1
+paying with a credit card: </s> swipe your card in the machine. 1
+paying with a credit card: </s> select the credit option. 1
+paying with a credit card: </s> wait for the card to be approved. 1
+paying with a credit card: </s> after it is approved sign your name in the box on the machine. 1
+paying with a credit card: </s> wait for the receipt to print out. 1
+paying with a credit card: </s> take your items. 1
+paying with a credit card: </s> thank the cashier. 1
+paying with a credit card: </s> dress formally 0
+paying with a credit card: </s> turn on iron 0
+paying with a credit card: </s> look at haircut 0
+paying with a credit card: </s> take off seat belt 0
+paying with a credit card: </s> soothe child 0
+paying with a credit card: </s> wash yourself 0
+paying with a credit card: </s> patch up the hole 0
+paying with a credit card: </s> go to home improvement store. 0
+paying with a credit card: </s> leave tennis courtm 0
+paying with a credit card: </s> serve meat to friends 0
+paying with a credit card: </s> collect your towels, change of clothes, and other necessities. 0
+paying with a credit card: </s> gather kindling 0
+paying with a credit card: </s> leave haircut place 0
+paying with a credit card: </s> watch it burn 0
+paying with a credit card: </s> select order from menu 0
+paying with a credit card: </s> board the plane 0
+paying with a credit card: </s> place laundry on the ironing board one by one. 0
+paying with a credit card: </s> place food on grill 0
+paying with a credit card: </s> get into the chair 0
+paying with a credit card: </s> set up ironing board. 0
+paying with a credit card: </s> give bus driver token or money 0
+paying with a credit card: </s> make an epic splash 0
+paying with a credit card: </s> put frying pan on the stove burner. 0
+paying with a credit card: </s> dry off and get dressed 0
+paying with a credit card: </s> place the button in the right spot 0
+paying with a credit card: </s> water the tree again. 0
+paying with a credit card: </s> select needle 0
+paying with a credit card: </s> place the tree in the hole. 0
+paying with a credit card: </s> start the car. 0
+paying with a credit card: </s> go home 0
+paying with a credit card: </s> drive home 0
+paying with a credit card: </s> enter plane 0
+paying with a credit card: </s> secure button to material. 0
+paying with a credit card: </s> wake up the child if they've fallen asleep elsewhere, like the couch 0
+paying with a credit card: </s> rinse and repeat 0
+paying with a credit card: </s> when they are finished, fold them and put them away. 0
+paying with a credit card: </s> try and hit it again. 0
+paying with a credit card: </s> put boiling water in coffee press 0
+paying with a credit card: </s> add garlic salt 0
+paying with a credit card: </s> add salt. 0
+paying with a credit card: </s> eat food with company 0
+paying with a credit card: </s> pay the turnpike 0
+paying with a credit card: </s> turn oven off 0
+paying with a credit card: </s> take the items to an empty table 0
+paying with a credit card: </s> bring book to checkout desk 0
+paying with a credit card: </s> go to driving school. 0
+paying with a credit card: </s> search new release movies at my local theater website 0
+paying with a credit card: </s> mix sugar 0
+paying with a credit card: </s> sit back, relax, and enjoy the flight. 0
+paying with a credit card: </s> unscrew cap on tire 0
+paying with a credit card: </s> start at the front and work your way back 0
+paying with a credit card: </s> wait for train 0
+paying with a credit card: </s> use an air spray or deodorizer to freshen the air 0
+paying with a credit card: </s> leave funeral home 0
+paying with a credit card: </s> get a library card 0
+paying with a credit card: </s> leave the car 0
+paying with a credit card: </s> buy ticket to theater show in advance 0
+paying with a credit card: </s> change into swimsuits 0
+paying with a credit card: </s> add pasta masala supplied with the pasta pack for additional taste 0
+paying with a credit card: </s> watch it grow. 0
+paying with a credit card: </s> get to airport 0
+paying with a credit card: </s> sit down 0
+paying with a credit card: </s> secondly slice 2 big onions thin 0
+paying with a credit card: </s> vacuum the carpets 0
+paying with a credit card: </s> drive around with instructor in passenger seat 0
+paying with a credit card: </s> browse the sections of the library. 0
+paying with a credit card: </s> set washer load size, water temp., etc. 0
+paying with a credit card: </s> leave child in room. 0
+paying with a credit card: </s> knock down any walls you plan to fix or extend 0
+paying with a credit card: </s> get to a shop 0
+paying with a credit card: </s> place trash on to tray 0
+paying with a credit card: </s> put dishwasher pack in dishwasher 0
+paying with a credit card: </s> empty dish washing machine. 0
+paying with a credit card: </s> wash body 0
+paying with a credit card: </s> rinse soap 0
+paying with a credit card: </s> read the menu on the wall 0
+paying with a credit card: </s> get dressed 0
+paying with a credit card: </s> take all the luggage out 0
+paying with a credit card: </s> get scrub pad. 0
+paying with a credit card: </s> take ironing board 0
+paying with a credit card: </s> turn off the heat. 0
+paying with a credit card: </s> look at new room. 0
+paying with a credit card: </s> wait for bus at bus stop 0
+paying with a credit card: </s> leave cemetery. 0
+paying with a credit card: </s> get all the wrinkles out on one side 0
+paying with a credit card: </s> pick up the pot with oven mits on. 0
+paying with a credit card: </s> plane takes off. 0
+paying with a credit card: </s> grab sponge 0
+paying with a credit card: </s> store the washed dishes in a dry bowl 0
+paying with a credit card: </s> lit the gas stove 0
+paying with a credit card: </s> put the pot on the stove 0
+paying with a credit card: </s> book the train ticket 0
+paying with a credit card: </s> walking into the locker room 0
+paying with a credit card: </s> put on shoes 0
+paying with a credit card: </s> call pizza parlor 0
+paying with a credit card: </s> enter sauna 0
+paying with a credit card: </s> watch her scan my books in. 0
+paying with a credit card: </s> dust other surfaces 0
+paying with a credit card: </s> remove all items from the room 0
+paying with a credit card: </s> attach pump to tire 0
+paying with a credit card: </s> make sure spare tire has enough air in it 0
+paying with a credit card: </s> add proper amount of coffee 0
+paying with a credit card: </s> escort child to bathroom 0
+paying with a credit card: </s> get some news papers 0
+paying with a credit card: </s> take the cake out 0
+paying with a credit card: </s> go to the changing room 0
+paying with a credit card: </s> when turn arrives, board plane as instructed 0
+paying with a credit card: </s> go to the individual theater room 0
+paying with a credit card: </s> leave to favorite restaurant 0
+paying with a credit card: </s> kiss child goodnight. 0
+paying with a credit card: </s> put pan on stove 0
+paying with a credit card: </s> put pasta in a bowl 0
+paying with a credit card: </s> lay out item to iron 0
+paying with a credit card: </s> fill one sink with hot water and soap 0
+paying with a credit card: </s> check out the books 0
+paying with a credit card: </s> bag groceries 0
+paying with a credit card: </s> put on gloves 0
+paying with a credit card: </s> drive to sauna. 0
+paying with a credit card: </s> open package with new inner tube. 0
+paying with a credit card: </s> purchase paint and supplies 0
+paying with a credit card: </s> study driving manual 0
+paying with a credit card: </s> paint room 0
+paying with a credit card: </s> find all of the items on the list 0
+paying with a credit card: </s> climb stairs into bus 0
+paying with a credit card: </s> add pasta to water. 0
+paying with a credit card: </s> whip them together 0
+paying with a credit card: </s> throw garbage into trash 0
+paying with a credit card: </s> get wood 0
+paying with a credit card: </s> walk into restroom 0
+paying with a credit card: </s> go into scanner 0
+paying with a credit card: </s> plug in iron and wait for it to heat. 0
+paying with a credit card: </s> find assigned seat 0
+paying with a credit card: </s> drink 0
+paying with a credit card: </s> ask for a ticket to the movie you want to see. 0
+paying with a credit card: </s> go home 0
+paying with a credit card: </s> look closely to exclude any expired items 0
+paying with a credit card: </s> follow instructions of instructor. 0
+paying with a credit card: </s> get wet. 0
+paying with a credit card: </s> dig hole for tree with shovel. 0
+paying with a credit card: </s> put down new flooring 0
+paying with a credit card: </s> go home 0
+paying with a credit card: </s> enter dentist office 0
+paying with a credit card: </s> get out 0
+paying with a credit card: </s> bounce ball a couple of times 0
+paying with a credit card: </s> measure ingredients into bowl 0
+paying with a credit card: </s> take one adhesive puncture patch 0
+paying with a credit card: </s> turn on night light 0
+paying with a credit card: </s> inflate the new tire tube to the proper pressure. 0
+paying with a credit card: </s> walk down the stairs into subway 0
+paying with a credit card: </s> buy sauce 0
+paying with a credit card: </s> place water filled pot on stove 0
+paying with a credit card: </s> brush their teeth 0
+paying with a credit card: </s> watch your tree grow over the years. 0
+paying with a credit card: </s> use soap to wash rest of body using either rag or loofa. 0
+paying with a credit card: </s> use the brake to stop 0
+paying with a credit card: </s> sit down in seats 0
+paying with a credit card: </s> decide on design 0
+paying with a credit card: </s> get vacuum 0
+paying with a credit card: </s> unload clothes into dryer 0
+paying with a credit card: </s> wait in line to board 0
+paying with a credit card: </s> board the train 0
+paying with a credit card: </s> vacuum floor 0
+paying with a credit card: </s> exit when ready 0
+paying with a credit card: </s> put away all electronic devices 0
+paying with a credit card: </s> get house keys 0
+paying with a credit card: </s> frost cake 0
+paying with a credit card: </s> gather dirty laundry in a basket 0
+paying with a credit card: </s> scrub the toilet and bathtub in the bathroom 0
+paying with a credit card: </s> bring book back before/on return date 0
+paying with a credit card: </s> pick up clothes from floor 0
+paying with a credit card: </s> wait for pizza to arrive 0
+paying with a credit card: </s> get on train 0
+paying with a credit card: </s> sitting down with food 0
+paying with a credit card: </s> put car in park 0
+paying with a credit card: </s> cook meat 0
+paying with a credit card: </s> gather wood 0
+paying with a credit card: </s> walk through gate. 0
+paying with a credit card: </s> consume barbecue and drinks 0
+paying with a credit card: </s> enjoy warm coffee 0
+paying with a credit card: </s> exit sauna when finished 0
+paying with a credit card: </s> get towel 0
+paying with a credit card: </s> schedule follow up appointment 0
+paying with a credit card: </s> leave the library with the desired book. 0
+paying with a credit card: </s> line the button back into place 0
+paying with a credit card: </s> start to sew on button 0
+paying with a credit card: </s> enjoy the cake 0
+paying with a credit card: </s> get broom, mop, detergent, bucket and water 0
+paying with a credit card: </s> squeeze tube until you see bubble to find the hole. 0
+paying with a credit card: </s> scrub body. 0
+paying with a credit card: </s> get towel ready to dry. 0
+paying with a credit card: </s> watch the movie 0
+paying with a credit card: </s> pay money to the school 0
+paying with a credit card: </s> enter store. 0
+paying with a credit card: </s> ask for desired pizza 0
+paying with a credit card: </s> take off outer protective shell 0
+paying with a credit card: </s> pour coffee into a cup 0
+paying with a credit card: </s> drive as per instructor's directions 0
+paying with a credit card: </s> take out vacuum and vacuum the floor 0
+paying with a credit card: </s> put clothes into a locker 0
+paying with a credit card: </s> order snacks and drinks 0
+paying with a credit card: </s> fasten seatbelt. 0
+paying with a credit card: </s> make sure to remove wrinkles from clothing 0
+paying with a credit card: </s> serve the chicken on plates 0
+paying with a credit card: </s> drain 0
+paying with a credit card: </s> gather soap, towels, shampoo, conditioner and go to the bathroom. 0
+paying with a credit card: </s> ride bike 0
+paying with a credit card: </s> flying in air 0
+paying with a credit card: </s> put pan on stove 0
+paying with a credit card: </s> turn down the stove slightly 0
+paying with a credit card: </s> plug tub drain 0
+paying with a credit card: </s> take eggs out of refrigerator. 0
+paying with a credit card: </s> drive around 0
+paying with a credit card: </s> mark on clothing where button is to go 0
+paying with a credit card: </s> meet your friend at the court. 0
+paying with a credit card: </s> put the needle thorough the back of the button hole. 0
+paying with a credit card: </s> place oil in frying pan 0
+paying with a credit card: </s> get detergent 0
+paying with a credit card: </s> look for a shovel. 0
+paying with a credit card: </s> sweat for twenty minutes 0
+paying with a credit card: </s> turn water off. 0
+paying with a credit card: </s> go online to check prices. 0
+paying with a credit card: </s> remove painter's tape 0
+paying with a credit card: </s> fill sauce pan with water 0
+paying with a credit card: </s> give a tip 0
+paying with a credit card: </s> add seasoning 0
+paying with a credit card: </s> push button to start percolating 0
+paying with a credit card: </s> leave room 0
+paying with a credit card: </s> gather dishes to be washed 0
+paying with a credit card: </s> board train 0
+paying with a credit card: </s> swim 0
+paying with a credit card: </s> drive to where funeral is taking place 0
+paying with a credit card: </s> add dish washing liquid 0
+paying with a credit card: </s> offer condolences to the family and friends of the deceased 0
+paying with a credit card: </s> wait till cooked smell comes 0
+paying with a credit card: </s> change the dress and wear swimming trunk and accessories 0
+paying with a credit card: </s> water the tree 0
+paying with a credit card: </s> put tire back on bike 0
+paying with a credit card: </s> stick tooth pick into cake to see if done 0
+paying with a credit card: </s> go find a seat. 0
+paying with a credit card: </s> players congratulate each other over a good game 0
+paying with a credit card: </s> treat any heavy stains on clothes 0
+paying with a credit card: </s> install new flooring 0
+paying with a credit card: </s> sit down 0
+paying with a credit card: </s> stack the tray 0
+paying with a credit card: </s> thread the needle 0
+paying with a credit card: </s> go into the restaurant 0
+paying with a credit card: </s> have child brush teeth 0
+paying with a credit card: </s> board the plane 0
+paying with a credit card: </s> walk to the swimming pool. 0
+paying with a credit card: </s> leave tennis court 0
+paying with a credit card: </s> drink coffee 0
+paying with a credit card: </s> go home. 0
+paying with a credit card: </s> pour in the detergent. 0
+paying with a credit card: </s> get out of car 0
+paying with a credit card: </s> dig a hole 0
+paying with a credit card: </s> turn off grill 0
+paying with a credit card: </s> enter the underground station at your point of departure. 0
+paying with a credit card: </s> wait to finish 0
+paying with a credit card: </s> bring the clothes near ironing table 0
+paying with a credit card: </s> pay for ticket 0
+paying with a credit card: </s> open mouth for exam 0
+paying with a credit card: </s> drive home 0
+paying with a credit card: </s> pay fare 0
+paying with a credit card: </s> sit down and relax 0
+paying with a credit card: </s> wait 0
+paying with a credit card: </s> walk down the steps into the station. 0
+paying with a credit card: </s> leave pool. 0
+paying with a credit card: </s> switch off the iron box 0
+paying with a credit card: </s> ask appropriate driver for guidance 0
+paying with a credit card: </s> understand the bowling pins 0
+paying with a credit card: </s> dig a pit. 0
+paying with a credit card: </s> use transportation to train station. 0
+paying with a credit card: </s> get in car 0
+paying with a credit card: </s> follow instructions given by instructor 0
+paying with a credit card: </s> get clothes 0
+paying with a credit card: </s> retrieve bags at baggage claim 0
+paying with a credit card: </s> preheat oven 0
+paying with a credit card: </s> when the plane lands, get off the plane 0
+paying with a credit card: </s> take cake out the oven 0
+paying with a credit card: </s> wait for eggs to cook 0
+paying with a credit card: </s> eat 0
+paying with a credit card: </s> get into the shower 0
+paying with a credit card: </s> look at the menu 0
+paying with a credit card: </s> enter bathroom 0
+paying with a credit card: </s> wait for the subway to arrive 0
+paying with a credit card: </s> unload groceries 0
+paying with a credit card: </s> enter bus 0
+paying with a credit card: </s> water new sapling 0
+paying with a credit card: </s> eat pizza 0
+paying with a credit card: </s> put on gloves 0
+paying with a credit card: </s> get your tray 0
+paying with a credit card: </s> pour milk into the bowl 0
+paying with a credit card: </s> find desired temperature 0
+paying with a credit card: </s> turning car on 0
+paying with a credit card: </s> cover up hole 0
+paying with a credit card: </s> turn lights off in room. 0
+paying with a credit card: </s> find a seat. 0
+paying with a credit card: </s> step out into the swimming pool 0
+paying with a credit card: </s> put the purchases away. 0
+paying with a credit card: </s> put dishes in the sink 0
+paying with a credit card: </s> wait for my train 0
+paying with a credit card: </s> bowl 0
+paying with a credit card: </s> watch the movie 0
+paying with a credit card: </s> apply for library card at the front desk 0
+paying with a credit card: </s> return home with pizza. 0
+paying with a credit card: </s> get eggs out 0
+paying with a credit card: </s> turn on coffee maker. 0
+paying with a credit card: </s> blow the hair with a hair drier. 0
+paying with a credit card: </s> go to the bathroom 0
+paying with a credit card: </s> tell the hair dresser how you would like to have your hair cut. 0
+paying with a credit card: </s> let dry 0
+paying with a credit card: </s> sit on the edge of the bed 0
+paying with a credit card: </s> use bike tire sealer on hole 0
+paying with a credit card: </s> wait at bus stop 0
+paying with a credit card: </s> register name along with friends 0
+paying with a credit card: </s> meet the relatives of the person died 0
+paying with a credit card: </s> go back to front. 0
+paying with a credit card: </s> take book 0
+paying with a credit card: </s> repeat the same way 0
+paying with a credit card: </s> wait for the tree to grow 0
+paying with a credit card: </s> buy a small tree at a nursery 0
+paying with a credit card: </s> go to nursery 0
+paying with a credit card: </s> pay for pizza 0
+paying with a credit card: </s> take books from librarian 0
+paying with a credit card: </s> get needle 0
+paying with a credit card: </s> name called 0
+paying with a credit card: </s> toss ball into air and hit it with racket over net 0
+paying with a credit card: </s> pour water into coffee maker 0
+paying with a credit card: </s> get pan 0
+paying with a credit card: </s> pre-heat grill 0
+paying with a credit card: </s> watch burial 0
+paying with a credit card: </s> take cake out when done. 0
+paying with a credit card: </s> finish drying off 0
+paying with a credit card: </s> first pick up the bottle things so that it goes in bottom of the trolley. 0
+paying with a credit card: </s> get food 0
+paying with a credit card: </s> grab coffee mug 0
+paying with a credit card: </s> fold and put away 0
+paying with a credit card: </s> remove belt after take off 0
+paying with a credit card: </s> turn off light 0
+paying with a credit card: </s> take your garbage and throw it out. 0
+paying with a credit card: </s> put on seatbelt. 0
+paying with a credit card: </s> buy all foods 0
+paying with a credit card: </s> place clothes on ironing board 0
+paying with a credit card: </s> wear old casual clothes 0
+paying with a credit card: </s> remove attire 0
+paying with a credit card: </s> swing the racquet 0
+paying with a credit card: </s> enjoy 0
+paying with a credit card: </s> replace with new tire tube. 0
+paying with a credit card: </s> find an unoccupied seat 0
+paying with a credit card: </s> walk onto the train. 0
+paying with a credit card: </s> end game 0
+paying with a credit card: </s> sit down and relax in sauna 0
+paying with a credit card: </s> rinse dishes 0
+paying with a credit card: </s> get ingredients. 0
+paying with a credit card: </s> ignite the woods 0
+paying with a credit card: </s> place liquids in the washer 0
+paying with a credit card: </s> sit around fire 0
+paying with a credit card: </s> look at the grocery store specials 0
+paying with a credit card: </s> mourn 0
+paying with a credit card: </s> tie trash bag off 0
+paying with a credit card: </s> follow hair stylist to seat 0
+paying with a credit card: </s> secure wheel on. 0
+paying with a credit card: </s> make a list of what you need. 0
+paying with a credit card: </s> take off clothes 0
+paying with a credit card: </s> release ball in front of you down the lane towards pins 0
+paying with a credit card: </s> repeat several times until button is attached solidly to the fabric. 0
+paying with a credit card: </s> go inside and sit 0
+paying with a credit card: </s> tell the barber what kind of cut you want 0
+paying with a credit card: </s> pay 0
+paying with a credit card: </s> wash all dishes 0
+paying with a credit card: </s> grind the coffee beans. 0
+paying with a credit card: </s> let pasta finish cooking 0
+paying with a credit card: </s> plug in iron 0
+paying with a credit card: </s> place wieners on aluminum foil. 0
+paying with a credit card: </s> wait for dish washer to finish 0
+paying with a credit card: </s> librarian scans book 0
+paying with a credit card: </s> empathize with the loved ones of the departed. 0
+paying with a credit card: </s> park your car 0
+paying with a credit card: </s> take a seat 0
+paying with a credit card: </s> stop 0
+paying with a credit card: </s> sit comfortably 0
+paying with a credit card: </s> find departure gate by matching flight number with gate number 0
+paying with a credit card: </s> drive to the library, 0
+paying with a credit card: </s> when you get there 0
+paying with a credit card: </s> cook until pasta is soft 0
+paying with a credit card: </s> wheel cart to checkout 0
+paying with a credit card: </s> locate spot to insert air into tire 0
+paying with a credit card: </s> give him a toy 0
+paying with a credit card: </s> fold clothes 0
+paying with a credit card: </s> enjoy train ride 0
+paying with a credit card: </s> wait for dentist. 0
+paying with a credit card: </s> show the membership card at the entry 0
+paying with a credit card: </s> go to store 0
+paying with a credit card: </s> go to the club where the sauna is located. 0
+paying with a credit card: </s> choose designs and/or theme 0
+paying with a credit card: </s> go through doors and up the steps 0
+paying with a credit card: </s> remove dust from all services 0
+paying with a credit card: </s> put the tree in the hole. 0
+paying with a credit card: </s> get off at destination. 0
+paying with a credit card: </s> walk into company that i am taking lesson with 0
+paying with a credit card: </s> fill pot with water 0
+paying with a credit card: </s> crack into bowl 0
+paying with a credit card: </s> listen to the instructions and follow 0
+paying with a credit card: </s> leave office. 0
+paying with a credit card: </s> schedule a time to play tennis 0
+paying with a credit card: </s> get towel 0
+paying with a credit card: </s> get out iron, ironing board, clothes 0
+paying with a credit card: </s> enjoy with a cool beverage, music and conversation with your friends and family. 0
+paying with a credit card: </s> turn on coffee machine to brew 0
+paying with a credit card: </s> enjoy the view 0
+paying with a credit card: </s> get a cake recipe 0
+paying with a credit card: </s> sweeping the floor. 0
+paying with a credit card: </s> rinse 0
+paying with a credit card: </s> invite friends over 0
+paying with a credit card: </s> open mouth 0
+paying with a credit card: </s> retrieve bags at baggage claim 0
+paying with a credit card: </s> turn iron on. 0
+paying with a credit card: </s> put pot on stove. 0
+paying with a credit card: </s> go to the front desk. 0
+paying with a credit card: </s> water soil. 0
+paying with a credit card: </s> walk in to the store. 0
+paying with a credit card: </s> push needle to back of the item 0
+paying with a credit card: </s> put plug into drain so that tub will fill with water, 0
+paying with a credit card: </s> gather dirt into a dustpan 0
+paying with a credit card: </s> straighten pillows on couch 0
+paying with a credit card: </s> turn the sauna to the right temperature. 0
+paying with a credit card: </s> get two eggs 0
+paying with a credit card: </s> wait turn 0
+paying with a credit card: </s> check online for specials 0
+paying with a credit card: </s> watch the bonfire burn 0
+paying with a credit card: </s> mix dry ingredients well 0
+paying with a credit card: </s> travel to the dentist's office. 0
+paying with a credit card: </s> keep score. 0
+paying with a credit card: </s> wait until done 0
+paying with a credit card: </s> putting water on stove 0
+paying with a credit card: </s> check in, check luggage if carrying any 0
+paying with a credit card: </s> wait for your stop 0
+paying with a credit card: </s> researching the conventional ways so i can do the opposite 0
+paying with a credit card: </s> empty all trash cans into one trashbag 0
+paying with a credit card: </s> pour kerosine over the firewood 0
+paying with a credit card: </s> add salt and pepper 0
+paying with a credit card: </s> pay receptionist, if necessary. 0
+paying with a credit card: </s> wait for the bath to fill up 0
+paying with a credit card: </s> stand when he or she is finished. 0
+paying with a credit card: </s> insert key into ignition 0
+paying with a credit card: </s> put flour on pan where greased. 0
+paying with a credit card: </s> turn on music 0
+paying with a credit card: </s> check in at counter 0
+paying with a credit card: </s> give them card information or get cash together 0
+paying with a credit card: </s> proceed into back room. 0
+paying with a credit card: </s> have fun 0
+paying with a credit card: </s> await for train to arrive 0
+paying with a credit card: </s> allow water to wet entire body 0
+paying with a credit card: </s> put a strainer in sink. 0
+paying with a credit card: </s> wait to be greeted and seated 0
+paying with a credit card: </s> buy tickets 0
+paying with a credit card: </s> get out of tub. 0
+paying with a credit card: </s> enter the shop 0
+paying with a credit card: </s> get back into car 0
+paying with a credit card: </s> fill the milk in saucer 0
+paying with a credit card: </s> leave her room 0
+paying with a credit card: </s> add milk and sugar. 0
+paying with a credit card: </s> submerge the dishes in warm water. 0
+paying with a credit card: </s> wait for order to be prepared. 0
+paying with a credit card: </s> remove old carpeting 0
+paying with a credit card: </s> pick up child 0
+paying with a credit card: </s> strain pasta 0
+paying with a credit card: </s> open grill. 0
+paying with a credit card: </s> find ball of right size 0
+paying with a credit card: </s> thank driver 0
+paying with a credit card: </s> have your tickets ready or be prepared to buy them at the door. 0
+paying with a credit card: </s> fold clothes in basket. 0
+paying with a credit card: </s> add dish soap 0
+paying with a credit card: </s> wait for meats to be cooked to taste 0
+paying with a credit card: </s> they put on shoes 0
+paying with a credit card: </s> bring towel outside to swimming pool 0
+paying with a credit card: </s> sit around fire 0
+paying with a credit card: </s> when bus comes wait for doors to open 0
+paying with a credit card: </s> fly to your destination 0
+paying with a credit card: </s> submerge the dishes in warm water. 0
+paying with a credit card: </s> put on bowling shoes 0
+paying with a credit card: </s> get into your car with items 0
+paying with a credit card: </s> wait for the train 0
+paying with a credit card: </s> go to the kitchen 0
+paying with a credit card: </s> place car in drive (or reverse) 0
+paying with a credit card: </s> roll a strike 0
+paying with a credit card: </s> turn off water. 0
+paying with a credit card: </s> plug iron in and wait for it to heat up. 0
+paying with a credit card: </s> insert name into the score list 0
+paying with a credit card: </s> measure ingredients in designated measuring cups. 0
+paying with a credit card: </s> fold clothes 0
+paying with a credit card: </s> decide what you want. 0
+paying with a credit card: </s> turn on iron 0
+paying with a credit card: </s> get desired snacks and drinks (if any). 0
+paying with a credit card: </s> take batch of one type and bring to washer. 0
+paying with a credit card: </s> light newspaper with lighter. 0
+paying with a credit card: </s> have cashier scan items 0
+paying with a credit card: </s> get shopping cart 0
+paying with a credit card: </s> eat and enjoy the food and company 0
+paying with a credit card: </s> take off clothing 0
+paying with a credit card: </s> remove the cloths 0
+paying with a credit card: </s> keep score of who misses 0
+paying with a credit card: </s> decide on the items you want to order before calling. 0
+paying with a credit card: </s> going to the grocery store 0
+paying with a credit card: </s> eat 0
+paying with a credit card: </s> put a small amount of butter into the frying pan 0
+paying with a credit card: </s> go to bath tub 0
+paying with a credit card: </s> go home. 0
+paying with a credit card: </s> get spatula from drawer 0
+paying with a credit card: </s> leave pool building 0
+paying with a credit card: </s> give library card to librarian 0
+paying with a credit card: </s> open the door 0
+paying with a credit card: </s> set up kindling 0
+paying with a credit card: </s> grab sponge 0
+paying with a credit card: </s> bring water to a boil 0
+paying with a credit card: </s> dry off body with towel 0
+paying with a credit card: </s> undress to comfort level 0
+paying with a credit card: </s> take out equipment to make cake, such as electric mixer and pans. 0
+paying with a credit card: </s> take off your clothes. 0
+paying with a credit card: </s> sit in the hair dressing chair. 0
+paying with a credit card: </s> determine which side each player will take 0
+paying with a credit card: </s> push needle to back of the item 0
+paying with a credit card: </s> try not to miss said ball 0
+paying with a credit card: </s> buy charcoal. 0
+paying with a credit card: </s> drive to the funeral 0
+paying with a credit card: </s> locate water source and container to hold water 0
+paying with a credit card: </s> drive to the theater 0
+paying with a credit card: </s> hang up the ironed clothes. 0
+paying with a credit card: </s> pull through other side. 0
+paying with a credit card: </s> place the ingredients into cake pan 0
+paying with a credit card: </s> warm up the pasta sauce. 0
+paying with a credit card: </s> plant the tree or the seeds 0
+paying with a credit card: </s> use some composted manure 0
+paying with a credit card: </s> look up the appropriate book. 0
+paying with a credit card: </s> fill drink with ice and soda 0
+paying with a credit card: </s> retrieve luggage 0
+paying with a credit card: </s> exit pizzeria with pizza. 0
+paying with a credit card: </s> go through doors and up the steps 0
+paying with a credit card: </s> turn off iron and set aside 0
+paying with a credit card: </s> wash dishes one by one in soapy water. 0
+paying with a credit card: </s> go into sauna 0
+paying with a credit card: </s> drive to sauna 0
+paying with a credit card: </s> call everyone down to eat. 0
+paying with a credit card: </s> return bowling shoes to counter. 0
+paying with a credit card: </s> relax 0
+paying with a credit card: </s> check in with receptionist. 0
+paying with a credit card: </s> sit down and let them cut 0
+paying with a credit card: </s> get dressed 0
+paying with a credit card: </s> scan book to borrow. 0
+paying with a credit card: </s> buckle up for take off 0
+paying with a credit card: </s> wrap yourself in a towel 0
+paying with a credit card: </s> check in at the front desk 0
+paying with a credit card: </s> buy paint. 0
+paying with a credit card: </s> leave room 0
+paying with a credit card: </s> pay the barber 0
+paying with a credit card: </s> throw away trash when done 0
+paying with a credit card: </s> pull the needle until thread is completely on the other side of shirt 0
+paying with a credit card: </s> put laundry in hamper 0
+paying with a credit card: </s> gather your towel 0
+paying with a credit card: </s> grab a shovel 0
+paying with a credit card: </s> find a large area suitable for a bonfire 0
+paying with a credit card: </s> drive to the graveyard 0
+paying with a credit card: </s> go do barber 0
+paying with a credit card: </s> make sure bonfire doesn't get out of control 0
+paying with a credit card: </s> get packed 0
+paying with a credit card: </s> when button is securely in place tie knot in thread at back of garment 0
+paying with a credit card: </s> turn the water to the hottest your hands can handle. 0
+paying with a credit card: </s> get dressed in athletic clothing and tennis shoes 0
+paying with a credit card: </s> buckle seatbelt 0
+paying with a credit card: </s> tell the driver where you are going 0
+paying with a credit card: </s> find someone to play with 0
+paying with a credit card: </s> read to child 0
+paying with a credit card: </s> add decoration 0
+paying with a credit card: </s> throw trash away and place tray by trash 0
+paying with a credit card: </s> go to the medical store buy it use regularly. 0
+paying with a credit card: </s> wait for the train at the platform 0
+paying with a credit card: </s> wait there for the bus to arrive 0
+paying with a credit card: </s> confirm the appointment 0
+paying with a credit card: </s> look through books and pick out the one you want 0
+paying with a credit card: </s> paint or wallpaper walls. 0
+paying with a credit card: </s> get into car to go to funeral 0
+paying with a credit card: </s> wrap dry off towel around you 0
+paying with a credit card: </s> find seating area around pool 0
+paying with a credit card: </s> open filter tray, remove old filter and replace. 0
+paying with a credit card: </s> check travel information 0
+paying with a credit card: </s> pour mix in 0
+paying with a credit card: </s> go to the store to buy a repair kit 0
+paying with a credit card: </s> stand on one side of net while friend stands on the other 0
+paying with a credit card: </s> obtain bowling shoes 0
+paying with a credit card: </s> throw ball in air. 0
+paying with a credit card: </s> clerk scans book 0
+paying with a credit card: </s> stir eggs as they cook 0
+paying with a credit card: </s> separate delicate clothes from other clothes. 0
+paying with a credit card: </s> wait patiently while the train travels 0
+paying with a credit card: </s> put on towel. 0
+paying with a credit card: </s> step out of shower 0
+paying with a credit card: </s> go see the body 0
+paying with a credit card: </s> pay the driver 0
+paying with a credit card: </s> turn stove on med/high. 0
+paying with a credit card: </s> put thread through needle. 0
+paying with a credit card: </s> cover up hole 0
+paying with a credit card: </s> tend to fire to ensure that it does not get out of control and cause unwanted fire. 0
+paying with a credit card: </s> make a boarder for pit with stones 0
+paying with a credit card: </s> drive like the instructor says. 0
+paying with a credit card: </s> inspect the tire to make sure it doesn't leak 0
+paying with a credit card: </s> turn on coffee pot 0
+paying with a credit card: </s> give ticket to ticket taker 0
+paying with a credit card: </s> drive home and put away groceries 0
+paying with a credit card: </s> use a broom duster to clean the wall surfaces 0
+paying with a credit card: </s> iron the clothes when dried 0
+paying with a credit card: </s> determine destination 0
+paying with a credit card: </s> boil the water, 0
+paying with a credit card: </s> dress in shirt and shoes 0
+paying with a credit card: </s> take recyclable bags 0
+paying with a credit card: </s> find pizza place phone number. 0
+paying with a credit card: </s> replace displaced dirt 0
+paying with a credit card: </s> go into restaurant. 0
+paying with a credit card: </s> check if hair cut is acceptable when stylist is finished 0
+paying with a credit card: </s> pay the delivery guy 0

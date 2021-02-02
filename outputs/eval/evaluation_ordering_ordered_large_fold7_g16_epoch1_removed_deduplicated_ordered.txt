@@ -1,0 +1,22 @@
+having a barbecue;throw hot coals down the coals;add some water to the fire
+having a barbecue;get a smoker;get some coals
+having a barbecue;put coals in the water;put wood in the fire
+having a barbecue;keep an eye on the fire;keep the fire going
+having a barbecue;add some water to the fire;keep an eye on the fire
+having a barbecue;get some coals;put coals in the water
+having a barbecue;put wood in the fire;throw hot coals down the coals
+ordering a pizza;look online for pizza;get your order
+ordering a pizza;wait for the pizza;wait for the pizza to be ready
+ordering a pizza;get your order;wait for the pizza
+ordering a pizza;wait for the pizza to be ready;pay for your pizza
+cleaning up a flat;place the items on top of the trash;put the trash away
+cleaning up a flat;remove all the items from the flat;place the flat on the trash tray
+cleaning up a flat;place the flat on the trash tray;place the items on top of the trash
+cleaning up a flat;put the trash away;place the garbage away
+making scrambled eggs;gather eggs;boil water
+making scrambled eggs;wait for eggs to boil;add eggs to boiling water
+making scrambled eggs;boil water;wait for eggs to boil
+making scrambled eggs;add eggs to boiling water;throw away egg when done
+taking the underground;enter place;wait for someone to enter
+taking the underground;walk to place;enter place
+taking the underground;park;walk to place

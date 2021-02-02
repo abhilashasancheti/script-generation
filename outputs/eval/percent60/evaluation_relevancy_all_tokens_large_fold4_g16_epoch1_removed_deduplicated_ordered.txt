@@ -1,0 +1,29 @@
+washing dishes;open the drain 
+washing dishes;turn on the water to desired temperature 
+washing dishes;add the water to the sink 
+washing dishes;put the dishes on the stove 
+washing dishes;put the dishes in 
+washing dishes;put the dishes on the stove for one to two minutes 
+making a bonfire;start the fire 
+making a bonfire;take out the items 
+making a bonfire;put it out 
+going to the sauna;wait until you are ready to go to the shower 
+going to the sauna;turn off the hot water 
+going to the sauna;wet your hair 
+going to the sauna;wash your hair with a washcloth 
+going to the sauna;enter the sauna 
+going to the sauna;get out o 
+going to the sauna;apply your shampoo to your hair 
+going to the sauna;make sure you arrive on time 
+going to the sauna;adjust the temperature to your body 
+going to the sauna;get into the shower 
+making coffee;get a coffee mug 
+making coffee;take the coffee out of the water 
+making coffee;serve it to the people 
+going to the swimming pool;get a drink of water. 
+going to the swimming pool;take off swimming clothes. 
+going to the swimming pool;enter pool. 
+going to the swimming pool;find swimming equipment. 
+going to the swimming pool;wash hair and body. 
+going to the swimming pool;walk into pool. 
+going to the swimming pool;exit pool. 

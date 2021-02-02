@@ -1,0 +1,21 @@
+having a barbecue;add some salt;close the barbecue
+having a barbecue;cook the coals;put the cooked coals in the wood
+having a barbecue;get some coals;place coals in the water
+having a barbecue;get a smoker;get some coals
+having a barbecue;place the bucket of water on the coals;cook the coals
+having a barbecue;place the bucket of water on the wood;place the bucket of water on the coals
+having a barbecue;place coals in the water;place bucket of water in the wood
+ordering a pizza;call pizza place;go to restaurant
+ordering a pizza;order food;wait for your food
+ordering a pizza;eat;leave the restaurant
+cleaning up a flat;take some water;put the dirty clothes in the wash basin
+cleaning up a flat;take the flat to the bathroom;take some water
+cleaning up a flat;put the dirty clothes in the wash basin;place the clean clothes in the washing machine
+cleaning up a flat;place the clean clothes in the washing machine;take the clean clothes out of the washing machine
+making scrambled eggs;bring eggs to the shop;pick out eggs
+making scrambled eggs;add some salt to the eggs;start the stove
+making scrambled eggs;put the basket back;put away the eggs
+making scrambled eggs;get eggs;go to egg shop
+making scrambled eggs;pick out eggs;open the egg carton
+making scrambled eggs;buy eggs;bring eggs to the shop
+taking the underground;fill the bucket with water;remove the items from the water

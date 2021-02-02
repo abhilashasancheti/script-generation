@@ -1,0 +1,5 @@
+<BOS> here is a sequence of events that happen while washing one's hair: 
+<BOS> here is a sequence of events that happen while fueling a car: 
+<BOS> here is a sequence of events that happen while sending food back (in a restaurant): 
+<BOS> here is a sequence of events that happen while changing batteries in an alarm clock: 
+<BOS> here is a sequence of events that happen while checking in at an airport: 

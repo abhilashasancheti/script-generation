@@ -1,0 +1,1798 @@
+eating in a fast food restaurant: </s> get in the car 1
+eating in a fast food restaurant: </s> drive over to the restaurant 1
+eating in a fast food restaurant: </s> park the car and get out 1
+eating in a fast food restaurant: </s> walk inside the restaurant doors 1
+eating in a fast food restaurant: </s> walk to the counter and look at the menu 1
+eating in a fast food restaurant: </s> order what you want 1
+eating in a fast food restaurant: </s> pay for the food 1
+eating in a fast food restaurant: </s> wait for your order to be ready 1
+eating in a fast food restaurant: </s> take your food 1
+eating in a fast food restaurant: </s> sit down and eat 1
+eating in a fast food restaurant: </s> enter into the fast food restaurant 1
+eating in a fast food restaurant: </s> sit on a seat 1
+eating in a fast food restaurant: </s> check the menu 1
+eating in a fast food restaurant: </s> order the food 1
+eating in a fast food restaurant: </s> eat the food 1
+eating in a fast food restaurant: </s> ask for bill 1
+eating in a fast food restaurant: </s> pay the bill 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> walk in 1
+eating in a fast food restaurant: </s> look at menu above counter 1
+eating in a fast food restaurant: </s> place order 1
+eating in a fast food restaurant: </s> receive ticket and order number 1
+eating in a fast food restaurant: </s> pick up food and drink cup 1
+eating in a fast food restaurant: </s> fill cup 1
+eating in a fast food restaurant: </s> sit down and eat 1
+eating in a fast food restaurant: </s> throw trash away and place tray by trash 1
+eating in a fast food restaurant: </s> walk out 1
+eating in a fast food restaurant: </s> enter into the fast food restaurant 1
+eating in a fast food restaurant: </s> see the menu 1
+eating in a fast food restaurant: </s> select order from menu 1
+eating in a fast food restaurant: </s> pay the bill 1
+eating in a fast food restaurant: </s> get the food 1
+eating in a fast food restaurant: </s> find the seat 1
+eating in a fast food restaurant: </s> occupy the seat 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> leave the fast food restaurant 1
+eating in a fast food restaurant: </s> choose a restaurant 1
+eating in a fast food restaurant: </s> drive to restaurant 1
+eating in a fast food restaurant: </s> park at restaurant 1
+eating in a fast food restaurant: </s> walk into restaurant 1
+eating in a fast food restaurant: </s> walk up to registers 1
+eating in a fast food restaurant: </s> look at menu 1
+eating in a fast food restaurant: </s> decide what to eat 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> look around for available tables 1
+eating in a fast food restaurant: </s> get food 1
+eating in a fast food restaurant: </s> get forks, napkins and salt/pepper 1
+eating in a fast food restaurant: </s> get drink 1
+eating in a fast food restaurant: </s> find a table 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> take tray to trash spot and discard trash 1
+eating in a fast food restaurant: </s> go to restaurant. 1
+eating in a fast food restaurant: </s> look at menu. 1
+eating in a fast food restaurant: </s> order food and drinks. 1
+eating in a fast food restaurant: </s> pay for order. 1
+eating in a fast food restaurant: </s> take receipt. 1
+eating in a fast food restaurant: </s> wait for food to be ready. 1
+eating in a fast food restaurant: </s> take food. 1
+eating in a fast food restaurant: </s> get condiments, silverware, and napkins. 1
+eating in a fast food restaurant: </s> go to table. 1
+eating in a fast food restaurant: </s> eat food. 1
+eating in a fast food restaurant: </s> throw away garbage. 1
+eating in a fast food restaurant: </s> put tray in appropriate location (such as on top of counter or garbage can). 1
+eating in a fast food restaurant: </s> leave restaurant. 1
+eating in a fast food restaurant: </s> enter store. 1
+eating in a fast food restaurant: </s> wait in line. 1
+eating in a fast food restaurant: </s> think of what you want to order. 1
+eating in a fast food restaurant: </s> when it is your turn, tell the cashier what you want. 1
+eating in a fast food restaurant: </s> pay for the food. 1
+eating in a fast food restaurant: </s> receive receipt. 1
+eating in a fast food restaurant: </s> wait for name or number on receipt to be called. 1
+eating in a fast food restaurant: </s> collect your food. 1
+eating in a fast food restaurant: </s> select a table to sit at. 1
+eating in a fast food restaurant: </s> begin to eat your food. 1
+eating in a fast food restaurant: </s> finish your food. 1
+eating in a fast food restaurant: </s> throw away the remaining food or wrappers. 1
+eating in a fast food restaurant: </s> leave restaurant. 1
+eating in a fast food restaurant: </s> go to a fast food restaurant 1
+eating in a fast food restaurant: </s> go inside and walk up to the counter 1
+eating in a fast food restaurant: </s> order your food from the cashier 1
+eating in a fast food restaurant: </s> wait for your food 1
+eating in a fast food restaurant: </s> when food is ready, take food and go to a table 1
+eating in a fast food restaurant: </s> sit down at table 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> enter into the fast food restaurant 1
+eating in a fast food restaurant: </s> refer the menu and decide what to eat 1
+eating in a fast food restaurant: </s> go to the cash counter, pay for the food and get the receipt. 1
+eating in a fast food restaurant: </s> go to the service counter, give the receipt and get the food 1
+eating in a fast food restaurant: </s> prefer a seat in the corner 1
+eating in a fast food restaurant: </s> eat the food enjoying its taste and flavor 1
+eating in a fast food restaurant: </s> put the waste in the bin and leave the restaurant 1
+eating in a fast food restaurant: </s> enter the fast food restaurant 1
+eating in a fast food restaurant: </s> stand in line 1
+eating in a fast food restaurant: </s> decide what to order 1
+eating in a fast food restaurant: </s> wait in line 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> pay 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> pick up food 1
+eating in a fast food restaurant: </s> take food to table 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> throw away trash 1
+eating in a fast food restaurant: </s> leave 1
+eating in a fast food restaurant: </s> go into restaurant and walk up to counter 1
+eating in a fast food restaurant: </s> decide what items you want to eat 1
+eating in a fast food restaurant: </s> order your food items and drinks 1
+eating in a fast food restaurant: </s> pay for your order 1
+eating in a fast food restaurant: </s> wait for your food to be cooked 1
+eating in a fast food restaurant: </s> take food on tray to a table and sit down 1
+eating in a fast food restaurant: </s> eat your meal 1
+eating in a fast food restaurant: </s> when finished meal, take trash and throw away 1
+eating in a fast food restaurant: </s> place tray on appropriate stack, usually on top of trash cans 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> go to the restaurant. 1
+eating in a fast food restaurant: </s> wait in line. 1
+eating in a fast food restaurant: </s> tell the cashier your order. 1
+eating in a fast food restaurant: </s> pay. 1
+eating in a fast food restaurant: </s> wait for your food. 1
+eating in a fast food restaurant: </s> take your tray to an empty table. 1
+eating in a fast food restaurant: </s> sit down. 1
+eating in a fast food restaurant: </s> eat. 1
+eating in a fast food restaurant: </s> bring your tray to the proper area. 1
+eating in a fast food restaurant: </s> throw your trash. 1
+eating in a fast food restaurant: </s> leave. 1
+eating in a fast food restaurant: </s> drive or walk to restaurant. 1
+eating in a fast food restaurant: </s> walk up to counter and wait your turn. 1
+eating in a fast food restaurant: </s> look at menu on wall behind counter. 1
+eating in a fast food restaurant: </s> decide what you want to order. 1
+eating in a fast food restaurant: </s> tell cashier your order. 1
+eating in a fast food restaurant: </s> pay for your food. 1
+eating in a fast food restaurant: </s> wait for your number to be announced. 1
+eating in a fast food restaurant: </s> fill up your beverage at drink station. 1
+eating in a fast food restaurant: </s> take food to table and eat. 1
+eating in a fast food restaurant: </s> enter the restaurant. 1
+eating in a fast food restaurant: </s> walk to the counter. 1
+eating in a fast food restaurant: </s> look at the menu board. 1
+eating in a fast food restaurant: </s> order your food. 1
+eating in a fast food restaurant: </s> pay for your food. 1
+eating in a fast food restaurant: </s> pick up your tray of food. 1
+eating in a fast food restaurant: </s> sit at a table. 1
+eating in a fast food restaurant: </s> eat your food. 1
+eating in a fast food restaurant: </s> take your garbage and throw it out. 1
+eating in a fast food restaurant: </s> put your tray in the correct place. 1
+eating in a fast food restaurant: </s> leave the restaurant. 1
+eating in a fast food restaurant: </s> go to front counter 1
+eating in a fast food restaurant: </s> wait your turn 1
+eating in a fast food restaurant: </s> study the menu 1
+eating in a fast food restaurant: </s> decide what you want 1
+eating in a fast food restaurant: </s> tell the food clerk what you want 1
+eating in a fast food restaurant: </s> pay for your food 1
+eating in a fast food restaurant: </s> wait for your food 1
+eating in a fast food restaurant: </s> pick up your food when your ticket number is called 1
+eating in a fast food restaurant: </s> decide where you want to sit 1
+eating in a fast food restaurant: </s> enjoy your meal 1
+eating in a fast food restaurant: </s> enter restaurant 1
+eating in a fast food restaurant: </s> select menu items 1
+eating in a fast food restaurant: </s> wait in line 1
+eating in a fast food restaurant: </s> order 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> take food 1
+eating in a fast food restaurant: </s> find a seat 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> throw away garbage 1
+eating in a fast food restaurant: </s> return tray 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> line up for counter 1
+eating in a fast food restaurant: </s> look at menu 1
+eating in a fast food restaurant: </s> choose items from menu 1
+eating in a fast food restaurant: </s> when it's your turn, place your order 1
+eating in a fast food restaurant: </s> wait for your order 1
+eating in a fast food restaurant: </s> when your order is called, collect it 1
+eating in a fast food restaurant: </s> find a seat 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> order food at counter 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> throw away trash 1
+eating in a fast food restaurant: </s> place tray in tray return 1
+eating in a fast food restaurant: </s> decide what you want for lunch 1
+eating in a fast food restaurant: </s> drive to the fast food restaurant 1
+eating in a fast food restaurant: </s> select the food item of your choice 1
+eating in a fast food restaurant: </s> order the food item 1
+eating in a fast food restaurant: </s> pay for your order 1
+eating in a fast food restaurant: </s> sit at a table and eat your lunch 1
+eating in a fast food restaurant: </s> go into restaurant. 1
+eating in a fast food restaurant: </s> stand in line to place order. 1
+eating in a fast food restaurant: </s> decide order. 1
+eating in a fast food restaurant: </s> tell cashier your order. 1
+eating in a fast food restaurant: </s> pay. 1
+eating in a fast food restaurant: </s> take your order and sit down at table. 1
+eating in a fast food restaurant: </s> eat meal. 1
+eating in a fast food restaurant: </s> when finished, throw trash away. 1
+eating in a fast food restaurant: </s> leave restaurant. 1
+eating in a fast food restaurant: </s> go into the restaurant 1
+eating in a fast food restaurant: </s> pick out what food you want 1
+eating in a fast food restaurant: </s> order from person at the counter 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> pick up food at the counter and eat 1
+eating in a fast food restaurant: </s> throw trash away when done 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> look at the menu 1
+eating in a fast food restaurant: </s> go to the counter 1
+eating in a fast food restaurant: </s> order the meal 1
+eating in a fast food restaurant: </s> wait for the meal to be cooked 1
+eating in a fast food restaurant: </s> take the meal from the counter 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> get to the restaurant 1
+eating in a fast food restaurant: </s> choose your order from the menu 1
+eating in a fast food restaurant: </s> place your order 1
+eating in a fast food restaurant: </s> wait for your food to arrive 1
+eating in a fast food restaurant: </s> enjoy your meal 1
+eating in a fast food restaurant: </s> pay your bill 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> walk in the door 1
+eating in a fast food restaurant: </s> look at the menu 1
+eating in a fast food restaurant: </s> decide what you want 1
+eating in a fast food restaurant: </s> order from the register 1
+eating in a fast food restaurant: </s> wait at the counter for your food 1
+eating in a fast food restaurant: </s> get your tray 1
+eating in a fast food restaurant: </s> fill your drink at the dispenser 1
+eating in a fast food restaurant: </s> get napkins and straw 1
+eating in a fast food restaurant: </s> pick a table 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> eat your food 1
+eating in a fast food restaurant: </s> enter restaurant 1
+eating in a fast food restaurant: </s> wait in line for counter 1
+eating in a fast food restaurant: </s> place your order 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> wait in line for your food to be done 1
+eating in a fast food restaurant: </s> fill up drink and pick out condiments 1
+eating in a fast food restaurant: </s> find a seat 1
+eating in a fast food restaurant: </s> eat and drink 1
+eating in a fast food restaurant: </s> clean up mess and throw away trash 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> enter restaurant 1
+eating in a fast food restaurant: </s> go to counter 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> sit at table 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> throw away trash 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> figure out what you want from the menu 1
+eating in a fast food restaurant: </s> wait in line 1
+eating in a fast food restaurant: </s> tell them what you want and then pay the cashier 1
+eating in a fast food restaurant: </s> wait nearby until your food is ready 1
+eating in a fast food restaurant: </s> pick up your food at the counter 1
+eating in a fast food restaurant: </s> find a table 1
+eating in a fast food restaurant: </s> take your food to the table 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> drive to fast food restaurant. 1
+eating in a fast food restaurant: </s> look at menu. 1
+eating in a fast food restaurant: </s> decide what you want to order. 1
+eating in a fast food restaurant: </s> wait in line. 1
+eating in a fast food restaurant: </s> place order. 1
+eating in a fast food restaurant: </s> wait for food. 1
+eating in a fast food restaurant: </s> get ketchup and other sauces. 1
+eating in a fast food restaurant: </s> find a table. 1
+eating in a fast food restaurant: </s> get seated. 1
+eating in a fast food restaurant: </s> eat food. 1
+eating in a fast food restaurant: </s> pick a fast food restaurant. 1
+eating in a fast food restaurant: </s> walk/drive to the restaurant of choice. 1
+eating in a fast food restaurant: </s> order at the counter. 1
+eating in a fast food restaurant: </s> pay for food. 1
+eating in a fast food restaurant: </s> receive food when it is ready. 1
+eating in a fast food restaurant: </s> find a table to sit. 1
+eating in a fast food restaurant: </s> eat and drink food. 1
+eating in a fast food restaurant: </s> clean up by putting trash in garbage can and placing the tray on the tray area. 1
+eating in a fast food restaurant: </s> exit the fast food restaurant. 1
+eating in a fast food restaurant: </s> go into restaurant 1
+eating in a fast food restaurant: </s> study menu board to determine items to be ordered 1
+eating in a fast food restaurant: </s> order food from employee 1
+eating in a fast food restaurant: </s> pay for order 1
+eating in a fast food restaurant: </s> obtain receipt and order number 1
+eating in a fast food restaurant: </s> get cups for soft drinks 1
+eating in a fast food restaurant: </s> find table 1
+eating in a fast food restaurant: </s> fill cups 1
+eating in a fast food restaurant: </s> sit down to wait for order 1
+eating in a fast food restaurant: </s> pick up order when ready 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> take tray to trash and throw away trash 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> tell the cashier what you would like from the menu behind the counter 1
+eating in a fast food restaurant: </s> pay for your order 1
+eating in a fast food restaurant: </s> wait for your food to be brought to you on a tray 1
+eating in a fast food restaurant: </s> you can get condiments, straws and napkins at another counter 1
+eating in a fast food restaurant: </s> once your food has arrived, take it to a table 1
+eating in a fast food restaurant: </s> sit down and eat 1
+eating in a fast food restaurant: </s> when finished eating, take your trash to a trash can 1
+eating in a fast food restaurant: </s> throw your trash away, place tray above trash can 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> travel to a fast food restaurant 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> order your food 1
+eating in a fast food restaurant: </s> pay for your order 1
+eating in a fast food restaurant: </s> retrieve your food when it is ready 1
+eating in a fast food restaurant: </s> eat your food 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> stand in line 1
+eating in a fast food restaurant: </s> decide what you want to eat 1
+eating in a fast food restaurant: </s> give order 1
+eating in a fast food restaurant: </s> pay for order 1
+eating in a fast food restaurant: </s> wait for your number to be called 1
+eating in a fast food restaurant: </s> your number is called 1
+eating in a fast food restaurant: </s> grab order 1
+eating in a fast food restaurant: </s> fill drink cup 1
+eating in a fast food restaurant: </s> find a place to sit 1
+eating in a fast food restaurant: </s> unwrap food 1
+eating in a fast food restaurant: </s> eat and drink 1
+eating in a fast food restaurant: </s> throw away trash 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> walk into restaurant 1
+eating in a fast food restaurant: </s> get in line to order 1
+eating in a fast food restaurant: </s> decide what food to order 1
+eating in a fast food restaurant: </s> place order at counter 1
+eating in a fast food restaurant: </s> pay for order 1
+eating in a fast food restaurant: </s> wait for food to be ready 1
+eating in a fast food restaurant: </s> get food 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> read menu 1
+eating in a fast food restaurant: </s> choose what to eat 1
+eating in a fast food restaurant: </s> walk up to counter 1
+eating in a fast food restaurant: </s> tell person at counter order 1
+eating in a fast food restaurant: </s> wait nearby for order 1
+eating in a fast food restaurant: </s> grab straws and condiments 1
+eating in a fast food restaurant: </s> pick up tray of food 1
+eating in a fast food restaurant: </s> walk to table 1
+eating in a fast food restaurant: </s> sit 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> place trash on to tray 1
+eating in a fast food restaurant: </s> carry tray to trash can 1
+eating in a fast food restaurant: </s> dump trash 1
+eating in a fast food restaurant: </s> place tray on top of trash can 1
+eating in a fast food restaurant: </s> thank restaurant workers 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> walk into chosen restaurant 1
+eating in a fast food restaurant: </s> glance at menu before stepping in line 1
+eating in a fast food restaurant: </s> step in line once choice is made 1
+eating in a fast food restaurant: </s> relay order to employee 1
+eating in a fast food restaurant: </s> pay 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> take tray and find a booth 1
+eating in a fast food restaurant: </s> eat the food 1
+eating in a fast food restaurant: </s> throw away the trash 1
+eating in a fast food restaurant: </s> stack the tray 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> go to car 1
+eating in a fast food restaurant: </s> drive to restaurant 1
+eating in a fast food restaurant: </s> park 1
+eating in a fast food restaurant: </s> go inside 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> enter the fast food restaurant 1
+eating in a fast food restaurant: </s> join the queue 1
+eating in a fast food restaurant: </s> look and select items from the menu board 1
+eating in a fast food restaurant: </s> order the chosen items 1
+eating in a fast food restaurant: </s> pay 1
+eating in a fast food restaurant: </s> get change and receipt 1
+eating in a fast food restaurant: </s> wait for your items to arrive 1
+eating in a fast food restaurant: </s> take the items to an empty table 1
+eating in a fast food restaurant: </s> eat it and enjoy 1
+eating in a fast food restaurant: </s> enter restaurant. 1
+eating in a fast food restaurant: </s> walk up to counter. 1
+eating in a fast food restaurant: </s> look over the menu. 1
+eating in a fast food restaurant: </s> walk up to register. 1
+eating in a fast food restaurant: </s> give order to cashier. 1
+eating in a fast food restaurant: </s> pay for order. 1
+eating in a fast food restaurant: </s> take food to table. 1
+eating in a fast food restaurant: </s> eat food. 1
+eating in a fast food restaurant: </s> place trash in trash can. 1
+eating in a fast food restaurant: </s> place tray on top of trash can. 1
+eating in a fast food restaurant: </s> leave restaurant. 1
+eating in a fast food restaurant: </s> drive to desired restaurant 1
+eating in a fast food restaurant: </s> look at menu 1
+eating in a fast food restaurant: </s> decide what to eat 1
+eating in a fast food restaurant: </s> order food from cashier 1
+eating in a fast food restaurant: </s> pay cashier 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> go get straws and condiments needed 1
+eating in a fast food restaurant: </s> sit at a table 1
+eating in a fast food restaurant: </s> eat! 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> look at the menu 1
+eating in a fast food restaurant: </s> order your food 1
+eating in a fast food restaurant: </s> make special request 1
+eating in a fast food restaurant: </s> gather your condiments 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> eat your food 1
+eating in a fast food restaurant: </s> put your garbage away 1
+eating in a fast food restaurant: </s> leave 1
+eating in a fast food restaurant: </s> enter into the restaurant 1
+eating in a fast food restaurant: </s> find a seat 1
+eating in a fast food restaurant: </s> select order 1
+eating in a fast food restaurant: </s> order food from waiter 1
+eating in a fast food restaurant: </s> order drink 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> pay the bill 1
+eating in a fast food restaurant: </s> tip the waiter 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> get in car 1
+eating in a fast food restaurant: </s> drive to favorite fast food restaurant 1
+eating in a fast food restaurant: </s> park car 1
+eating in a fast food restaurant: </s> walk into building 1
+eating in a fast food restaurant: </s> go to cashier 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> grab food 1
+eating in a fast food restaurant: </s> find table 1
+eating in a fast food restaurant: </s> sit at table 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> get to the fast food restaurant 1
+eating in a fast food restaurant: </s> order food from the cashier 1
+eating in a fast food restaurant: </s> wait for the food to come out,  usually takes a few minutes 1
+eating in a fast food restaurant: </s> get a drink 1
+eating in a fast food restaurant: </s> find a clean table to eat the food at 1
+eating in a fast food restaurant: </s> eat the food 1
+eating in a fast food restaurant: </s> drink the drink 1
+eating in a fast food restaurant: </s> throw away the wrappers 1
+eating in a fast food restaurant: </s> leave the fast food restaurant 1
+eating in a fast food restaurant: </s> go to fast food establishment 1
+eating in a fast food restaurant: </s> read the menu 1
+eating in a fast food restaurant: </s> decide what you want to eat 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> find a seat 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> when order is called, stand up and go get food 1
+eating in a fast food restaurant: </s> sit back down 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> go to the restaurant 1
+eating in a fast food restaurant: </s> go inside 1
+eating in a fast food restaurant: </s> place your order 1
+eating in a fast food restaurant: </s> wait for your number to be called 1
+eating in a fast food restaurant: </s> get your food 1
+eating in a fast food restaurant: </s> sit down and eat 1
+eating in a fast food restaurant: </s> throw your trash away 1
+eating in a fast food restaurant: </s> go home 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> find a booth 1
+eating in a fast food restaurant: </s> go to the counter 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> go back to booth 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> grab tray 1
+eating in a fast food restaurant: </s> throw away garbage 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> walk into restaurant. 1
+eating in a fast food restaurant: </s> stand in line. 1
+eating in a fast food restaurant: </s> read menu. 1
+eating in a fast food restaurant: </s> walk to cashier. 1
+eating in a fast food restaurant: </s> order food. 1
+eating in a fast food restaurant: </s> pay lady. 1
+eating in a fast food restaurant: </s> lady gives you food. 1
+eating in a fast food restaurant: </s> go sit down. 1
+eating in a fast food restaurant: </s> eat food. 1
+eating in a fast food restaurant: </s> throw away trash. 1
+eating in a fast food restaurant: </s> leave restaurant. 1
+eating in a fast food restaurant: </s> enter restaurant 1
+eating in a fast food restaurant: </s> go to counter 1
+eating in a fast food restaurant: </s> select food from menu 1
+eating in a fast food restaurant: </s> place order to counter person 1
+eating in a fast food restaurant: </s> pay counter person 1
+eating in a fast food restaurant: </s> step to side to wait for food 1
+eating in a fast food restaurant: </s> receive food 1
+eating in a fast food restaurant: </s> sit at a table or booth 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> discard waste and return tray 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> give order for food 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> take food to table to eat 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> throw trash away 1
+eating in a fast food restaurant: </s> put tray away 1
+eating in a fast food restaurant: </s> walk into restaurant 1
+eating in a fast food restaurant: </s> get in line 1
+eating in a fast food restaurant: </s> wait to place order 1
+eating in a fast food restaurant: </s> cashier says hello 1
+eating in a fast food restaurant: </s> order a combination 1
+eating in a fast food restaurant: </s> specify the size 1
+eating in a fast food restaurant: </s> cashier tells you price 1
+eating in a fast food restaurant: </s> pay the cashier 1
+eating in a fast food restaurant: </s> take receipt 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> food number is called 1
+eating in a fast food restaurant: </s> take tray 1
+eating in a fast food restaurant: </s> go to table 1
+eating in a fast food restaurant: </s> eat the food 1
+eating in a fast food restaurant: </s> throw trash away 1
+eating in a fast food restaurant: </s> leave 1
+eating in a fast food restaurant: </s> enter restaurant 1
+eating in a fast food restaurant: </s> approach counter 1
+eating in a fast food restaurant: </s> decide on order 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> pay cashier 1
+eating in a fast food restaurant: </s> wait for order to be made 1
+eating in a fast food restaurant: </s> pick up order from counter 1
+eating in a fast food restaurant: </s> select seat 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> collect trash 1
+eating in a fast food restaurant: </s> place trash in wastebasket 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> approach the counter 1
+eating in a fast food restaurant: </s> read the items that are available from the menu 1
+eating in a fast food restaurant: </s> decide what you would like to eat and drink 1
+eating in a fast food restaurant: </s> order from the person at the register 1
+eating in a fast food restaurant: </s> pay for your meal 1
+eating in a fast food restaurant: </s> wait for your tray of food 1
+eating in a fast food restaurant: </s> go and sit at a table 1
+eating in a fast food restaurant: </s> eat and drink 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> look at the menu 1
+eating in a fast food restaurant: </s> order the food that was decided on. 1
+eating in a fast food restaurant: </s> pay for the food. 1
+eating in a fast food restaurant: </s> wait for your food. 1
+eating in a fast food restaurant: </s> while waiting, fill up your cup with with a beverage. 1
+eating in a fast food restaurant: </s> when your number is called, get your tray of food. 1
+eating in a fast food restaurant: </s> find a table. 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> eat your food. 1
+eating in a fast food restaurant: </s> pick up your tray and trash 1
+eating in a fast food restaurant: </s> deposit the trash in the trash can. 1
+eating in a fast food restaurant: </s> put tray on top of trash. 1
+eating in a fast food restaurant: </s> enter into the restaurant 1
+eating in a fast food restaurant: </s> walk up to cashier 1
+eating in a fast food restaurant: </s> order food and pay 1
+eating in a fast food restaurant: </s> wait until food is prepared 1
+eating in a fast food restaurant: </s> find a seat to sit 1
+eating in a fast food restaurant: </s> pick food up at the cashier 1
+eating in a fast food restaurant: </s> sit back down 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> leave to favorite restaurant 1
+eating in a fast food restaurant: </s> pull into parking lot 1
+eating in a fast food restaurant: </s> exit car 1
+eating in a fast food restaurant: </s> enter front door 1
+eating in a fast food restaurant: </s> walk up to register 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> wait for order to be made 1
+eating in a fast food restaurant: </s> take food from clerk 1
+eating in a fast food restaurant: </s> sit down at a table 1
+eating in a fast food restaurant: </s> eat and drink 1
+eating in a fast food restaurant: </s> throw away trash 1
+eating in a fast food restaurant: </s> put tray on counter 1
+eating in a fast food restaurant: </s> exit restaurant 1
+eating in a fast food restaurant: </s> decide which fast food restaurant to go to. 1
+eating in a fast food restaurant: </s> drive to restaurant. 1
+eating in a fast food restaurant: </s> look at menu. 1
+eating in a fast food restaurant: </s> order food. 1
+eating in a fast food restaurant: </s> pay cashier 1
+eating in a fast food restaurant: </s> wait for food. 1
+eating in a fast food restaurant: </s> grab food. 1
+eating in a fast food restaurant: </s> find a seat. 1
+eating in a fast food restaurant: </s> eat your food. 1
+eating in a fast food restaurant: </s> throw trash away. 1
+eating in a fast food restaurant: </s> leave. 1
+eating in a fast food restaurant: </s> drive to fast food restaurant. 1
+eating in a fast food restaurant: </s> go to counter. 1
+eating in a fast food restaurant: </s> study menu. 1
+eating in a fast food restaurant: </s> tell cashier what food and drink you want. 1
+eating in a fast food restaurant: </s> pay. 1
+eating in a fast food restaurant: </s> take tray of food when ready. 1
+eating in a fast food restaurant: </s> find empty seat. 1
+eating in a fast food restaurant: </s> eat. 1
+eating in a fast food restaurant: </s> get up and take tray to trash can. 1
+eating in a fast food restaurant: </s> throw away trash, stow tray on top. 1
+eating in a fast food restaurant: </s> leave. 1
+eating in a fast food restaurant: </s> go up to counter 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> grab napkins 1
+eating in a fast food restaurant: </s> go sit down 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> throw away trash when done 1
+eating in a fast food restaurant: </s> place your order at the counter. 1
+eating in a fast food restaurant: </s> while waiting for your food to be ready, prepare a drink if you ordered one. 1
+eating in a fast food restaurant: </s> grab some napkins and ketchup, if desired. 1
+eating in a fast food restaurant: </s> choose a seat. 1
+eating in a fast food restaurant: </s> take your food tray from the counter and take a seat. 1
+eating in a fast food restaurant: </s> eat. 1
+eating in a fast food restaurant: </s> throw trash away -- it is rude to leave trash on the table at a restaurant. 1
+eating in a fast food restaurant: </s> leave the restaurant. 1
+eating in a fast food restaurant: </s> park the car 1
+eating in a fast food restaurant: </s> walk in 1
+eating in a fast food restaurant: </s> look at the menu 1
+eating in a fast food restaurant: </s> order your meal 1
+eating in a fast food restaurant: </s> pay for your food 1
+eating in a fast food restaurant: </s> fill your drink and get napkins and condiments 1
+eating in a fast food restaurant: </s> find a table 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> eat your food. 1
+eating in a fast food restaurant: </s> enter restaurant 1
+eating in a fast food restaurant: </s> walk up to the counter 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> take food to the table 1
+eating in a fast food restaurant: </s> get condiments 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> throw trash away 1
+eating in a fast food restaurant: </s> exit the building 1
+eating in a fast food restaurant: </s> enter fast food restaurant 1
+eating in a fast food restaurant: </s> get in line 1
+eating in a fast food restaurant: </s> look at menu 1
+eating in a fast food restaurant: </s> pick items off of menu 1
+eating in a fast food restaurant: </s> step up to cashier 1
+eating in a fast food restaurant: </s> tell cashier order 1
+eating in a fast food restaurant: </s> pull out cash 1
+eating in a fast food restaurant: </s> pay cashier 1
+eating in a fast food restaurant: </s> take receipt 1
+eating in a fast food restaurant: </s> take drink cup 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> take food from worker 1
+eating in a fast food restaurant: </s> ask for condiments 1
+eating in a fast food restaurant: </s> fill drink with ice and soda 1
+eating in a fast food restaurant: </s> find a table 1
+eating in a fast food restaurant: </s> sit down to eat 1
+eating in a fast food restaurant: </s> drive to restaurant 1
+eating in a fast food restaurant: </s> enter restaurant 1
+eating in a fast food restaurant: </s> go to counter 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> wait for food to be ready 1
+eating in a fast food restaurant: </s> get utensils 1
+eating in a fast food restaurant: </s> get drink if it is a self-serve counter 1
+eating in a fast food restaurant: </s> get straw and napkins 1
+eating in a fast food restaurant: </s> find a table or booth 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> dispose of trash in trash receptacle 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> decide where you want to eat 1
+eating in a fast food restaurant: </s> decide what you want to eat 1
+eating in a fast food restaurant: </s> drive or take the bus to restaurant 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> stand in line 1
+eating in a fast food restaurant: </s> give order to cashier 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> collect food 1
+eating in a fast food restaurant: </s> pour drinks 1
+eating in a fast food restaurant: </s> take a table 1
+eating in a fast food restaurant: </s> eat and drink 1
+eating in a fast food restaurant: </s> go into fast food restaurant 1
+eating in a fast food restaurant: </s> get in line 1
+eating in a fast food restaurant: </s> give your order 1
+eating in a fast food restaurant: </s> pay for your order 1
+eating in a fast food restaurant: </s> wait for food 1
+eating in a fast food restaurant: </s> take food to table 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> dispose of trash 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> read the menu on the wall 1
+eating in a fast food restaurant: </s> make food and drink selection. 1
+eating in a fast food restaurant: </s> tell the cashier the food and drink selection. 1
+eating in a fast food restaurant: </s> pay the amount requested. 1
+eating in a fast food restaurant: </s> wait for food and drink. 1
+eating in a fast food restaurant: </s> take the food and drink to a table. 1
+eating in a fast food restaurant: </s> sit down. 1
+eating in a fast food restaurant: </s> consume the food and drink. 1
+eating in a fast food restaurant: </s> take the paper containers to the trash. 1
+eating in a fast food restaurant: </s> replace the tray near the trash can. 1
+eating in a fast food restaurant: </s> leave the restaurant. 1
+eating in a fast food restaurant: </s> enter the restaurant. 1
+eating in a fast food restaurant: </s> look over the menu. 1
+eating in a fast food restaurant: </s> go to cashier and place order. 1
+eating in a fast food restaurant: </s> pay for meal. 1
+eating in a fast food restaurant: </s> wait until order is ready. 1
+eating in a fast food restaurant: </s> pick up order. 1
+eating in a fast food restaurant: </s> find a table. 1
+eating in a fast food restaurant: </s> eat the meal. 1
+eating in a fast food restaurant: </s> leave the restaurant. 1
+eating in a fast food restaurant: </s> enter the restaurant 1
+eating in a fast food restaurant: </s> approach the counter 1
+eating in a fast food restaurant: </s> order your food 1
+eating in a fast food restaurant: </s> pay the cashier 1
+eating in a fast food restaurant: </s> sit and wait 1
+eating in a fast food restaurant: </s> collect your food when called 1
+eating in a fast food restaurant: </s> sit back down 1
+eating in a fast food restaurant: </s> eat your food 1
+eating in a fast food restaurant: </s> go into the restaurant. 1
+eating in a fast food restaurant: </s> go to the counter. 1
+eating in a fast food restaurant: </s> look above the counter for the menu. 1
+eating in a fast food restaurant: </s> decide what you want. 1
+eating in a fast food restaurant: </s> tell the cashier what you would like to order. 1
+eating in a fast food restaurant: </s> pay for your order. 1
+eating in a fast food restaurant: </s> wait for your food. 1
+eating in a fast food restaurant: </s> take your food and find a place to sit and eat. 1
+eating in a fast food restaurant: </s> eat the food. 1
+eating in a fast food restaurant: </s> take the tray and trash to the trash can. 1
+eating in a fast food restaurant: </s> put the tray on top of the can and throw the scraps away. 1
+eating in a fast food restaurant: </s> leave the restaurant. 1
+eating in a fast food restaurant: </s> drive to a fast food restaurant 1
+eating in a fast food restaurant: </s> park car in parking lot 1
+eating in a fast food restaurant: </s> go inside the restaurant 1
+eating in a fast food restaurant: </s> stand in line 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> wait for the food 1
+eating in a fast food restaurant: </s> pick up food when order is called 1
+eating in a fast food restaurant: </s> sit down at a table 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> drive to a restaurant. 1
+eating in a fast food restaurant: </s> get out of the car. 1
+eating in a fast food restaurant: </s> stand in line. 1
+eating in a fast food restaurant: </s> order at the checkout. 1
+eating in a fast food restaurant: </s> sit and eat. 1
+eating in a fast food restaurant: </s> enter restaurant. 1
+eating in a fast food restaurant: </s> walk up to counter. 1
+eating in a fast food restaurant: </s> order food. 1
+eating in a fast food restaurant: </s> pay for food. 1
+eating in a fast food restaurant: </s> sit down. 1
+eating in a fast food restaurant: </s> wait for order to be called out. 1
+eating in a fast food restaurant: </s> go pick up your food. 1
+eating in a fast food restaurant: </s> walk back to table with food. 1
+eating in a fast food restaurant: </s> sit down. 1
+eating in a fast food restaurant: </s> eat and drink. 1
+eating in a fast food restaurant: </s> throw trash away. 1
+eating in a fast food restaurant: </s> exit restaurant. 1
+eating in a fast food restaurant: </s> go to restaurant 1
+eating in a fast food restaurant: </s> wait in line 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> fill up drink yourself if you ordered one 1
+eating in a fast food restaurant: </s> wait for number to be called 1
+eating in a fast food restaurant: </s> grab food when number is called 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> clear off table 1
+eating in a fast food restaurant: </s> throw away your trash 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> arrive at restaurant 1
+eating in a fast food restaurant: </s> get in line 1
+eating in a fast food restaurant: </s> order food at register 1
+eating in a fast food restaurant: </s> pay for purchase 1
+eating in a fast food restaurant: </s> get order from employee 1
+eating in a fast food restaurant: </s> take food to seat 1
+eating in a fast food restaurant: </s> eat meal 1
+eating in a fast food restaurant: </s> exit restaurant 1
+eating in a fast food restaurant: </s> choose the restaurant 1
+eating in a fast food restaurant: </s> go into the restaurant 1
+eating in a fast food restaurant: </s> walk up to the counter 1
+eating in a fast food restaurant: </s> tell the cashier your order 1
+eating in a fast food restaurant: </s> pay for order 1
+eating in a fast food restaurant: </s> wait for order 1
+eating in a fast food restaurant: </s> pick up order 1
+eating in a fast food restaurant: </s> take it to table 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> go into restaurant. 1
+eating in a fast food restaurant: </s> go to counter. 1
+eating in a fast food restaurant: </s> examine menu and make choices. 1
+eating in a fast food restaurant: </s> order items. 1
+eating in a fast food restaurant: </s> pay to items. 1
+eating in a fast food restaurant: </s> proceed to table 1
+eating in a fast food restaurant: </s> enjoy food. 1
+eating in a fast food restaurant: </s> opening the door 1
+eating in a fast food restaurant: </s> going to the counter 1
+eating in a fast food restaurant: </s> placing order 1
+eating in a fast food restaurant: </s> paying 1
+eating in a fast food restaurant: </s> waiting 1
+eating in a fast food restaurant: </s> getting food 1
+eating in a fast food restaurant: </s> sitting down 1
+eating in a fast food restaurant: </s> eating 1
+eating in a fast food restaurant: </s> enter into restaurant 1
+eating in a fast food restaurant: </s> get in line 1
+eating in a fast food restaurant: </s> look at menu board while waiting 1
+eating in a fast food restaurant: </s> tell cashier my order 1
+eating in a fast food restaurant: </s> cashier gives cups for drinks 1
+eating in a fast food restaurant: </s> go to drink machine 1
+eating in a fast food restaurant: </s> choose drink 1
+eating in a fast food restaurant: </s> fill cup with drink 1
+eating in a fast food restaurant: </s> get order from counter 1
+eating in a fast food restaurant: </s> choose a seat 1
+eating in a fast food restaurant: </s> eat and drink 1
+eating in a fast food restaurant: </s> throw trash away 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> go into restaurant 1
+eating in a fast food restaurant: </s> go to register 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> get food 1
+eating in a fast food restaurant: </s> find table 1
+eating in a fast food restaurant: </s> sit down and eat 1
+eating in a fast food restaurant: </s> throw garbage into trash 1
+eating in a fast food restaurant: </s> leave restaurant 1
+eating in a fast food restaurant: </s> entering the restaurant 1
+eating in a fast food restaurant: </s> ordering food 1
+eating in a fast food restaurant: </s> ordering drink 1
+eating in a fast food restaurant: </s> paying for purchase 1
+eating in a fast food restaurant: </s> waiting for food 1
+eating in a fast food restaurant: </s> sitting down with food 1
+eating in a fast food restaurant: </s> eating food 1
+eating in a fast food restaurant: </s> leaving the restaurant 1
+eating in a fast food restaurant: </s> enter fast food spot 1
+eating in a fast food restaurant: </s> look at menu 1
+eating in a fast food restaurant: </s> choose food 1
+eating in a fast food restaurant: </s> stand in line 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> wait while meal cooks 1
+eating in a fast food restaurant: </s> get meal from cashier 1
+eating in a fast food restaurant: </s> check contents for accuracy 1
+eating in a fast food restaurant: </s> leave spot 1
+eating in a fast food restaurant: </s> drive to restaurant. 1
+eating in a fast food restaurant: </s> park. 1
+eating in a fast food restaurant: </s> go into restaurant. 1
+eating in a fast food restaurant: </s> order food at counter. 1
+eating in a fast food restaurant: </s> pay for food. 1
+eating in a fast food restaurant: </s> wait by counter to pick up food. 1
+eating in a fast food restaurant: </s> find a table to sit at. 1
+eating in a fast food restaurant: </s> go get drinks from the soda machine. 1
+eating in a fast food restaurant: </s> eat and drink. 1
+eating in a fast food restaurant: </s> leave. 1
+eating in a fast food restaurant: </s> decide where to eat. 1
+eating in a fast food restaurant: </s> go to fast food restaurant. 1
+eating in a fast food restaurant: </s> decide what to order from menu. 1
+eating in a fast food restaurant: </s> order food. 1
+eating in a fast food restaurant: </s> pay for food. 1
+eating in a fast food restaurant: </s> wait for order to be prepared. 1
+eating in a fast food restaurant: </s> find a table. 1
+eating in a fast food restaurant: </s> eat food 1
+eating in a fast food restaurant: </s> empty food trash into trash bin. 1
+eating in a fast food restaurant: </s> exit fast food restaurant. 1
+eating in a fast food restaurant: </s> go home. 1
+eating in a fast food restaurant: </s> choose restaurant you desire to eat at 1
+eating in a fast food restaurant: </s> drive to restaurant 1
+eating in a fast food restaurant: </s> exit car and enter restaurant 1
+eating in a fast food restaurant: </s> at front desk order desired food 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> wait for number to be called 1
+eating in a fast food restaurant: </s> when number called, pick up food items 1
+eating in a fast food restaurant: </s> find seat and eat food 1
+eating in a fast food restaurant: </s> throw away trash 1
+eating in a fast food restaurant: </s> exit restaurant 1
+eating in a fast food restaurant: </s> drive home 1
+eating in a fast food restaurant: </s> enter into the  fast food restaurant 1
+eating in a fast food restaurant: </s> find a seat 1
+eating in a fast food restaurant: </s> waiter brings the menu 1
+eating in a fast food restaurant: </s> select order from fast food 1
+eating in a fast food restaurant: </s> burger and noodles in the order 1
+eating in a fast food restaurant: </s> order drink 1
+eating in a fast food restaurant: </s> eat and drink 1
+eating in a fast food restaurant: </s> waiter brings bill 1
+eating in a fast food restaurant: </s> pay the bill 1
+eating in a fast food restaurant: </s> waiter brings receipt 1
+eating in a fast food restaurant: </s> tips the waiter 1
+eating in a fast food restaurant: </s> leave the fast food restaurant 1
+eating in a fast food restaurant: </s> look at menu. 1
+eating in a fast food restaurant: </s> go up to cashier. 1
+eating in a fast food restaurant: </s> order what you want off the menu. 1
+eating in a fast food restaurant: </s> pay the cashier for the meal. 1
+eating in a fast food restaurant: </s> wait till your meal is ready. 1
+eating in a fast food restaurant: </s> take your meal. 1
+eating in a fast food restaurant: </s> go to a table. 1
+eating in a fast food restaurant: </s> sit down and eat your meal. 1
+eating in a fast food restaurant: </s> go to fast food 1
+eating in a fast food restaurant: </s> choose what you want 1
+eating in a fast food restaurant: </s> pay for food 1
+eating in a fast food restaurant: </s> get food 1
+eating in a fast food restaurant: </s> find a table 1
+eating in a fast food restaurant: </s> eat fast food 1
+eating in a fast food restaurant: </s> enter into the restaurant 1
+eating in a fast food restaurant: </s> walk up to counter 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> pay bill 1
+eating in a fast food restaurant: </s> wait for them to call your name 1
+eating in a fast food restaurant: </s> take food from them 1
+eating in a fast food restaurant: </s> find a seat 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> drive to the fast food restaurant. 1
+eating in a fast food restaurant: </s> park the car. 1
+eating in a fast food restaurant: </s> come into the fast food restaurant. 1
+eating in a fast food restaurant: </s> order at the counter. 1
+eating in a fast food restaurant: </s> find a table and sit. 1
+eating in a fast food restaurant: </s> wait for food. 1
+eating in a fast food restaurant: </s> get the food. 1
+eating in a fast food restaurant: </s> start to eat. 1
+eating in a fast food restaurant: </s> leave the restaurant. 1
+eating in a fast food restaurant: </s> visit fast food restaurant 1
+eating in a fast food restaurant: </s> pull up to the drive thru or go inside to order 1
+eating in a fast food restaurant: </s> tell the employee your order 1
+eating in a fast food restaurant: </s> wait for food to get done 1
+eating in a fast food restaurant: </s> pay for your meal 1
+eating in a fast food restaurant: </s> enjoy your food 1
+eating in a fast food restaurant: </s> enter into the fast food restaurant 1
+eating in a fast food restaurant: </s> check the menu 1
+eating in a fast food restaurant: </s> select food from menu 1
+eating in a fast food restaurant: </s> order food from waiter 1
+eating in a fast food restaurant: </s> waiter gives bill 1
+eating in a fast food restaurant: </s> pay the bill 1
+eating in a fast food restaurant: </s> get your food 1
+eating in a fast food restaurant: </s> find a seat 1
+eating in a fast food restaurant: </s> eat 1
+eating in a fast food restaurant: </s> leave the restaurant 1
+eating in a fast food restaurant: </s> start match with first serve 0
+eating in a fast food restaurant: </s> pay directly or via insurance with the receptionist after work is completed. 0
+eating in a fast food restaurant: </s> look for a book 0
+eating in a fast food restaurant: </s> walk to counter and pay for movie 0
+eating in a fast food restaurant: </s> paint walls. 0
+eating in a fast food restaurant: </s> sit while the barber cuts your hair 0
+eating in a fast food restaurant: </s> go to the bus bay 0
+eating in a fast food restaurant: </s> wait for iron to heat up. 0
+eating in a fast food restaurant: </s> take shower and get dressed. 0
+eating in a fast food restaurant: </s> pull the plug and allow tub to drain 0
+eating in a fast food restaurant: </s> dry off with a towel 0
+eating in a fast food restaurant: </s> buy the tree 0
+eating in a fast food restaurant: </s> fasten the hose 0
+eating in a fast food restaurant: </s> take clothes out of dryer. 0
+eating in a fast food restaurant: </s> get in car 0
+eating in a fast food restaurant: </s> gather items to be ironed. 0
+eating in a fast food restaurant: </s> get dressed. 0
+eating in a fast food restaurant: </s> fertilize and water again as needed or desired. 0
+eating in a fast food restaurant: </s> sit down in assigned seat 0
+eating in a fast food restaurant: </s> give bus driver token or money 0
+eating in a fast food restaurant: </s> dig hole 0
+eating in a fast food restaurant: </s> acquire sapling 0
+eating in a fast food restaurant: </s> plant seed in ground. 0
+eating in a fast food restaurant: </s> pack a towel 0
+eating in a fast food restaurant: </s> put coffee grounds in filter 0
+eating in a fast food restaurant: </s> remove pot from stove 0
+eating in a fast food restaurant: </s> find the correct platform. 0
+eating in a fast food restaurant: </s> find a service or product needed. 0
+eating in a fast food restaurant: </s> say goodnight 0
+eating in a fast food restaurant: </s> get off bus 0
+eating in a fast food restaurant: </s> pour detergent. 0
+eating in a fast food restaurant: </s> add water to heat to make steam 0
+eating in a fast food restaurant: </s> find seat number on ticket 0
+eating in a fast food restaurant: </s> find seats in theater. 0
+eating in a fast food restaurant: </s> place the thread through the needle 0
+eating in a fast food restaurant: </s> go to the hair salon 0
+eating in a fast food restaurant: </s> pass the needle through one of the button holes 0
+eating in a fast food restaurant: </s> stir ingredients together 0
+eating in a fast food restaurant: </s> bowl 0
+eating in a fast food restaurant: </s> watch it grow through the years 0
+eating in a fast food restaurant: </s> put clothing on ironing board 0
+eating in a fast food restaurant: </s> take out racket and balls 0
+eating in a fast food restaurant: </s> get behind the wheel 0
+eating in a fast food restaurant: </s> push the needle through the garment into the button 0
+eating in a fast food restaurant: </s> swipe credit card 0
+eating in a fast food restaurant: </s> purchase ticket 0
+eating in a fast food restaurant: </s> put credit card back in wallet 0
+eating in a fast food restaurant: </s> purchase movie tickets 0
+eating in a fast food restaurant: </s> open up tire repair kit 0
+eating in a fast food restaurant: </s> putting beans into grinder 0
+eating in a fast food restaurant: </s> preheat oven to correct temperature. 0
+eating in a fast food restaurant: </s> take your receipt. 0
+eating in a fast food restaurant: </s> cleanse body with soap 0
+eating in a fast food restaurant: </s> place pot in coffee machine 0
+eating in a fast food restaurant: </s> plug in iron. 0
+eating in a fast food restaurant: </s> check in 0
+eating in a fast food restaurant: </s> add measured amount of coffee 0
+eating in a fast food restaurant: </s> return the book on the intended date. 0
+eating in a fast food restaurant: </s> fuel up the car 0
+eating in a fast food restaurant: </s> thank her when she takes plate away. 0
+eating in a fast food restaurant: </s> fill a large stock pot with water. 0
+eating in a fast food restaurant: </s> walk steadily toward the line. 0
+eating in a fast food restaurant: </s> offer condolences to the family 0
+eating in a fast food restaurant: </s> wait for your new plate. 0
+eating in a fast food restaurant: </s> add dryer sheets to the dryer 0
+eating in a fast food restaurant: </s> stand calm 0
+eating in a fast food restaurant: </s> if leaking obtain tire patch or new tire 0
+eating in a fast food restaurant: </s> eat 0
+eating in a fast food restaurant: </s> take items to checkout isle 0
+eating in a fast food restaurant: </s> wait until your turn 0
+eating in a fast food restaurant: </s> get another mixing bowl 0
+eating in a fast food restaurant: </s> set timer 0
+eating in a fast food restaurant: </s> cut off any loose threads with a scissors. 0
+eating in a fast food restaurant: </s> purchase tickets. 0
+eating in a fast food restaurant: </s> have dentist check teeth 0
+eating in a fast food restaurant: </s> get a spade 0
+eating in a fast food restaurant: </s> bring a towel. 0
+eating in a fast food restaurant: </s> put clothes in laundry basket 0
+eating in a fast food restaurant: </s> get out of the car 0
+eating in a fast food restaurant: </s> pay for bowling at counter 0
+eating in a fast food restaurant: </s> get towel 0
+eating in a fast food restaurant: </s> change your shoes 0
+eating in a fast food restaurant: </s> go to bath tub 0
+eating in a fast food restaurant: </s> wait 0
+eating in a fast food restaurant: </s> water the tree 0
+eating in a fast food restaurant: </s> buy a ticket. 0
+eating in a fast food restaurant: </s> put conditioner in hair 0
+eating in a fast food restaurant: </s> scrub the dishes 0
+eating in a fast food restaurant: </s> fold the clothes and put them away 0
+eating in a fast food restaurant: </s> drive car to gas station. 0
+eating in a fast food restaurant: </s> get first plate. 0
+eating in a fast food restaurant: </s> pour pot of pasta into colander to drain water 0
+eating in a fast food restaurant: </s> help put pajamas on. 0
+eating in a fast food restaurant: </s> while boarding, pay the driver the required fee or show a pass 0
+eating in a fast food restaurant: </s> confirm your booking 0
+eating in a fast food restaurant: </s> apply styling products 0
+eating in a fast food restaurant: </s> get hangers 0
+eating in a fast food restaurant: </s> step into shower and close door. 0
+eating in a fast food restaurant: </s> stop pumping when desired amount of gas has been pumped. 0
+eating in a fast food restaurant: </s> insert pump and hold trigger 0
+eating in a fast food restaurant: </s> ask to get a library card 0
+eating in a fast food restaurant: </s> give id and ticket to clerk. 0
+eating in a fast food restaurant: </s> put desired shampoo into hair 0
+eating in a fast food restaurant: </s> talk a little bit. 0
+eating in a fast food restaurant: </s> pack your bags 0
+eating in a fast food restaurant: </s> try and hit it again. 0
+eating in a fast food restaurant: </s> get out of dental chair and leave room 0
+eating in a fast food restaurant: </s> add a small amount of oil to the water 0
+eating in a fast food restaurant: </s> choose a product 0
+eating in a fast food restaurant: </s> turn on hot water 0
+eating in a fast food restaurant: </s> load groceries in trunk 0
+eating in a fast food restaurant: </s> arrive at the terminal 0
+eating in a fast food restaurant: </s> find a cake recipe 0
+eating in a fast food restaurant: </s> wash. 0
+eating in a fast food restaurant: </s> start swimming in the pool 0
+eating in a fast food restaurant: </s> put conditioner in hair. 0
+eating in a fast food restaurant: </s> turn on the water 0
+eating in a fast food restaurant: </s> go inside and pick up items. 0
+eating in a fast food restaurant: </s> drive to sauna 0
+eating in a fast food restaurant: </s> get into the car 0
+eating in a fast food restaurant: </s> add water to water reservoir in coffee maker. 0
+eating in a fast food restaurant: </s> sign authorization. 0
+eating in a fast food restaurant: </s> sit in your assigned seat. 0
+eating in a fast food restaurant: </s> wait on the bench until the bus arrives 0
+eating in a fast food restaurant: </s> add water to iron 0
+eating in a fast food restaurant: </s> locate leak on tire 0
+eating in a fast food restaurant: </s> pour water and pasta into a strainer to strain water. 0
+eating in a fast food restaurant: </s> get in car 0
+eating in a fast food restaurant: </s> present the ticket to the officer 0
+eating in a fast food restaurant: </s> go to the hair cutting salon 0
+eating in a fast food restaurant: </s> sign in 0
+eating in a fast food restaurant: </s> walk to the ticket counter for the airline 0
+eating in a fast food restaurant: </s> wait for paint to dry 0
+eating in a fast food restaurant: </s> show the teeth to the dentist 0
+eating in a fast food restaurant: </s> rinse body 0
+eating in a fast food restaurant: </s> get a spade 0
+eating in a fast food restaurant: </s> align new tire 0
+eating in a fast food restaurant: </s> pay the bus driver 0
+eating in a fast food restaurant: </s> walk to train. 0
+eating in a fast food restaurant: </s> express desire to have different food brought out 0
+eating in a fast food restaurant: </s> check in 0
+eating in a fast food restaurant: </s> get off bus 0
+eating in a fast food restaurant: </s> water again 0
+eating in a fast food restaurant: </s> repair tire (patch) or replace tire depending on the damage of the tire. 0
+eating in a fast food restaurant: </s> enter the shower/tub. 0
+eating in a fast food restaurant: </s> leave pool. 0
+eating in a fast food restaurant: </s> walk to the bus stop 0
+eating in a fast food restaurant: </s> place the filter in the basket 0
+eating in a fast food restaurant: </s> flatten soil with shovel 0
+eating in a fast food restaurant: </s> walk to the pool through the park 0
+eating in a fast food restaurant: </s> walk to the fuel pump 0
+eating in a fast food restaurant: </s> pay and leave tip 0
+eating in a fast food restaurant: </s> iron the clothes from top to bottom 0
+eating in a fast food restaurant: </s> leave the restaurant 0
+eating in a fast food restaurant: </s> wash yourself 0
+eating in a fast food restaurant: </s> drive to bowling alley 0
+eating in a fast food restaurant: </s> take wash cloth and wash each dish. 0
+eating in a fast food restaurant: </s> record the score 0
+eating in a fast food restaurant: </s> move in new furniture 0
+eating in a fast food restaurant: </s> press gently 0
+eating in a fast food restaurant: </s> leave salon 0
+eating in a fast food restaurant: </s> alight at the destination station 0
+eating in a fast food restaurant: </s> hand the employee your drivers license. 0
+eating in a fast food restaurant: </s> drive to movie theater 0
+eating in a fast food restaurant: </s> shut door. 0
+eating in a fast food restaurant: </s> ride bike 0
+eating in a fast food restaurant: </s> put the cake in the oven 0
+eating in a fast food restaurant: </s> make sure to dress and prepare before hand. 0
+eating in a fast food restaurant: </s> select option for credit 0
+eating in a fast food restaurant: </s> pay for gas with card. 0
+eating in a fast food restaurant: </s> have your hair washed by the hair dresser. 0
+eating in a fast food restaurant: </s> receive boarding passes 0
+eating in a fast food restaurant: </s> if not airtight, repeat from step 5 0
+eating in a fast food restaurant: </s> pick out a movie to watch 0
+eating in a fast food restaurant: </s> flag down waiter 0
+eating in a fast food restaurant: </s> exit pool 0
+eating in a fast food restaurant: </s> prepare the microwave oven and required utensils. 0
+eating in a fast food restaurant: </s> pack your bags 0
+eating in a fast food restaurant: </s> pay for bowling and shoe rental 0
+eating in a fast food restaurant: </s> walk to the door of the bedroom. 0
+eating in a fast food restaurant: </s> dry off with towel 0
+eating in a fast food restaurant: </s> dry with towel 0
+eating in a fast food restaurant: </s> cover sapling with dirt 0
+eating in a fast food restaurant: </s> run warm water into sink 0
+eating in a fast food restaurant: </s> decide i don't want (like) food 0
+eating in a fast food restaurant: </s> turn off the shower. 0
+eating in a fast food restaurant: </s> find alley 0
+eating in a fast food restaurant: </s> tuck them back in. 0
+eating in a fast food restaurant: </s> shop for new wallpaper, paint and/or furniture 0
+eating in a fast food restaurant: </s> return clothes to room 0
+eating in a fast food restaurant: </s> sit down in waiting area 0
+eating in a fast food restaurant: </s> finish game 0
+eating in a fast food restaurant: </s> check in the mirror once done 0
+eating in a fast food restaurant: </s> wait for water to warm 0
+eating in a fast food restaurant: </s> get out of your transportation 0
+eating in a fast food restaurant: </s> go to bowling alley 0
+eating in a fast food restaurant: </s> fly to destination 0
+eating in a fast food restaurant: </s> pay for grocery 0
+eating in a fast food restaurant: </s> go see the body 0
+eating in a fast food restaurant: </s> arrive at tennis courts 0
+eating in a fast food restaurant: </s> get receipt 0
+eating in a fast food restaurant: </s> get my hair cut 0
+eating in a fast food restaurant: </s> spread glue 0
+eating in a fast food restaurant: </s> sort clothes 0
+eating in a fast food restaurant: </s> measure teaspoons of coffee to match amount of water 0
+eating in a fast food restaurant: </s> get inside the car 0
+eating in a fast food restaurant: </s> plug hole 0
+eating in a fast food restaurant: </s> wait until water is warm 0
+eating in a fast food restaurant: </s> board the aircraft when asked to do so 0
+eating in a fast food restaurant: </s> going to lane 0
+eating in a fast food restaurant: </s> leave the plane 0
+eating in a fast food restaurant: </s> check in bags 0
+eating in a fast food restaurant: </s> add water to tank 0
+eating in a fast food restaurant: </s> wait for opponent to hit ball back. 0
+eating in a fast food restaurant: </s> check in with the receptionist 0
+eating in a fast food restaurant: </s> get back into car 0
+eating in a fast food restaurant: </s> check online to see what movies are playing at your local theater 0
+eating in a fast food restaurant: </s> wash your hair and body 0
+eating in a fast food restaurant: </s> check for your library card 0
+eating in a fast food restaurant: </s> accumulate bonfire materials, primarily wood 0
+eating in a fast food restaurant: </s> drive to the grocery store. 0
+eating in a fast food restaurant: </s> walk to cashier or automated teller 0
+eating in a fast food restaurant: </s> learning to drive 0
+eating in a fast food restaurant: </s> when your turn step up to the kiosk 0
+eating in a fast food restaurant: </s> secure the button with a knot 0
+eating in a fast food restaurant: </s> place in bubble bath soap. 0
+eating in a fast food restaurant: </s> if necessary, paint room. 0
+eating in a fast food restaurant: </s> pick the child up 0
+eating in a fast food restaurant: </s> gather your pool toys and sunscreen and towel. 0
+eating in a fast food restaurant: </s> dry off with a towel 0
+eating in a fast food restaurant: </s> find a seat or stand 0
+eating in a fast food restaurant: </s> turn on washer to selected setting 0
+eating in a fast food restaurant: </s> open dishwasher 0
+eating in a fast food restaurant: </s> identify location 0
+eating in a fast food restaurant: </s> thank waitress. 0
+eating in a fast food restaurant: </s> mention a problem with the food 0
+eating in a fast food restaurant: </s> if no water, add water 0
+eating in a fast food restaurant: </s> summon the waiter to your table 0
+eating in a fast food restaurant: </s> remove the previous batteries 0
+eating in a fast food restaurant: </s> put bubble bath in the water 0
+eating in a fast food restaurant: </s> go to the barber shop 0
+eating in a fast food restaurant: </s> tell barber what haircut you want 0
+eating in a fast food restaurant: </s> open the cap 0
+eating in a fast food restaurant: </s> set dishes in dishrack to dry. 0
+eating in a fast food restaurant: </s> find food unacceptable 0
+eating in a fast food restaurant: </s> arrive 0
+eating in a fast food restaurant: </s> fill brewer with water 0
+eating in a fast food restaurant: </s> decide what items you would like to buy. 0
+eating in a fast food restaurant: </s> get bowl 0
+eating in a fast food restaurant: </s> wait your turn 0
+eating in a fast food restaurant: </s> get out coffee. 0
+eating in a fast food restaurant: </s> add some topsoil and compost into bottom of hole 0
+eating in a fast food restaurant: </s> swipe card at pump 0
+eating in a fast food restaurant: </s> pump air into tube to test 0
+eating in a fast food restaurant: </s> place dirty dishes in sink 0
+eating in a fast food restaurant: </s> open the gate to the pool 0
+eating in a fast food restaurant: </s> bringing book to circulation desk 0
+eating in a fast food restaurant: </s> push lever down 0
+eating in a fast food restaurant: </s> put new furniture in 0
+eating in a fast food restaurant: </s> pull thread through 0
+eating in a fast food restaurant: </s> press coffee into mug 0
+eating in a fast food restaurant: </s> enjoy! 0
+eating in a fast food restaurant: </s> wait until it is time to board the flight 0
+eating in a fast food restaurant: </s> eat popcorn. 0
+eating in a fast food restaurant: </s> fill with water. 0
+eating in a fast food restaurant: </s> turn on water 0
+eating in a fast food restaurant: </s> get out and dry off. 0
+eating in a fast food restaurant: </s> grab soap 0
+eating in a fast food restaurant: </s> cook pasta as instructed, or until tender. 0
+eating in a fast food restaurant: </s> put the dishes away. 0
+eating in a fast food restaurant: </s> put detergent and a small amount of bleach into the washer 0
+eating in a fast food restaurant: </s> pack luggage. 0
+eating in a fast food restaurant: </s> plane will taxi down the runway 0
+eating in a fast food restaurant: </s> add soap 0
+eating in a fast food restaurant: </s> examine the tire 0
+eating in a fast food restaurant: </s> go through security checks. 0
+eating in a fast food restaurant: </s> go into room 0
+eating in a fast food restaurant: </s> grease pan. 0
+eating in a fast food restaurant: </s> pull the blanket and covers back 0
+eating in a fast food restaurant: </s> watch bonfire 0
+eating in a fast food restaurant: </s> remove inner tube 0
+eating in a fast food restaurant: </s> talk to person at desk 0
+eating in a fast food restaurant: </s> boil water 0
+eating in a fast food restaurant: </s> remove wheel from bicycle 0
+eating in a fast food restaurant: </s> drink coffee 0
+eating in a fast food restaurant: </s> turn coffee maker on 0
+eating in a fast food restaurant: </s> set iron to desired temperature 0
+eating in a fast food restaurant: </s> get large cup and fill with water. 0
+eating in a fast food restaurant: </s> talk to instructor 0
+eating in a fast food restaurant: </s> pick a hair style from the book. 0
+eating in a fast food restaurant: </s> get dressed 0
+eating in a fast food restaurant: </s> wait for water to turn warm or hot. 0
+eating in a fast food restaurant: </s> wait for nightfall 0
+eating in a fast food restaurant: </s> pay your bill 0
+eating in a fast food restaurant: </s> pay the fee 0
+eating in a fast food restaurant: </s> examine receipt for accuracy 0
+eating in a fast food restaurant: </s> find someone to play with 0
+eating in a fast food restaurant: </s> lather shampoo in hair 0
+eating in a fast food restaurant: </s> check in main desk to see what time it will arrive 0
+eating in a fast food restaurant: </s> put right foot on brake 0
+eating in a fast food restaurant: </s> wait in terminal for plane 0
+eating in a fast food restaurant: </s> sit down 0
+eating in a fast food restaurant: </s> pack dirt back in 0
+eating in a fast food restaurant: </s> leave 0
+eating in a fast food restaurant: </s> enjoy train ride 0
+eating in a fast food restaurant: </s> exit bus. 0
+eating in a fast food restaurant: </s> leave dishes in sink 0
+eating in a fast food restaurant: </s> change back into your clothes in the locker room 0
+eating in a fast food restaurant: </s> go home 0
+eating in a fast food restaurant: </s> buy airplane ticket 0
+eating in a fast food restaurant: </s> scrub dishes with scrubber to remove food stains 0
+eating in a fast food restaurant: </s> sit in chair 0
+eating in a fast food restaurant: </s> find what aisles you need to go to 0
+eating in a fast food restaurant: </s> pick a seat 0
+eating in a fast food restaurant: </s> do this a couple times. 0
+eating in a fast food restaurant: </s> dig a pit. 0
+eating in a fast food restaurant: </s> drain water. 0
+eating in a fast food restaurant: </s> find shelf in library 0
+eating in a fast food restaurant: </s> go to airport 0
+eating in a fast food restaurant: </s> walk up bus stairs 0
+eating in a fast food restaurant: </s> disembark at the destination. 0
+eating in a fast food restaurant: </s> finish game 0
+eating in a fast food restaurant: </s> begin to research potential new looks and decide on three options. 0
+eating in a fast food restaurant: </s> sit still as stylist cuts hair. 0
+eating in a fast food restaurant: </s> walk into the water 0
+eating in a fast food restaurant: </s> turn the burner on to medium high 0
+eating in a fast food restaurant: </s> throw ball in air 0
+eating in a fast food restaurant: </s> place the dishes into the dishwasher. 0
+eating in a fast food restaurant: </s> separating the dark colors from the white colors. 0
+eating in a fast food restaurant: </s> make next appointment 0
+eating in a fast food restaurant: </s> watch the movie 0
+eating in a fast food restaurant: </s> stand up and give people hugs. 0
+eating in a fast food restaurant: </s> decide who won 0
+eating in a fast food restaurant: </s> greet friend 0
+eating in a fast food restaurant: </s> find button that matches lost button. 0
+eating in a fast food restaurant: </s> also one must compulsorily consult after 45 years. 0
+eating in a fast food restaurant: </s> walk in 0
+eating in a fast food restaurant: </s> turn on water. 0
+eating in a fast food restaurant: </s> get boarding pass 0
+eating in a fast food restaurant: </s> tuck them in. 0
+eating in a fast food restaurant: </s> go home 0
+eating in a fast food restaurant: </s> get inside airplane. 0
+eating in a fast food restaurant: </s> put away iron. 0
+eating in a fast food restaurant: </s> follow flight crew's instructions during flight 0
+eating in a fast food restaurant: </s> wait until water is warm 0
+eating in a fast food restaurant: </s> get into car 0
+eating in a fast food restaurant: </s> tuck them into bed 0
+eating in a fast food restaurant: </s> arrive at airport. 0
+eating in a fast food restaurant: </s> leave the swimming pool 0
+eating in a fast food restaurant: </s> check in with receptionist 0
+eating in a fast food restaurant: </s> go online to check prices. 0
+eating in a fast food restaurant: </s> find out results of the test 0
+eating in a fast food restaurant: </s> use conditioner on your hair. 0
+eating in a fast food restaurant: </s> go to the sink 0
+eating in a fast food restaurant: </s> carefully paint room 0
+eating in a fast food restaurant: </s> move items 0
+eating in a fast food restaurant: </s> get in the shower 0
+eating in a fast food restaurant: </s> putting beans into grinder 0
+eating in a fast food restaurant: </s> fill pot with water 0
+eating in a fast food restaurant: </s> sit with friend and relax after match. 0
+eating in a fast food restaurant: </s> put clothes to be ironed on ironing board. 0
+eating in a fast food restaurant: </s> tell waiter what you would order to get instead 0
+eating in a fast food restaurant: </s> turn off main light 0
+eating in a fast food restaurant: </s> drive to church 0
+eating in a fast food restaurant: </s> plane lands 0
+eating in a fast food restaurant: </s> choose gas grade 0
+eating in a fast food restaurant: </s> step up to train 0
+eating in a fast food restaurant: </s> renovate the room (paint, tear it down, etc., whatever the renovation is) 0
+eating in a fast food restaurant: </s> get on bus 0
+eating in a fast food restaurant: </s> wait for train to arrive 0
+eating in a fast food restaurant: </s> switch on the iron box 0
+eating in a fast food restaurant: </s> park car. 0
+eating in a fast food restaurant: </s> after hair cut wash your head twice applying shampoo to remove any bit of hairs left over. 0
+eating in a fast food restaurant: </s> walk off bus 0
+eating in a fast food restaurant: </s> return ball and shoes 0
+eating in a fast food restaurant: </s> go to the fuel station 0
+eating in a fast food restaurant: </s> put needle through one hole 0
+eating in a fast food restaurant: </s> go to the supermarket and purchase the ingredients 0
+eating in a fast food restaurant: </s> roll ball down lane and knock pins down 0
+eating in a fast food restaurant: </s> remove the rubber part of the tire from the wheel. 0
+eating in a fast food restaurant: </s> check in with the receptionist 0
+eating in a fast food restaurant: </s> get any instructions from dentist. 0
+eating in a fast food restaurant: </s> wait for tub to fill 0
+eating in a fast food restaurant: </s> go through security 0
+eating in a fast food restaurant: </s> get a new tube 0
+eating in a fast food restaurant: </s> ask for another plate of food 0
+eating in a fast food restaurant: </s> stir pasta. 0
+eating in a fast food restaurant: </s> buckle up for take off 0
+eating in a fast food restaurant: </s> wait for the waiter to bring menu 0
+eating in a fast food restaurant: </s> place the dishes into the dishwasher. 0
+eating in a fast food restaurant: </s> watch and tend the fire 0
+eating in a fast food restaurant: </s> browse aisles 0
+eating in a fast food restaurant: </s> start washing 0
+eating in a fast food restaurant: </s> put baking tin into oven 0
+eating in a fast food restaurant: </s> get item that needs a button 0
+eating in a fast food restaurant: </s> go to the salon at the time of the appointment. 0
+eating in a fast food restaurant: </s> leave the pool 0
+eating in a fast food restaurant: </s> wear fresh clothes 0
+eating in a fast food restaurant: </s> get dressed 0
+eating in a fast food restaurant: </s> wait until the water is boiling. 0
+eating in a fast food restaurant: </s> leave store 0
+eating in a fast food restaurant: </s> park car next to gas pump 0
+eating in a fast food restaurant: </s> gather carry-on items 0
+eating in a fast food restaurant: </s> open washing machine door 0
+eating in a fast food restaurant: </s> find the book on the shelf 0
+eating in a fast food restaurant: </s> sink down into tub and sigh 0
+eating in a fast food restaurant: </s> arrange garment on ironing board 0
+eating in a fast food restaurant: </s> go on appointed time. 0
+eating in a fast food restaurant: </s> pay for the services 0
+eating in a fast food restaurant: </s> add softener 0
+eating in a fast food restaurant: </s> get new batteries 0
+eating in a fast food restaurant: </s> close lid. 0
+eating in a fast food restaurant: </s> place cover back onto battery compartment 0
+eating in a fast food restaurant: </s> clean out room by removing everything 0
+eating in a fast food restaurant: </s> turn dryer on. 0
+eating in a fast food restaurant: </s> extinguish fire when bonfire ends 0
+eating in a fast food restaurant: </s> drink it 0
+eating in a fast food restaurant: </s> you have to pack your bags and go to train station. 0
+eating in a fast food restaurant: </s> add dish soap. 0
+eating in a fast food restaurant: </s> get off bus 0
+eating in a fast food restaurant: </s> give attendant your name and identification 0
+eating in a fast food restaurant: </s> run credit card through scanner 0
+eating in a fast food restaurant: </s> place the flowers on the box. 0
+eating in a fast food restaurant: </s> get into the water 0
+eating in a fast food restaurant: </s> board the train 0
+eating in a fast food restaurant: </s> go to bathroom 0
+eating in a fast food restaurant: </s> unplug iron and put on its side. 0
+eating in a fast food restaurant: </s> keep repeating the sewing to reinforce the strength 0
+eating in a fast food restaurant: </s> spread clothes over the board 0
+eating in a fast food restaurant: </s> light with match or lighter 0
+eating in a fast food restaurant: </s> tell them thanks 0
+eating in a fast food restaurant: </s> pull credit card out 0
+eating in a fast food restaurant: </s> discuss desired cut with your stylist. 0
+eating in a fast food restaurant: </s> wet the hair with water 0
+eating in a fast food restaurant: </s> check that alarm clock is working properly 0
+eating in a fast food restaurant: </s> wait for your turn 0
+eating in a fast food restaurant: </s> repeat until someone wins 0
+eating in a fast food restaurant: </s> iron the clothes 0
+eating in a fast food restaurant: </s> get pasta from pantry 0
+eating in a fast food restaurant: </s> pick up the pump. 0
+eating in a fast food restaurant: </s> change into costume 0
+eating in a fast food restaurant: </s> ask him to return it to the kitchen 0
+eating in a fast food restaurant: </s> get inside the car 0
+eating in a fast food restaurant: </s> get a laundry basket 0
+eating in a fast food restaurant: </s> open the garage door 0
+eating in a fast food restaurant: </s> tell the waiter what the issues 0
+eating in a fast food restaurant: </s> sweat 0
+eating in a fast food restaurant: </s> park and get a cart 0
+eating in a fast food restaurant: </s> wait until done 0
+eating in a fast food restaurant: </s> get off at destination 0
+eating in a fast food restaurant: </s> go to swimming baths 0
+eating in a fast food restaurant: </s> wash out shampoo with water 0
+eating in a fast food restaurant: </s> secure house 0
+eating in a fast food restaurant: </s> get on bus 0
+eating in a fast food restaurant: </s> proceed to the gate as directed. 0
+eating in a fast food restaurant: </s> stay far back to avoid getting burned 0
+eating in a fast food restaurant: </s> sign your name on receipt. 0
+eating in a fast food restaurant: </s> going to the driving school 0
+eating in a fast food restaurant: </s> take a shower 0
+eating in a fast food restaurant: </s> sit on your seat as per the ticket 0
+eating in a fast food restaurant: </s> put water into pot. 0
+eating in a fast food restaurant: </s> find a button 0
+eating in a fast food restaurant: </s> put coffee carafe back in position 0
+eating in a fast food restaurant: </s> run iron over clothes on top of board 0
+eating in a fast food restaurant: </s> drive to the theater 0
+eating in a fast food restaurant: </s> choose the best outfit 0
+eating in a fast food restaurant: </s> pick a needle 0
+eating in a fast food restaurant: </s> make an appointment. 0
+eating in a fast food restaurant: </s> pay contractors 0
+eating in a fast food restaurant: </s> pull old tube out and fit in the new one 0
+eating in a fast food restaurant: </s> go to your lane 0
+eating in a fast food restaurant: </s> set up computer at your bowling lane with information about who will be bowling with you. 0
+eating in a fast food restaurant: </s> add detergent 0
+eating in a fast food restaurant: </s> get pasta out 0
+eating in a fast food restaurant: </s> try new tire a bit with the bike before using it regularly. 0
+eating in a fast food restaurant: </s> return shoes to counter 0
+eating in a fast food restaurant: </s> mix butter, milk, eggs into sauce pan 0
+eating in a fast food restaurant: </s> place small wood in a fire. 0
+eating in a fast food restaurant: </s> wait for the new dish. 0
+eating in a fast food restaurant: </s> ask server to take plate of food to get it fixed. 0
+eating in a fast food restaurant: </s> turn off shower 0
+eating in a fast food restaurant: </s> remove and enjoy 0
+eating in a fast food restaurant: </s> get dressed 0
+eating in a fast food restaurant: </s> rinse again 0
+eating in a fast food restaurant: </s> get ironing board out. 0
+eating in a fast food restaurant: </s> check dryer vent 0
+eating in a fast food restaurant: </s> wait at the bus stop. 0
+eating in a fast food restaurant: </s> wait for hair cut 0
+eating in a fast food restaurant: </s> follow the recipe 0
+eating in a fast food restaurant: </s> serve and enjoy! 0
+eating in a fast food restaurant: </s> head to the changing room 0
+eating in a fast food restaurant: </s> gather towel and toiletries 0
+eating in a fast food restaurant: </s> find a seat 0
+eating in a fast food restaurant: </s> wait at a bus station. 0
+eating in a fast food restaurant: </s> open mouth for dentist to look 0
+eating in a fast food restaurant: </s> measure appropriate amount of coffee out and place into filter 0
+eating in a fast food restaurant: </s> begin fueling car 0
+eating in a fast food restaurant: </s> return when paint is dry and put up trim and wainscoting 0
+eating in a fast food restaurant: </s> go to pump. 0
+eating in a fast food restaurant: </s> open mouth 0
+eating in a fast food restaurant: </s> strike match 0
+eating in a fast food restaurant: </s> express condolences to the family 0
+eating in a fast food restaurant: </s> put tarp on the floor 0
+eating in a fast food restaurant: </s> patch or replace the tube. 0
+eating in a fast food restaurant: </s> bathe the child. 0
+eating in a fast food restaurant: </s> drive/walk or take public transportation when you have the appointment 0
+eating in a fast food restaurant: </s> fill the sink with hot water 0
+eating in a fast food restaurant: </s> take off shoes 0
+eating in a fast food restaurant: </s> find some new baterries 0
+eating in a fast food restaurant: </s> wait 0
+eating in a fast food restaurant: </s> grab a sponge 0
+eating in a fast food restaurant: </s> look for a book 0
+eating in a fast food restaurant: </s> adjust the heat level by pouring water onto the heating element 0
+eating in a fast food restaurant: </s> walk through the aisles of the store, add items to your cart 0
+eating in a fast food restaurant: </s> leave the funeral 0
+eating in a fast food restaurant: </s> enjoy the view 0
+eating in a fast food restaurant: </s> put soap in dish washer 0
+eating in a fast food restaurant: </s> apply to tips of hair. 0
+eating in a fast food restaurant: </s> return book before due date 0
+eating in a fast food restaurant: </s> dry entire body and hair with the towel. 0
+eating in a fast food restaurant: </s> water tree 0
+eating in a fast food restaurant: </s> put on clothes again 0
+eating in a fast food restaurant: </s> hand over luggage and check it. 0
+eating in a fast food restaurant: </s> proceed through security to the gates 0
+eating in a fast food restaurant: </s> return to receptionist 0
+eating in a fast food restaurant: </s> unplug iron. 0
+eating in a fast food restaurant: </s> put seatbelt on 0
+eating in a fast food restaurant: </s> go back to the car. 0
+eating in a fast food restaurant: </s> apply desired shampoo to hair. 0
+eating in a fast food restaurant: </s> waiter go to the supervisor 0
+eating in a fast food restaurant: </s> wash body 0
+eating in a fast food restaurant: </s> go to the airline counter 0
+eating in a fast food restaurant: </s> take off 0
+eating in a fast food restaurant: </s> put air in the tire. 0
+eating in a fast food restaurant: </s> gather dirty dishes. 0
+eating in a fast food restaurant: </s> have the waiter take it to the cooks to make it again 0
+eating in a fast food restaurant: </s> switch the clothes into the dryer 0
+eating in a fast food restaurant: </s> put wood or sticks in fire pit. 0
+eating in a fast food restaurant: </s> kiss and hug them goodnight 0
+eating in a fast food restaurant: </s> shower 0
+eating in a fast food restaurant: </s> get the ticket from the worker 0
+eating in a fast food restaurant: </s> find the theater that is playing the movie you wish to see. 0
+eating in a fast food restaurant: </s> get a shovel 0
+eating in a fast food restaurant: </s> put wrench away 0
+eating in a fast food restaurant: </s> take off clothes. 0
+eating in a fast food restaurant: </s> get into car 0
+eating in a fast food restaurant: </s> put credit card back in wallet 0
+eating in a fast food restaurant: </s> go home. 0
+eating in a fast food restaurant: </s> rinse with water 0
+eating in a fast food restaurant: </s> explain what you want to be done 0
+eating in a fast food restaurant: </s> tell them good night and leave the room. 0
+eating in a fast food restaurant: </s> get out of car 0
+eating in a fast food restaurant: </s> remove old batteries. 0
+eating in a fast food restaurant: </s> wet hair 0
+eating in a fast food restaurant: </s> leave 0
+eating in a fast food restaurant: </s> put sugar and cream into coffee 0
+eating in a fast food restaurant: </s> get new batteries 0
+eating in a fast food restaurant: </s> cover back up with dirt 0
+eating in a fast food restaurant: </s> wash hair with fingers 0
+eating in a fast food restaurant: </s> get out of bathtub 0
+eating in a fast food restaurant: </s> shampoo hair 0
+eating in a fast food restaurant: </s> drive home 0
+eating in a fast food restaurant: </s> put air into tire 0
+eating in a fast food restaurant: </s> water sapling 0
+eating in a fast food restaurant: </s> fill sink with warm water 0
+eating in a fast food restaurant: </s> place button in desired position 0
+eating in a fast food restaurant: </s> tie knot to secure thread and button to clothes 0
+eating in a fast food restaurant: </s> when food arrives, continue to be polite 0
+eating in a fast food restaurant: </s> wait for the waiter to return with the correct food items 0
+eating in a fast food restaurant: </s> take clothes out that need to be washed 0
+eating in a fast food restaurant: </s> board the bus 0
+eating in a fast food restaurant: </s> sign your name on receipt. 0
+eating in a fast food restaurant: </s> ride away. 0
+eating in a fast food restaurant: </s> tip the stylist. 0
+eating in a fast food restaurant: </s> enter office 0
+eating in a fast food restaurant: </s> get baking instructions 0
+eating in a fast food restaurant: </s> make sure room is properly heated 0
+eating in a fast food restaurant: </s> barber makes your hair wet 0
+eating in a fast food restaurant: </s> fill pot with water 0
+eating in a fast food restaurant: </s> put pot on stove and turn on medium high 0
+eating in a fast food restaurant: </s> drive home 0
+eating in a fast food restaurant: </s> drive to the barber 0
+eating in a fast food restaurant: </s> leave the salon 0
+eating in a fast food restaurant: </s> they repeat the process for any remaining pins 0
+eating in a fast food restaurant: </s> get into bathtub. 0
+eating in a fast food restaurant: </s> get the clock. 0
+eating in a fast food restaurant: </s> place the new batteries into the clock 0
+eating in a fast food restaurant: </s> enter the water by jumping in or using a ladder. 0
+eating in a fast food restaurant: </s> pick out book 0
+eating in a fast food restaurant: </s> cook for the recommended time or to personal taste. 0
+eating in a fast food restaurant: </s> find an extra button 0
+eating in a fast food restaurant: </s> go to the pool 0
+eating in a fast food restaurant: </s> find a good sauna 0
+eating in a fast food restaurant: </s> go to library 0
+eating in a fast food restaurant: </s> board the plane 0
+eating in a fast food restaurant: </s> prepare passport, ticket and money 0
+eating in a fast food restaurant: </s> put inner tube back into bike tire 0
+eating in a fast food restaurant: </s> show membership card. 0
+eating in a fast food restaurant: </s> watch the show 0
+eating in a fast food restaurant: </s> select settings 0
+eating in a fast food restaurant: </s> thoroughly wet hair with water 0
+eating in a fast food restaurant: </s> get cake mix 0
+eating in a fast food restaurant: </s> find black clothes. 0
+eating in a fast food restaurant: </s> look for preferred book 0
+eating in a fast food restaurant: </s> drive home 0
+eating in a fast food restaurant: </s> remove batteries 0
+eating in a fast food restaurant: </s> roll ball down aisle multiple times 0
+eating in a fast food restaurant: </s> give reason why 0
+eating in a fast food restaurant: </s> walk to ticket counter 0
+eating in a fast food restaurant: </s> walk to the fuel pump 0
+eating in a fast food restaurant: </s> drive to the theater 0
+eating in a fast food restaurant: </s> wash self 0
+eating in a fast food restaurant: </s> fill tire with air 0
+eating in a fast food restaurant: </s> receive boarding pass 0
+eating in a fast food restaurant: </s> wait for her to bring you something new 0
+eating in a fast food restaurant: </s> close gas tank. 0
+eating in a fast food restaurant: </s> walk through store and place items you want into cart 0
+eating in a fast food restaurant: </s> collect pieces of dry wood 0
+eating in a fast food restaurant: </s> get out of car 0
+eating in a fast food restaurant: </s> go to the car. 0
+eating in a fast food restaurant: </s> do as per the dentist's instructions 0
+eating in a fast food restaurant: </s> leave the fuel station 0
+eating in a fast food restaurant: </s> set up ironing board. 0
+eating in a fast food restaurant: </s> put items in cart 0
+eating in a fast food restaurant: </s> use soap and washcloth to clean yourself. 0
+eating in a fast food restaurant: </s> enter the driving school 0
+eating in a fast food restaurant: </s> have your tickets ready or be prepared to buy them at the door. 0
+eating in a fast food restaurant: </s> look for the book you would like to borrow 0
+eating in a fast food restaurant: </s> exit sauna. 0
+eating in a fast food restaurant: </s> pay for gas with card. 0
+eating in a fast food restaurant: </s> meet the dentist at your chance 0
+eating in a fast food restaurant: </s> taste the food 0
+eating in a fast food restaurant: </s> open mouth wide and allow for cleaning and inspection 0
+eating in a fast food restaurant: </s> measure the pasta - a single serving is roughly 2 ounces of dry pasta per person. 0
+eating in a fast food restaurant: </s> sit down and relax 0
+eating in a fast food restaurant: </s> when full remove nozzle and replace on pump 0
+eating in a fast food restaurant: </s> pick up the book 0
+eating in a fast food restaurant: </s> help them brush teeth. 0
+eating in a fast food restaurant: </s> get credit card out of wallet 0
+eating in a fast food restaurant: </s> get them into the bed 0
+eating in a fast food restaurant: </s> come out of sauna 0
+eating in a fast food restaurant: </s> snip excess thread off 0
+eating in a fast food restaurant: </s> put dishes in cupboards. 0
+eating in a fast food restaurant: </s> go through security 0
+eating in a fast food restaurant: </s> you put it in your purse. 0
+eating in a fast food restaurant: </s> sit down 0
+eating in a fast food restaurant: </s> turn on shower to rinse off 0
+eating in a fast food restaurant: </s> put away the iron once it has cooled 0
+eating in a fast food restaurant: </s> move things out of the room 0
+eating in a fast food restaurant: </s> check luggage 0
+eating in a fast food restaurant: </s> wash out shampoo 0
+eating in a fast food restaurant: </s> close battery compartment 0
+eating in a fast food restaurant: </s> watch grow 0
+eating in a fast food restaurant: </s> take luggage to terminal 0
+eating in a fast food restaurant: </s> shut the top over the k cup 0
+eating in a fast food restaurant: </s> sing a lullaby 0
+eating in a fast food restaurant: </s> dig a hole 0
+eating in a fast food restaurant: </s> drive to the funeral location 0
+eating in a fast food restaurant: </s> going to the grocery store 0
+eating in a fast food restaurant: </s> get in the tub 0
+eating in a fast food restaurant: </s> when waiter comes to table tell him what is wrong with your food 0
+eating in a fast food restaurant: </s> getting out needle 0
+eating in a fast food restaurant: </s> place button on desired spot on shirt. 0
+eating in a fast food restaurant: </s> leave barber 0
+eating in a fast food restaurant: </s> plug in the iron 0
+eating in a fast food restaurant: </s> pack clothes inside suitcase 0
+eating in a fast food restaurant: </s> begin folding and hanging laundry as preferred. 0
+eating in a fast food restaurant: </s> disrobe. 0
+eating in a fast food restaurant: </s> find thread and needle. 0
+eating in a fast food restaurant: </s> check for holes in the tire 0
+eating in a fast food restaurant: </s> make a list of needed items 0
+eating in a fast food restaurant: </s> get tennis balls 0
+eating in a fast food restaurant: </s> install new inner tube. 0
+eating in a fast food restaurant: </s> pour water and pasta into a colander. 0
+eating in a fast food restaurant: </s> soak wash cloth in soap water apply all over your body parts smoothly. 0
+eating in a fast food restaurant: </s> wait for train 0
+eating in a fast food restaurant: </s> get a patch kit 0
+eating in a fast food restaurant: </s> pour mixture into cake pan 0
+eating in a fast food restaurant: </s> announce who you are at the reception desk. 0
+eating in a fast food restaurant: </s> replace furniture 0
+eating in a fast food restaurant: </s> arrive at theater 0
+eating in a fast food restaurant: </s> close battery compartment 0
+eating in a fast food restaurant: </s> turn on keurig coffee maker 0
+eating in a fast food restaurant: </s> get your food back right 0
+eating in a fast food restaurant: </s> massage his/her head in a loving manner 0
+eating in a fast food restaurant: </s> allow waitress to take food away. 0
+eating in a fast food restaurant: </s> choose book to borrow 0
+eating in a fast food restaurant: </s> listen to what the dentist has to say 0
+eating in a fast food restaurant: </s> find out nearest swimming pool 0
+eating in a fast food restaurant: </s> put clothes on. 0
+eating in a fast food restaurant: </s> sit down until services start 0
+eating in a fast food restaurant: </s> fill pot with water. 0
+eating in a fast food restaurant: </s> turn off water 0
+eating in a fast food restaurant: </s> get tennis racket 0
+eating in a fast food restaurant: </s> decide if a book is to be read this time 0
+eating in a fast food restaurant: </s> enter your car 0
+eating in a fast food restaurant: </s> get seated in the allotted seat 0
+eating in a fast food restaurant: </s> lay down tarps 0
+eating in a fast food restaurant: </s> have a library card available 0
+eating in a fast food restaurant: </s> find a thread 0
+eating in a fast food restaurant: </s> enter swimming pool using ladder. 0
+eating in a fast food restaurant: </s> wait for the new meal 0
+eating in a fast food restaurant: </s> go inside. 0
+eating in a fast food restaurant: </s> get on the train 0
+eating in a fast food restaurant: </s> start the vehicle and drive under the guidance of the instructor 0
+eating in a fast food restaurant: </s> sign guest book 0
+eating in a fast food restaurant: </s> put new batteries in one by one as you remove old ones. 0
+eating in a fast food restaurant: </s> enter sauna 0
+eating in a fast food restaurant: </s> let the sink fill 0
+eating in a fast food restaurant: </s> select your grade of fuel either by pushing button or lifting lever 0
+eating in a fast food restaurant: </s> wait for the bus 0
+eating in a fast food restaurant: </s> enjoy movie 0
+eating in a fast food restaurant: </s> mix up and stir ingredients 0
+eating in a fast food restaurant: </s> get a partner 0
+eating in a fast food restaurant: </s> enter church 0
+eating in a fast food restaurant: </s> take list to store 0
+eating in a fast food restaurant: </s> go to the bus stop 0
+eating in a fast food restaurant: </s> thread the needle. 0
+eating in a fast food restaurant: </s> check to see if water is warm 0
+eating in a fast food restaurant: </s> pay for shoes and game 0
+eating in a fast food restaurant: </s> put the pan in the oven 0
+eating in a fast food restaurant: </s> try food 0
+eating in a fast food restaurant: </s> tell cashier you are paying with credit 0
+eating in a fast food restaurant: </s> get in line at airline counter 0
+eating in a fast food restaurant: </s> purchase tickets for the show you are seeing. 0
+eating in a fast food restaurant: </s> turn off the light 0
+eating in a fast food restaurant: </s> give her bath 0
+eating in a fast food restaurant: </s> take out old batteries 0
+eating in a fast food restaurant: </s> follow requests of instructor 0
+eating in a fast food restaurant: </s> relax 0
+eating in a fast food restaurant: </s> open container of coffee 0
+eating in a fast food restaurant: </s> wash body. 0
+eating in a fast food restaurant: </s> add fabric conditioner 0
+eating in a fast food restaurant: </s> buy paint 0
+eating in a fast food restaurant: </s> in your kitchen, get out a mixing bowl. 0
+eating in a fast food restaurant: </s> design it with cream on borders and write name with cone if desired. 0
+eating in a fast food restaurant: </s> let child choose a storybook to read before bed. 0
+eating in a fast food restaurant: </s> place on ironing board 0
+eating in a fast food restaurant: </s> exit tub 0
+eating in a fast food restaurant: </s> take off wheel 0
+eating in a fast food restaurant: </s> pay cashier 0
+eating in a fast food restaurant: </s> get a shovel and dig a hole where you want to plant the tree. 0
+eating in a fast food restaurant: </s> button shirt. 0
+eating in a fast food restaurant: </s> attend the funeral at the appointed place and time. 0
+eating in a fast food restaurant: </s> enter into the theater 0
+eating in a fast food restaurant: </s> leave chapel and drive to cemetery 0
+eating in a fast food restaurant: </s> give information 0
+eating in a fast food restaurant: </s> put them under blankets 0
+eating in a fast food restaurant: </s> pay your bill and leave. 0
+eating in a fast food restaurant: </s> find groceries 0
+eating in a fast food restaurant: </s> grease pan. 0
+eating in a fast food restaurant: </s> put shampoo on head and rub into hair 0
+eating in a fast food restaurant: </s> wait on security line 0
+eating in a fast food restaurant: </s> open gas tank cover 0
+eating in a fast food restaurant: </s> go to the grocery store 0
+eating in a fast food restaurant: </s> place the button at right place 0
+eating in a fast food restaurant: </s> find a seat 0
+eating in a fast food restaurant: </s> have nurse brush your teeth 0
+eating in a fast food restaurant: </s> drive to gas station 0
+eating in a fast food restaurant: </s> park the car. 0
+eating in a fast food restaurant: </s> kiss child 0
+eating in a fast food restaurant: </s> click trigger 0
+eating in a fast food restaurant: </s> put a small quantity of organic fertilizer in the pit 0
+eating in a fast food restaurant: </s> enjoy your time relaxing. 0
+eating in a fast food restaurant: </s> go back home 0
+eating in a fast food restaurant: </s> practice a u-turn 0
+eating in a fast food restaurant: </s> ring up items 0
+eating in a fast food restaurant: </s> remove pasta from pot 0
+eating in a fast food restaurant: </s> go to bathroom 0
+eating in a fast food restaurant: </s> wait at gate for airplane. 0
+eating in a fast food restaurant: </s> go home 0
+eating in a fast food restaurant: </s> place tree in hole. 0
+eating in a fast food restaurant: </s> when game is over retrieve tennis balls 0
+eating in a fast food restaurant: </s> put away dishes when dry 0
+eating in a fast food restaurant: </s> remove clothes in changing room (naked or to underwear/swimwear). 0
+eating in a fast food restaurant: </s> add laundry detergent to washing machine 0
+eating in a fast food restaurant: </s> throw flat tire away 0
+eating in a fast food restaurant: </s> acquire sapling 0
+eating in a fast food restaurant: </s> remove cake pan when timer goes off 0
+eating in a fast food restaurant: </s> find a pump. 0
+eating in a fast food restaurant: </s> using goggles can be very useful. 0
+eating in a fast food restaurant: </s> move iron around carefully until wrinkles are no longer in clothing 0
+eating in a fast food restaurant: </s> take out gas cartridge 0
+eating in a fast food restaurant: </s> purchase theater tickets 0
+eating in a fast food restaurant: </s> find the needle 0
+eating in a fast food restaurant: </s> put pot on burner 0
+eating in a fast food restaurant: </s> rent shoes 0
+eating in a fast food restaurant: </s> enter the bowling alley 0
+eating in a fast food restaurant: </s> check out/pay with receptionist 0
+eating in a fast food restaurant: </s> dry off finished dishes 0
+eating in a fast food restaurant: </s> choose if checking luggage 0
+eating in a fast food restaurant: </s> gather laundry in a basket 0
+eating in a fast food restaurant: </s> continue crisscrossing thread between holes of button until button is tight. 0
+eating in a fast food restaurant: </s> get changed in changing area 0
+eating in a fast food restaurant: </s> go to the pool 0
+eating in a fast food restaurant: </s> tell the barber what type of hair cut you are looking for 0
+eating in a fast food restaurant: </s> remove tire 0
+eating in a fast food restaurant: </s> water tree 0
+eating in a fast food restaurant: </s> enter the water by jumping in or using a ladder. 0
+eating in a fast food restaurant: </s> put away iron 0
+eating in a fast food restaurant: </s> request for the food to be sent back 0
+eating in a fast food restaurant: </s> take out 0
+eating in a fast food restaurant: </s> have child say goodnight to everyone. 0
+eating in a fast food restaurant: </s> watch stylist cut your hair 0
+eating in a fast food restaurant: </s> pick up bowling ball 0
+eating in a fast food restaurant: </s> bus arrives 0
+eating in a fast food restaurant: </s> go to area where you're planting 0
+eating in a fast food restaurant: </s> put dirty dishes in water. 0
+eating in a fast food restaurant: </s> arrive at destination 0
+eating in a fast food restaurant: </s> order food from waiter 0
+eating in a fast food restaurant: </s> drive to sauna 0
+eating in a fast food restaurant: </s> put coffee bag on top 0
+eating in a fast food restaurant: </s> check to make sure everything is adjusted correctly 0
+eating in a fast food restaurant: </s> present your library card to the librarian. 0
+eating in a fast food restaurant: </s> buy a tree. 0
+eating in a fast food restaurant: </s> drive to sauna 0
+eating in a fast food restaurant: </s> get teeth cleaned 0
+eating in a fast food restaurant: </s> press button on pump for grade of gas desired. 0
+eating in a fast food restaurant: </s> make an appointment 0
+eating in a fast food restaurant: </s> place a scoop of grounds into the filter 0
+eating in a fast food restaurant: </s> board train when it arrives 0
+eating in a fast food restaurant: </s> when done, drain pasta in a strainer in sink. 0
+eating in a fast food restaurant: </s> stick brush in paint. 0
+eating in a fast food restaurant: </s> paint walls 0
+eating in a fast food restaurant: </s> get on bus 0
+eating in a fast food restaurant: </s> add salt if desired 0
+eating in a fast food restaurant: </s> get dressed. 0
+eating in a fast food restaurant: </s> walk up to computer 0
+eating in a fast food restaurant: </s> place button close to clothing. 0
+eating in a fast food restaurant: </s> take shower 0
+eating in a fast food restaurant: </s> enter sauna 0
+eating in a fast food restaurant: </s> start the car 0
+eating in a fast food restaurant: </s> play back and forth 0
+eating in a fast food restaurant: </s> paint walls with at least 2 coats of paint 0
+eating in a fast food restaurant: </s> put on a suit 0
+eating in a fast food restaurant: </s> rinse shampoo out of hair. 0
+eating in a fast food restaurant: </s> check your bag. 0
+eating in a fast food restaurant: </s> gently place the young tree into the hole. 0
+eating in a fast food restaurant: </s> eat your meal. 0
+eating in a fast food restaurant: </s> give ticket to ticket checker 0
+eating in a fast food restaurant: </s> tell child to put on pj's 0
+eating in a fast food restaurant: </s> open coffee can and scoop two large scoops into coffee filter. 0
+eating in a fast food restaurant: </s> leave when it is over 0
+eating in a fast food restaurant: </s> wait for other player to hit ball back 0
+eating in a fast food restaurant: </s> press cash option and insert cash. 0
+eating in a fast food restaurant: </s> wait for dryer to finish 0
+eating in a fast food restaurant: </s> start running warm water 0
+eating in a fast food restaurant: </s> go into bedroom and make sure bed is made 0
+eating in a fast food restaurant: </s> put on some appropriate clothes 0
+eating in a fast food restaurant: </s> turn on water 0
+eating in a fast food restaurant: </s> make sure your gas cap is facing the gas pump 0
+eating in a fast food restaurant: </s> get ready on the day 0
+eating in a fast food restaurant: </s> get the garment 0
+eating in a fast food restaurant: </s> run iron over the clothes until all wrinkles are gone. 0
+eating in a fast food restaurant: </s> add soap 0
+eating in a fast food restaurant: </s> buy refreshments 0
+eating in a fast food restaurant: </s> enjoy your bike! 0
+eating in a fast food restaurant: </s> take tube out of tire tread 0
+eating in a fast food restaurant: </s> keep playing. 0
+eating in a fast food restaurant: </s> pick the temperature for your sauna 0
+eating in a fast food restaurant: </s> when the water is boiled, add pasta to the water with salt 0
+eating in a fast food restaurant: </s> check in luggage and get luggage tags. 0
+eating in a fast food restaurant: </s> have new batteries available 0
+eating in a fast food restaurant: </s> put the needle into the fabric 0
+eating in a fast food restaurant: </s> sit down. 0
+eating in a fast food restaurant: </s> allow bathtub to fill about half way 0
+eating in a fast food restaurant: </s> sit in salon chair 0
+eating in a fast food restaurant: </s> put the bagged items in the cart. 0
+eating in a fast food restaurant: </s> hang the clothes for air drying 0
+eating in a fast food restaurant: </s> discard of old batteries in proper receptacle 0
+eating in a fast food restaurant: </s> after finishing inspect for mistakes and faults 0
+eating in a fast food restaurant: </s> rinse 0
+eating in a fast food restaurant: </s> make a fire pit 0
+eating in a fast food restaurant: </s> pour water into maker 0
+eating in a fast food restaurant: </s> get with friends 0
+eating in a fast food restaurant: </s> select a beauty parlor or saloon 0
+eating in a fast food restaurant: </s> register for a library card 0
+eating in a fast food restaurant: </s> cry 0
+eating in a fast food restaurant: </s> follow recipe step by step to add correct amount of ingredients to bowl. 0
+eating in a fast food restaurant: </s> dry off with a towel 0
+eating in a fast food restaurant: </s> drive to the local gym that has a sauna. 0
+eating in a fast food restaurant: </s> wait for water to boil 0
+eating in a fast food restaurant: </s> enjoy train ride 0
+eating in a fast food restaurant: </s> leave the library 0
+eating in a fast food restaurant: </s> pay your last respects 0
+eating in a fast food restaurant: </s> set dishes in dishrack to dry. 0
+eating in a fast food restaurant: </s> purchase tickets for swimming 0
+eating in a fast food restaurant: </s> get a tennis racket and balls 0
+eating in a fast food restaurant: </s> pick out bowling ball that is not too heavy. 0
+eating in a fast food restaurant: </s> pour hot water into mug 0
+eating in a fast food restaurant: </s> set up an appointment 0
+eating in a fast food restaurant: </s> iron items. 0
+eating in a fast food restaurant: </s> hand book to librarian 0
+eating in a fast food restaurant: </s> place botton where you want it 0
+eating in a fast food restaurant: </s> proceed to insert needle into button holes and through clothing/ item until securely sewn 0
+eating in a fast food restaurant: </s> wait on security line 0
+eating in a fast food restaurant: </s> take off clothes as necessary 0
+eating in a fast food restaurant: </s> take boarding pass, ticket, and id. 0
+eating in a fast food restaurant: </s> cut loose ends. 0

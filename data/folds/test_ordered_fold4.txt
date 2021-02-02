@@ -1,0 +1,5 @@
+<BOS> here is an ordered sequence of events that occur when you wash dishes: 
+<BOS> here is an ordered sequence of events that occur when you make a bonfire: 
+<BOS> here is an ordered sequence of events that occur when you go to the sauna: 
+<BOS> here is an ordered sequence of events that occur when you make coffee: 
+<BOS> here is an ordered sequence of events that occur when you go to the swimming pool:

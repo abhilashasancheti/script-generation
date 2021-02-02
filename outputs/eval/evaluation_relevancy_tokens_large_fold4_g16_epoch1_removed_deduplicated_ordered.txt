@@ -1,0 +1,42 @@
+washing dishes;use washcloth to clean dishes. 
+washing dishes;collect clean dishes. 
+washing dishes;wait for soap to turn solid. 
+washing dishes;add water. 
+washing dishes;soak dish cloth. 
+washing dishes;get dish cloth. 
+washing dishes;pour dish soap. 
+making a bonfire;light charcoal 
+making a bonfire;use charcoal to burn 
+making a bonfire;remove candles 
+making a bonfire;put charcoal in the bonfire 
+making a bonfire;light candles 
+making a bonfire;gather charcoal 
+making a bonfire;remove charcoal from bonfire 
+making a bonfire;remove charcoal when done 
+going to the sauna;turn on steam 
+going to the sauna;dry body with towel 
+going to the sauna;get out of sauna 
+going to the sauna;get into sauna 
+going to the sauna;open hot and cold water tap 
+going to the sauna;turn on hot water 
+going to the sauna;turn off steam 
+going to the sauna;put on towel 
+going to the sauna;wash body 
+making coffee;get some coffee beans 
+making coffee;grab a filter 
+making coffee;wait for the filter to open 
+making coffee;grab your cup 
+making coffee;pour in coffee beans 
+making coffee;turn your burner on 
+making coffee;remove your filter from your pot 
+making coffee;place your cup into your desired place 
+making coffee;add your coffee to your desired temperature 
+making coffee;enjoy your favorite beverage 
+making coffee;place coffee beans into your preferred filter 
+making coffee;get a pot 
+making coffee;fill your cup with your favorite beverage 
+going to the swimming pool;leave the swimming pool and leave the house 
+going to the swimming pool;enter the swimming pool 
+going to the swimming pool;dress in a comfortable clothes 
+going to the swimming pool;pick a towel 
+going to the swimming pool;buy a ticket for the time you want to enter the pool 

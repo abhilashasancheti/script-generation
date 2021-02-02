@@ -1,0 +1,1041 @@
+washing dishes: </s> turn on water </s> grab dirty dishes 0
+washing dishes: </s> put dish in sink </s> grab dirty dishes 0
+washing dishes: </s> fill sink with water </s> grab dirty dishes 0
+washing dishes: </s> take dirty dish out of sink </s> grab dirty dishes 0
+washing dishes: </s> grab dirty dishes </s> open dishwasher 1
+washing dishes: </s> take dish out of the machine </s> grab dirty dishes 0
+washing dishes: </s> grab dirty dishes </s> put dish in washing machine 1
+washing dishes: </s> turn on water </s> put dish in sink 1
+washing dishes: </s> fill sink with water </s> turn on water 0
+washing dishes: </s> turn on water </s> take dirty dish out of sink 1
+washing dishes: </s> turn on water </s> open dishwasher 1
+washing dishes: </s> turn on water </s> take dish out of the machine 1
+washing dishes: </s> turn on water </s> put dish in washing machine 1
+washing dishes: </s> put dish in sink </s> fill sink with water 1
+washing dishes: </s> put dish in sink </s> take dirty dish out of sink 1
+washing dishes: </s> open dishwasher </s> put dish in sink 0
+washing dishes: </s> put dish in sink </s> take dish out of the machine 1
+washing dishes: </s> put dish in sink </s> put dish in washing machine 1
+washing dishes: </s> fill sink with water </s> take dirty dish out of sink 1
+washing dishes: </s> open dishwasher </s> fill sink with water 0
+washing dishes: </s> fill sink with water </s> take dish out of the machine 1
+washing dishes: </s> put dish in washing machine </s> fill sink with water 0
+washing dishes: </s> take dirty dish out of sink </s> open dishwasher 1
+washing dishes: </s> take dish out of the machine </s> take dirty dish out of sink 0
+washing dishes: </s> put dish in washing machine </s> take dirty dish out of sink 0
+washing dishes: </s> open dishwasher </s> take dish out of the machine 1
+washing dishes: </s> open dishwasher </s> put dish in washing machine 1
+washing dishes: </s> put dish in washing machine </s> take dish out of the machine 0
+washing dishes: </s> get water </s> turn on the faucet 1
+washing dishes: </s> open the drain </s> get water 0
+washing dishes: </s> get a rag </s> get water 0
+washing dishes: </s> wipe the dishes </s> get water 0
+washing dishes: </s> turn off the faucet </s> get water 0
+washing dishes: </s> get some dish soap </s> get water 0
+washing dishes: </s> get water </s> put the soap in the dish 1
+washing dishes: </s> put the dish in the sink </s> get water 0
+washing dishes: </s> close the drain </s> get water 0
+washing dishes: </s> get water </s> put the dishes in the dishwasher 1
+washing dishes: </s> get a sponge </s> get water 0
+washing dishes: </s> turn on the faucet </s> open the drain 1
+washing dishes: </s> turn on the faucet </s> get a rag 1
+washing dishes: </s> turn on the faucet </s> wipe the dishes 1
+washing dishes: </s> turn off the faucet </s> turn on the faucet 0
+washing dishes: </s> get some dish soap </s> turn on the faucet 0
+washing dishes: </s> put the soap in the dish </s> turn on the faucet 0
+washing dishes: </s> turn on the faucet </s> put the dish in the sink 1
+washing dishes: </s> close the drain </s> turn on the faucet 0
+washing dishes: </s> turn on the faucet </s> put the dishes in the dishwasher 1
+washing dishes: </s> get a sponge </s> turn on the faucet 0
+washing dishes: </s> open the drain </s> get a rag 1
+washing dishes: </s> wipe the dishes </s> open the drain 0
+washing dishes: </s> turn off the faucet </s> open the drain 0
+washing dishes: </s> get some dish soap </s> open the drain 0
+washing dishes: </s> open the drain </s> put the soap in the dish 1
+washing dishes: </s> open the drain </s> put the dish in the sink 1
+washing dishes: </s> close the drain </s> open the drain 0
+washing dishes: </s> put the dishes in the dishwasher </s> open the drain 0
+washing dishes: </s> open the drain </s> get a sponge 1
+washing dishes: </s> get a rag </s> wipe the dishes 1
+washing dishes: </s> get a rag </s> turn off the faucet 1
+washing dishes: </s> get some dish soap </s> get a rag 0
+washing dishes: </s> get a rag </s> put the soap in the dish 1
+washing dishes: </s> put the dish in the sink </s> get a rag 0
+washing dishes: </s> get a rag </s> close the drain 1
+washing dishes: </s> put the dishes in the dishwasher </s> get a rag 0
+washing dishes: </s> get a rag </s> get a sponge 1
+washing dishes: </s> wipe the dishes </s> turn off the faucet 1
+washing dishes: </s> wipe the dishes </s> get some dish soap 1
+washing dishes: </s> wipe the dishes </s> put the soap in the dish 1
+washing dishes: </s> wipe the dishes </s> put the dish in the sink 1
+washing dishes: </s> close the drain </s> wipe the dishes 0
+washing dishes: </s> wipe the dishes </s> put the dishes in the dishwasher 1
+washing dishes: </s> wipe the dishes </s> get a sponge 1
+washing dishes: </s> turn off the faucet </s> get some dish soap 1
+washing dishes: </s> put the soap in the dish </s> turn off the faucet 0
+washing dishes: </s> turn off the faucet </s> put the dish in the sink 1
+washing dishes: </s> close the drain </s> turn off the faucet 0
+washing dishes: </s> turn off the faucet </s> put the dishes in the dishwasher 1
+washing dishes: </s> turn off the faucet </s> get a sponge 1
+washing dishes: </s> put the soap in the dish </s> get some dish soap 0
+washing dishes: </s> get some dish soap </s> put the dish in the sink 1
+washing dishes: </s> close the drain </s> get some dish soap 0
+washing dishes: </s> put the dishes in the dishwasher </s> get some dish soap 0
+washing dishes: </s> get some dish soap </s> get a sponge 1
+washing dishes: </s> put the dish in the sink </s> put the soap in the dish 0
+washing dishes: </s> put the soap in the dish </s> close the drain 1
+washing dishes: </s> put the soap in the dish </s> put the dishes in the dishwasher 1
+washing dishes: </s> get a sponge </s> put the soap in the dish 0
+washing dishes: </s> close the drain </s> put the dish in the sink 0
+washing dishes: </s> put the dishes in the dishwasher </s> put the dish in the sink 0
+washing dishes: </s> get a sponge </s> put the dish in the sink 0
+washing dishes: </s> close the drain </s> put the dishes in the dishwasher 1
+washing dishes: </s> close the drain </s> get a sponge 1
+washing dishes: </s> get a sponge </s> put the dishes in the dishwasher 0
+washing dishes: </s> turn on the water </s> turn on water 1
+washing dishes: </s> turn on the water </s> add soap 1
+washing dishes: </s> turn on the water </s> turn off water 1
+washing dishes: </s> turn on the water </s> pick up soap 1
+washing dishes: </s> put soap in water </s> turn on the water 0
+washing dishes: </s> add dish cloth </s> turn on the water 0
+washing dishes: </s> turn on the water </s> run dish cloth up dish 1
+washing dishes: </s> wash dish </s> turn on the water 0
+washing dishes: </s> add soap </s> turn on water 0
+washing dishes: </s> turn off water </s> turn on water 0
+washing dishes: </s> turn on water </s> pick up soap 1
+washing dishes: </s> turn on water </s> put soap in water 1
+washing dishes: </s> turn on water </s> add dish cloth 1
+washing dishes: </s> run dish cloth up dish </s> turn on water 0
+washing dishes: </s> turn on water </s> wash dish 1
+washing dishes: </s> add soap </s> turn off water 1
+washing dishes: </s> pick up soap </s> add soap 0
+washing dishes: </s> add soap </s> put soap in water 1
+washing dishes: </s> add soap </s> add dish cloth 1
+washing dishes: </s> run dish cloth up dish </s> add soap 0
+washing dishes: </s> wash dish </s> add soap 0
+washing dishes: </s> pick up soap </s> turn off water 0
+washing dishes: </s> turn off water </s> put soap in water 1
+washing dishes: </s> turn off water </s> add dish cloth 1
+washing dishes: </s> turn off water </s> run dish cloth up dish 1
+washing dishes: </s> wash dish </s> turn off water 0
+washing dishes: </s> put soap in water </s> pick up soap 0
+washing dishes: </s> pick up soap </s> add dish cloth 1
+washing dishes: </s> pick up soap </s> run dish cloth up dish 1
+washing dishes: </s> wash dish </s> pick up soap 0
+washing dishes: </s> add dish cloth </s> put soap in water 0
+washing dishes: </s> run dish cloth up dish </s> put soap in water 0
+washing dishes: </s> wash dish </s> put soap in water 0
+washing dishes: </s> add dish cloth </s> run dish cloth up dish 1
+washing dishes: </s> wash dish </s> add dish cloth 0
+washing dishes: </s> run dish cloth up dish </s> wash dish 1
+washing dishes: </s> take out clean dish soap </s> put dish soap on dish 1
+washing dishes: </s> take out clean dish soap </s> rub soap in hand 1
+washing dishes: </s> rinse soap </s> take out clean dish soap 0
+washing dishes: </s> put dish soap away </s> take out clean dish soap 0
+washing dishes: </s> put dish soap on the dry side </s> take out clean dish soap 0
+washing dishes: </s> rub soap in hand </s> put dish soap on dish 0
+washing dishes: </s> put dish soap on dish </s> rinse soap 1
+washing dishes: </s> put dish soap away </s> put dish soap on dish 0
+washing dishes: </s> put dish soap on the dry side </s> put dish soap on dish 0
+washing dishes: </s> rub soap in hand </s> rinse soap 1
+washing dishes: </s> put dish soap away </s> rub soap in hand 0
+washing dishes: </s> rub soap in hand </s> put dish soap on the dry side 1
+washing dishes: </s> rinse soap </s> put dish soap away 1
+washing dishes: </s> rinse soap </s> put dish soap on the dry side 1
+washing dishes: </s> put dish soap away </s> put dish soap on the dry side 1
+washing dishes: </s> get utensil. </s> pour the soap. 1
+washing dishes: </s> get utensil. </s> rub the soap with the hands. 1
+washing dishes: </s> get utensil. </s> rinse the soap from the hands. 1
+washing dishes: </s> get utensil. </s> turn the water on. 1
+washing dishes: </s> clean the dishes. </s> get utensil. 0
+washing dishes: </s> turn the water off. </s> get utensil. 0
+washing dishes: </s> pour the dishes. </s> get utensil. 0
+washing dishes: </s> put the dishes away. </s> get utensil. 0
+washing dishes: </s> get utensil. </s> get the soap. 1
+washing dishes: </s> rub the soap with the hands. </s> pour the soap. 0
+washing dishes: </s> pour the soap. </s> rinse the soap from the hands. 1
+washing dishes: </s> turn the water on. </s> pour the soap. 0
+washing dishes: </s> clean the dishes. </s> pour the soap. 0
+washing dishes: </s> turn the water off. </s> pour the soap. 0
+washing dishes: </s> pour the soap. </s> pour the dishes. 1
+washing dishes: </s> put the dishes away. </s> pour the soap. 0
+washing dishes: </s> pour the soap. </s> get the soap. 1
+washing dishes: </s> rub the soap with the hands. </s> rinse the soap from the hands. 1
+washing dishes: </s> turn the water on. </s> rub the soap with the hands. 0
+washing dishes: </s> clean the dishes. </s> rub the soap with the hands. 0
+washing dishes: </s> turn the water off. </s> rub the soap with the hands. 0
+washing dishes: </s> rub the soap with the hands. </s> pour the dishes. 1
+washing dishes: </s> put the dishes away. </s> rub the soap with the hands. 0
+washing dishes: </s> rub the soap with the hands. </s> get the soap. 1
+washing dishes: </s> rinse the soap from the hands. </s> turn the water on. 1
+washing dishes: </s> clean the dishes. </s> rinse the soap from the hands. 0
+washing dishes: </s> turn the water off. </s> rinse the soap from the hands. 0
+washing dishes: </s> rinse the soap from the hands. </s> pour the dishes. 1
+washing dishes: </s> rinse the soap from the hands. </s> put the dishes away. 1
+washing dishes: </s> rinse the soap from the hands. </s> get the soap. 1
+washing dishes: </s> clean the dishes. </s> turn the water on. 0
+washing dishes: </s> turn the water on. </s> turn the water off. 1
+washing dishes: </s> pour the dishes. </s> turn the water on. 0
+washing dishes: </s> turn the water on. </s> put the dishes away. 1
+washing dishes: </s> turn the water on. </s> get the soap. 1
+washing dishes: </s> turn the water off. </s> clean the dishes. 0
+washing dishes: </s> clean the dishes. </s> pour the dishes. 1
+washing dishes: </s> put the dishes away. </s> clean the dishes. 0
+washing dishes: </s> get the soap. </s> clean the dishes. 0
+washing dishes: </s> turn the water off. </s> pour the dishes. 1
+washing dishes: </s> put the dishes away. </s> turn the water off. 0
+washing dishes: </s> get the soap. </s> turn the water off. 0
+washing dishes: </s> pour the dishes. </s> put the dishes away. 1
+washing dishes: </s> get the soap. </s> pour the dishes. 0
+washing dishes: </s> get the soap. </s> put the dishes away. 0
+making a bonfire: </s> fill up a bonfire with fuel and matches </s> get a fire 0
+making a bonfire: </s> get a fire </s> light the fire 1
+making a bonfire: </s> put fuel on the fire </s> get a fire 0
+making a bonfire: </s> get a fire </s> wait until the fire goes out 1
+making a bonfire: </s> get a fire </s> light the fire again 1
+making a bonfire: </s> light the fire </s> fill up a bonfire with fuel and matches 0
+making a bonfire: </s> put fuel on the fire </s> fill up a bonfire with fuel and matches 0
+making a bonfire: </s> wait until the fire goes out </s> fill up a bonfire with fuel and matches 0
+making a bonfire: </s> fill up a bonfire with fuel and matches </s> light the fire again 1
+making a bonfire: </s> put fuel on the fire </s> light the fire 0
+making a bonfire: </s> wait until the fire goes out </s> light the fire 0
+making a bonfire: </s> light the fire again </s> light the fire 0
+making a bonfire: </s> wait until the fire goes out </s> put fuel on the fire 0
+making a bonfire: </s> light the fire again </s> put fuel on the fire 0
+making a bonfire: </s> wait until the fire goes out </s> light the fire again 1
+making a bonfire: </s> gather supplies </s> light wood 1
+making a bonfire: </s> take charcoal from store </s> gather supplies 0
+making a bonfire: </s> light fuel and wood on fire </s> gather supplies 0
+making a bonfire: </s> fill fuel with charcoal </s> gather supplies 0
+making a bonfire: </s> light fuel </s> gather supplies 0
+making a bonfire: </s> light wood </s> take charcoal from store 1
+making a bonfire: </s> light fuel and wood on fire </s> light wood 0
+making a bonfire: </s> light wood </s> fill fuel with charcoal 1
+making a bonfire: </s> light wood </s> light fuel 1
+making a bonfire: </s> light fuel and wood on fire </s> take charcoal from store 0
+making a bonfire: </s> take charcoal from store </s> fill fuel with charcoal 1
+making a bonfire: </s> take charcoal from store </s> light fuel 1
+making a bonfire: </s> light fuel and wood on fire </s> fill fuel with charcoal 1
+making a bonfire: </s> light fuel and wood on fire </s> light fuel 1
+making a bonfire: </s> light fuel </s> fill fuel with charcoal 0
+making a bonfire: </s> go to bonfire spot </s> find firewood 0
+making a bonfire: </s> find firewood </s> light firewood 1
+making a bonfire: </s> leave fire on fire </s> find firewood 0
+making a bonfire: </s> light firewood </s> go to bonfire spot 0
+making a bonfire: </s> leave fire on fire </s> go to bonfire spot 0
+making a bonfire: </s> leave fire on fire </s> light firewood 0
+making a bonfire: </s> go to a bonfire site </s> buy a lighter 0
+making a bonfire: </s> buy a lighter </s> light a match 1
+making a bonfire: </s> light the fire </s> buy a lighter 0
+making a bonfire: </s> put fuel in the fire </s> buy a lighter 0
+making a bonfire: </s> watch as the flames grow </s> buy a lighter 0
+making a bonfire: </s> put fuel out of the fire </s> buy a lighter 0
+making a bonfire: </s> buy a lighter </s> set out your bonfire with any wood or other items you have collected 1
+making a bonfire: </s> buy a lighter </s> watch it burn 1
+making a bonfire: </s> go to a bonfire site </s> light a match 1
+making a bonfire: </s> go to a bonfire site </s> light the fire 1
+making a bonfire: </s> put fuel in the fire </s> go to a bonfire site 0
+making a bonfire: </s> go to a bonfire site </s> watch as the flames grow 1
+making a bonfire: </s> put fuel out of the fire </s> go to a bonfire site 0
+making a bonfire: </s> set out your bonfire with any wood or other items you have collected </s> go to a bonfire site 0
+making a bonfire: </s> watch it burn </s> go to a bonfire site 0
+making a bonfire: </s> light the fire </s> light a match 0
+making a bonfire: </s> put fuel in the fire </s> light a match 0
+making a bonfire: </s> light a match </s> watch as the flames grow 1
+making a bonfire: </s> light a match </s> put fuel out of the fire 1
+making a bonfire: </s> light a match </s> set out your bonfire with any wood or other items you have collected 1
+making a bonfire: </s> light a match </s> watch it burn 1
+making a bonfire: </s> put fuel in the fire </s> light the fire 0
+making a bonfire: </s> light the fire </s> watch as the flames grow 1
+making a bonfire: </s> put fuel out of the fire </s> light the fire 0
+making a bonfire: </s> light the fire </s> set out your bonfire with any wood or other items you have collected 1
+making a bonfire: </s> watch it burn </s> light the fire 0
+making a bonfire: </s> watch as the flames grow </s> put fuel in the fire 0
+making a bonfire: </s> put fuel in the fire </s> put fuel out of the fire 1
+making a bonfire: </s> set out your bonfire with any wood or other items you have collected </s> put fuel in the fire 0
+making a bonfire: </s> watch it burn </s> put fuel in the fire 0
+making a bonfire: </s> watch as the flames grow </s> put fuel out of the fire 1
+making a bonfire: </s> set out your bonfire with any wood or other items you have collected </s> watch as the flames grow 0
+making a bonfire: </s> watch as the flames grow </s> watch it burn 1
+making a bonfire: </s> put fuel out of the fire </s> set out your bonfire with any wood or other items you have collected 1
+making a bonfire: </s> put fuel out of the fire </s> watch it burn 1
+making a bonfire: </s> watch it burn </s> set out your bonfire with any wood or other items you have collected 0
+making a bonfire: </s> light a match </s> purchase firewood 0
+making a bonfire: </s> set the fire </s> purchase firewood 0
+making a bonfire: </s> purchase firewood </s> set the wood on the fire 1
+making a bonfire: </s> watch the wood burn </s> purchase firewood 0
+making a bonfire: </s> light a match </s> set the fire 1
+making a bonfire: </s> light a match </s> set the wood on the fire 1
+making a bonfire: </s> watch the wood burn </s> light a match 0
+making a bonfire: </s> set the fire </s> set the wood on the fire 1
+making a bonfire: </s> watch the wood burn </s> set the fire 0
+making a bonfire: </s> watch the wood burn </s> set the wood on the fire 0
+going to the sauna: </s> take your clothes off </s> get into the sauna 0
+going to the sauna: </s> turn on the water </s> get into the sauna 0
+going to the sauna: </s> open the sauna </s> get into the sauna 0
+going to the sauna: </s> get into the sauna </s> put on your clothes 1
+going to the sauna: </s> get into the sauna </s> walk into the sauna 1
+going to the sauna: </s> get into the sauna </s> get in the hot tub 1
+going to the sauna: </s> get in the sauna </s> get into the sauna 0
+going to the sauna: </s> put your clothes back on </s> get into the sauna 0
+going to the sauna: </s> turn off the water </s> get into the sauna 0
+going to the sauna: </s> get into the sauna </s> open the sauna 1
+going to the sauna: </s> turn on the water </s> take your clothes off 0
+going to the sauna: </s> take your clothes off </s> open the sauna 1
+going to the sauna: </s> take your clothes off </s> put on your clothes 1
+going to the sauna: </s> walk into the sauna </s> take your clothes off 0
+going to the sauna: </s> get in the hot tub </s> take your clothes off 0
+going to the sauna: </s> take your clothes off </s> get in the sauna 1
+going to the sauna: </s> put your clothes back on </s> take your clothes off 0
+going to the sauna: </s> take your clothes off </s> turn off the water 1
+going to the sauna: </s> open the sauna </s> take your clothes off 0
+going to the sauna: </s> open the sauna </s> turn on the water 0
+going to the sauna: </s> turn on the water </s> put on your clothes 1
+going to the sauna: </s> walk into the sauna </s> turn on the water 0
+going to the sauna: </s> turn on the water </s> get in the hot tub 1
+going to the sauna: </s> get in the sauna </s> turn on the water 0
+going to the sauna: </s> turn on the water </s> put your clothes back on 1
+going to the sauna: </s> turn on the water </s> turn off the water 1
+going to the sauna: </s> open the sauna </s> turn on the water 0
+going to the sauna: </s> open the sauna </s> put on your clothes 1
+going to the sauna: </s> walk into the sauna </s> open the sauna 0
+going to the sauna: </s> get in the hot tub </s> open the sauna 0
+going to the sauna: </s> get in the sauna </s> open the sauna 0
+going to the sauna: </s> open the sauna </s> put your clothes back on 1
+going to the sauna: </s> open the sauna </s> turn off the water 1
+going to the sauna: </s> open the sauna </s> open the sauna 0
+going to the sauna: </s> walk into the sauna </s> put on your clothes 0
+going to the sauna: </s> put on your clothes </s> get in the hot tub 1
+going to the sauna: </s> get in the sauna </s> put on your clothes 0
+going to the sauna: </s> put your clothes back on </s> put on your clothes 0
+going to the sauna: </s> put on your clothes </s> turn off the water 1
+going to the sauna: </s> open the sauna </s> put on your clothes 0
+going to the sauna: </s> walk into the sauna </s> get in the hot tub 1
+going to the sauna: </s> get in the sauna </s> walk into the sauna 0
+going to the sauna: </s> walk into the sauna </s> put your clothes back on 1
+going to the sauna: </s> turn off the water </s> walk into the sauna 0
+going to the sauna: </s> open the sauna </s> walk into the sauna 0
+going to the sauna: </s> get in the hot tub </s> get in the sauna 1
+going to the sauna: </s> put your clothes back on </s> get in the hot tub 0
+going to the sauna: </s> get in the hot tub </s> turn off the water 1
+going to the sauna: </s> open the sauna </s> get in the hot tub 0
+going to the sauna: </s> get in the sauna </s> put your clothes back on 1
+going to the sauna: </s> get in the sauna </s> turn off the water 1
+going to the sauna: </s> get in the sauna </s> open the sauna 1
+going to the sauna: </s> put your clothes back on </s> turn off the water 1
+going to the sauna: </s> open the sauna </s> put your clothes back on 0
+going to the sauna: </s> open the sauna </s> turn off the water 0
+going to the sauna: </s> pay for your membership at the counter </s> go to the front counter 1
+going to the sauna: </s> pay for your membership at the counter </s> sign up for membership 1
+going to the sauna: </s> pay for your membership at the counter </s> get into the sauna 1
+going to the sauna: </s> turn on water to warm up </s> pay for your membership at the counter 0
+going to the sauna: </s> sit down in the sauna </s> pay for your membership at the counter 0
+going to the sauna: </s> turn off water </s> pay for your membership at the counter 0
+going to the sauna: </s> leave the sauna </s> pay for your membership at the counter 0
+going to the sauna: </s> go to the front counter </s> sign up for membership 1
+going to the sauna: </s> go to the front counter </s> get into the sauna 1
+going to the sauna: </s> go to the front counter </s> turn on water to warm up 1
+going to the sauna: </s> sit down in the sauna </s> go to the front counter 0
+going to the sauna: </s> turn off water </s> go to the front counter 0
+going to the sauna: </s> leave the sauna </s> go to the front counter 0
+going to the sauna: </s> sign up for membership </s> get into the sauna 1
+going to the sauna: </s> sign up for membership </s> turn on water to warm up 1
+going to the sauna: </s> sit down in the sauna </s> sign up for membership 0
+going to the sauna: </s> sign up for membership </s> turn off water 1
+going to the sauna: </s> leave the sauna </s> sign up for membership 0
+going to the sauna: </s> turn on water to warm up </s> get into the sauna 0
+going to the sauna: </s> get into the sauna </s> sit down in the sauna 1
+going to the sauna: </s> turn off water </s> get into the sauna 0
+going to the sauna: </s> get into the sauna </s> leave the sauna 1
+going to the sauna: </s> sit down in the sauna </s> turn on water to warm up 0
+going to the sauna: </s> turn on water to warm up </s> turn off water 1
+going to the sauna: </s> turn on water to warm up </s> leave the sauna 1
+going to the sauna: </s> sit down in the sauna </s> turn off water 1
+going to the sauna: </s> leave the sauna </s> sit down in the sauna 0
+going to the sauna: </s> leave the sauna </s> turn off water 0
+going to the sauna: </s> go to the sauna. </s> put on a bath suit. 1
+going to the sauna: </s> go to the sauna. </s> turn on the water. 1
+going to the sauna: </s> wait for water to get nice and warm. </s> go to the sauna. 0
+going to the sauna: </s> step in the tub. </s> go to the sauna. 0
+going to the sauna: </s> undress. </s> go to the sauna. 0
+going to the sauna: </s> go to the sauna. </s> get undressed. 1
+going to the sauna: </s> step into the sauna. </s> go to the sauna. 0
+going to the sauna: </s> enjoy the steam bath. </s> go to the sauna. 0
+going to the sauna: </s> go to the sauna. </s> when the steam has gone down, step out. 1
+going to the sauna: </s> dry off. </s> go to the sauna. 0
+going to the sauna: </s> put on clothing. </s> go to the sauna. 0
+going to the sauna: </s> turn on the water. </s> put on a bath suit. 0
+going to the sauna: </s> put on a bath suit. </s> wait for water to get nice and warm. 1
+going to the sauna: </s> put on a bath suit. </s> step in the tub. 1
+going to the sauna: </s> put on a bath suit. </s> undress. 1
+going to the sauna: </s> put on a bath suit. </s> get undressed. 1
+going to the sauna: </s> put on a bath suit. </s> step into the sauna. 1
+going to the sauna: </s> put on a bath suit. </s> enjoy the steam bath. 1
+going to the sauna: </s> put on a bath suit. </s> when the steam has gone down, step out. 1
+going to the sauna: </s> dry off. </s> put on a bath suit. 0
+going to the sauna: </s> put on clothing. </s> put on a bath suit. 0
+going to the sauna: </s> turn on the water. </s> wait for water to get nice and warm. 1
+going to the sauna: </s> step in the tub. </s> turn on the water. 0
+going to the sauna: </s> undress. </s> turn on the water. 0
+going to the sauna: </s> turn on the water. </s> get undressed. 1
+going to the sauna: </s> step into the sauna. </s> turn on the water. 0
+going to the sauna: </s> enjoy the steam bath. </s> turn on the water. 0
+going to the sauna: </s> when the steam has gone down, step out. </s> turn on the water. 0
+going to the sauna: </s> dry off. </s> turn on the water. 0
+going to the sauna: </s> put on clothing. </s> turn on the water. 0
+going to the sauna: </s> wait for water to get nice and warm. </s> step in the tub. 1
+going to the sauna: </s> wait for water to get nice and warm. </s> undress. 1
+going to the sauna: </s> wait for water to get nice and warm. </s> get undressed. 1
+going to the sauna: </s> step into the sauna. </s> wait for water to get nice and warm. 0
+going to the sauna: </s> wait for water to get nice and warm. </s> enjoy the steam bath. 1
+going to the sauna: </s> when the steam has gone down, step out. </s> wait for water to get nice and warm. 0
+going to the sauna: </s> dry off. </s> wait for water to get nice and warm. 0
+going to the sauna: </s> put on clothing. </s> wait for water to get nice and warm. 0
+going to the sauna: </s> undress. </s> step in the tub. 0
+going to the sauna: </s> step in the tub. </s> get undressed. 1
+going to the sauna: </s> step in the tub. </s> step into the sauna. 1
+going to the sauna: </s> enjoy the steam bath. </s> step in the tub. 0
+going to the sauna: </s> step in the tub. </s> when the steam has gone down, step out. 1
+going to the sauna: </s> dry off. </s> step in the tub. 0
+going to the sauna: </s> step in the tub. </s> put on clothing. 1
+going to the sauna: </s> undress. </s> get undressed. 1
+going to the sauna: </s> step into the sauna. </s> undress. 0
+going to the sauna: </s> undress. </s> enjoy the steam bath. 1
+going to the sauna: </s> when the steam has gone down, step out. </s> undress. 0
+going to the sauna: </s> undress. </s> dry off. 1
+going to the sauna: </s> put on clothing. </s> undress. 0
+going to the sauna: </s> step into the sauna. </s> get undressed. 0
+going to the sauna: </s> get undressed. </s> enjoy the steam bath. 1
+going to the sauna: </s> get undressed. </s> when the steam has gone down, step out. 1
+going to the sauna: </s> dry off. </s> get undressed. 0
+going to the sauna: </s> get undressed. </s> put on clothing. 1
+going to the sauna: </s> step into the sauna. </s> enjoy the steam bath. 1
+going to the sauna: </s> when the steam has gone down, step out. </s> step into the sauna. 0
+going to the sauna: </s> dry off. </s> step into the sauna. 0
+going to the sauna: </s> step into the sauna. </s> put on clothing. 1
+going to the sauna: </s> when the steam has gone down, step out. </s> enjoy the steam bath. 0
+going to the sauna: </s> dry off. </s> enjoy the steam bath. 0
+going to the sauna: </s> put on clothing. </s> enjoy the steam bath. 0
+going to the sauna: </s> when the steam has gone down, step out. </s> dry off. 1
+going to the sauna: </s> when the steam has gone down, step out. </s> put on clothing. 1
+going to the sauna: </s> put on clothing. </s> dry off. 0
+going to the sauna: </s> get dressed </s> get on the car 1
+going to the sauna: </s> drive to the sauna </s> get dressed 0
+going to the sauna: </s> get dressed </s> take a seat 1
+going to the sauna: </s> relax </s> get dressed 0
+going to the sauna: </s> wait for it to cool down </s> get dressed 0
+going to the sauna: </s> get dressed </s> get dressed again 1
+going to the sauna: </s> go home </s> get dressed 0
+going to the sauna: </s> get on the car </s> drive to the sauna 1
+going to the sauna: </s> get on the car </s> take a seat 1
+going to the sauna: </s> relax </s> get on the car 0
+going to the sauna: </s> wait for it to cool down </s> get on the car 0
+going to the sauna: </s> get on the car </s> get dressed again 1
+going to the sauna: </s> go home </s> get on the car 0
+going to the sauna: </s> take a seat </s> drive to the sauna 0
+going to the sauna: </s> relax </s> drive to the sauna 0
+going to the sauna: </s> wait for it to cool down </s> drive to the sauna 0
+going to the sauna: </s> get dressed again </s> drive to the sauna 0
+going to the sauna: </s> drive to the sauna </s> go home 1
+going to the sauna: </s> take a seat </s> relax 1
+going to the sauna: </s> wait for it to cool down </s> take a seat 0
+going to the sauna: </s> get dressed again </s> take a seat 0
+going to the sauna: </s> go home </s> take a seat 0
+going to the sauna: </s> relax </s> wait for it to cool down 1
+going to the sauna: </s> get dressed again </s> relax 0
+going to the sauna: </s> relax </s> go home 1
+going to the sauna: </s> wait for it to cool down </s> get dressed again 1
+going to the sauna: </s> wait for it to cool down </s> go home 1
+going to the sauna: </s> go home </s> get dressed again 0
+going to the sauna: </s> make sure you have time </s> get dressed 1
+going to the sauna: </s> get in the car </s> make sure you have time 0
+going to the sauna: </s> make sure you have time </s> drive to the sauna 1
+going to the sauna: </s> pay for sauna </s> make sure you have time 0
+going to the sauna: </s> make sure you have time </s> go inside the sauna 1
+going to the sauna: </s> get in the car </s> get dressed 0
+going to the sauna: </s> get dressed </s> drive to the sauna 1
+going to the sauna: </s> pay for sauna </s> get dressed 0
+going to the sauna: </s> go inside the sauna </s> get dressed 0
+going to the sauna: </s> drive to the sauna </s> get in the car 0
+going to the sauna: </s> pay for sauna </s> get in the car 0
+going to the sauna: </s> get in the car </s> go inside the sauna 1
+going to the sauna: </s> drive to the sauna </s> pay for sauna 1
+going to the sauna: </s> go inside the sauna </s> drive to the sauna 0
+going to the sauna: </s> pay for sauna </s> go inside the sauna 1
+making coffee: </s> turn on the stove </s> take the coffee pot 0
+making coffee: </s> get the water in the pot </s> take the coffee pot 0
+making coffee: </s> take the coffee pot </s> boil the water 1
+making coffee: </s> put the hot water into the pot </s> take the coffee pot 0
+making coffee: </s> add a pinch of salt </s> take the coffee pot 0
+making coffee: </s> take the coffee pot </s> put the ice into the water 1
+making coffee: </s> turn off the stove </s> take the coffee pot 0
+making coffee: </s> pour the coffee into the cup </s> take the coffee pot 0
+making coffee: </s> pour the rest of the ice into the cup </s> take the coffee pot 0
+making coffee: </s> pour the water into the cup </s> take the coffee pot 0
+making coffee: </s> take the coffee pot </s> stir the water to make sure it's good 1
+making coffee: </s> take the coffee pot </s> pour the cup 1
+making coffee: </s> take the coffee pot </s> put the lid on the cup 1
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> take the coffee pot 0
+making coffee: </s> get the water in the pot </s> turn on the stove 0
+making coffee: </s> turn on the stove </s> boil the water 1
+making coffee: </s> put the hot water into the pot </s> turn on the stove 0
+making coffee: </s> add a pinch of salt </s> turn on the stove 0
+making coffee: </s> put the ice into the water </s> turn on the stove 0
+making coffee: </s> turn off the stove </s> turn on the stove 0
+making coffee: </s> turn on the stove </s> pour the coffee into the cup 1
+making coffee: </s> turn on the stove </s> pour the rest of the ice into the cup 1
+making coffee: </s> turn on the stove </s> pour the water into the cup 1
+making coffee: </s> stir the water to make sure it's good </s> turn on the stove 0
+making coffee: </s> turn on the stove </s> pour the cup 1
+making coffee: </s> turn on the stove </s> put the lid on the cup 1
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> turn on the stove 0
+making coffee: </s> boil the water </s> get the water in the pot 0
+making coffee: </s> get the water in the pot </s> put the hot water into the pot 1
+making coffee: </s> get the water in the pot </s> add a pinch of salt 1
+making coffee: </s> get the water in the pot </s> put the ice into the water 1
+making coffee: </s> get the water in the pot </s> turn off the stove 1
+making coffee: </s> pour the coffee into the cup </s> get the water in the pot 0
+making coffee: </s> get the water in the pot </s> pour the rest of the ice into the cup 1
+making coffee: </s> get the water in the pot </s> pour the water into the cup 1
+making coffee: </s> stir the water to make sure it's good </s> get the water in the pot 0
+making coffee: </s> get the water in the pot </s> pour the cup 1
+making coffee: </s> put the lid on the cup </s> get the water in the pot 0
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> get the water in the pot 0
+making coffee: </s> put the hot water into the pot </s> boil the water 0
+making coffee: </s> boil the water </s> add a pinch of salt 1
+making coffee: </s> boil the water </s> put the ice into the water 1
+making coffee: </s> turn off the stove </s> boil the water 0
+making coffee: </s> boil the water </s> pour the coffee into the cup 1
+making coffee: </s> boil the water </s> pour the rest of the ice into the cup 1
+making coffee: </s> pour the water into the cup </s> boil the water 0
+making coffee: </s> stir the water to make sure it's good </s> boil the water 0
+making coffee: </s> boil the water </s> pour the cup 1
+making coffee: </s> put the lid on the cup </s> boil the water 0
+making coffee: </s> boil the water </s> leave the pot on stove for several minutes until the coffee is done 1
+making coffee: </s> put the hot water into the pot </s> add a pinch of salt 1
+making coffee: </s> put the hot water into the pot </s> put the ice into the water 1
+making coffee: </s> put the hot water into the pot </s> turn off the stove 1
+making coffee: </s> pour the coffee into the cup </s> put the hot water into the pot 0
+making coffee: </s> pour the rest of the ice into the cup </s> put the hot water into the pot 0
+making coffee: </s> pour the water into the cup </s> put the hot water into the pot 0
+making coffee: </s> stir the water to make sure it's good </s> put the hot water into the pot 0
+making coffee: </s> put the hot water into the pot </s> pour the cup 1
+making coffee: </s> put the hot water into the pot </s> put the lid on the cup 1
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> put the hot water into the pot 0
+making coffee: </s> add a pinch of salt </s> put the ice into the water 1
+making coffee: </s> add a pinch of salt </s> turn off the stove 1
+making coffee: </s> add a pinch of salt </s> pour the coffee into the cup 1
+making coffee: </s> pour the rest of the ice into the cup </s> add a pinch of salt 0
+making coffee: </s> pour the water into the cup </s> add a pinch of salt 0
+making coffee: </s> stir the water to make sure it's good </s> add a pinch of salt 0
+making coffee: </s> add a pinch of salt </s> pour the cup 1
+making coffee: </s> put the lid on the cup </s> add a pinch of salt 0
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> add a pinch of salt 0
+making coffee: </s> turn off the stove </s> put the ice into the water 0
+making coffee: </s> pour the coffee into the cup </s> put the ice into the water 0
+making coffee: </s> pour the rest of the ice into the cup </s> put the ice into the water 0
+making coffee: </s> pour the water into the cup </s> put the ice into the water 0
+making coffee: </s> put the ice into the water </s> stir the water to make sure it's good 1
+making coffee: </s> put the ice into the water </s> pour the cup 1
+making coffee: </s> put the lid on the cup </s> put the ice into the water 0
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> put the ice into the water 0
+making coffee: </s> turn off the stove </s> pour the coffee into the cup 1
+making coffee: </s> turn off the stove </s> pour the rest of the ice into the cup 1
+making coffee: </s> pour the water into the cup </s> turn off the stove 0
+making coffee: </s> stir the water to make sure it's good </s> turn off the stove 0
+making coffee: </s> pour the cup </s> turn off the stove 0
+making coffee: </s> put the lid on the cup </s> turn off the stove 0
+making coffee: </s> turn off the stove </s> leave the pot on stove for several minutes until the coffee is done 1
+making coffee: </s> pour the rest of the ice into the cup </s> pour the coffee into the cup 0
+making coffee: </s> pour the water into the cup </s> pour the coffee into the cup 0
+making coffee: </s> stir the water to make sure it's good </s> pour the coffee into the cup 0
+making coffee: </s> pour the cup </s> pour the coffee into the cup 0
+making coffee: </s> pour the coffee into the cup </s> put the lid on the cup 1
+making coffee: </s> pour the coffee into the cup </s> leave the pot on stove for several minutes until the coffee is done 1
+making coffee: </s> pour the rest of the ice into the cup </s> pour the water into the cup 1
+making coffee: </s> stir the water to make sure it's good </s> pour the rest of the ice into the cup 0
+making coffee: </s> pour the cup </s> pour the rest of the ice into the cup 0
+making coffee: </s> pour the rest of the ice into the cup </s> put the lid on the cup 1
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> pour the rest of the ice into the cup 0
+making coffee: </s> stir the water to make sure it's good </s> pour the water into the cup 0
+making coffee: </s> pour the water into the cup </s> pour the cup 1
+making coffee: </s> pour the water into the cup </s> put the lid on the cup 1
+making coffee: </s> pour the water into the cup </s> leave the pot on stove for several minutes until the coffee is done 1
+making coffee: </s> stir the water to make sure it's good </s> pour the cup 1
+making coffee: </s> put the lid on the cup </s> stir the water to make sure it's good 0
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> stir the water to make sure it's good 0
+making coffee: </s> pour the cup </s> put the lid on the cup 1
+making coffee: </s> leave the pot on stove for several minutes until the coffee is done </s> pour the cup 0
+making coffee: </s> put the lid on the cup </s> leave the pot on stove for several minutes until the coffee is done 1
+making coffee: </s> get your coffee </s> get a pot 1
+making coffee: </s> turn on your stove </s> get your coffee 0
+making coffee: </s> get your coffee </s> get a measuring cup 1
+making coffee: </s> get a water filter </s> get your coffee 0
+making coffee: </s> pour in a bowl </s> get your coffee 0
+making coffee: </s> add some cream and sugar </s> get your coffee 0
+making coffee: </s> turn off stove </s> get your coffee 0
+making coffee: </s> get your coffee </s> add the milk 1
+making coffee: </s> stir it to make sure it's not too runny </s> get your coffee 0
+making coffee: </s> get your coffee </s> get some milk and milk filter 1
+making coffee: </s> get your coffee </s> pour in the water 1
+making coffee: </s> get your coffee </s> stir it 1
+making coffee: </s> get your coffee </s> put the milk filter back in cupboard 1
+making coffee: </s> turn on your stove </s> get a pot 0
+making coffee: </s> get a measuring cup </s> get a pot 0
+making coffee: </s> get a pot </s> get a water filter 1
+making coffee: </s> get a pot </s> pour in a bowl 1
+making coffee: </s> add some cream and sugar </s> get a pot 0
+making coffee: </s> get a pot </s> turn off stove 1
+making coffee: </s> add the milk </s> get a pot 0
+making coffee: </s> get a pot </s> stir it to make sure it's not too runny 1
+making coffee: </s> get some milk and milk filter </s> get a pot 0
+making coffee: </s> get a pot </s> pour in the water 1
+making coffee: </s> get a pot </s> stir it 1
+making coffee: </s> put the milk filter back in cupboard </s> get a pot 0
+making coffee: </s> turn on your stove </s> get a measuring cup 1
+making coffee: </s> turn on your stove </s> get a water filter 1
+making coffee: </s> pour in a bowl </s> turn on your stove 0
+making coffee: </s> turn on your stove </s> add some cream and sugar 1
+making coffee: </s> turn off stove </s> turn on your stove 0
+making coffee: </s> add the milk </s> turn on your stove 0
+making coffee: </s> turn on your stove </s> stir it to make sure it's not too runny 1
+making coffee: </s> turn on your stove </s> get some milk and milk filter 1
+making coffee: </s> turn on your stove </s> pour in the water 1
+making coffee: </s> turn on your stove </s> stir it 1
+making coffee: </s> turn on your stove </s> put the milk filter back in cupboard 1
+making coffee: </s> get a measuring cup </s> get a water filter 1
+making coffee: </s> get a measuring cup </s> pour in a bowl 1
+making coffee: </s> add some cream and sugar </s> get a measuring cup 0
+making coffee: </s> get a measuring cup </s> turn off stove 1
+making coffee: </s> add the milk </s> get a measuring cup 0
+making coffee: </s> get a measuring cup </s> stir it to make sure it's not too runny 1
+making coffee: </s> get a measuring cup </s> get some milk and milk filter 1
+making coffee: </s> pour in the water </s> get a measuring cup 0
+making coffee: </s> get a measuring cup </s> stir it 1
+making coffee: </s> get a measuring cup </s> put the milk filter back in cupboard 1
+making coffee: </s> pour in a bowl </s> get a water filter 0
+making coffee: </s> get a water filter </s> add some cream and sugar 1
+making coffee: </s> get a water filter </s> turn off stove 1
+making coffee: </s> get a water filter </s> add the milk 1
+making coffee: </s> stir it to make sure it's not too runny </s> get a water filter 0
+making coffee: </s> get a water filter </s> get some milk and milk filter 1
+making coffee: </s> get a water filter </s> pour in the water 1
+making coffee: </s> get a water filter </s> stir it 1
+making coffee: </s> get a water filter </s> put the milk filter back in cupboard 1
+making coffee: </s> add some cream and sugar </s> pour in a bowl 0
+making coffee: </s> turn off stove </s> pour in a bowl 0
+making coffee: </s> pour in a bowl </s> add the milk 1
+making coffee: </s> pour in a bowl </s> stir it to make sure it's not too runny 1
+making coffee: </s> get some milk and milk filter </s> pour in a bowl 0
+making coffee: </s> pour in the water </s> pour in a bowl 0
+making coffee: </s> pour in a bowl </s> stir it 1
+making coffee: </s> put the milk filter back in cupboard </s> pour in a bowl 0
+making coffee: </s> add some cream and sugar </s> turn off stove 1
+making coffee: </s> add the milk </s> add some cream and sugar 0
+making coffee: </s> stir it to make sure it's not too runny </s> add some cream and sugar 0
+making coffee: </s> get some milk and milk filter </s> add some cream and sugar 0
+making coffee: </s> pour in the water </s> add some cream and sugar 0
+making coffee: </s> add some cream and sugar </s> stir it 1
+making coffee: </s> put the milk filter back in cupboard </s> add some cream and sugar 0
+making coffee: </s> add the milk </s> turn off stove 0
+making coffee: </s> turn off stove </s> stir it to make sure it's not too runny 1
+making coffee: </s> get some milk and milk filter </s> turn off stove 0
+making coffee: </s> pour in the water </s> turn off stove 0
+making coffee: </s> turn off stove </s> stir it 1
+making coffee: </s> put the milk filter back in cupboard </s> turn off stove 0
+making coffee: </s> add the milk </s> stir it to make sure it's not too runny 1
+making coffee: </s> add the milk </s> get some milk and milk filter 1
+making coffee: </s> add the milk </s> pour in the water 1
+making coffee: </s> add the milk </s> stir it 1
+making coffee: </s> put the milk filter back in cupboard </s> add the milk 0
+making coffee: </s> stir it to make sure it's not too runny </s> get some milk and milk filter 1
+making coffee: </s> pour in the water </s> stir it to make sure it's not too runny 0
+making coffee: </s> stir it </s> stir it to make sure it's not too runny 0
+making coffee: </s> put the milk filter back in cupboard </s> stir it to make sure it's not too runny 0
+making coffee: </s> pour in the water </s> get some milk and milk filter 0
+making coffee: </s> stir it </s> get some milk and milk filter 0
+making coffee: </s> put the milk filter back in cupboard </s> get some milk and milk filter 0
+making coffee: </s> stir it </s> pour in the water 0
+making coffee: </s> put the milk filter back in cupboard </s> pour in the water 0
+making coffee: </s> put the milk filter back in cupboard </s> stir it 0
+making coffee: </s> take a cup of water </s> grab the coffee maker 0
+making coffee: </s> grab the coffee maker </s> pour a teaspoon of water into the cup 1
+making coffee: </s> grab the coffee maker </s> stir the water over the cup of coffee 1
+making coffee: </s> grab the coffee maker </s> place the cup on the table 1
+making coffee: </s> pour the remaining cup of water on top of the coffee </s> grab the coffee maker 0
+making coffee: </s> grab the coffee maker </s> serve and enjoy 1
+making coffee: </s> take a cup of water </s> pour a teaspoon of water into the cup 1
+making coffee: </s> take a cup of water </s> stir the water over the cup of coffee 1
+making coffee: </s> place the cup on the table </s> take a cup of water 0
+making coffee: </s> pour the remaining cup of water on top of the coffee </s> take a cup of water 0
+making coffee: </s> serve and enjoy </s> take a cup of water 0
+making coffee: </s> stir the water over the cup of coffee </s> pour a teaspoon of water into the cup 0
+making coffee: </s> pour a teaspoon of water into the cup </s> place the cup on the table 1
+making coffee: </s> pour a teaspoon of water into the cup </s> pour the remaining cup of water on top of the coffee 1
+making coffee: </s> pour a teaspoon of water into the cup </s> serve and enjoy 1
+making coffee: </s> stir the water over the cup of coffee </s> place the cup on the table 1
+making coffee: </s> pour the remaining cup of water on top of the coffee </s> stir the water over the cup of coffee 0
+making coffee: </s> serve and enjoy </s> stir the water over the cup of coffee 0
+making coffee: </s> pour the remaining cup of water on top of the coffee </s> place the cup on the table 0
+making coffee: </s> place the cup on the table </s> serve and enjoy 1
+making coffee: </s> serve and enjoy </s> pour the remaining cup of water on top of the coffee 0
+making coffee: </s> pour into the cup </s> take coffee cup 0
+making coffee: </s> take coffee cup </s> take a filter 1
+making coffee: </s> take coffee cup </s> take a mug 1
+making coffee: </s> get the coffee </s> take coffee cup 0
+making coffee: </s> get a mug </s> take coffee cup 0
+making coffee: </s> put the coffee into the mug </s> take coffee cup 0
+making coffee: </s> put the filter into the cup </s> take coffee cup 0
+making coffee: </s> go to the counter </s> take coffee cup 0
+making coffee: </s> pour the water into the mug </s> take coffee cup 0
+making coffee: </s> take coffee cup </s> get a mug 1
+making coffee: </s> pour into the cup </s> take a filter 1
+making coffee: </s> pour into the cup </s> take a mug 1
+making coffee: </s> get the coffee </s> pour into the cup 0
+making coffee: </s> pour into the cup </s> get a mug 1
+making coffee: </s> put the coffee into the mug </s> pour into the cup 0
+making coffee: </s> put the filter into the cup </s> pour into the cup 0
+making coffee: </s> pour into the cup </s> go to the counter 1
+making coffee: </s> pour the water into the mug </s> pour into the cup 0
+making coffee: </s> get a mug </s> pour into the cup 0
+making coffee: </s> take a filter </s> take a mug 1
+making coffee: </s> take a filter </s> get the coffee 1
+making coffee: </s> take a filter </s> get a mug 1
+making coffee: </s> put the coffee into the mug </s> take a filter 0
+making coffee: </s> take a filter </s> put the filter into the cup 1
+making coffee: </s> take a filter </s> go to the counter 1
+making coffee: </s> pour the water into the mug </s> take a filter 0
+making coffee: </s> take a filter </s> get a mug 1
+making coffee: </s> take a mug </s> get the coffee 1
+making coffee: </s> take a mug </s> get a mug 1
+making coffee: </s> put the coffee into the mug </s> take a mug 0
+making coffee: </s> put the filter into the cup </s> take a mug 0
+making coffee: </s> go to the counter </s> take a mug 0
+making coffee: </s> pour the water into the mug </s> take a mug 0
+making coffee: </s> take a mug </s> get a mug 1
+making coffee: </s> get a mug </s> get the coffee 0
+making coffee: </s> put the coffee into the mug </s> get the coffee 0
+making coffee: </s> get the coffee </s> put the filter into the cup 1
+making coffee: </s> get the coffee </s> go to the counter 1
+making coffee: </s> get the coffee </s> pour the water into the mug 1
+making coffee: </s> get a mug </s> get the coffee 0
+making coffee: </s> put the coffee into the mug </s> get a mug 0
+making coffee: </s> put the filter into the cup </s> get a mug 0
+making coffee: </s> get a mug </s> go to the counter 1
+making coffee: </s> get a mug </s> pour the water into the mug 1
+making coffee: </s> get a mug </s> get a mug 0
+making coffee: </s> put the coffee into the mug </s> put the filter into the cup 1
+making coffee: </s> put the coffee into the mug </s> go to the counter 1
+making coffee: </s> put the coffee into the mug </s> pour the water into the mug 1
+making coffee: </s> get a mug </s> put the coffee into the mug 0
+making coffee: </s> put the filter into the cup </s> go to the counter 1
+making coffee: </s> put the filter into the cup </s> pour the water into the mug 1
+making coffee: </s> get a mug </s> put the filter into the cup 0
+making coffee: </s> pour the water into the mug </s> go to the counter 0
+making coffee: </s> go to the counter </s> get a mug 1
+making coffee: </s> pour the water into the mug </s> get a mug 1
+making coffee: </s> go to coffee shop </s> get mug 0
+making coffee: </s> walk to counter </s> get mug 0
+making coffee: </s> get mug </s> purchase coffee 1
+making coffee: </s> get mug </s> take mug 1
+making coffee: </s> get mug </s> sit in booth 1
+making coffee: </s> get mug </s> pour the coffee 1
+making coffee: </s> turn off the stove </s> get mug 0
+making coffee: </s> get mug </s> wait for it to finish 1
+making coffee: </s> get mug </s> get out of the coffee shop 1
+making coffee: </s> walk to counter </s> go to coffee shop 0
+making coffee: </s> go to coffee shop </s> purchase coffee 1
+making coffee: </s> take mug </s> go to coffee shop 0
+making coffee: </s> go to coffee shop </s> sit in booth 1
+making coffee: </s> go to coffee shop </s> pour the coffee 1
+making coffee: </s> turn off the stove </s> go to coffee shop 0
+making coffee: </s> wait for it to finish </s> go to coffee shop 0
+making coffee: </s> go to coffee shop </s> get out of the coffee shop 1
+making coffee: </s> walk to counter </s> purchase coffee 1
+making coffee: </s> walk to counter </s> take mug 1
+making coffee: </s> sit in booth </s> walk to counter 0
+making coffee: </s> walk to counter </s> pour the coffee 1
+making coffee: </s> turn off the stove </s> walk to counter 0
+making coffee: </s> wait for it to finish </s> walk to counter 0
+making coffee: </s> walk to counter </s> get out of the coffee shop 1
+making coffee: </s> take mug </s> purchase coffee 0
+making coffee: </s> purchase coffee </s> sit in booth 1
+making coffee: </s> purchase coffee </s> pour the coffee 1
+making coffee: </s> purchase coffee </s> turn off the stove 1
+making coffee: </s> purchase coffee </s> wait for it to finish 1
+making coffee: </s> purchase coffee </s> get out of the coffee shop 1
+making coffee: </s> sit in booth </s> take mug 0
+making coffee: </s> pour the coffee </s> take mug 0
+making coffee: </s> take mug </s> turn off the stove 1
+making coffee: </s> take mug </s> wait for it to finish 1
+making coffee: </s> get out of the coffee shop </s> take mug 0
+making coffee: </s> pour the coffee </s> sit in booth 0
+making coffee: </s> turn off the stove </s> sit in booth 0
+making coffee: </s> wait for it to finish </s> sit in booth 0
+making coffee: </s> sit in booth </s> get out of the coffee shop 1
+making coffee: </s> pour the coffee </s> turn off the stove 1
+making coffee: </s> wait for it to finish </s> pour the coffee 0
+making coffee: </s> pour the coffee </s> get out of the coffee shop 1
+making coffee: </s> wait for it to finish </s> turn off the stove 0
+making coffee: </s> turn off the stove </s> get out of the coffee shop 1
+making coffee: </s> get out of the coffee shop </s> wait for it to finish 0
+going to the swimming pool: </s> call for car </s> drive to pool 1
+going to the swimming pool: </s> park </s> call for car 0
+going to the swimming pool: </s> walk to water's edge </s> call for car 0
+going to the swimming pool: </s> call for car </s> step in pool 1
+going to the swimming pool: </s> park </s> drive to pool 0
+going to the swimming pool: </s> drive to pool </s> walk to water's edge 1
+going to the swimming pool: </s> drive to pool </s> step in pool 1
+going to the swimming pool: </s> walk to water's edge </s> park 0
+going to the swimming pool: </s> park </s> step in pool 1
+going to the swimming pool: </s> walk to water's edge </s> step in pool 1
+going to the swimming pool: </s> decide how many times you would like to go </s> decide where you would like to go 1
+going to the swimming pool: </s> decide how many times you would like to go </s> buy clothes 1
+going to the swimming pool: </s> decide how many times you would like to go </s> go into the house 1
+going to the swimming pool: </s> rent a car </s> decide how many times you would like to go 0
+going to the swimming pool: </s> decide how many times you would like to go </s> go to the pool 1
+going to the swimming pool: </s> decide how many times you would like to go </s> pay for water 1
+going to the swimming pool: </s> decide how many times you would like to go </s> wear proper clothes 1
+going to the swimming pool: </s> decide how many times you would like to go </s> take off clothes 1
+going to the swimming pool: </s> decide how many times you would like to go </s> go to the bathroom 1
+going to the swimming pool: </s> wash your hair </s> decide how many times you would like to go 0
+going to the swimming pool: </s> decide how many times you would like to go </s> go to the shower 1
+going to the swimming pool: </s> undress </s> decide how many times you would like to go 0
+going to the swimming pool: </s> take a bath </s> decide how many times you would like to go 0
+going to the swimming pool: </s> use shampoo to wash your hair </s> decide how many times you would like to go 0
+going to the swimming pool: </s> buy clothes </s> decide where you would like to go 0
+going to the swimming pool: </s> decide where you would like to go </s> go into the house 1
+going to the swimming pool: </s> rent a car </s> decide where you would like to go 0
+going to the swimming pool: </s> go to the pool </s> decide where you would like to go 0
+going to the swimming pool: </s> decide where you would like to go </s> pay for water 1
+going to the swimming pool: </s> decide where you would like to go </s> wear proper clothes 1
+going to the swimming pool: </s> decide where you would like to go </s> take off clothes 1
+going to the swimming pool: </s> go to the bathroom </s> decide where you would like to go 0
+going to the swimming pool: </s> decide where you would like to go </s> wash your hair 1
+going to the swimming pool: </s> decide where you would like to go </s> go to the shower 1
+going to the swimming pool: </s> undress </s> decide where you would like to go 0
+going to the swimming pool: </s> decide where you would like to go </s> take a bath 1
+going to the swimming pool: </s> decide where you would like to go </s> use shampoo to wash your hair 1
+going to the swimming pool: </s> buy clothes </s> go into the house 1
+going to the swimming pool: </s> buy clothes </s> rent a car 1
+going to the swimming pool: </s> go to the pool </s> buy clothes 0
+going to the swimming pool: </s> buy clothes </s> pay for water 1
+going to the swimming pool: </s> buy clothes </s> wear proper clothes 1
+going to the swimming pool: </s> take off clothes </s> buy clothes 0
+going to the swimming pool: </s> buy clothes </s> go to the bathroom 1
+going to the swimming pool: </s> wash your hair </s> buy clothes 0
+going to the swimming pool: </s> buy clothes </s> go to the shower 1
+going to the swimming pool: </s> undress </s> buy clothes 0
+going to the swimming pool: </s> take a bath </s> buy clothes 0
+going to the swimming pool: </s> use shampoo to wash your hair </s> buy clothes 0
+going to the swimming pool: </s> rent a car </s> go into the house 0
+going to the swimming pool: </s> go into the house </s> go to the pool 1
+going to the swimming pool: </s> pay for water </s> go into the house 0
+going to the swimming pool: </s> go into the house </s> wear proper clothes 1
+going to the swimming pool: </s> take off clothes </s> go into the house 0
+going to the swimming pool: </s> go to the bathroom </s> go into the house 0
+going to the swimming pool: </s> wash your hair </s> go into the house 0
+going to the swimming pool: </s> go into the house </s> go to the shower 1
+going to the swimming pool: </s> undress </s> go into the house 0
+going to the swimming pool: </s> go into the house </s> take a bath 1
+going to the swimming pool: </s> go into the house </s> use shampoo to wash your hair 1
+going to the swimming pool: </s> rent a car </s> go to the pool 1
+going to the swimming pool: </s> rent a car </s> pay for water 1
+going to the swimming pool: </s> rent a car </s> wear proper clothes 1
+going to the swimming pool: </s> rent a car </s> take off clothes 1
+going to the swimming pool: </s> rent a car </s> go to the bathroom 1
+going to the swimming pool: </s> rent a car </s> wash your hair 1
+going to the swimming pool: </s> rent a car </s> go to the shower 1
+going to the swimming pool: </s> undress </s> rent a car 0
+going to the swimming pool: </s> take a bath </s> rent a car 0
+going to the swimming pool: </s> use shampoo to wash your hair </s> rent a car 0
+going to the swimming pool: </s> pay for water </s> go to the pool 0
+going to the swimming pool: </s> wear proper clothes </s> go to the pool 0
+going to the swimming pool: </s> go to the pool </s> take off clothes 1
+going to the swimming pool: </s> go to the pool </s> go to the bathroom 1
+going to the swimming pool: </s> go to the pool </s> wash your hair 1
+going to the swimming pool: </s> go to the pool </s> go to the shower 1
+going to the swimming pool: </s> go to the pool </s> undress 1
+going to the swimming pool: </s> go to the pool </s> take a bath 1
+going to the swimming pool: </s> go to the pool </s> use shampoo to wash your hair 1
+going to the swimming pool: </s> wear proper clothes </s> pay for water 0
+going to the swimming pool: </s> take off clothes </s> pay for water 0
+going to the swimming pool: </s> go to the bathroom </s> pay for water 0
+going to the swimming pool: </s> wash your hair </s> pay for water 0
+going to the swimming pool: </s> pay for water </s> go to the shower 1
+going to the swimming pool: </s> pay for water </s> undress 1
+going to the swimming pool: </s> pay for water </s> take a bath 1
+going to the swimming pool: </s> use shampoo to wash your hair </s> pay for water 0
+going to the swimming pool: </s> wear proper clothes </s> take off clothes 1
+going to the swimming pool: </s> wear proper clothes </s> go to the bathroom 1
+going to the swimming pool: </s> wear proper clothes </s> wash your hair 1
+going to the swimming pool: </s> go to the shower </s> wear proper clothes 0
+going to the swimming pool: </s> wear proper clothes </s> undress 1
+going to the swimming pool: </s> take a bath </s> wear proper clothes 0
+going to the swimming pool: </s> use shampoo to wash your hair </s> wear proper clothes 0
+going to the swimming pool: </s> go to the bathroom </s> take off clothes 0
+going to the swimming pool: </s> wash your hair </s> take off clothes 0
+going to the swimming pool: </s> take off clothes </s> go to the shower 1
+going to the swimming pool: </s> undress </s> take off clothes 0
+going to the swimming pool: </s> take a bath </s> take off clothes 0
+going to the swimming pool: </s> take off clothes </s> use shampoo to wash your hair 1
+going to the swimming pool: </s> go to the bathroom </s> wash your hair 1
+going to the swimming pool: </s> go to the shower </s> go to the bathroom 0
+going to the swimming pool: </s> go to the bathroom </s> undress 1
+going to the swimming pool: </s> take a bath </s> go to the bathroom 0
+going to the swimming pool: </s> use shampoo to wash your hair </s> go to the bathroom 0
+going to the swimming pool: </s> go to the shower </s> wash your hair 0
+going to the swimming pool: </s> undress </s> wash your hair 0
+going to the swimming pool: </s> wash your hair </s> take a bath 1
+going to the swimming pool: </s> use shampoo to wash your hair </s> wash your hair 0
+going to the swimming pool: </s> go to the shower </s> undress 1
+going to the swimming pool: </s> go to the shower </s> take a bath 1
+going to the swimming pool: </s> go to the shower </s> use shampoo to wash your hair 1
+going to the swimming pool: </s> undress </s> take a bath 1
+going to the swimming pool: </s> use shampoo to wash your hair </s> undress 0
+going to the swimming pool: </s> take a bath </s> use shampoo to wash your hair 1
+going to the swimming pool: </s> walk to the water's edge </s> enter the swimming pool 0
+going to the swimming pool: </s> enter the swimming pool </s> take off your swimsuit 1
+going to the swimming pool: </s> enter the swimming pool </s> get into the water 1
+going to the swimming pool: </s> start swimming </s> enter the swimming pool 0
+going to the swimming pool: </s> keep your swimming feet on the water </s> enter the swimming pool 0
+going to the swimming pool: </s> swim to the edge of the pool </s> enter the swimming pool 0
+going to the swimming pool: </s> enter the swimming pool </s> go back to the water's edge 1
+going to the swimming pool: </s> enter the swimming pool </s> put on your swimming suit 1
+going to the swimming pool: </s> leave the swimming pool </s> enter the swimming pool 0
+going to the swimming pool: </s> take off your swimsuit </s> walk to the water's edge 0
+going to the swimming pool: </s> get into the water </s> walk to the water's edge 0
+going to the swimming pool: </s> start swimming </s> walk to the water's edge 0
+going to the swimming pool: </s> walk to the water's edge </s> keep your swimming feet on the water 1
+going to the swimming pool: </s> swim to the edge of the pool </s> walk to the water's edge 0
+going to the swimming pool: </s> go back to the water's edge </s> walk to the water's edge 0
+going to the swimming pool: </s> put on your swimming suit </s> walk to the water's edge 0
+going to the swimming pool: </s> leave the swimming pool </s> walk to the water's edge 0
+going to the swimming pool: </s> take off your swimsuit </s> get into the water 1
+going to the swimming pool: </s> start swimming </s> take off your swimsuit 0
+going to the swimming pool: </s> take off your swimsuit </s> keep your swimming feet on the water 1
+going to the swimming pool: </s> swim to the edge of the pool </s> take off your swimsuit 0
+going to the swimming pool: </s> go back to the water's edge </s> take off your swimsuit 0
+going to the swimming pool: </s> take off your swimsuit </s> put on your swimming suit 1
+going to the swimming pool: </s> leave the swimming pool </s> take off your swimsuit 0
+going to the swimming pool: </s> get into the water </s> start swimming 1
+going to the swimming pool: </s> get into the water </s> keep your swimming feet on the water 1
+going to the swimming pool: </s> swim to the edge of the pool </s> get into the water 0
+going to the swimming pool: </s> get into the water </s> go back to the water's edge 1
+going to the swimming pool: </s> get into the water </s> put on your swimming suit 1
+going to the swimming pool: </s> get into the water </s> leave the swimming pool 1
+going to the swimming pool: </s> start swimming </s> keep your swimming feet on the water 1
+going to the swimming pool: </s> start swimming </s> swim to the edge of the pool 1
+going to the swimming pool: </s> start swimming </s> go back to the water's edge 1
+going to the swimming pool: </s> start swimming </s> put on your swimming suit 1
+going to the swimming pool: </s> start swimming </s> leave the swimming pool 1
+going to the swimming pool: </s> swim to the edge of the pool </s> keep your swimming feet on the water 0
+going to the swimming pool: </s> go back to the water's edge </s> keep your swimming feet on the water 0
+going to the swimming pool: </s> keep your swimming feet on the water </s> put on your swimming suit 1
+going to the swimming pool: </s> leave the swimming pool </s> keep your swimming feet on the water 0
+going to the swimming pool: </s> swim to the edge of the pool </s> go back to the water's edge 1
+going to the swimming pool: </s> swim to the edge of the pool </s> put on your swimming suit 1
+going to the swimming pool: </s> leave the swimming pool </s> swim to the edge of the pool 0
+going to the swimming pool: </s> go back to the water's edge </s> put on your swimming suit 1
+going to the swimming pool: </s> go back to the water's edge </s> leave the swimming pool 1
+going to the swimming pool: </s> put on your swimming suit </s> leave the swimming pool 1
+going to the swimming pool: </s> drive to the pool </s> pay for parking 1
+going to the swimming pool: </s> enter the pool </s> drive to the pool 0
+going to the swimming pool: </s> drive to the pool </s> walk through the turnstile 1
+going to the swimming pool: </s> drive to the pool </s> find a water hose 1
+going to the swimming pool: </s> drive to the pool </s> spray water in 1
+going to the swimming pool: </s> enter the water </s> drive to the pool 0
+going to the swimming pool: </s> drive to the pool </s> swim down to the beach 1
+going to the swimming pool: </s> find a towel </s> drive to the pool 0
+going to the swimming pool: </s> step out of the pool </s> drive to the pool 0
+going to the swimming pool: </s> drive to the pool </s> go to the shower 1
+going to the swimming pool: </s> pay for parking </s> enter the pool 1
+going to the swimming pool: </s> walk through the turnstile </s> pay for parking 0
+going to the swimming pool: </s> pay for parking </s> find a water hose 1
+going to the swimming pool: </s> spray water in </s> pay for parking 0
+going to the swimming pool: </s> enter the water </s> pay for parking 0
+going to the swimming pool: </s> pay for parking </s> swim down to the beach 1
+going to the swimming pool: </s> pay for parking </s> find a towel 1
+going to the swimming pool: </s> step out of the pool </s> pay for parking 0
+going to the swimming pool: </s> go to the shower </s> pay for parking 0
+going to the swimming pool: </s> walk through the turnstile </s> enter the pool 0
+going to the swimming pool: </s> find a water hose </s> enter the pool 0
+going to the swimming pool: </s> enter the pool </s> spray water in 1
+going to the swimming pool: </s> enter the pool </s> enter the water 1
+going to the swimming pool: </s> enter the pool </s> swim down to the beach 1
+going to the swimming pool: </s> enter the pool </s> find a towel 1
+going to the swimming pool: </s> enter the pool </s> step out of the pool 1
+going to the swimming pool: </s> go to the shower </s> enter the pool 0
+going to the swimming pool: </s> walk through the turnstile </s> find a water hose 1
+going to the swimming pool: </s> walk through the turnstile </s> spray water in 1
+going to the swimming pool: </s> walk through the turnstile </s> enter the water 1
+going to the swimming pool: </s> walk through the turnstile </s> swim down to the beach 1
+going to the swimming pool: </s> walk through the turnstile </s> find a towel 1
+going to the swimming pool: </s> step out of the pool </s> walk through the turnstile 0
+going to the swimming pool: </s> go to the shower </s> walk through the turnstile 0
+going to the swimming pool: </s> spray water in </s> find a water hose 0
+going to the swimming pool: </s> find a water hose </s> enter the water 1
+going to the swimming pool: </s> swim down to the beach </s> find a water hose 0
+going to the swimming pool: </s> find a towel </s> find a water hose 0
+going to the swimming pool: </s> find a water hose </s> step out of the pool 1
+going to the swimming pool: </s> find a water hose </s> go to the shower 1
+going to the swimming pool: </s> spray water in </s> enter the water 1
+going to the swimming pool: </s> swim down to the beach </s> spray water in 0
+going to the swimming pool: </s> find a towel </s> spray water in 0
+going to the swimming pool: </s> spray water in </s> step out of the pool 1
+going to the swimming pool: </s> spray water in </s> go to the shower 1
+going to the swimming pool: </s> swim down to the beach </s> enter the water 0
+going to the swimming pool: </s> find a towel </s> enter the water 0
+going to the swimming pool: </s> enter the water </s> step out of the pool 1
+going to the swimming pool: </s> enter the water </s> go to the shower 1
+going to the swimming pool: </s> find a towel </s> swim down to the beach 0
+going to the swimming pool: </s> swim down to the beach </s> step out of the pool 1
+going to the swimming pool: </s> go to the shower </s> swim down to the beach 0
+going to the swimming pool: </s> step out of the pool </s> find a towel 0
+going to the swimming pool: </s> go to the shower </s> find a towel 0
+going to the swimming pool: </s> go to the shower </s> step out of the pool 0
+going to the swimming pool: </s> arrive at the swimming pool </s> get in your car 1
+going to the swimming pool: </s> arrive at the swimming pool </s> drive to the pool 1
+going to the swimming pool: </s> park your car </s> arrive at the swimming pool 0
+going to the swimming pool: </s> walk inside the swimming pool </s> arrive at the swimming pool 0
+going to the swimming pool: </s> look at the pool </s> arrive at the swimming pool 0
+going to the swimming pool: </s> go to the changing room </s> arrive at the swimming pool 0
+going to the swimming pool: </s> adjust your bathing attire </s> arrive at the swimming pool 0
+going to the swimming pool: </s> arrive at the swimming pool </s> get in the pool 1
+going to the swimming pool: </s> arrive at the swimming pool </s> relax and enjoy the pool 1
+going to the swimming pool: </s> get in your car </s> drive to the pool 1
+going to the swimming pool: </s> get in your car </s> park your car 1
+going to the swimming pool: </s> walk inside the swimming pool </s> get in your car 0
+going to the swimming pool: </s> look at the pool </s> get in your car 0
+going to the swimming pool: </s> go to the changing room </s> get in your car 0
+going to the swimming pool: </s> adjust your bathing attire </s> get in your car 0
+going to the swimming pool: </s> get in the pool </s> get in your car 0
+going to the swimming pool: </s> get in your car </s> relax and enjoy the pool 1
+going to the swimming pool: </s> park your car </s> drive to the pool 0
+going to the swimming pool: </s> drive to the pool </s> walk inside the swimming pool 1
+going to the swimming pool: </s> drive to the pool </s> look at the pool 1
+going to the swimming pool: </s> drive to the pool </s> go to the changing room 1
+going to the swimming pool: </s> drive to the pool </s> adjust your bathing attire 1
+going to the swimming pool: </s> get in the pool </s> drive to the pool 0
+going to the swimming pool: </s> drive to the pool </s> relax and enjoy the pool 1
+going to the swimming pool: </s> park your car </s> walk inside the swimming pool 1
+going to the swimming pool: </s> park your car </s> look at the pool 1
+going to the swimming pool: </s> go to the changing room </s> park your car 0
+going to the swimming pool: </s> adjust your bathing attire </s> park your car 0
+going to the swimming pool: </s> get in the pool </s> park your car 0
+going to the swimming pool: </s> park your car </s> relax and enjoy the pool 1
+going to the swimming pool: </s> walk inside the swimming pool </s> look at the pool 1
+going to the swimming pool: </s> go to the changing room </s> walk inside the swimming pool 0
+going to the swimming pool: </s> walk inside the swimming pool </s> adjust your bathing attire 1
+going to the swimming pool: </s> get in the pool </s> walk inside the swimming pool 0
+going to the swimming pool: </s> relax and enjoy the pool </s> walk inside the swimming pool 0
+going to the swimming pool: </s> look at the pool </s> go to the changing room 1
+going to the swimming pool: </s> look at the pool </s> adjust your bathing attire 1
+going to the swimming pool: </s> look at the pool </s> get in the pool 1
+going to the swimming pool: </s> look at the pool </s> relax and enjoy the pool 1
+going to the swimming pool: </s> adjust your bathing attire </s> go to the changing room 0
+going to the swimming pool: </s> get in the pool </s> go to the changing room 0
+going to the swimming pool: </s> relax and enjoy the pool </s> go to the changing room 0
+going to the swimming pool: </s> get in the pool </s> adjust your bathing attire 0
+going to the swimming pool: </s> relax and enjoy the pool </s> adjust your bathing attire 0
+going to the swimming pool: </s> get in the pool </s> relax and enjoy the pool 1

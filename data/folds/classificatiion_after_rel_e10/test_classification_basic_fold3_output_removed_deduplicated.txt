@@ -1,0 +1,410 @@
+eating in a fast food restaurant: </s> drive to the restaurant </s> wait for your order to be called 0
+eating in a fast food restaurant: </s> wait for your order to be called </s> pay for your order 1
+eating in a fast food restaurant: </s> get your food </s> wait for your order to be called 0
+eating in a fast food restaurant: </s> wait for your order to be called </s> eat 1
+eating in a fast food restaurant: </s> wait for your order to be called </s> put your order in the correct menu item 1
+eating in a fast food restaurant: </s> drive home </s> wait for your order to be called 0
+eating in a fast food restaurant: </s> drive to the restaurant </s> pay for your order 1
+eating in a fast food restaurant: </s> drive to the restaurant </s> get your food 1
+eating in a fast food restaurant: </s> drive to the restaurant </s> eat 1
+eating in a fast food restaurant: </s> drive to the restaurant </s> put your order in the correct menu item 1
+eating in a fast food restaurant: </s> drive home </s> drive to the restaurant 0
+eating in a fast food restaurant: </s> pay for your order </s> get your food 1
+eating in a fast food restaurant: </s> eat </s> pay for your order 0
+eating in a fast food restaurant: </s> pay for your order </s> put your order in the correct menu item 1
+eating in a fast food restaurant: </s> pay for your order </s> drive home 1
+eating in a fast food restaurant: </s> eat </s> get your food 0
+eating in a fast food restaurant: </s> get your food </s> put your order in the correct menu item 1
+eating in a fast food restaurant: </s> get your food </s> drive home 1
+eating in a fast food restaurant: </s> eat </s> put your order in the correct menu item 1
+eating in a fast food restaurant: </s> drive home </s> eat 0
+eating in a fast food restaurant: </s> put your order in the correct menu item </s> drive home 1
+eating in a fast food restaurant: </s> call for the waiter to the counter </s> get a waiter's attention 0
+eating in a fast food restaurant: </s> get a waiter's attention </s> explain that you're hungry 1
+eating in a fast food restaurant: </s> hand over the cash payment </s> get a waiter's attention 0
+eating in a fast food restaurant: </s> wait for the waiter to return with food </s> get a waiter's attention 0
+eating in a fast food restaurant: </s> get a waiter's attention </s> pay for the food 1
+eating in a fast food restaurant: </s> get a waiter's attention </s> wait for the food to cook 1
+eating in a fast food restaurant: </s> return the cash payment </s> get a waiter's attention 0
+eating in a fast food restaurant: </s> explain that you're hungry </s> call for the waiter to the counter 0
+eating in a fast food restaurant: </s> call for the waiter to the counter </s> hand over the cash payment 1
+eating in a fast food restaurant: </s> wait for the waiter to return with food </s> call for the waiter to the counter 0
+eating in a fast food restaurant: </s> call for the waiter to the counter </s> pay for the food 1
+eating in a fast food restaurant: </s> call for the waiter to the counter </s> wait for the food to cook 1
+eating in a fast food restaurant: </s> call for the waiter to the counter </s> return the cash payment 1
+eating in a fast food restaurant: </s> explain that you're hungry </s> hand over the cash payment 1
+eating in a fast food restaurant: </s> wait for the waiter to return with food </s> explain that you're hungry 0
+eating in a fast food restaurant: </s> explain that you're hungry </s> pay for the food 1
+eating in a fast food restaurant: </s> wait for the food to cook </s> explain that you're hungry 0
+eating in a fast food restaurant: </s> explain that you're hungry </s> return the cash payment 1
+eating in a fast food restaurant: </s> wait for the waiter to return with food </s> hand over the cash payment 0
+eating in a fast food restaurant: </s> hand over the cash payment </s> pay for the food 1
+eating in a fast food restaurant: </s> wait for the food to cook </s> hand over the cash payment 0
+eating in a fast food restaurant: </s> return the cash payment </s> hand over the cash payment 0
+eating in a fast food restaurant: </s> wait for the waiter to return with food </s> pay for the food 1
+eating in a fast food restaurant: </s> wait for the waiter to return with food </s> wait for the food to cook 1
+eating in a fast food restaurant: </s> wait for the waiter to return with food </s> return the cash payment 1
+eating in a fast food restaurant: </s> pay for the food </s> wait for the food to cook 1
+eating in a fast food restaurant: </s> return the cash payment </s> pay for the food 0
+eating in a fast food restaurant: </s> wait for the food to cook </s> return the cash payment 1
+eating in a fast food restaurant: </s> pay the bill </s> enter the fast food restaurant 0
+eating in a fast food restaurant: </s> eat </s> enter the fast food restaurant 0
+eating in a fast food restaurant: </s> pay the bill </s> eat 1
+eating in a fast food restaurant: </s> put your order in the machine </s> call the restaurant to order the food 0
+eating in a fast food restaurant: </s> wait for it </s> call the restaurant to order the food 0
+eating in a fast food restaurant: </s> receive the food </s> call the restaurant to order the food 0
+eating in a fast food restaurant: </s> tip the waiter </s> call the restaurant to order the food 0
+eating in a fast food restaurant: </s> call the restaurant to order the food </s> enjoy the food 1
+eating in a fast food restaurant: </s> put your order in the machine </s> wait for it 1
+eating in a fast food restaurant: </s> put your order in the machine </s> receive the food 1
+eating in a fast food restaurant: </s> put your order in the machine </s> tip the waiter 1
+eating in a fast food restaurant: </s> enjoy the food </s> put your order in the machine 0
+eating in a fast food restaurant: </s> receive the food </s> wait for it 0
+eating in a fast food restaurant: </s> wait for it </s> tip the waiter 1
+eating in a fast food restaurant: </s> wait for it </s> enjoy the food 1
+eating in a fast food restaurant: </s> receive the food </s> tip the waiter 1
+eating in a fast food restaurant: </s> enjoy the food </s> receive the food 0
+eating in a fast food restaurant: </s> tip the waiter </s> enjoy the food 1
+eating in a fast food restaurant: </s> enter the restaurant. </s> look at the menu. 1
+eating in a fast food restaurant: </s> enter the restaurant. </s> look for food to eat. 1
+eating in a fast food restaurant: </s> select a menu item. </s> enter the restaurant. 0
+eating in a fast food restaurant: </s> bring the food over to the cashier. </s> enter the restaurant. 0
+eating in a fast food restaurant: </s> pay for your food. </s> enter the restaurant. 0
+eating in a fast food restaurant: </s> enjoy the food. </s> enter the restaurant. 0
+eating in a fast food restaurant: </s> look for food to eat. </s> look at the menu. 0
+eating in a fast food restaurant: </s> select a menu item. </s> look at the menu. 0
+eating in a fast food restaurant: </s> bring the food over to the cashier. </s> look at the menu. 0
+eating in a fast food restaurant: </s> pay for your food. </s> look at the menu. 0
+eating in a fast food restaurant: </s> look at the menu. </s> enjoy the food. 1
+eating in a fast food restaurant: </s> look for food to eat. </s> select a menu item. 1
+eating in a fast food restaurant: </s> bring the food over to the cashier. </s> look for food to eat. 0
+eating in a fast food restaurant: </s> pay for your food. </s> look for food to eat. 0
+eating in a fast food restaurant: </s> look for food to eat. </s> enjoy the food. 1
+eating in a fast food restaurant: </s> bring the food over to the cashier. </s> select a menu item. 0
+eating in a fast food restaurant: </s> pay for your food. </s> select a menu item. 0
+eating in a fast food restaurant: </s> enjoy the food. </s> select a menu item. 0
+eating in a fast food restaurant: </s> bring the food over to the cashier. </s> pay for your food. 1
+eating in a fast food restaurant: </s> bring the food over to the cashier. </s> enjoy the food. 1
+eating in a fast food restaurant: </s> pay for your food. </s> enjoy the food. 1
+paying with a credit card: </s> get a wallet </s> pull out the credit card 1
+paying with a credit card: </s> get a wallet </s> scan the card through the machine 1
+paying with a credit card: </s> scan the card through the machine </s> pull out the credit card 0
+paying with a credit card: </s> enter credit card information </s> select type of transaction 1
+paying with a credit card: </s> choose correct payment method </s> enter credit card information 0
+paying with a credit card: </s> put card into payment terminal </s> enter credit card information 0
+paying with a credit card: </s> enter credit card information </s> choose amount of payment 1
+paying with a credit card: </s> enter credit card information </s> input details for payment 1
+paying with a credit card: </s> wait for payment to complete </s> enter credit card information 0
+paying with a credit card: </s> choose correct payment method </s> select type of transaction 0
+paying with a credit card: </s> put card into payment terminal </s> select type of transaction 0
+paying with a credit card: </s> select type of transaction </s> choose amount of payment 1
+paying with a credit card: </s> select type of transaction </s> input details for payment 1
+paying with a credit card: </s> select type of transaction </s> wait for payment to complete 1
+paying with a credit card: </s> choose correct payment method </s> put card into payment terminal 1
+paying with a credit card: </s> choose correct payment method </s> choose amount of payment 1
+paying with a credit card: </s> input details for payment </s> choose correct payment method 0
+paying with a credit card: </s> choose correct payment method </s> wait for payment to complete 1
+paying with a credit card: </s> choose amount of payment </s> put card into payment terminal 0
+paying with a credit card: </s> input details for payment </s> put card into payment terminal 0
+paying with a credit card: </s> wait for payment to complete </s> put card into payment terminal 0
+paying with a credit card: </s> choose amount of payment </s> input details for payment 1
+paying with a credit card: </s> choose amount of payment </s> wait for payment to complete 1
+paying with a credit card: </s> input details for payment </s> wait for payment to complete 1
+paying with a credit card: </s> go to bank </s> get credit card 0
+paying with a credit card: </s> open account </s> get credit card 0
+paying with a credit card: </s> present card to clerk </s> get credit card 0
+paying with a credit card: </s> present bank card </s> get credit card 0
+paying with a credit card: </s> put account information in </s> get credit card 0
+paying with a credit card: </s> hand over card to clerk </s> get credit card 0
+paying with a credit card: </s> get credit card </s> pay with card 1
+paying with a credit card: </s> go to bank </s> open account 1
+paying with a credit card: </s> go to bank </s> present card to clerk 1
+paying with a credit card: </s> go to bank </s> present bank card 1
+paying with a credit card: </s> put account information in </s> go to bank 0
+paying with a credit card: </s> hand over card to clerk </s> go to bank 0
+paying with a credit card: </s> go to bank </s> pay with card 1
+paying with a credit card: </s> present card to clerk </s> open account 0
+paying with a credit card: </s> open account </s> present bank card 1
+paying with a credit card: </s> open account </s> put account information in 1
+paying with a credit card: </s> open account </s> hand over card to clerk 1
+paying with a credit card: </s> pay with card </s> open account 0
+paying with a credit card: </s> present card to clerk </s> present bank card 1
+paying with a credit card: </s> present card to clerk </s> put account information in 1
+paying with a credit card: </s> present card to clerk </s> hand over card to clerk 1
+paying with a credit card: </s> pay with card </s> present card to clerk 0
+paying with a credit card: </s> put account information in </s> present bank card 0
+paying with a credit card: </s> present bank card </s> hand over card to clerk 1
+paying with a credit card: </s> pay with card </s> present bank card 0
+paying with a credit card: </s> hand over card to clerk </s> put account information in 0
+paying with a credit card: </s> pay with card </s> put account information in 0
+paying with a credit card: </s> pay with card </s> hand over card to clerk 0
+paying with a credit card: </s> swipe the card </s> put a credit card on a card reader 0
+paying with a credit card: </s> pay for the purchase </s> put a credit card on a card reader 0
+paying with a credit card: </s> put the card away </s> put a credit card on a card reader 0
+paying with a credit card: </s> put the card back into the reader </s> put a credit card on a card reader 0
+paying with a credit card: </s> put the card back on the reader </s> put a credit card on a card reader 0
+paying with a credit card: </s> pay for the purchase </s> swipe the card 0
+paying with a credit card: </s> swipe the card </s> put the card away 1
+paying with a credit card: </s> swipe the card </s> put the card back into the reader 1
+paying with a credit card: </s> put the card back on the reader </s> swipe the card 0
+paying with a credit card: </s> pay for the purchase </s> put the card away 1
+paying with a credit card: </s> pay for the purchase </s> put the card back into the reader 1
+paying with a credit card: </s> put the card back on the reader </s> pay for the purchase 0
+paying with a credit card: </s> put the card back into the reader </s> put the card away 0
+paying with a credit card: </s> put the card back on the reader </s> put the card away 0
+paying with a credit card: </s> put the card back into the reader </s> put the card back on the reader 1
+paying with a credit card: </s> go to the cashier </s> present my card to the cashier 1
+paying with a credit card: </s> walk out with the card </s> go to the cashier 0
+paying with a credit card: </s> pay the cashier </s> go to the cashier 0
+paying with a credit card: </s> walk out with the card </s> present my card to the cashier 0
+paying with a credit card: </s> present my card to the cashier </s> pay the cashier 1
+paying with a credit card: </s> walk out with the card </s> pay the cashier 1
+playing tennis: </s> get in the proper shoes </s> grab a tennis ball 1
+playing tennis: </s> get in the proper shoes </s> pick a spot in front of the gym 1
+playing tennis: </s> get on the lane </s> get in the proper shoes 0
+playing tennis: </s> work on your game </s> get in the proper shoes 0
+playing tennis: </s> get up when finished </s> get in the proper shoes 0
+playing tennis: </s> get out of the lane </s> get in the proper shoes 0
+playing tennis: </s> grab a tennis ball </s> pick a spot in front of the gym 1
+playing tennis: </s> grab a tennis ball </s> get on the lane 1
+playing tennis: </s> work on your game </s> grab a tennis ball 0
+playing tennis: </s> get up when finished </s> grab a tennis ball 0
+playing tennis: </s> grab a tennis ball </s> get out of the lane 1
+playing tennis: </s> get on the lane </s> pick a spot in front of the gym 0
+playing tennis: </s> pick a spot in front of the gym </s> work on your game 1
+playing tennis: </s> get up when finished </s> pick a spot in front of the gym 0
+playing tennis: </s> get out of the lane </s> pick a spot in front of the gym 0
+playing tennis: </s> work on your game </s> get on the lane 0
+playing tennis: </s> get up when finished </s> get on the lane 0
+playing tennis: </s> get out of the lane </s> get on the lane 0
+playing tennis: </s> get up when finished </s> work on your game 0
+playing tennis: </s> get out of the lane </s> work on your game 0
+playing tennis: </s> get up when finished </s> get out of the lane 1
+playing tennis: </s> turn on tennis racket </s> select ball and put on racket 1
+playing tennis: </s> turn on tennis racket </s> throw ball at opponent 1
+playing tennis: </s> turn on tennis racket </s> hit the ball into the net 1
+playing tennis: </s> turn on tennis racket </s> continue until game ends 1
+playing tennis: </s> put off racket </s> turn on tennis racket 0
+playing tennis: </s> throw ball at opponent </s> select ball and put on racket 0
+playing tennis: </s> select ball and put on racket </s> hit the ball into the net 1
+playing tennis: </s> continue until game ends </s> select ball and put on racket 0
+playing tennis: </s> select ball and put on racket </s> put off racket 1
+playing tennis: </s> throw ball at opponent </s> hit the ball into the net 1
+playing tennis: </s> continue until game ends </s> throw ball at opponent 0
+playing tennis: </s> put off racket </s> throw ball at opponent 0
+playing tennis: </s> continue until game ends </s> hit the ball into the net 0
+playing tennis: </s> hit the ball into the net </s> put off racket 1
+playing tennis: </s> put off racket </s> continue until game ends 0
+playing tennis: </s> get in the right area. </s> pick out shoes. 1
+playing tennis: </s> get in the right area. </s> choose a tennis ball. 1
+playing tennis: </s> get in the right area. </s> put on tennis shoes. 1
+playing tennis: </s> go to the court. </s> get in the right area. 0
+playing tennis: </s> play tennis. </s> get in the right area. 0
+playing tennis: </s> pick out shoes. </s> choose a tennis ball. 1
+playing tennis: </s> put on tennis shoes. </s> pick out shoes. 0
+playing tennis: </s> go to the court. </s> pick out shoes. 0
+playing tennis: </s> play tennis. </s> pick out shoes. 0
+playing tennis: </s> choose a tennis ball. </s> put on tennis shoes. 1
+playing tennis: </s> choose a tennis ball. </s> go to the court. 1
+playing tennis: </s> play tennis. </s> choose a tennis ball. 0
+playing tennis: </s> put on tennis shoes. </s> go to the court. 1
+playing tennis: </s> play tennis. </s> put on tennis shoes. 0
+playing tennis: </s> play tennis. </s> go to the court. 0
+playing tennis: </s> set up a racket </s> get into tennis shoes 0
+playing tennis: </s> set the right racket settings </s> get into tennis shoes 0
+playing tennis: </s> get into tennis shoes </s> put your racket on the floor 1
+playing tennis: </s> get into tennis shoes </s> get on the court 1
+playing tennis: </s> get into tennis shoes </s> get your ball in your hand 1
+playing tennis: </s> play </s> get into tennis shoes 0
+playing tennis: </s> set the right racket settings </s> set up a racket 0
+playing tennis: </s> put your racket on the floor </s> set up a racket 0
+playing tennis: </s> set up a racket </s> get on the court 1
+playing tennis: </s> get your ball in your hand </s> set up a racket 0
+playing tennis: </s> set up a racket </s> play 1
+playing tennis: </s> set the right racket settings </s> put your racket on the floor 1
+playing tennis: </s> set the right racket settings </s> get on the court 1
+playing tennis: </s> set the right racket settings </s> get your ball in your hand 1
+playing tennis: </s> set the right racket settings </s> play 1
+playing tennis: </s> put your racket on the floor </s> get on the court 1
+playing tennis: </s> get your ball in your hand </s> put your racket on the floor 0
+playing tennis: </s> play </s> put your racket on the floor 0
+playing tennis: </s> get on the court </s> get your ball in your hand 1
+playing tennis: </s> get on the court </s> play 1
+playing tennis: </s> play </s> get your ball in your hand 0
+playing tennis: </s> get out tennis shoes </s> take to changing room 1
+playing tennis: </s> get out tennis shoes </s> put on tennis shoes 1
+playing tennis: </s> put on tennis ball </s> get out tennis shoes 0
+playing tennis: </s> get out tennis shoes </s> go to the court 1
+playing tennis: </s> get out tennis shoes </s> play with tennis ball 1
+playing tennis: </s> take to changing room </s> put on tennis shoes 1
+playing tennis: </s> put on tennis ball </s> take to changing room 0
+playing tennis: </s> go to the court </s> take to changing room 0
+playing tennis: </s> play with tennis ball </s> take to changing room 0
+playing tennis: </s> put on tennis shoes </s> put on tennis ball 1
+playing tennis: </s> put on tennis shoes </s> go to the court 1
+playing tennis: </s> play with tennis ball </s> put on tennis shoes 0
+playing tennis: </s> put on tennis ball </s> go to the court 1
+playing tennis: </s> put on tennis ball </s> play with tennis ball 1
+playing tennis: </s> go to the court </s> play with tennis ball 1
+going to the theater: </s> find the theater </s> get a ticket 1
+going to the theater: </s> find the theater </s> go to the theater 1
+going to the theater: </s> wait in line to purchase your ticket </s> find the theater 0
+going to the theater: </s> find the theater </s> get your ticket back 1
+going to the theater: </s> go to your seat </s> find the theater 0
+going to the theater: </s> find the theater </s> when your turn comes, go to your seat 1
+going to the theater: </s> watch your movie </s> find the theater 0
+going to the theater: </s> find the theater </s> leave theater 1
+going to the theater: </s> go to the theater </s> get a ticket 0
+going to the theater: </s> get a ticket </s> wait in line to purchase your ticket 1
+going to the theater: </s> get your ticket back </s> get a ticket 0
+going to the theater: </s> get a ticket </s> go to your seat 1
+going to the theater: </s> when your turn comes, go to your seat </s> get a ticket 0
+going to the theater: </s> get a ticket </s> watch your movie 1
+going to the theater: </s> leave theater </s> get a ticket 0
+going to the theater: </s> wait in line to purchase your ticket </s> go to the theater 0
+going to the theater: </s> go to the theater </s> get your ticket back 1
+going to the theater: </s> go to the theater </s> go to your seat 1
+going to the theater: </s> when your turn comes, go to your seat </s> go to the theater 0
+going to the theater: </s> go to the theater </s> watch your movie 1
+going to the theater: </s> leave theater </s> go to the theater 0
+going to the theater: </s> get your ticket back </s> wait in line to purchase your ticket 0
+going to the theater: </s> go to your seat </s> wait in line to purchase your ticket 0
+going to the theater: </s> wait in line to purchase your ticket </s> when your turn comes, go to your seat 1
+going to the theater: </s> watch your movie </s> wait in line to purchase your ticket 0
+going to the theater: </s> leave theater </s> wait in line to purchase your ticket 0
+going to the theater: </s> get your ticket back </s> go to your seat 1
+going to the theater: </s> get your ticket back </s> when your turn comes, go to your seat 1
+going to the theater: </s> get your ticket back </s> watch your movie 1
+going to the theater: </s> get your ticket back </s> leave theater 1
+going to the theater: </s> when your turn comes, go to your seat </s> go to your seat 0
+going to the theater: </s> watch your movie </s> go to your seat 0
+going to the theater: </s> leave theater </s> go to your seat 0
+going to the theater: </s> watch your movie </s> when your turn comes, go to your seat 0
+going to the theater: </s> when your turn comes, go to your seat </s> leave theater 1
+going to the theater: </s> leave theater </s> watch your movie 0
+going to the theater: </s> enter the theater </s> go to the theater 0
+going to the theater: </s> go to the theater </s> go to the ticket counter 1
+going to the theater: </s> get a seat </s> go to the theater 0
+going to the theater: </s> go to your seat </s> go to the theater 0
+going to the theater: </s> when the curtain opens, go to the exit </s> go to the theater 0
+going to the theater: </s> leave the theater </s> go to the theater 0
+going to the theater: </s> go to the ticket counter </s> enter the theater 0
+going to the theater: </s> get a seat </s> enter the theater 0
+going to the theater: </s> enter the theater </s> go to your seat 1
+going to the theater: </s> enter the theater </s> when the curtain opens, go to the exit 1
+going to the theater: </s> leave the theater </s> enter the theater 0
+going to the theater: </s> get a seat </s> go to the ticket counter 0
+going to the theater: </s> go to the ticket counter </s> go to your seat 1
+going to the theater: </s> when the curtain opens, go to the exit </s> go to the ticket counter 0
+going to the theater: </s> leave the theater </s> go to the ticket counter 0
+going to the theater: </s> go to your seat </s> get a seat 0
+going to the theater: </s> get a seat </s> when the curtain opens, go to the exit 1
+going to the theater: </s> leave the theater </s> get a seat 0
+going to the theater: </s> go to your seat </s> when the curtain opens, go to the exit 1
+going to the theater: </s> leave the theater </s> go to your seat 0
+going to the theater: </s> when the curtain opens, go to the exit </s> leave the theater 1
+going to the theater: </s> enter theater </s> wait in line for seat 1
+going to the theater: </s> seat yourself </s> enter theater 0
+going to the theater: </s> enter theater </s> leave the theater 1
+going to the theater: </s> go home </s> enter theater 0
+going to the theater: </s> wait in line for seat </s> seat yourself 1
+going to the theater: </s> leave the theater </s> wait in line for seat 0
+going to the theater: </s> go home </s> wait in line for seat 0
+going to the theater: </s> seat yourself </s> leave the theater 1
+going to the theater: </s> go home </s> seat yourself 0
+going to the theater: </s> go home </s> leave the theater 0
+going to the theater: </s> find your theater </s> enter the theater 1
+going to the theater: </s> go to the theater ticket booth </s> find your theater 0
+going to the theater: </s> purchase your ticket </s> find your theater 0
+going to the theater: </s> find your theater </s> wait in line to enter the theater 1
+going to the theater: </s> find your theater </s> go to the seats 1
+going to the theater: </s> sit down </s> find your theater 0
+going to the theater: </s> watch the show </s> find your theater 0
+going to the theater: </s> enter the theater </s> go to the theater ticket booth 1
+going to the theater: </s> enter the theater </s> purchase your ticket 1
+going to the theater: </s> wait in line to enter the theater </s> enter the theater 0
+going to the theater: </s> enter the theater </s> go to the seats 1
+going to the theater: </s> sit down </s> enter the theater 0
+going to the theater: </s> watch the show </s> enter the theater 0
+going to the theater: </s> purchase your ticket </s> go to the theater ticket booth 0
+going to the theater: </s> wait in line to enter the theater </s> go to the theater ticket booth 0
+going to the theater: </s> go to the seats </s> go to the theater ticket booth 0
+going to the theater: </s> go to the theater ticket booth </s> sit down 1
+going to the theater: </s> go to the theater ticket booth </s> watch the show 1
+going to the theater: </s> purchase your ticket </s> wait in line to enter the theater 1
+going to the theater: </s> purchase your ticket </s> go to the seats 1
+going to the theater: </s> sit down </s> purchase your ticket 0
+going to the theater: </s> watch the show </s> purchase your ticket 0
+going to the theater: </s> go to the seats </s> wait in line to enter the theater 0
+going to the theater: </s> sit down </s> wait in line to enter the theater 0
+going to the theater: </s> wait in line to enter the theater </s> watch the show 1
+going to the theater: </s> sit down </s> go to the seats 0
+going to the theater: </s> watch the show </s> go to the seats 0
+going to the theater: </s> sit down </s> watch the show 1
+going to the theater: </s> get dressed </s> go to the theater 1
+going to the theater: </s> get dressed </s> enter the theater 1
+going to the theater: </s> get dressed </s> wait for the movie to start 1
+going to the theater: </s> take a seat in the theater </s> get dressed 0
+going to the theater: </s> enjoy the movie </s> get dressed 0
+going to the theater: </s> go to the theater </s> enter the theater 1
+going to the theater: </s> wait for the movie to start </s> go to the theater 0
+going to the theater: </s> take a seat in the theater </s> go to the theater 0
+going to the theater: </s> enjoy the movie </s> go to the theater 0
+going to the theater: </s> enter the theater </s> wait for the movie to start 1
+going to the theater: </s> take a seat in the theater </s> enter the theater 0
+going to the theater: </s> enter the theater </s> enjoy the movie 1
+going to the theater: </s> take a seat in the theater </s> wait for the movie to start 0
+going to the theater: </s> enjoy the movie </s> wait for the movie to start 0
+going to the theater: </s> enjoy the movie </s> take a seat in the theater 0
+taking a child to bed: </s> get out of bed. </s> put clothes on. 1
+taking a child to bed: </s> drive to bed time. </s> get out of bed. 0
+taking a child to bed: </s> get out of bed. </s> open the door and allow your child to enter. 1
+taking a child to bed: </s> put clothes on. </s> drive to bed time. 1
+taking a child to bed: </s> put clothes on. </s> open the door and allow your child to enter. 1
+taking a child to bed: </s> open the door and allow your child to enter. </s> drive to bed time. 0
+taking a child to bed: </s> put a pillow under the child's head </s> go to your bed 0
+taking a child to bed: </s> close the door to your room </s> go to your bed 0
+taking a child to bed: </s> allow your child to sleep </s> go to your bed 0
+taking a child to bed: </s> put a pillow under the child's head </s> close the door to your room 1
+taking a child to bed: </s> put a pillow under the child's head </s> allow your child to sleep 1
+taking a child to bed: </s> close the door to your room </s> allow your child to sleep 1
+taking a child to bed: </s> put on new clothes </s> pick out baby bed 0
+taking a child to bed: </s> pick out baby bed </s> put in new bedsheets 1
+taking a child to bed: </s> close the door </s> pick out baby bed 0
+taking a child to bed: </s> pick out baby bed </s> lay down in bed 1
+taking a child to bed: </s> pull the covers back </s> pick out baby bed 0
+taking a child to bed: </s> lay down in the bed </s> pick out baby bed 0
+taking a child to bed: </s> pick out baby bed </s> pull the covers back and allow the child to sleep 1
+taking a child to bed: </s> put on new clothes </s> put in new bedsheets 1
+taking a child to bed: </s> put on new clothes </s> close the door 1
+taking a child to bed: </s> put on new clothes </s> lay down in bed 1
+taking a child to bed: </s> pull the covers back </s> put on new clothes 0
+taking a child to bed: </s> put on new clothes </s> lay down in the bed 1
+taking a child to bed: </s> put on new clothes </s> pull the covers back and allow the child to sleep 1
+taking a child to bed: </s> put in new bedsheets </s> close the door 1
+taking a child to bed: </s> lay down in bed </s> put in new bedsheets 0
+taking a child to bed: </s> pull the covers back </s> put in new bedsheets 0
+taking a child to bed: </s> put in new bedsheets </s> lay down in the bed 1
+taking a child to bed: </s> pull the covers back and allow the child to sleep </s> put in new bedsheets 0
+taking a child to bed: </s> close the door </s> lay down in bed 1
+taking a child to bed: </s> pull the covers back </s> close the door 0
+taking a child to bed: </s> lay down in the bed </s> close the door 0
+taking a child to bed: </s> pull the covers back and allow the child to sleep </s> close the door 0
+taking a child to bed: </s> pull the covers back </s> lay down in bed 0
+taking a child to bed: </s> lay down in bed </s> lay down in the bed 1
+taking a child to bed: </s> lay down in bed </s> pull the covers back and allow the child to sleep 1
+taking a child to bed: </s> pull the covers back </s> lay down in the bed 1
+taking a child to bed: </s> pull the covers back and allow the child to sleep </s> pull the covers back 0
+taking a child to bed: </s> lay down in the bed </s> pull the covers back and allow the child to sleep 1
+taking a child to bed: </s> take the child to the bedroom </s> close the door 1
+taking a child to bed: </s> take the child to the bedroom </s> put the child on the bed 1
+taking a child to bed: </s> put the child on the mattress </s> take the child to the bedroom 0
+taking a child to bed: </s> put the child on the bed </s> close the door 0
+taking a child to bed: </s> put the child on the mattress </s> close the door 0
+taking a child to bed: </s> put the child on the bed </s> put the child on the mattress 1
+taking a child to bed: </s> dress the child </s> put the child in bed 1
+taking a child to bed: </s> dress the child </s> wake the child 1
+taking a child to bed: </s> put on bed clothes </s> dress the child 0
+taking a child to bed: </s> wake the child </s> put the child in bed 0
+taking a child to bed: </s> put the child in bed </s> put on bed clothes 1
+taking a child to bed: </s> put on bed clothes </s> wake the child 0

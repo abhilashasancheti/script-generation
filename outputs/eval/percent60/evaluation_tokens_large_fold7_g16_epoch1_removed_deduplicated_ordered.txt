@@ -1,0 +1,5 @@
+<BOS> <SCR> having a barbecue <ESCR>: 1. gather a large amount of meat for a big piece of meat. 2. gather all of the food necessary to cook a hot dog. 3. gather a small amount of ground for the small piece of ground that will be used as a bonfire. 4. fill the larger portion of the ground with the large portion of the ground. 5. place the meat in the large piece of ground that was made. 6. keep a small amount of dirt in th 7. pile up the meat until it is about halfway full.
+<BOS> <SCR> ordering a pizza <ESCR>: 1. call pizza place 2. order 3. have pizza delivered 4. pay 5. have a pizza 6. enjoy pizza
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. let water and soap mix 2. add a drop of dish soap 3. scrub with a sponge 4. rinse with clean water
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. find eggs 2. get eggs out of fridge 3. add noodles 4. add sauce 5. put eggs into pan
+<BOS> <SCR> taking the underground <ESCR>: 1. drive to underground park 2. walk to the right entrance

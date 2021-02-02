@@ -1,0 +1,42 @@
+washing dishes;wash dishes 
+washing dishes;turn on water 
+washing dishes;add soap 
+making a bonfire;put fuel in the fire 
+making a bonfire;fill the wood with charcoal 
+making a bonfire;turn the fire on 
+making a bonfire;set up the fire 
+making a bonfire;enjoy the smoke 
+making a bonfire;light the charcoal 
+going to the sauna;pay the attendant 
+going to the sauna;get out of the sauna 
+going to the sauna;drive to the sauna 
+going to the sauna;sit and change into the appropriate clothes 
+going to the sauna;close the door 
+going to the sauna;use the soap 
+going to the sauna;get into the sauna 
+going to the sauna;undress 
+going to the sauna;make an appointment 
+making coffee;pour some milk in the pot 
+making coffee;take the coffee pot 
+making coffee;add a pinch of salt 
+making coffee;get the water in the pot 
+making coffee;turn off the stove 
+making coffee;pour the milk into the coffee pot 
+making coffee;pour some milk into the sugar 
+making coffee;pour the hot water into the coffee pot 
+making coffee;turn on the stove 
+making coffee;boil the water 
+making coffee;let it heat 
+making coffee;put the hot water into the pot 
+making coffee;pour some sugar into the pot 
+going to the swimming pool;go to the swim pool 
+going to the swimming pool;register for the pool 
+going to the swimming pool;choose your swimsuit 
+going to the swimming pool;get in line 
+going to the swimming pool;choose your water temperature 
+going to the swimming pool;get in the water 
+going to the swimming pool;get out of the pool 
+going to the swimming pool;put your swimsuits on 
+going to the swimming pool;get dressed 
+going to the swimming pool;arrive at the swimming pool 
+going to the swimming pool;take your swimsuits off 

@@ -1,0 +1,27 @@
+having a barbecue;prepare food;get ready to go out
+having a barbecue;get ready to go out;put away food
+having a barbecue;put away food;put away all food
+ordering a pizza;wait for order;get your pizza
+ordering a pizza;walk up to counter;purchase pizza
+ordering a pizza;purchase pizza;wait for order
+ordering a pizza;drive to pizza place;walk up to counter
+ordering a pizza;get your pizza;eat the pizza
+cleaning up a flat;wash with rag;rinse soap off your hands
+cleaning up a flat;put soap on your hands;wash with rag
+cleaning up a flat;get a rag;wet rag
+cleaning up a flat;wet rag;take a piece of soap
+cleaning up a flat;take a piece of soap;put soap on your hands
+making scrambled eggs;put eggs in a strainer;put strainer in kitchen sink
+making scrambled eggs;get a strainer;put in the strainer
+making scrambled eggs;stir;get a strainer
+making scrambled eggs;put strainer in kitchen sink;put in the sink
+making scrambled eggs;put in the strainer;add some of the cooked water
+making scrambled eggs;get out eggs;put eggs in a strainer
+making scrambled eggs;put in the sink;get a big pan
+making scrambled eggs;get a big pan;put eggs in the pan
+making scrambled eggs;put eggs in the pan;stir
+making scrambled eggs;add some of the cooked water;turn on the stove
+taking the underground;put a tarp over you.;leave the building.
+taking the underground;find an open area.;find water.
+taking the underground;find water.;put a tarp over you.
+taking the underground;enter underground.;find an open area.

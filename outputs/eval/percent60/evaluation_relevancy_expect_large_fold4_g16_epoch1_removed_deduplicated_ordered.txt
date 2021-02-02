@@ -1,0 +1,20 @@
+washing dishes;turn the washing machine on 
+washing dishes;put dish in the dishwasher 
+washing dishes;take out the dirty dishes 
+washing dishes;wait for the water to turn the soap 
+washing dishes;wash the dishes with soap 
+washing dishes;put the dish in the washing machine 
+making a bonfire;gather supplies 
+making a bonfire;light matches 
+making a bonfire;light wood and charcoal 
+going to the sauna;get in the sauna 
+going to the sauna;get your bath towel 
+going to the sauna;dry off 
+going to the sauna;leave 
+making coffee;get coffee maker 
+making coffee;add flavorings 
+making coffee;let it sit 
+making coffee;pour coffee into a cup 
+going to the swimming pool;give a card to the clerk 
+going to the swimming pool;walk up to the counter 
+going to the swimming pool;swim pool 

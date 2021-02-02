@@ -1,0 +1,37 @@
+washing dishes;get soap;turn on water
+washing dishes;put soap in hand;add shampoo
+washing dishes;turn on water;pour soap in dish
+washing dishes;pour soap in dish;put soap in hand
+washing dishes;add shampoo;grab wash cloth
+washing dishes;turn off water;repeat until all dishes are clean
+washing dishes;grab wash cloth;apply soap on dishes
+washing dishes;apply soap on dishes;turn off water
+making a bonfire;wait for fire to reach a certain temperature;put the charcoal back into the wood.
+making a bonfire;set up the fire;fill the wood with charcoal
+making a bonfire;light the charcoal;wait for fire to reach a certain temperature
+making a bonfire;turn the fire on;light the charcoal
+making a bonfire;put wood on the fire;set up the fire
+making a bonfire;fill the wood with charcoal;turn the fire on
+going to the sauna;turn off water;leave sauna
+going to the sauna;turn on water temperature;take off clothes
+going to the sauna;get into sauna;start sauna
+going to the sauna;take off clothes;get into sauna
+going to the sauna;leave sauna;return home
+going to the sauna;pack a towel;turn on water temperature
+going to the sauna;start sauna;turn off water
+making coffee;get mug;go to coffee shop
+making coffee;pour a bit more of water into cup;take mug out of cupboard
+making coffee;fill water to the top;put mug back into drawer
+making coffee;pour some coffee into cup;pour a bit more of water into cup
+making coffee;put mug back into drawer;place coffee on counter
+making coffee;place coffee on counter;wait for coffee to brew
+making coffee;sit in front of coffee shop;pour some coffee into cup
+making coffee;go to coffee shop;sit in front of coffee shop
+making coffee;take mug out of cupboard;fill water to the top
+making coffee;wait for coffee to brew;grab mug and leave
+going to the swimming pool;let your head go limp when you're dry.;dry off.
+going to the swimming pool;find a comfortable place to stand while you are in the water.;let your head go limp when you're dry.
+going to the swimming pool;get in the water.;find a comfortable place to stand while you are in the water.
+going to the swimming pool;get dressed.;change into comfortable clothes.
+going to the swimming pool;change into comfortable clothes.;adjust the water so it doesn't bother you.
+going to the swimming pool;adjust the water so it doesn't bother you.;get in the water.

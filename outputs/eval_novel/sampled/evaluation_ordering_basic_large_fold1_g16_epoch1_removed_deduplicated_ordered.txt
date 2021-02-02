@@ -1,0 +1,86 @@
+ordering fastfood online;make a list of things you want to order from;go to the fast food restaurant
+ordering fastfood online;choose what you want to order;order the food
+ordering fastfood online;go to the fast food restaurant;choose what you want to order
+ordering fastfood online;wait for your food to be done;pay at the counter
+ordering fastfood online;order the food;take your order at the counter
+ordering fastfood online;take your order at the counter;wait for your food to be done
+cooking in a microwave;add pasta to butter or butter substitute;wait for butter or butter substitute to melt
+cooking in a microwave;put hot water in microwave;wait for water to heat
+cooking in a microwave;when water is boiling, add salt;add butter or butter substitute
+cooking in a microwave;put water in microwave;put hot water in microwave
+cooking in a microwave;wait for water to heat;when water is boiling, add salt
+cooking in a microwave;add butter or butter substitute;add pasta to butter or butter substitute
+answering telephone;answer the question;hang up
+answering telephone;wait for them to call you back;answer the question
+answering telephone;turn on phone;dial the number
+answering telephone;dial the number;wait for them to call you back
+buying from a vending machine;go to counter;locate machine
+buying from a vending machine;locate machine;give order
+buying from a vending machine;give order;place items in slot
+buying from a vending machine;place items in slot;wait for items to be picked up
+buying from a vending machine;wait for items to be picked up;pay for additional items
+buying from a vending machine;pick out desired number of items to buy;go to counter
+buying from a vending machine;pay;take items
+buying from a vending machine;take items;exit kiosk
+buying from a vending machine;pay for additional items;pay
+tying shoe laces;pick out a new set of laces.;put shoes on.
+tying shoe laces;take off shoes.;pick out a new set of laces.
+tying shoe laces;tie shoe laces to shoe.;hang up shoes.
+tying shoe laces;put shoes on.;pick up shoe that you want to tie laces.
+tying shoe laces;pick up shoe that you want to tie laces.;tie shoe laces to shoe.
+brushing teeth;use your teeth to brush;wait for your teeth to come out of your mouth
+brushing teeth;wait for your teeth to come out of your mouth;floss
+brushing teeth;floss;clean your teeth
+brushing teeth;get teeth wet;use your teeth to brush
+making ginger paste;get your bowl;turn on the hot water
+making ginger paste;add salt to the paste;put the bowl on a rack
+making ginger paste;turn on the hot water;whisk a bowl of sugar into a paste
+making ginger paste;pour the hot water into a saucepan;put some salt and sugar in the saucepan
+making ginger paste;whisk a bowl of sugar into a paste;put the bowl on the stove
+making ginger paste;pour the sauce on to the bowl;eat the paste
+making ginger paste;put the bowl on a rack;pour the hot water into a saucepan
+making ginger paste;boil the paste;add salt to the paste
+making ginger paste;get your hot water;get your bowl
+making ginger paste;put some salt and sugar in the saucepan;turn the heat on
+making ginger paste;turn the heat on;pour the sauce on to the bowl
+making ginger paste;put the bowl on the stove;boil the paste
+going for a wedding;decide on a wedding venue.;get in the car.
+going for a wedding;drive to the ceremony location.;listen to the ceremony.
+going for a wedding;get in the car.;drive to the ceremony location.
+going for a wedding;listen to the ceremony.;when ceremony is over, drive home.
+attending a wedding;invite the friends/ family/ coworkers/ etc. to the wedding;present your wedding present to the guests
+attending a wedding;drive to the venue;show your guest information
+attending a wedding;take the invitation;go to the reception
+attending a wedding;present your wedding present to the guests;make the guest list
+attending a wedding;show your guest information;present your wedding ceremony/ reception to the guests
+attending a wedding;present your wedding ceremony/ reception to the guests;invite the friends/ family/ coworkers/ etc. to the wedding
+attending a wedding;make the guest list;take the invitation
+attending a wedding;schedule an appointment for the reception;drive to the venue
+attending a wedding;go to the reception;leave the venue
+washing a car;apply car wash;rinse
+washing a car;apply water to car body;apply car wash
+washing a car;remove any car parts;apply water to car body
+taking out trash;pick up trash bag;pour trash into trash bag
+taking out trash;find trash bag;grab trash bag
+taking out trash;grab trash bag;pick up trash bag
+taking out trash;pour trash into trash bag;put trash bag in trunk
+taking a taxi;enter the car;pay the fare
+taking a taxi;wait for taxi;enter the car
+taking a taxi;get in car;wait for taxi
+taking a taxi;get out the driver;exit car
+taking a taxi;pay the fare;get out the driver
+taking a taxi;get into car;get in car
+taking a taxi;exit car;get out the door
+surfing the internet;rent a surfboard.;get in the car.
+surfing the internet;get in the car.;go to the surfing.
+watching television;place a hand on the remote.;turn on television.
+watching television;find a show on screen.;place a hand on the remote.
+watching television;choose when to watch show.;wait for the show to finish.
+watching television;select an episode.;choose when to watch show.
+watching television;wait for the show to finish.;switch off remote.
+watching television;turn on television.;select an episode.
+going to a club to dance;choose which club to attend.;get in your car.
+going to a club to dance;enter the club.;get up and dance.
+going to a club to dance;drive or park your car.;enter the club.
+going to a club to dance;get in your car.;go to the club.
+going to a club to dance;go to the club.;drive or park your car.

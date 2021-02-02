@@ -1,0 +1,2216 @@
+planting a tree: </s> dig a hole </s> loosen soil around hole 1
+planting a tree: </s> dig a hole </s> remove tree from container 1
+planting a tree: </s> place tree in hole </s> dig a hole 0
+planting a tree: </s> dig a hole </s> cover with dirt 1
+planting a tree: </s> loosen soil around hole </s> remove tree from container 1
+planting a tree: </s> place tree in hole </s> loosen soil around hole 0
+planting a tree: </s> loosen soil around hole </s> cover with dirt 1
+planting a tree: </s> remove tree from container </s> place tree in hole 1
+planting a tree: </s> cover with dirt </s> remove tree from container 0
+planting a tree: </s> place tree in hole </s> cover with dirt 1
+planting a tree: </s> go outside </s> find a suitable area 1
+planting a tree: </s> go outside </s> measure depth of required hole 1
+planting a tree: </s> use shovel to dig hole </s> go outside 0
+planting a tree: </s> go outside </s> place sapling into the hole 1
+planting a tree: </s> go outside </s> refill hole with remaining dirt 1
+planting a tree: </s> pat gently to secure sapling </s> go outside 0
+planting a tree: </s> go outside </s> put tools away 1
+planting a tree: </s> find a suitable area </s> measure depth of required hole 1
+planting a tree: </s> use shovel to dig hole </s> find a suitable area 0
+planting a tree: </s> find a suitable area </s> place sapling into the hole 1
+planting a tree: </s> refill hole with remaining dirt </s> find a suitable area 0
+planting a tree: </s> pat gently to secure sapling </s> find a suitable area 0
+planting a tree: </s> put tools away </s> find a suitable area 0
+planting a tree: </s> measure depth of required hole </s> use shovel to dig hole 1
+planting a tree: </s> place sapling into the hole </s> measure depth of required hole 0
+planting a tree: </s> refill hole with remaining dirt </s> measure depth of required hole 0
+planting a tree: </s> pat gently to secure sapling </s> measure depth of required hole 0
+planting a tree: </s> measure depth of required hole </s> put tools away 1
+planting a tree: </s> place sapling into the hole </s> use shovel to dig hole 0
+planting a tree: </s> use shovel to dig hole </s> refill hole with remaining dirt 1
+planting a tree: </s> use shovel to dig hole </s> pat gently to secure sapling 1
+planting a tree: </s> use shovel to dig hole </s> put tools away 1
+planting a tree: </s> place sapling into the hole </s> refill hole with remaining dirt 1
+planting a tree: </s> place sapling into the hole </s> pat gently to secure sapling 1
+planting a tree: </s> place sapling into the hole </s> put tools away 1
+planting a tree: </s> refill hole with remaining dirt </s> pat gently to secure sapling 1
+planting a tree: </s> refill hole with remaining dirt </s> put tools away 1
+planting a tree: </s> put tools away </s> pat gently to secure sapling 0
+planting a tree: </s> selecting the site to plant tree </s> dig hole for tree 1
+planting a tree: </s> selecting the site to plant tree </s> put a small amount of water in hole 1
+planting a tree: </s> selecting the site to plant tree </s> score roots to ensure good root growth 1
+planting a tree: </s> place tree in hole </s> selecting the site to plant tree 0
+planting a tree: </s> selecting the site to plant tree </s> cover hole with soil 1
+planting a tree: </s> put a small amount of water in hole </s> dig hole for tree 0
+planting a tree: </s> dig hole for tree </s> score roots to ensure good root growth 1
+planting a tree: </s> place tree in hole </s> dig hole for tree 0
+planting a tree: </s> dig hole for tree </s> cover hole with soil 1
+planting a tree: </s> score roots to ensure good root growth </s> put a small amount of water in hole 0
+planting a tree: </s> place tree in hole </s> put a small amount of water in hole 0
+planting a tree: </s> cover hole with soil </s> put a small amount of water in hole 0
+planting a tree: </s> place tree in hole </s> score roots to ensure good root growth 0
+planting a tree: </s> score roots to ensure good root growth </s> cover hole with soil 1
+planting a tree: </s> place tree in hole </s> cover hole with soil 1
+planting a tree: </s> get shovel and watering can </s> acquire sapling 0
+planting a tree: </s> acquire sapling </s> fill watering can 1
+planting a tree: </s> go outside </s> acquire sapling 0
+planting a tree: </s> acquire sapling </s> dig hole 1
+planting a tree: </s> place sapling in hole </s> acquire sapling 0
+planting a tree: </s> acquire sapling </s> fill hole with dirt 1
+planting a tree: </s> tamp down dirt </s> acquire sapling 0
+planting a tree: </s> acquire sapling </s> water sapling 1
+planting a tree: </s> put away shovel and watering can </s> acquire sapling 0
+planting a tree: </s> get shovel and watering can </s> fill watering can 1
+planting a tree: </s> go outside </s> get shovel and watering can 0
+planting a tree: </s> dig hole </s> get shovel and watering can 0
+planting a tree: </s> place sapling in hole </s> get shovel and watering can 0
+planting a tree: </s> fill hole with dirt </s> get shovel and watering can 0
+planting a tree: </s> tamp down dirt </s> get shovel and watering can 0
+planting a tree: </s> water sapling </s> get shovel and watering can 0
+planting a tree: </s> get shovel and watering can </s> put away shovel and watering can 1
+planting a tree: </s> fill watering can </s> go outside 1
+planting a tree: </s> fill watering can </s> dig hole 1
+planting a tree: </s> place sapling in hole </s> fill watering can 0
+planting a tree: </s> fill watering can </s> fill hole with dirt 1
+planting a tree: </s> fill watering can </s> tamp down dirt 1
+planting a tree: </s> water sapling </s> fill watering can 0
+planting a tree: </s> put away shovel and watering can </s> fill watering can 0
+planting a tree: </s> dig hole </s> go outside 0
+planting a tree: </s> go outside </s> place sapling in hole 1
+planting a tree: </s> go outside </s> fill hole with dirt 1
+planting a tree: </s> tamp down dirt </s> go outside 0
+planting a tree: </s> water sapling </s> go outside 0
+planting a tree: </s> put away shovel and watering can </s> go outside 0
+planting a tree: </s> dig hole </s> place sapling in hole 1
+planting a tree: </s> fill hole with dirt </s> dig hole 0
+planting a tree: </s> tamp down dirt </s> dig hole 0
+planting a tree: </s> dig hole </s> water sapling 1
+planting a tree: </s> dig hole </s> put away shovel and watering can 1
+planting a tree: </s> fill hole with dirt </s> place sapling in hole 0
+planting a tree: </s> tamp down dirt </s> place sapling in hole 0
+planting a tree: </s> water sapling </s> place sapling in hole 0
+planting a tree: </s> place sapling in hole </s> put away shovel and watering can 1
+planting a tree: </s> tamp down dirt </s> fill hole with dirt 0
+planting a tree: </s> fill hole with dirt </s> water sapling 1
+planting a tree: </s> fill hole with dirt </s> put away shovel and watering can 1
+planting a tree: </s> tamp down dirt </s> water sapling 1
+planting a tree: </s> tamp down dirt </s> put away shovel and watering can 1
+planting a tree: </s> put away shovel and watering can </s> water sapling 0
+planting a tree: </s> water the hole </s> dig a hole 0
+planting a tree: </s> put the tree in hole </s> dig a hole 0
+planting a tree: </s> cover the tree with dirt </s> dig a hole 0
+planting a tree: </s> fertilize </s> dig a hole 0
+planting a tree: </s> dig a hole </s> water again 1
+planting a tree: </s> put the tree in hole </s> water the hole 0
+planting a tree: </s> cover the tree with dirt </s> water the hole 0
+planting a tree: </s> fertilize </s> water the hole 0
+planting a tree: </s> water the hole </s> water again 1
+planting a tree: </s> cover the tree with dirt </s> put the tree in hole 0
+planting a tree: </s> put the tree in hole </s> fertilize 1
+planting a tree: </s> water again </s> put the tree in hole 0
+planting a tree: </s> cover the tree with dirt </s> fertilize 1
+planting a tree: </s> water again </s> cover the tree with dirt 0
+planting a tree: </s> water again </s> fertilize 0
+planting a tree: </s> take tree home. </s> go to nursery to pick out a tree. 0
+planting a tree: </s> look for the best place for the tree </s> go to nursery to pick out a tree. 0
+planting a tree: </s> go to nursery to pick out a tree. </s> dig a deep hole. 1
+planting a tree: </s> go to nursery to pick out a tree. </s> place tree in hole. 1
+planting a tree: </s> fill the hole </s> go to nursery to pick out a tree. 0
+planting a tree: </s> water as needed </s> go to nursery to pick out a tree. 0
+planting a tree: </s> look for the best place for the tree </s> take tree home. 0
+planting a tree: </s> dig a deep hole. </s> take tree home. 0
+planting a tree: </s> take tree home. </s> place tree in hole. 1
+planting a tree: </s> take tree home. </s> fill the hole 1
+planting a tree: </s> take tree home. </s> water as needed 1
+planting a tree: </s> dig a deep hole. </s> look for the best place for the tree 0
+planting a tree: </s> place tree in hole. </s> look for the best place for the tree 0
+planting a tree: </s> fill the hole </s> look for the best place for the tree 0
+planting a tree: </s> water as needed </s> look for the best place for the tree 0
+planting a tree: </s> dig a deep hole. </s> place tree in hole. 1
+planting a tree: </s> dig a deep hole. </s> fill the hole 1
+planting a tree: </s> dig a deep hole. </s> water as needed 1
+planting a tree: </s> fill the hole </s> place tree in hole. 0
+planting a tree: </s> water as needed </s> place tree in hole. 0
+planting a tree: </s> water as needed </s> fill the hole 0
+planting a tree: </s> take tree seed outside. </s> with small shovel dig hole. 1
+planting a tree: </s> take tree seed outside. </s> place seed in hole. 1
+planting a tree: </s> cover with soil. </s> take tree seed outside. 0
+planting a tree: </s> water. </s> take tree seed outside. 0
+planting a tree: </s> wait patiently. </s> take tree seed outside. 0
+planting a tree: </s> with small shovel dig hole. </s> place seed in hole. 1
+planting a tree: </s> with small shovel dig hole. </s> cover with soil. 1
+planting a tree: </s> water. </s> with small shovel dig hole. 0
+planting a tree: </s> with small shovel dig hole. </s> wait patiently. 1
+planting a tree: </s> place seed in hole. </s> cover with soil. 1
+planting a tree: </s> water. </s> place seed in hole. 0
+planting a tree: </s> wait patiently. </s> place seed in hole. 0
+planting a tree: </s> cover with soil. </s> water. 1
+planting a tree: </s> cover with soil. </s> wait patiently. 1
+planting a tree: </s> water. </s> wait patiently. 1
+planting a tree: </s> purchase a tree to plant </s> find a location to plant tree 1
+planting a tree: </s> dig hole in ground about 16 inches deep </s> purchase a tree to plant 0
+planting a tree: </s> place tree in hole </s> purchase a tree to plant 0
+planting a tree: </s> purchase a tree to plant </s> fill hole back in with dirt 1
+planting a tree: </s> purchase a tree to plant </s> water tree 1
+planting a tree: </s> dig hole in ground about 16 inches deep </s> find a location to plant tree 0
+planting a tree: </s> place tree in hole </s> find a location to plant tree 0
+planting a tree: </s> find a location to plant tree </s> fill hole back in with dirt 1
+planting a tree: </s> water tree </s> find a location to plant tree 0
+planting a tree: </s> place tree in hole </s> dig hole in ground about 16 inches deep 0
+planting a tree: </s> dig hole in ground about 16 inches deep </s> fill hole back in with dirt 1
+planting a tree: </s> water tree </s> dig hole in ground about 16 inches deep 0
+planting a tree: </s> fill hole back in with dirt </s> place tree in hole 0
+planting a tree: </s> place tree in hole </s> water tree 1
+planting a tree: </s> fill hole back in with dirt </s> water tree 1
+planting a tree: </s> dig whole </s> water ground so it is nice and moist 1
+planting a tree: </s> dig whole </s> put tree in roots down 1
+planting a tree: </s> shovel soil back around tree </s> dig whole 0
+planting a tree: </s> pat down the soil </s> dig whole 0
+planting a tree: </s> dig whole </s> water the soil again 1
+planting a tree: </s> put tree in roots down </s> water ground so it is nice and moist 0
+planting a tree: </s> shovel soil back around tree </s> water ground so it is nice and moist 0
+planting a tree: </s> water ground so it is nice and moist </s> pat down the soil 1
+planting a tree: </s> water ground so it is nice and moist </s> water the soil again 1
+planting a tree: </s> shovel soil back around tree </s> put tree in roots down 0
+planting a tree: </s> put tree in roots down </s> pat down the soil 1
+planting a tree: </s> water the soil again </s> put tree in roots down 0
+planting a tree: </s> pat down the soil </s> shovel soil back around tree 0
+planting a tree: </s> shovel soil back around tree </s> water the soil again 1
+planting a tree: </s> pat down the soil </s> water the soil again 1
+planting a tree: </s> dig hole in the ground. </s> find place in ground with enough space for tree. 0
+planting a tree: </s> find place in ground with enough space for tree. </s> put tree seedling into hole. 1
+planting a tree: </s> find place in ground with enough space for tree. </s> fill hole with dirt and fertilizer. 1
+planting a tree: </s> water tree daily. </s> find place in ground with enough space for tree. 0
+planting a tree: </s> dig hole in the ground. </s> put tree seedling into hole. 1
+planting a tree: </s> dig hole in the ground. </s> fill hole with dirt and fertilizer. 1
+planting a tree: </s> dig hole in the ground. </s> water tree daily. 1
+planting a tree: </s> fill hole with dirt and fertilizer. </s> put tree seedling into hole. 0
+planting a tree: </s> water tree daily. </s> put tree seedling into hole. 0
+planting a tree: </s> water tree daily. </s> fill hole with dirt and fertilizer. 0
+planting a tree: </s> place seed in hole </s> dig a small hole 0
+planting a tree: </s> cover hole with dirt </s> dig a small hole 0
+planting a tree: </s> water seed </s> dig a small hole 0
+planting a tree: </s> dig a small hole </s> keep watch to make sure it grows 1
+planting a tree: </s> place seed in hole </s> cover hole with dirt 1
+planting a tree: </s> place seed in hole </s> water seed 1
+planting a tree: </s> place seed in hole </s> keep watch to make sure it grows 1
+planting a tree: </s> water seed </s> cover hole with dirt 0
+planting a tree: </s> keep watch to make sure it grows </s> cover hole with dirt 0
+planting a tree: </s> keep watch to make sure it grows </s> water seed 0
+planting a tree: </s> get shovel </s> dig hole at least 5 inches bigger then the root ball of tree 1
+planting a tree: </s> get shovel </s> start digging 1
+planting a tree: </s> put water and fertilizer in hole </s> get shovel 0
+planting a tree: </s> get shovel </s> put tree in hole 1
+planting a tree: </s> cover back up with dirt </s> get shovel 0
+planting a tree: </s> start digging </s> dig hole at least 5 inches bigger then the root ball of tree 0
+planting a tree: </s> dig hole at least 5 inches bigger then the root ball of tree </s> put water and fertilizer in hole 1
+planting a tree: </s> dig hole at least 5 inches bigger then the root ball of tree </s> put tree in hole 1
+planting a tree: </s> dig hole at least 5 inches bigger then the root ball of tree </s> cover back up with dirt 1
+planting a tree: </s> put water and fertilizer in hole </s> start digging 0
+planting a tree: </s> put tree in hole </s> start digging 0
+planting a tree: </s> cover back up with dirt </s> start digging 0
+planting a tree: </s> put tree in hole </s> put water and fertilizer in hole 0
+planting a tree: </s> put water and fertilizer in hole </s> cover back up with dirt 1
+planting a tree: </s> cover back up with dirt </s> put tree in hole 0
+planting a tree: </s> get tree and shovel </s> dig an appropriate sized hole for the tree 1
+planting a tree: </s> place the tree in the hole </s> get tree and shovel 0
+planting a tree: </s> get tree and shovel </s> hold the tree upright while filling the hole back up 1
+planting a tree: </s> place a stabilizing stick if need </s> get tree and shovel 0
+planting a tree: </s> water the tree </s> get tree and shovel 0
+planting a tree: </s> dig an appropriate sized hole for the tree </s> place the tree in the hole 1
+planting a tree: </s> dig an appropriate sized hole for the tree </s> hold the tree upright while filling the hole back up 1
+planting a tree: </s> place a stabilizing stick if need </s> dig an appropriate sized hole for the tree 0
+planting a tree: </s> dig an appropriate sized hole for the tree </s> water the tree 1
+planting a tree: </s> hold the tree upright while filling the hole back up </s> place the tree in the hole 0
+planting a tree: </s> place the tree in the hole </s> place a stabilizing stick if need 1
+planting a tree: </s> water the tree </s> place the tree in the hole 0
+planting a tree: </s> place a stabilizing stick if need </s> hold the tree upright while filling the hole back up 0
+planting a tree: </s> hold the tree upright while filling the hole back up </s> water the tree 1
+planting a tree: </s> water the tree </s> place a stabilizing stick if need 0
+planting a tree: </s> dig a hole in the ground. </s> get tree seeds. 0
+planting a tree: </s> get tree seeds. </s> plant seed in ground. 1
+planting a tree: </s> get tree seeds. </s> fill hole up with soil that you used to dig the hole. 1
+planting a tree: </s> get tree seeds. </s> water it. 1
+planting a tree: </s> get tree seeds. </s> wait and watch as it blossoms. 1
+planting a tree: </s> dig a hole in the ground. </s> plant seed in ground. 1
+planting a tree: </s> fill hole up with soil that you used to dig the hole. </s> dig a hole in the ground. 0
+planting a tree: </s> water it. </s> dig a hole in the ground. 0
+planting a tree: </s> dig a hole in the ground. </s> wait and watch as it blossoms. 1
+planting a tree: </s> fill hole up with soil that you used to dig the hole. </s> plant seed in ground. 0
+planting a tree: </s> water it. </s> plant seed in ground. 0
+planting a tree: </s> plant seed in ground. </s> wait and watch as it blossoms. 1
+planting a tree: </s> fill hole up with soil that you used to dig the hole. </s> water it. 1
+planting a tree: </s> wait and watch as it blossoms. </s> fill hole up with soil that you used to dig the hole. 0
+planting a tree: </s> water it. </s> wait and watch as it blossoms. 1
+planting a tree: </s> get a sapling </s> dig hole, larger than root ball of sapling 1
+planting a tree: </s> get a sapling </s> add some topsoil and compost into bottom of hole 1
+planting a tree: </s> get a sapling </s> put tree into hole 1
+planting a tree: </s> get a sapling </s> fill the rest of hole with topsoil 1
+planting a tree: </s> get a sapling </s> add some fertilizer into topsoil 1
+planting a tree: </s> get a sapling </s> put mulch over base of tree 1
+planting a tree: </s> get a sapling </s> water tree deeply 1
+planting a tree: </s> add some topsoil and compost into bottom of hole </s> dig hole, larger than root ball of sapling 0
+planting a tree: </s> dig hole, larger than root ball of sapling </s> put tree into hole 1
+planting a tree: </s> dig hole, larger than root ball of sapling </s> fill the rest of hole with topsoil 1
+planting a tree: </s> dig hole, larger than root ball of sapling </s> add some fertilizer into topsoil 1
+planting a tree: </s> put mulch over base of tree </s> dig hole, larger than root ball of sapling 0
+planting a tree: </s> water tree deeply </s> dig hole, larger than root ball of sapling 0
+planting a tree: </s> put tree into hole </s> add some topsoil and compost into bottom of hole 0
+planting a tree: </s> fill the rest of hole with topsoil </s> add some topsoil and compost into bottom of hole 0
+planting a tree: </s> add some topsoil and compost into bottom of hole </s> add some fertilizer into topsoil 1
+planting a tree: </s> add some topsoil and compost into bottom of hole </s> put mulch over base of tree 1
+planting a tree: </s> water tree deeply </s> add some topsoil and compost into bottom of hole 0
+planting a tree: </s> put tree into hole </s> fill the rest of hole with topsoil 1
+planting a tree: </s> put tree into hole </s> add some fertilizer into topsoil 1
+planting a tree: </s> put tree into hole </s> put mulch over base of tree 1
+planting a tree: </s> put tree into hole </s> water tree deeply 1
+planting a tree: </s> fill the rest of hole with topsoil </s> add some fertilizer into topsoil 1
+planting a tree: </s> put mulch over base of tree </s> fill the rest of hole with topsoil 0
+planting a tree: </s> fill the rest of hole with topsoil </s> water tree deeply 1
+planting a tree: </s> add some fertilizer into topsoil </s> put mulch over base of tree 1
+planting a tree: </s> add some fertilizer into topsoil </s> water tree deeply 1
+planting a tree: </s> water tree deeply </s> put mulch over base of tree 0
+planting a tree: </s> buy a seedling </s> dig a hole 1
+planting a tree: </s> put fertilizer in the hole </s> buy a seedling 0
+planting a tree: </s> buy a seedling </s> plant the seedling 1
+planting a tree: </s> put dirt back around hole </s> buy a seedling 0
+planting a tree: </s> water the seedling </s> buy a seedling 0
+planting a tree: </s> put fertilizer in the hole </s> dig a hole 0
+planting a tree: </s> plant the seedling </s> dig a hole 0
+planting a tree: </s> put dirt back around hole </s> dig a hole 0
+planting a tree: </s> dig a hole </s> water the seedling 1
+planting a tree: </s> plant the seedling </s> put fertilizer in the hole 0
+planting a tree: </s> put fertilizer in the hole </s> put dirt back around hole 1
+planting a tree: </s> put fertilizer in the hole </s> water the seedling 1
+planting a tree: </s> put dirt back around hole </s> plant the seedling 0
+planting a tree: </s> water the seedling </s> plant the seedling 0
+planting a tree: </s> water the seedling </s> put dirt back around hole 0
+planting a tree: </s> buy soil </s> buy a baby tree 0
+planting a tree: </s> buy a baby tree </s> find a plot to plant it 1
+planting a tree: </s> buy a baby tree </s> dig up hole for tree 1
+planting a tree: </s> place tree in hole, making sure trunk is above ground </s> buy a baby tree 0
+planting a tree: </s> buy a baby tree </s> fill hole with soil 1
+planting a tree: </s> buy a baby tree </s> water tree 1
+planting a tree: </s> buy soil </s> find a plot to plant it 1
+planting a tree: </s> dig up hole for tree </s> buy soil 0
+planting a tree: </s> place tree in hole, making sure trunk is above ground </s> buy soil 0
+planting a tree: </s> fill hole with soil </s> buy soil 0
+planting a tree: </s> buy soil </s> water tree 1
+planting a tree: </s> find a plot to plant it </s> dig up hole for tree 1
+planting a tree: </s> find a plot to plant it </s> place tree in hole, making sure trunk is above ground 1
+planting a tree: </s> find a plot to plant it </s> fill hole with soil 1
+planting a tree: </s> water tree </s> find a plot to plant it 0
+planting a tree: </s> place tree in hole, making sure trunk is above ground </s> dig up hole for tree 0
+planting a tree: </s> dig up hole for tree </s> fill hole with soil 1
+planting a tree: </s> water tree </s> dig up hole for tree 0
+planting a tree: </s> fill hole with soil </s> place tree in hole, making sure trunk is above ground 0
+planting a tree: </s> water tree </s> place tree in hole, making sure trunk is above ground 0
+planting a tree: </s> fill hole with soil </s> water tree 1
+planting a tree: </s> find the right spot </s> pick out the tree 0
+planting a tree: </s> dig a hole </s> pick out the tree 0
+planting a tree: </s> unbind the roots </s> pick out the tree 0
+planting a tree: </s> pick out the tree </s> place tree into hole 1
+planting a tree: </s> cover roots with dirt </s> pick out the tree 0
+planting a tree: </s> pick out the tree </s> water tree 1
+planting a tree: </s> dig a hole </s> find the right spot 0
+planting a tree: </s> find the right spot </s> unbind the roots 1
+planting a tree: </s> place tree into hole </s> find the right spot 0
+planting a tree: </s> cover roots with dirt </s> find the right spot 0
+planting a tree: </s> find the right spot </s> water tree 1
+planting a tree: </s> dig a hole </s> unbind the roots 1
+planting a tree: </s> dig a hole </s> place tree into hole 1
+planting a tree: </s> dig a hole </s> cover roots with dirt 1
+planting a tree: </s> water tree </s> dig a hole 0
+planting a tree: </s> unbind the roots </s> place tree into hole 1
+planting a tree: </s> unbind the roots </s> cover roots with dirt 1
+planting a tree: </s> water tree </s> unbind the roots 0
+planting a tree: </s> place tree into hole </s> cover roots with dirt 1
+planting a tree: </s> water tree </s> place tree into hole 0
+planting a tree: </s> water tree </s> cover roots with dirt 0
+planting a tree: </s> go to garden </s> buy seeds 0
+planting a tree: </s> buy seeds </s> dig hole 1
+planting a tree: </s> buy seeds </s> put seed in hole 1
+planting a tree: </s> buy seeds </s> water the seed 1
+planting a tree: </s> cover hole </s> buy seeds 0
+planting a tree: </s> dig hole </s> go to garden 0
+planting a tree: </s> put seed in hole </s> go to garden 0
+planting a tree: </s> go to garden </s> water the seed 1
+planting a tree: </s> cover hole </s> go to garden 0
+planting a tree: </s> put seed in hole </s> dig hole 0
+planting a tree: </s> dig hole </s> water the seed 1
+planting a tree: </s> dig hole </s> cover hole 1
+planting a tree: </s> put seed in hole </s> water the seed 1
+planting a tree: </s> cover hole </s> put seed in hole 0
+planting a tree: </s> cover hole </s> water the seed 0
+planting a tree: </s> get shovel </s> dig hole in the ground 1
+planting a tree: </s> get shovel </s> get suitable tree for planting 1
+planting a tree: </s> get shovel </s> place tree in hole securely 1
+planting a tree: </s> get shovel </s> put dirt back in hole around tree roots 1
+planting a tree: </s> water tree </s> get shovel 0
+planting a tree: </s> dig hole in the ground </s> get suitable tree for planting 1
+planting a tree: </s> dig hole in the ground </s> place tree in hole securely 1
+planting a tree: </s> dig hole in the ground </s> put dirt back in hole around tree roots 1
+planting a tree: </s> water tree </s> dig hole in the ground 0
+planting a tree: </s> place tree in hole securely </s> get suitable tree for planting 0
+planting a tree: </s> put dirt back in hole around tree roots </s> get suitable tree for planting 0
+planting a tree: </s> water tree </s> get suitable tree for planting 0
+planting a tree: </s> place tree in hole securely </s> put dirt back in hole around tree roots 1
+planting a tree: </s> water tree </s> place tree in hole securely 0
+planting a tree: </s> water tree </s> put dirt back in hole around tree roots 0
+planting a tree: </s> dig a hole where you want the tree planted </s> purchase a tree 0
+planting a tree: </s> put some water in the hole </s> purchase a tree 0
+planting a tree: </s> take tree out of container </s> purchase a tree 0
+planting a tree: </s> put in the ground </s> purchase a tree 0
+planting a tree: </s> purchase a tree </s> cover the tree with the dirt you took out of the hole 1
+planting a tree: </s> water again </s> purchase a tree 0
+planting a tree: </s> put some water in the hole </s> dig a hole where you want the tree planted 0
+planting a tree: </s> dig a hole where you want the tree planted </s> take tree out of container 1
+planting a tree: </s> dig a hole where you want the tree planted </s> put in the ground 1
+planting a tree: </s> dig a hole where you want the tree planted </s> cover the tree with the dirt you took out of the hole 1
+planting a tree: </s> water again </s> dig a hole where you want the tree planted 0
+planting a tree: </s> take tree out of container </s> put some water in the hole 0
+planting a tree: </s> put in the ground </s> put some water in the hole 0
+planting a tree: </s> cover the tree with the dirt you took out of the hole </s> put some water in the hole 0
+planting a tree: </s> put some water in the hole </s> water again 1
+planting a tree: </s> take tree out of container </s> put in the ground 1
+planting a tree: </s> take tree out of container </s> cover the tree with the dirt you took out of the hole 1
+planting a tree: </s> water again </s> take tree out of container 0
+planting a tree: </s> cover the tree with the dirt you took out of the hole </s> put in the ground 0
+planting a tree: </s> water again </s> put in the ground 0
+planting a tree: </s> water again </s> cover the tree with the dirt you took out of the hole 0
+planting a tree: </s> get sunglasses </s> get gloves 0
+planting a tree: </s> put on hat </s> get gloves 0
+planting a tree: </s> get gloves </s> get garden supplies 1
+planting a tree: </s> get gloves </s> put on gloves and sunglasses 1
+planting a tree: </s> walk outside </s> get gloves 0
+planting a tree: </s> dig hole </s> get gloves 0
+planting a tree: </s> put tree in hole </s> get gloves 0
+planting a tree: </s> get gloves </s> pack dirt back in 1
+planting a tree: </s> get gloves </s> water 1
+planting a tree: </s> get gloves </s> watch grow 1
+planting a tree: </s> get sunglasses </s> put on hat 1
+planting a tree: </s> get sunglasses </s> get garden supplies 1
+planting a tree: </s> get sunglasses </s> put on gloves and sunglasses 1
+planting a tree: </s> walk outside </s> get sunglasses 0
+planting a tree: </s> get sunglasses </s> dig hole 1
+planting a tree: </s> get sunglasses </s> put tree in hole 1
+planting a tree: </s> pack dirt back in </s> get sunglasses 0
+planting a tree: </s> get sunglasses </s> water 1
+planting a tree: </s> get sunglasses </s> watch grow 1
+planting a tree: </s> get garden supplies </s> put on hat 0
+planting a tree: </s> put on gloves and sunglasses </s> put on hat 0
+planting a tree: </s> walk outside </s> put on hat 0
+planting a tree: </s> dig hole </s> put on hat 0
+planting a tree: </s> put tree in hole </s> put on hat 0
+planting a tree: </s> put on hat </s> pack dirt back in 1
+planting a tree: </s> put on hat </s> water 1
+planting a tree: </s> watch grow </s> put on hat 0
+planting a tree: </s> put on gloves and sunglasses </s> get garden supplies 0
+planting a tree: </s> get garden supplies </s> walk outside 1
+planting a tree: </s> get garden supplies </s> dig hole 1
+planting a tree: </s> put tree in hole </s> get garden supplies 0
+planting a tree: </s> get garden supplies </s> pack dirt back in 1
+planting a tree: </s> get garden supplies </s> water 1
+planting a tree: </s> get garden supplies </s> watch grow 1
+planting a tree: </s> walk outside </s> put on gloves and sunglasses 0
+planting a tree: </s> put on gloves and sunglasses </s> dig hole 1
+planting a tree: </s> put on gloves and sunglasses </s> put tree in hole 1
+planting a tree: </s> put on gloves and sunglasses </s> pack dirt back in 1
+planting a tree: </s> put on gloves and sunglasses </s> water 1
+planting a tree: </s> watch grow </s> put on gloves and sunglasses 0
+planting a tree: </s> dig hole </s> walk outside 0
+planting a tree: </s> walk outside </s> put tree in hole 1
+planting a tree: </s> walk outside </s> pack dirt back in 1
+planting a tree: </s> walk outside </s> water 1
+planting a tree: </s> watch grow </s> walk outside 0
+planting a tree: </s> put tree in hole </s> dig hole 0
+planting a tree: </s> pack dirt back in </s> dig hole 0
+planting a tree: </s> dig hole </s> water 1
+planting a tree: </s> watch grow </s> dig hole 0
+planting a tree: </s> pack dirt back in </s> put tree in hole 0
+planting a tree: </s> water </s> put tree in hole 0
+planting a tree: </s> put tree in hole </s> watch grow 1
+planting a tree: </s> water </s> pack dirt back in 0
+planting a tree: </s> pack dirt back in </s> watch grow 1
+planting a tree: </s> watch grow </s> water 0
+planting a tree: </s> dig a hole </s> find empty grass field 0
+planting a tree: </s> put a seed in the hole </s> find empty grass field 0
+planting a tree: </s> find empty grass field </s> cover hole 1
+planting a tree: </s> wait 20 years </s> find empty grass field 0
+planting a tree: </s> visit tree </s> find empty grass field 0
+planting a tree: </s> put a seed in the hole </s> dig a hole 0
+planting a tree: </s> dig a hole </s> cover hole 1
+planting a tree: </s> dig a hole </s> wait 20 years 1
+planting a tree: </s> visit tree </s> dig a hole 0
+planting a tree: </s> cover hole </s> put a seed in the hole 0
+planting a tree: </s> wait 20 years </s> put a seed in the hole 0
+planting a tree: </s> visit tree </s> put a seed in the hole 0
+planting a tree: </s> cover hole </s> wait 20 years 1
+planting a tree: </s> cover hole </s> visit tree 1
+planting a tree: </s> wait 20 years </s> visit tree 1
+planting a tree: </s> dig a hole </s> get a tree 0
+planting a tree: </s> place tree in hole </s> get a tree 0
+planting a tree: </s> get a tree </s> fill hole with dirt 1
+planting a tree: </s> water tree </s> get a tree 0
+planting a tree: </s> dig a hole </s> place tree in hole 1
+planting a tree: </s> fill hole with dirt </s> dig a hole 0
+planting a tree: </s> dig a hole </s> water tree 1
+planting a tree: </s> fill hole with dirt </s> place tree in hole 0
+planting a tree: </s> water tree </s> place tree in hole 0
+planting a tree: </s> fill hole with dirt </s> water tree 1
+planting a tree: </s> find a good spot that gets plenty of sun. </s> buy the tree of your choice. 0
+planting a tree: </s> dig a hole to accommodate the size you need. </s> buy the tree of your choice. 0
+planting a tree: </s> buy the tree of your choice. </s> take tree out with roots exposed. 1
+planting a tree: </s> put tree into hole. </s> buy the tree of your choice. 0
+planting a tree: </s> buy the tree of your choice. </s> softly put dirt into hole. 1
+planting a tree: </s> buy the tree of your choice. </s> pat dirt down slightly. 1
+planting a tree: </s> water tree. </s> buy the tree of your choice. 0
+planting a tree: </s> find a good spot that gets plenty of sun. </s> dig a hole to accommodate the size you need. 1
+planting a tree: </s> take tree out with roots exposed. </s> find a good spot that gets plenty of sun. 0
+planting a tree: </s> find a good spot that gets plenty of sun. </s> put tree into hole. 1
+planting a tree: </s> find a good spot that gets plenty of sun. </s> softly put dirt into hole. 1
+planting a tree: </s> find a good spot that gets plenty of sun. </s> pat dirt down slightly. 1
+planting a tree: </s> water tree. </s> find a good spot that gets plenty of sun. 0
+planting a tree: </s> dig a hole to accommodate the size you need. </s> take tree out with roots exposed. 1
+planting a tree: </s> dig a hole to accommodate the size you need. </s> put tree into hole. 1
+planting a tree: </s> dig a hole to accommodate the size you need. </s> softly put dirt into hole. 1
+planting a tree: </s> dig a hole to accommodate the size you need. </s> pat dirt down slightly. 1
+planting a tree: </s> water tree. </s> dig a hole to accommodate the size you need. 0
+planting a tree: </s> take tree out with roots exposed. </s> put tree into hole. 1
+planting a tree: </s> softly put dirt into hole. </s> take tree out with roots exposed. 0
+planting a tree: </s> take tree out with roots exposed. </s> pat dirt down slightly. 1
+planting a tree: </s> water tree. </s> take tree out with roots exposed. 0
+planting a tree: </s> put tree into hole. </s> softly put dirt into hole. 1
+planting a tree: </s> put tree into hole. </s> pat dirt down slightly. 1
+planting a tree: </s> water tree. </s> put tree into hole. 0
+planting a tree: </s> pat dirt down slightly. </s> softly put dirt into hole. 0
+planting a tree: </s> softly put dirt into hole. </s> water tree. 1
+planting a tree: </s> pat dirt down slightly. </s> water tree. 1
+planting a tree: </s> purchase a young seedling. </s> go to a nursery. 0
+planting a tree: </s> return home or wherever you will be planting. </s> go to a nursery. 0
+planting a tree: </s> find a shovel. </s> go to a nursery. 0
+planting a tree: </s> go to a nursery. </s> dig a hole deep enough for the plant. 1
+planting a tree: </s> gently place the young tree into the hole. </s> go to a nursery. 0
+planting a tree: </s> cover the hole with dirt. </s> go to a nursery. 0
+planting a tree: </s> go to a nursery. </s> you may wish to use ropes to tie down the tree for extra support while young. 1
+planting a tree: </s> keep plant watered and watch tree grow. </s> go to a nursery. 0
+planting a tree: </s> return home or wherever you will be planting. </s> purchase a young seedling. 0
+planting a tree: </s> find a shovel. </s> purchase a young seedling. 0
+planting a tree: </s> purchase a young seedling. </s> dig a hole deep enough for the plant. 1
+planting a tree: </s> gently place the young tree into the hole. </s> purchase a young seedling. 0
+planting a tree: </s> cover the hole with dirt. </s> purchase a young seedling. 0
+planting a tree: </s> you may wish to use ropes to tie down the tree for extra support while young. </s> purchase a young seedling. 0
+planting a tree: </s> purchase a young seedling. </s> keep plant watered and watch tree grow. 1
+planting a tree: </s> return home or wherever you will be planting. </s> find a shovel. 1
+planting a tree: </s> dig a hole deep enough for the plant. </s> return home or wherever you will be planting. 0
+planting a tree: </s> return home or wherever you will be planting. </s> gently place the young tree into the hole. 1
+planting a tree: </s> cover the hole with dirt. </s> return home or wherever you will be planting. 0
+planting a tree: </s> return home or wherever you will be planting. </s> you may wish to use ropes to tie down the tree for extra support while young. 1
+planting a tree: </s> return home or wherever you will be planting. </s> keep plant watered and watch tree grow. 1
+planting a tree: </s> dig a hole deep enough for the plant. </s> find a shovel. 0
+planting a tree: </s> find a shovel. </s> gently place the young tree into the hole. 1
+planting a tree: </s> cover the hole with dirt. </s> find a shovel. 0
+planting a tree: </s> find a shovel. </s> you may wish to use ropes to tie down the tree for extra support while young. 1
+planting a tree: </s> find a shovel. </s> keep plant watered and watch tree grow. 1
+planting a tree: </s> dig a hole deep enough for the plant. </s> gently place the young tree into the hole. 1
+planting a tree: </s> cover the hole with dirt. </s> dig a hole deep enough for the plant. 0
+planting a tree: </s> you may wish to use ropes to tie down the tree for extra support while young. </s> dig a hole deep enough for the plant. 0
+planting a tree: </s> dig a hole deep enough for the plant. </s> keep plant watered and watch tree grow. 1
+planting a tree: </s> gently place the young tree into the hole. </s> cover the hole with dirt. 1
+planting a tree: </s> you may wish to use ropes to tie down the tree for extra support while young. </s> gently place the young tree into the hole. 0
+planting a tree: </s> keep plant watered and watch tree grow. </s> gently place the young tree into the hole. 0
+planting a tree: </s> you may wish to use ropes to tie down the tree for extra support while young. </s> cover the hole with dirt. 0
+planting a tree: </s> cover the hole with dirt. </s> keep plant watered and watch tree grow. 1
+planting a tree: </s> you may wish to use ropes to tie down the tree for extra support while young. </s> keep plant watered and watch tree grow. 1
+planting a tree: </s> put the roots of the tree in the ground. </s> dig a hole in the ground. 0
+planting a tree: </s> fill rest of hole back up with dirt. </s> dig a hole in the ground. 0
+planting a tree: </s> dig a hole in the ground. </s> pat dirt in. 1
+planting a tree: </s> water the dirt and tree. </s> dig a hole in the ground. 0
+planting a tree: </s> put the roots of the tree in the ground. </s> fill rest of hole back up with dirt. 1
+planting a tree: </s> pat dirt in. </s> put the roots of the tree in the ground. 0
+planting a tree: </s> water the dirt and tree. </s> put the roots of the tree in the ground. 0
+planting a tree: </s> pat dirt in. </s> fill rest of hole back up with dirt. 0
+planting a tree: </s> fill rest of hole back up with dirt. </s> water the dirt and tree. 1
+planting a tree: </s> water the dirt and tree. </s> pat dirt in. 0
+planting a tree: </s> get a shovel </s> go outside 0
+planting a tree: </s> go outside </s> dig a hole 1
+planting a tree: </s> go outside </s> put a nerd in it, i mean the tree 1
+planting a tree: </s> cover the roots with dirt </s> go outside 0
+planting a tree: </s> water the tree </s> go outside 0
+planting a tree: </s> get a shovel </s> dig a hole 1
+planting a tree: </s> put a nerd in it, i mean the tree </s> get a shovel 0
+planting a tree: </s> cover the roots with dirt </s> get a shovel 0
+planting a tree: </s> get a shovel </s> water the tree 1
+planting a tree: </s> dig a hole </s> put a nerd in it, i mean the tree 1
+planting a tree: </s> dig a hole </s> cover the roots with dirt 1
+planting a tree: </s> dig a hole </s> water the tree 1
+planting a tree: </s> put a nerd in it, i mean the tree </s> cover the roots with dirt 1
+planting a tree: </s> water the tree </s> put a nerd in it, i mean the tree 0
+planting a tree: </s> cover the roots with dirt </s> water the tree 1
+planting a tree: </s> get soil </s> get tree in pot 1
+planting a tree: </s> get soil </s> find a spot to plant tree 1
+planting a tree: </s> dig a hole with shovel </s> get soil 0
+planting a tree: </s> place tree in hole </s> get soil 0
+planting a tree: </s> get soil </s> fill hole with soil 1
+planting a tree: </s> get soil </s> flatten soil with shovel 1
+planting a tree: </s> admire tree </s> get soil 0
+planting a tree: </s> find a spot to plant tree </s> get tree in pot 0
+planting a tree: </s> get tree in pot </s> dig a hole with shovel 1
+planting a tree: </s> get tree in pot </s> place tree in hole 1
+planting a tree: </s> get tree in pot </s> fill hole with soil 1
+planting a tree: </s> get tree in pot </s> flatten soil with shovel 1
+planting a tree: </s> get tree in pot </s> admire tree 1
+planting a tree: </s> find a spot to plant tree </s> dig a hole with shovel 1
+planting a tree: </s> place tree in hole </s> find a spot to plant tree 0
+planting a tree: </s> fill hole with soil </s> find a spot to plant tree 0
+planting a tree: </s> flatten soil with shovel </s> find a spot to plant tree 0
+planting a tree: </s> find a spot to plant tree </s> admire tree 1
+planting a tree: </s> dig a hole with shovel </s> place tree in hole 1
+planting a tree: </s> dig a hole with shovel </s> fill hole with soil 1
+planting a tree: </s> dig a hole with shovel </s> flatten soil with shovel 1
+planting a tree: </s> dig a hole with shovel </s> admire tree 1
+planting a tree: </s> fill hole with soil </s> place tree in hole 0
+planting a tree: </s> place tree in hole </s> flatten soil with shovel 1
+planting a tree: </s> admire tree </s> place tree in hole 0
+planting a tree: </s> fill hole with soil </s> flatten soil with shovel 1
+planting a tree: </s> fill hole with soil </s> admire tree 1
+planting a tree: </s> flatten soil with shovel </s> admire tree 1
+planting a tree: </s> get a shovel </s> select location for the tree 0
+planting a tree: </s> select location for the tree </s> dig a hole bigger than the ball on the tree 1
+planting a tree: </s> fill part of the hole with good soil </s> select location for the tree 0
+planting a tree: </s> unwrap the ball of the tree </s> select location for the tree 0
+planting a tree: </s> place the ball of the tree into the hole </s> select location for the tree 0
+planting a tree: </s> select location for the tree </s> fill in the hole with the removed dirt 1
+planting a tree: </s> select location for the tree </s> assure that the trunk is vertical 1
+planting a tree: </s> select location for the tree </s> pack the dirt to affirm the position of the trunk 1
+planting a tree: </s> select location for the tree </s> lightly apply some fertilizer on the surface near the tree 1
+planting a tree: </s> select location for the tree </s> water the area 1
+planting a tree: </s> get a shovel </s> dig a hole bigger than the ball on the tree 1
+planting a tree: </s> fill part of the hole with good soil </s> get a shovel 0
+planting a tree: </s> unwrap the ball of the tree </s> get a shovel 0
+planting a tree: </s> get a shovel </s> place the ball of the tree into the hole 1
+planting a tree: </s> fill in the hole with the removed dirt </s> get a shovel 0
+planting a tree: </s> get a shovel </s> assure that the trunk is vertical 1
+planting a tree: </s> get a shovel </s> pack the dirt to affirm the position of the trunk 1
+planting a tree: </s> lightly apply some fertilizer on the surface near the tree </s> get a shovel 0
+planting a tree: </s> get a shovel </s> water the area 1
+planting a tree: </s> dig a hole bigger than the ball on the tree </s> fill part of the hole with good soil 1
+planting a tree: </s> dig a hole bigger than the ball on the tree </s> unwrap the ball of the tree 1
+planting a tree: </s> place the ball of the tree into the hole </s> dig a hole bigger than the ball on the tree 0
+planting a tree: </s> dig a hole bigger than the ball on the tree </s> fill in the hole with the removed dirt 1
+planting a tree: </s> dig a hole bigger than the ball on the tree </s> assure that the trunk is vertical 1
+planting a tree: </s> dig a hole bigger than the ball on the tree </s> pack the dirt to affirm the position of the trunk 1
+planting a tree: </s> dig a hole bigger than the ball on the tree </s> lightly apply some fertilizer on the surface near the tree 1
+planting a tree: </s> water the area </s> dig a hole bigger than the ball on the tree 0
+planting a tree: </s> fill part of the hole with good soil </s> unwrap the ball of the tree 1
+planting a tree: </s> fill part of the hole with good soil </s> place the ball of the tree into the hole 1
+planting a tree: </s> fill in the hole with the removed dirt </s> fill part of the hole with good soil 0
+planting a tree: </s> fill part of the hole with good soil </s> assure that the trunk is vertical 1
+planting a tree: </s> pack the dirt to affirm the position of the trunk </s> fill part of the hole with good soil 0
+planting a tree: </s> lightly apply some fertilizer on the surface near the tree </s> fill part of the hole with good soil 0
+planting a tree: </s> fill part of the hole with good soil </s> water the area 1
+planting a tree: </s> unwrap the ball of the tree </s> place the ball of the tree into the hole 1
+planting a tree: </s> fill in the hole with the removed dirt </s> unwrap the ball of the tree 0
+planting a tree: </s> unwrap the ball of the tree </s> assure that the trunk is vertical 1
+planting a tree: </s> unwrap the ball of the tree </s> pack the dirt to affirm the position of the trunk 1
+planting a tree: </s> unwrap the ball of the tree </s> lightly apply some fertilizer on the surface near the tree 1
+planting a tree: </s> water the area </s> unwrap the ball of the tree 0
+planting a tree: </s> fill in the hole with the removed dirt </s> place the ball of the tree into the hole 0
+planting a tree: </s> place the ball of the tree into the hole </s> assure that the trunk is vertical 1
+planting a tree: </s> pack the dirt to affirm the position of the trunk </s> place the ball of the tree into the hole 0
+planting a tree: </s> lightly apply some fertilizer on the surface near the tree </s> place the ball of the tree into the hole 0
+planting a tree: </s> place the ball of the tree into the hole </s> water the area 1
+planting a tree: </s> fill in the hole with the removed dirt </s> assure that the trunk is vertical 1
+planting a tree: </s> pack the dirt to affirm the position of the trunk </s> fill in the hole with the removed dirt 0
+planting a tree: </s> fill in the hole with the removed dirt </s> lightly apply some fertilizer on the surface near the tree 1
+planting a tree: </s> fill in the hole with the removed dirt </s> water the area 1
+planting a tree: </s> assure that the trunk is vertical </s> pack the dirt to affirm the position of the trunk 1
+planting a tree: </s> lightly apply some fertilizer on the surface near the tree </s> assure that the trunk is vertical 0
+planting a tree: </s> water the area </s> assure that the trunk is vertical 0
+planting a tree: </s> pack the dirt to affirm the position of the trunk </s> lightly apply some fertilizer on the surface near the tree 1
+planting a tree: </s> pack the dirt to affirm the position of the trunk </s> water the area 1
+planting a tree: </s> water the area </s> lightly apply some fertilizer on the surface near the tree 0
+planting a tree: </s> choose type of tree. </s> purchase tree. 1
+planting a tree: </s> pick location. </s> choose type of tree. 0
+planting a tree: </s> dig a very deep hole with a shovel. </s> choose type of tree. 0
+planting a tree: </s> choose type of tree. </s> place tree in hole. 1
+planting a tree: </s> cover with dirt. </s> choose type of tree. 0
+planting a tree: </s> if you like you can add a fertilizer. </s> choose type of tree. 0
+planting a tree: </s> choose type of tree. </s> water well. 1
+planting a tree: </s> wait patiently for tree to grow. </s> choose type of tree. 0
+planting a tree: </s> purchase tree. </s> pick location. 1
+planting a tree: </s> dig a very deep hole with a shovel. </s> purchase tree. 0
+planting a tree: </s> place tree in hole. </s> purchase tree. 0
+planting a tree: </s> cover with dirt. </s> purchase tree. 0
+planting a tree: </s> purchase tree. </s> if you like you can add a fertilizer. 1
+planting a tree: </s> water well. </s> purchase tree. 0
+planting a tree: </s> wait patiently for tree to grow. </s> purchase tree. 0
+planting a tree: </s> pick location. </s> dig a very deep hole with a shovel. 1
+planting a tree: </s> pick location. </s> place tree in hole. 1
+planting a tree: </s> cover with dirt. </s> pick location. 0
+planting a tree: </s> if you like you can add a fertilizer. </s> pick location. 0
+planting a tree: </s> pick location. </s> water well. 1
+planting a tree: </s> wait patiently for tree to grow. </s> pick location. 0
+planting a tree: </s> place tree in hole. </s> dig a very deep hole with a shovel. 0
+planting a tree: </s> cover with dirt. </s> dig a very deep hole with a shovel. 0
+planting a tree: </s> dig a very deep hole with a shovel. </s> if you like you can add a fertilizer. 1
+planting a tree: </s> water well. </s> dig a very deep hole with a shovel. 0
+planting a tree: </s> wait patiently for tree to grow. </s> dig a very deep hole with a shovel. 0
+planting a tree: </s> cover with dirt. </s> place tree in hole. 0
+planting a tree: </s> if you like you can add a fertilizer. </s> place tree in hole. 0
+planting a tree: </s> place tree in hole. </s> water well. 1
+planting a tree: </s> wait patiently for tree to grow. </s> place tree in hole. 0
+planting a tree: </s> cover with dirt. </s> if you like you can add a fertilizer. 1
+planting a tree: </s> cover with dirt. </s> water well. 1
+planting a tree: </s> wait patiently for tree to grow. </s> cover with dirt. 0
+planting a tree: </s> water well. </s> if you like you can add a fertilizer. 0
+planting a tree: </s> wait patiently for tree to grow. </s> if you like you can add a fertilizer. 0
+planting a tree: </s> water well. </s> wait patiently for tree to grow. 1
+planting a tree: </s> get your tree ready </s> dig a hole in a reasonable area 0
+planting a tree: </s> insert tree root-first into the hole </s> dig a hole in a reasonable area 0
+planting a tree: </s> dig a hole in a reasonable area </s> cover hole up with dirt and pat it down 1
+planting a tree: </s> dig a hole in a reasonable area </s> water plant 1
+planting a tree: </s> dig a hole in a reasonable area </s> wait for it to grow 1
+planting a tree: </s> get your tree ready </s> insert tree root-first into the hole 1
+planting a tree: </s> get your tree ready </s> cover hole up with dirt and pat it down 1
+planting a tree: </s> water plant </s> get your tree ready 0
+planting a tree: </s> get your tree ready </s> wait for it to grow 1
+planting a tree: </s> insert tree root-first into the hole </s> cover hole up with dirt and pat it down 1
+planting a tree: </s> water plant </s> insert tree root-first into the hole 0
+planting a tree: </s> wait for it to grow </s> insert tree root-first into the hole 0
+planting a tree: </s> water plant </s> cover hole up with dirt and pat it down 0
+planting a tree: </s> wait for it to grow </s> cover hole up with dirt and pat it down 0
+planting a tree: </s> wait for it to grow </s> water plant 0
+planting a tree: </s> go to garden center and buy small tree. </s> find area to plant tree. 1
+planting a tree: </s> go to garden center and buy small tree. </s> use shovel to dig hole large enough for entire root of tree. 1
+planting a tree: </s> save dirt to fill hole. </s> go to garden center and buy small tree. 0
+planting a tree: </s> water hole with hose. </s> go to garden center and buy small tree. 0
+planting a tree: </s> go to garden center and buy small tree. </s> place root of tree in hole. 1
+planting a tree: </s> cover roots completely with saved dirt. </s> go to garden center and buy small tree. 0
+planting a tree: </s> go to garden center and buy small tree. </s> use hose to water planted tree. 1
+planting a tree: </s> water tree as needed to prevent dirt from drying out. </s> go to garden center and buy small tree. 0
+planting a tree: </s> go to garden center and buy small tree. </s> watch tree grow. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. </s> find area to plant tree. 0
+planting a tree: </s> save dirt to fill hole. </s> find area to plant tree. 0
+planting a tree: </s> find area to plant tree. </s> water hole with hose. 1
+planting a tree: </s> find area to plant tree. </s> place root of tree in hole. 1
+planting a tree: </s> find area to plant tree. </s> cover roots completely with saved dirt. 1
+planting a tree: </s> find area to plant tree. </s> use hose to water planted tree. 1
+planting a tree: </s> find area to plant tree. </s> water tree as needed to prevent dirt from drying out. 1
+planting a tree: </s> find area to plant tree. </s> watch tree grow. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. </s> save dirt to fill hole. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. </s> water hole with hose. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. </s> place root of tree in hole. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. </s> cover roots completely with saved dirt. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. </s> use hose to water planted tree. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. </s> water tree as needed to prevent dirt from drying out. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. </s> watch tree grow. 1
+planting a tree: </s> water hole with hose. </s> save dirt to fill hole. 0
+planting a tree: </s> save dirt to fill hole. </s> place root of tree in hole. 1
+planting a tree: </s> cover roots completely with saved dirt. </s> save dirt to fill hole. 0
+planting a tree: </s> save dirt to fill hole. </s> use hose to water planted tree. 1
+planting a tree: </s> save dirt to fill hole. </s> water tree as needed to prevent dirt from drying out. 1
+planting a tree: </s> save dirt to fill hole. </s> watch tree grow. 1
+planting a tree: </s> water hole with hose. </s> place root of tree in hole. 1
+planting a tree: </s> cover roots completely with saved dirt. </s> water hole with hose. 0
+planting a tree: </s> water hole with hose. </s> use hose to water planted tree. 1
+planting a tree: </s> water hole with hose. </s> water tree as needed to prevent dirt from drying out. 1
+planting a tree: </s> water hole with hose. </s> watch tree grow. 1
+planting a tree: </s> place root of tree in hole. </s> cover roots completely with saved dirt. 1
+planting a tree: </s> place root of tree in hole. </s> use hose to water planted tree. 1
+planting a tree: </s> water tree as needed to prevent dirt from drying out. </s> place root of tree in hole. 0
+planting a tree: </s> place root of tree in hole. </s> watch tree grow. 1
+planting a tree: </s> use hose to water planted tree. </s> cover roots completely with saved dirt. 0
+planting a tree: </s> cover roots completely with saved dirt. </s> water tree as needed to prevent dirt from drying out. 1
+planting a tree: </s> cover roots completely with saved dirt. </s> watch tree grow. 1
+planting a tree: </s> use hose to water planted tree. </s> water tree as needed to prevent dirt from drying out. 1
+planting a tree: </s> watch tree grow. </s> use hose to water planted tree. 0
+planting a tree: </s> watch tree grow. </s> water tree as needed to prevent dirt from drying out. 0
+planting a tree: </s> buy a sapling from nursery </s> select a correct place in my backyard 1
+planting a tree: </s> buy a sapling from nursery </s> dig a hole according to the size of the sapling 1
+planting a tree: </s> ensure the hole is not too deep and not too narrow </s> buy a sapling from nursery 0
+planting a tree: </s> buy a sapling from nursery </s> place the tree sapling into the hole 1
+planting a tree: </s> hold it with one hand firmly and refill the soil </s> buy a sapling from nursery 0
+planting a tree: </s> buy a sapling from nursery </s> water the plant 1
+planting a tree: </s> buy a sapling from nursery </s> refill some more soil to fill the gap if any 1
+planting a tree: </s> select a correct place in my backyard </s> dig a hole according to the size of the sapling 1
+planting a tree: </s> select a correct place in my backyard </s> ensure the hole is not too deep and not too narrow 1
+planting a tree: </s> select a correct place in my backyard </s> place the tree sapling into the hole 1
+planting a tree: </s> select a correct place in my backyard </s> hold it with one hand firmly and refill the soil 1
+planting a tree: </s> select a correct place in my backyard </s> water the plant 1
+planting a tree: </s> refill some more soil to fill the gap if any </s> select a correct place in my backyard 0
+planting a tree: </s> ensure the hole is not too deep and not too narrow </s> dig a hole according to the size of the sapling 0
+planting a tree: </s> dig a hole according to the size of the sapling </s> place the tree sapling into the hole 1
+planting a tree: </s> dig a hole according to the size of the sapling </s> hold it with one hand firmly and refill the soil 1
+planting a tree: </s> dig a hole according to the size of the sapling </s> water the plant 1
+planting a tree: </s> refill some more soil to fill the gap if any </s> dig a hole according to the size of the sapling 0
+planting a tree: </s> ensure the hole is not too deep and not too narrow </s> place the tree sapling into the hole 1
+planting a tree: </s> hold it with one hand firmly and refill the soil </s> ensure the hole is not too deep and not too narrow 0
+planting a tree: </s> water the plant </s> ensure the hole is not too deep and not too narrow 0
+planting a tree: </s> refill some more soil to fill the gap if any </s> ensure the hole is not too deep and not too narrow 0
+planting a tree: </s> hold it with one hand firmly and refill the soil </s> place the tree sapling into the hole 0
+planting a tree: </s> place the tree sapling into the hole </s> water the plant 1
+planting a tree: </s> refill some more soil to fill the gap if any </s> place the tree sapling into the hole 0
+planting a tree: </s> water the plant </s> hold it with one hand firmly and refill the soil 0
+planting a tree: </s> refill some more soil to fill the gap if any </s> hold it with one hand firmly and refill the soil 0
+planting a tree: </s> refill some more soil to fill the gap if any </s> water the plant 0
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight </s> buy some seeds of desired tree 0
+planting a tree: </s> take a shovel </s> buy some seeds of desired tree 0
+planting a tree: </s> buy some seeds of desired tree </s> dig about 6 inches deep or as desired 1
+planting a tree: </s> dig in a circle all around the spot </s> buy some seeds of desired tree 0
+planting a tree: </s> buy some seeds of desired tree </s> secure the boundary of the circle with fence of rounded river stones 1
+planting a tree: </s> buy some seeds of desired tree </s> take the seed 1
+planting a tree: </s> gently insert it under the soil about 6 inches deep </s> buy some seeds of desired tree 0
+planting a tree: </s> cover with soil </s> buy some seeds of desired tree 0
+planting a tree: </s> water it lightly </s> buy some seeds of desired tree 0
+planting a tree: </s> water it daily 2 times </s> buy some seeds of desired tree 0
+planting a tree: </s> buy some seeds of desired tree </s> the plant will come out in some days 1
+planting a tree: </s> take a shovel </s> select a spot where to plant a tree preferably in good exposure to sunlight 0
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight </s> dig about 6 inches deep or as desired 1
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight </s> dig in a circle all around the spot 1
+planting a tree: </s> secure the boundary of the circle with fence of rounded river stones </s> select a spot where to plant a tree preferably in good exposure to sunlight 0
+planting a tree: </s> take the seed </s> select a spot where to plant a tree preferably in good exposure to sunlight 0
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight </s> gently insert it under the soil about 6 inches deep 1
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight </s> cover with soil 1
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight </s> water it lightly 1
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight </s> water it daily 2 times 1
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight </s> the plant will come out in some days 1
+planting a tree: </s> dig about 6 inches deep or as desired </s> take a shovel 0
+planting a tree: </s> dig in a circle all around the spot </s> take a shovel 0
+planting a tree: </s> secure the boundary of the circle with fence of rounded river stones </s> take a shovel 0
+planting a tree: </s> take a shovel </s> take the seed 1
+planting a tree: </s> gently insert it under the soil about 6 inches deep </s> take a shovel 0
+planting a tree: </s> take a shovel </s> cover with soil 1
+planting a tree: </s> water it lightly </s> take a shovel 0
+planting a tree: </s> take a shovel </s> water it daily 2 times 1
+planting a tree: </s> the plant will come out in some days </s> take a shovel 0
+planting a tree: </s> dig about 6 inches deep or as desired </s> dig in a circle all around the spot 1
+planting a tree: </s> dig about 6 inches deep or as desired </s> secure the boundary of the circle with fence of rounded river stones 1
+planting a tree: </s> dig about 6 inches deep or as desired </s> take the seed 1
+planting a tree: </s> gently insert it under the soil about 6 inches deep </s> dig about 6 inches deep or as desired 0
+planting a tree: </s> dig about 6 inches deep or as desired </s> cover with soil 1
+planting a tree: </s> water it lightly </s> dig about 6 inches deep or as desired 0
+planting a tree: </s> dig about 6 inches deep or as desired </s> water it daily 2 times 1
+planting a tree: </s> the plant will come out in some days </s> dig about 6 inches deep or as desired 0
+planting a tree: </s> secure the boundary of the circle with fence of rounded river stones </s> dig in a circle all around the spot 0
+planting a tree: </s> dig in a circle all around the spot </s> take the seed 1
+planting a tree: </s> gently insert it under the soil about 6 inches deep </s> dig in a circle all around the spot 0
+planting a tree: </s> cover with soil </s> dig in a circle all around the spot 0
+planting a tree: </s> water it lightly </s> dig in a circle all around the spot 0
+planting a tree: </s> dig in a circle all around the spot </s> water it daily 2 times 1
+planting a tree: </s> dig in a circle all around the spot </s> the plant will come out in some days 1
+planting a tree: </s> take the seed </s> secure the boundary of the circle with fence of rounded river stones 0
+planting a tree: </s> gently insert it under the soil about 6 inches deep </s> secure the boundary of the circle with fence of rounded river stones 0
+planting a tree: </s> cover with soil </s> secure the boundary of the circle with fence of rounded river stones 0
+planting a tree: </s> water it lightly </s> secure the boundary of the circle with fence of rounded river stones 0
+planting a tree: </s> secure the boundary of the circle with fence of rounded river stones </s> water it daily 2 times 1
+planting a tree: </s> the plant will come out in some days </s> secure the boundary of the circle with fence of rounded river stones 0
+planting a tree: </s> gently insert it under the soil about 6 inches deep </s> take the seed 0
+planting a tree: </s> cover with soil </s> take the seed 0
+planting a tree: </s> take the seed </s> water it lightly 1
+planting a tree: </s> water it daily 2 times </s> take the seed 0
+planting a tree: </s> take the seed </s> the plant will come out in some days 1
+planting a tree: </s> cover with soil </s> gently insert it under the soil about 6 inches deep 0
+planting a tree: </s> water it lightly </s> gently insert it under the soil about 6 inches deep 0
+planting a tree: </s> water it daily 2 times </s> gently insert it under the soil about 6 inches deep 0
+planting a tree: </s> gently insert it under the soil about 6 inches deep </s> the plant will come out in some days 1
+planting a tree: </s> water it lightly </s> cover with soil 0
+planting a tree: </s> water it daily 2 times </s> cover with soil 0
+planting a tree: </s> cover with soil </s> the plant will come out in some days 1
+planting a tree: </s> water it lightly </s> water it daily 2 times 1
+planting a tree: </s> the plant will come out in some days </s> water it lightly 0
+planting a tree: </s> water it daily 2 times </s> the plant will come out in some days 1
+planting a tree: </s> go outside. </s> find a packet of seeds. 0
+planting a tree: </s> find a packet of seeds. </s> scope for a good spot. 1
+planting a tree: </s> dig a hole. </s> find a packet of seeds. 0
+planting a tree: </s> find a packet of seeds. </s> place seeds. 1
+planting a tree: </s> find a packet of seeds. </s> bury the seeds. 1
+planting a tree: </s> scope for a good spot. </s> go outside. 0
+planting a tree: </s> dig a hole. </s> go outside. 0
+planting a tree: </s> go outside. </s> place seeds. 1
+planting a tree: </s> go outside. </s> bury the seeds. 1
+planting a tree: </s> scope for a good spot. </s> dig a hole. 1
+planting a tree: </s> scope for a good spot. </s> place seeds. 1
+planting a tree: </s> scope for a good spot. </s> bury the seeds. 1
+planting a tree: </s> place seeds. </s> dig a hole. 0
+planting a tree: </s> bury the seeds. </s> dig a hole. 0
+planting a tree: </s> bury the seeds. </s> place seeds. 0
+planting a tree: </s> go to garden center </s> pick out a sapling that you like 1
+planting a tree: </s> go to garden center </s> go home and pick out a nice place to plant your tree 1
+planting a tree: </s> make sure your spot is not too close to your house, allowing roots plenty of room </s> go to garden center 0
+planting a tree: </s> dig a hole deep and wide enough to accommodate the roots </s> go to garden center 0
+planting a tree: </s> place sapling into hole </s> go to garden center 0
+planting a tree: </s> go to garden center </s> fill in space around the roots with dirt or potting soil 1
+planting a tree: </s> firmly but gently pack down around roots </s> go to garden center 0
+planting a tree: </s> place mulch around bottom of sapling </s> go to garden center 0
+planting a tree: </s> go to garden center </s> water your tree 1
+planting a tree: </s> go to garden center </s> watch it grow through the years 1
+planting a tree: </s> go home and pick out a nice place to plant your tree </s> pick out a sapling that you like 0
+planting a tree: </s> pick out a sapling that you like </s> make sure your spot is not too close to your house, allowing roots plenty of room 1
+planting a tree: </s> pick out a sapling that you like </s> dig a hole deep and wide enough to accommodate the roots 1
+planting a tree: </s> pick out a sapling that you like </s> place sapling into hole 1
+planting a tree: </s> fill in space around the roots with dirt or potting soil </s> pick out a sapling that you like 0
+planting a tree: </s> pick out a sapling that you like </s> firmly but gently pack down around roots 1
+planting a tree: </s> pick out a sapling that you like </s> place mulch around bottom of sapling 1
+planting a tree: </s> pick out a sapling that you like </s> water your tree 1
+planting a tree: </s> watch it grow through the years </s> pick out a sapling that you like 0
+planting a tree: </s> go home and pick out a nice place to plant your tree </s> make sure your spot is not too close to your house, allowing roots plenty of room 1
+planting a tree: </s> dig a hole deep and wide enough to accommodate the roots </s> go home and pick out a nice place to plant your tree 0
+planting a tree: </s> go home and pick out a nice place to plant your tree </s> place sapling into hole 1
+planting a tree: </s> go home and pick out a nice place to plant your tree </s> fill in space around the roots with dirt or potting soil 1
+planting a tree: </s> go home and pick out a nice place to plant your tree </s> firmly but gently pack down around roots 1
+planting a tree: </s> place mulch around bottom of sapling </s> go home and pick out a nice place to plant your tree 0
+planting a tree: </s> go home and pick out a nice place to plant your tree </s> water your tree 1
+planting a tree: </s> watch it grow through the years </s> go home and pick out a nice place to plant your tree 0
+planting a tree: </s> dig a hole deep and wide enough to accommodate the roots </s> make sure your spot is not too close to your house, allowing roots plenty of room 0
+planting a tree: </s> make sure your spot is not too close to your house, allowing roots plenty of room </s> place sapling into hole 1
+planting a tree: </s> make sure your spot is not too close to your house, allowing roots plenty of room </s> fill in space around the roots with dirt or potting soil 1
+planting a tree: </s> make sure your spot is not too close to your house, allowing roots plenty of room </s> firmly but gently pack down around roots 1
+planting a tree: </s> place mulch around bottom of sapling </s> make sure your spot is not too close to your house, allowing roots plenty of room 0
+planting a tree: </s> water your tree </s> make sure your spot is not too close to your house, allowing roots plenty of room 0
+planting a tree: </s> watch it grow through the years </s> make sure your spot is not too close to your house, allowing roots plenty of room 0
+planting a tree: </s> dig a hole deep and wide enough to accommodate the roots </s> place sapling into hole 1
+planting a tree: </s> dig a hole deep and wide enough to accommodate the roots </s> fill in space around the roots with dirt or potting soil 1
+planting a tree: </s> firmly but gently pack down around roots </s> dig a hole deep and wide enough to accommodate the roots 0
+planting a tree: </s> place mulch around bottom of sapling </s> dig a hole deep and wide enough to accommodate the roots 0
+planting a tree: </s> dig a hole deep and wide enough to accommodate the roots </s> water your tree 1
+planting a tree: </s> watch it grow through the years </s> dig a hole deep and wide enough to accommodate the roots 0
+planting a tree: </s> fill in space around the roots with dirt or potting soil </s> place sapling into hole 0
+planting a tree: </s> place sapling into hole </s> firmly but gently pack down around roots 1
+planting a tree: </s> place mulch around bottom of sapling </s> place sapling into hole 0
+planting a tree: </s> place sapling into hole </s> water your tree 1
+planting a tree: </s> watch it grow through the years </s> place sapling into hole 0
+planting a tree: </s> fill in space around the roots with dirt or potting soil </s> firmly but gently pack down around roots 1
+planting a tree: </s> place mulch around bottom of sapling </s> fill in space around the roots with dirt or potting soil 0
+planting a tree: </s> water your tree </s> fill in space around the roots with dirt or potting soil 0
+planting a tree: </s> fill in space around the roots with dirt or potting soil </s> watch it grow through the years 1
+planting a tree: </s> firmly but gently pack down around roots </s> place mulch around bottom of sapling 1
+planting a tree: </s> water your tree </s> firmly but gently pack down around roots 0
+planting a tree: </s> firmly but gently pack down around roots </s> watch it grow through the years 1
+planting a tree: </s> place mulch around bottom of sapling </s> water your tree 1
+planting a tree: </s> place mulch around bottom of sapling </s> watch it grow through the years 1
+planting a tree: </s> water your tree </s> watch it grow through the years 1
+planting a tree: </s> dig a small hole in the ground </s> get a shovel 0
+planting a tree: </s> get a shovel </s> get a tree seedling 1
+planting a tree: </s> get a shovel </s> put tree seedling in hole 1
+planting a tree: </s> get a shovel </s> bury seedling roots with removed dirt 1
+planting a tree: </s> get a shovel </s> water seedling 1
+planting a tree: </s> get a tree seedling </s> dig a small hole in the ground 0
+planting a tree: </s> dig a small hole in the ground </s> put tree seedling in hole 1
+planting a tree: </s> dig a small hole in the ground </s> bury seedling roots with removed dirt 1
+planting a tree: </s> dig a small hole in the ground </s> water seedling 1
+planting a tree: </s> put tree seedling in hole </s> get a tree seedling 0
+planting a tree: </s> bury seedling roots with removed dirt </s> get a tree seedling 0
+planting a tree: </s> get a tree seedling </s> water seedling 1
+planting a tree: </s> bury seedling roots with removed dirt </s> put tree seedling in hole 0
+planting a tree: </s> water seedling </s> put tree seedling in hole 0
+planting a tree: </s> bury seedling roots with removed dirt </s> water seedling 1
+planting a tree: </s> grab shovel </s> dig hole in ground 1
+planting a tree: </s> put tree into hole in ground </s> grab shovel 0
+planting a tree: </s> add shoveled dirt back into hole </s> grab shovel 0
+planting a tree: </s> grab shovel </s> water tree 1
+planting a tree: </s> put tree into hole in ground </s> dig hole in ground 0
+planting a tree: </s> add shoveled dirt back into hole </s> dig hole in ground 0
+planting a tree: </s> dig hole in ground </s> water tree 1
+planting a tree: </s> put tree into hole in ground </s> add shoveled dirt back into hole 1
+planting a tree: </s> water tree </s> put tree into hole in ground 0
+planting a tree: </s> add shoveled dirt back into hole </s> water tree 1
+planting a tree: </s> buy a tree. </s> find the shovel. 1
+planting a tree: </s> dig a hole in the yard. </s> buy a tree. 0
+planting a tree: </s> buy a tree. </s> take the tree out of its container. 1
+planting a tree: </s> put it in the hole. </s> buy a tree. 0
+planting a tree: </s> buy a tree. </s> cover the roots with dirt. 1
+planting a tree: </s> get the hose. </s> buy a tree. 0
+planting a tree: </s> water the tree. </s> buy a tree. 0
+planting a tree: </s> find the shovel. </s> dig a hole in the yard. 1
+planting a tree: </s> take the tree out of its container. </s> find the shovel. 0
+planting a tree: </s> find the shovel. </s> put it in the hole. 1
+planting a tree: </s> cover the roots with dirt. </s> find the shovel. 0
+planting a tree: </s> get the hose. </s> find the shovel. 0
+planting a tree: </s> water the tree. </s> find the shovel. 0
+planting a tree: </s> take the tree out of its container. </s> dig a hole in the yard. 0
+planting a tree: </s> put it in the hole. </s> dig a hole in the yard. 0
+planting a tree: </s> dig a hole in the yard. </s> cover the roots with dirt. 1
+planting a tree: </s> get the hose. </s> dig a hole in the yard. 0
+planting a tree: </s> dig a hole in the yard. </s> water the tree. 1
+planting a tree: </s> take the tree out of its container. </s> put it in the hole. 1
+planting a tree: </s> cover the roots with dirt. </s> take the tree out of its container. 0
+planting a tree: </s> take the tree out of its container. </s> get the hose. 1
+planting a tree: </s> take the tree out of its container. </s> water the tree. 1
+planting a tree: </s> put it in the hole. </s> cover the roots with dirt. 1
+planting a tree: </s> put it in the hole. </s> get the hose. 1
+planting a tree: </s> water the tree. </s> put it in the hole. 0
+planting a tree: </s> cover the roots with dirt. </s> get the hose. 1
+planting a tree: </s> water the tree. </s> cover the roots with dirt. 0
+planting a tree: </s> water the tree. </s> get the hose. 0
+planting a tree: </s> check any local requirement before digging hole </s> select the right time of a year to plant a tree 0
+planting a tree: </s> select suitable tree for climate and region </s> select the right time of a year to plant a tree 0
+planting a tree: </s> select the right time of a year to plant a tree </s> prepare the hole 1
+planting a tree: </s> select the right time of a year to plant a tree </s> prepare the tree for planting 1
+planting a tree: </s> use a seed for planting </s> select the right time of a year to plant a tree 0
+planting a tree: </s> select the right time of a year to plant a tree </s> place the tree in the hole gently 1
+planting a tree: </s> select the right time of a year to plant a tree </s> use some composted manure 1
+planting a tree: </s> select the right time of a year to plant a tree </s> water the newly planted tree 1
+planting a tree: </s> select the right time of a year to plant a tree </s> stake the tree for some years 1
+planting a tree: </s> enjoy the tree as it grows over the years </s> select the right time of a year to plant a tree 0
+planting a tree: </s> check any local requirement before digging hole </s> select suitable tree for climate and region 1
+planting a tree: </s> check any local requirement before digging hole </s> prepare the hole 1
+planting a tree: </s> prepare the tree for planting </s> check any local requirement before digging hole 0
+planting a tree: </s> use a seed for planting </s> check any local requirement before digging hole 0
+planting a tree: </s> check any local requirement before digging hole </s> place the tree in the hole gently 1
+planting a tree: </s> use some composted manure </s> check any local requirement before digging hole 0
+planting a tree: </s> check any local requirement before digging hole </s> water the newly planted tree 1
+planting a tree: </s> stake the tree for some years </s> check any local requirement before digging hole 0
+planting a tree: </s> check any local requirement before digging hole </s> enjoy the tree as it grows over the years 1
+planting a tree: </s> prepare the hole </s> select suitable tree for climate and region 0
+planting a tree: </s> prepare the tree for planting </s> select suitable tree for climate and region 0
+planting a tree: </s> select suitable tree for climate and region </s> use a seed for planting 1
+planting a tree: </s> select suitable tree for climate and region </s> place the tree in the hole gently 1
+planting a tree: </s> use some composted manure </s> select suitable tree for climate and region 0
+planting a tree: </s> select suitable tree for climate and region </s> water the newly planted tree 1
+planting a tree: </s> select suitable tree for climate and region </s> stake the tree for some years 1
+planting a tree: </s> select suitable tree for climate and region </s> enjoy the tree as it grows over the years 1
+planting a tree: </s> prepare the hole </s> prepare the tree for planting 1
+planting a tree: </s> use a seed for planting </s> prepare the hole 0
+planting a tree: </s> place the tree in the hole gently </s> prepare the hole 0
+planting a tree: </s> use some composted manure </s> prepare the hole 0
+planting a tree: </s> water the newly planted tree </s> prepare the hole 0
+planting a tree: </s> stake the tree for some years </s> prepare the hole 0
+planting a tree: </s> prepare the hole </s> enjoy the tree as it grows over the years 1
+planting a tree: </s> use a seed for planting </s> prepare the tree for planting 0
+planting a tree: </s> prepare the tree for planting </s> place the tree in the hole gently 1
+planting a tree: </s> use some composted manure </s> prepare the tree for planting 0
+planting a tree: </s> prepare the tree for planting </s> water the newly planted tree 1
+planting a tree: </s> stake the tree for some years </s> prepare the tree for planting 0
+planting a tree: </s> prepare the tree for planting </s> enjoy the tree as it grows over the years 1
+planting a tree: </s> place the tree in the hole gently </s> use a seed for planting 0
+planting a tree: </s> use some composted manure </s> use a seed for planting 0
+planting a tree: </s> use a seed for planting </s> water the newly planted tree 1
+planting a tree: </s> stake the tree for some years </s> use a seed for planting 0
+planting a tree: </s> enjoy the tree as it grows over the years </s> use a seed for planting 0
+planting a tree: </s> place the tree in the hole gently </s> use some composted manure 1
+planting a tree: </s> water the newly planted tree </s> place the tree in the hole gently 0
+planting a tree: </s> place the tree in the hole gently </s> stake the tree for some years 1
+planting a tree: </s> place the tree in the hole gently </s> enjoy the tree as it grows over the years 1
+planting a tree: </s> use some composted manure </s> water the newly planted tree 1
+planting a tree: </s> use some composted manure </s> stake the tree for some years 1
+planting a tree: </s> use some composted manure </s> enjoy the tree as it grows over the years 1
+planting a tree: </s> stake the tree for some years </s> water the newly planted tree 0
+planting a tree: </s> enjoy the tree as it grows over the years </s> water the newly planted tree 0
+planting a tree: </s> enjoy the tree as it grows over the years </s> stake the tree for some years 0
+planting a tree: </s> plant seed </s> dig hole 0
+planting a tree: </s> fill hole back up </s> dig hole 0
+planting a tree: </s> dig hole </s> water the spot every day. 1
+planting a tree: </s> wait for the tree to grow </s> dig hole 0
+planting a tree: </s> plant seed </s> fill hole back up 1
+planting a tree: </s> plant seed </s> water the spot every day. 1
+planting a tree: </s> plant seed </s> wait for the tree to grow 1
+planting a tree: </s> fill hole back up </s> water the spot every day. 1
+planting a tree: </s> wait for the tree to grow </s> fill hole back up 0
+planting a tree: </s> water the spot every day. </s> wait for the tree to grow 1
+planting a tree: </s> find a place to plant the tree </s> get seeds 0
+planting a tree: </s> get seeds </s> dig up soil 1
+planting a tree: </s> get seeds </s> place seeds in hole 1
+planting a tree: </s> get seeds </s> cover the hole 1
+planting a tree: </s> get seeds </s> water the top 1
+planting a tree: </s> dig up soil </s> find a place to plant the tree 0
+planting a tree: </s> place seeds in hole </s> find a place to plant the tree 0
+planting a tree: </s> cover the hole </s> find a place to plant the tree 0
+planting a tree: </s> water the top </s> find a place to plant the tree 0
+planting a tree: </s> dig up soil </s> place seeds in hole 1
+planting a tree: </s> dig up soil </s> cover the hole 1
+planting a tree: </s> water the top </s> dig up soil 0
+planting a tree: </s> cover the hole </s> place seeds in hole 0
+planting a tree: </s> place seeds in hole </s> water the top 1
+planting a tree: </s> water the top </s> cover the hole 0
+planting a tree: </s> buy tree sapling </s> go to nursery 0
+planting a tree: </s> take tree sapling to place you want to plant it </s> go to nursery 0
+planting a tree: </s> go to nursery </s> get a shovel 1
+planting a tree: </s> dig a hole </s> go to nursery 0
+planting a tree: </s> put sapling in hole </s> go to nursery 0
+planting a tree: </s> go to nursery </s> fill in the hole with the shovel 1
+planting a tree: </s> go to nursery </s> get a water hose 1
+planting a tree: </s> go to nursery </s> turn water on 1
+planting a tree: </s> water tree </s> go to nursery 0
+planting a tree: </s> wait for tree to grow </s> go to nursery 0
+planting a tree: </s> take tree sapling to place you want to plant it </s> buy tree sapling 0
+planting a tree: </s> get a shovel </s> buy tree sapling 0
+planting a tree: </s> dig a hole </s> buy tree sapling 0
+planting a tree: </s> put sapling in hole </s> buy tree sapling 0
+planting a tree: </s> fill in the hole with the shovel </s> buy tree sapling 0
+planting a tree: </s> get a water hose </s> buy tree sapling 0
+planting a tree: </s> buy tree sapling </s> turn water on 1
+planting a tree: </s> buy tree sapling </s> water tree 1
+planting a tree: </s> wait for tree to grow </s> buy tree sapling 0
+planting a tree: </s> get a shovel </s> take tree sapling to place you want to plant it 0
+planting a tree: </s> take tree sapling to place you want to plant it </s> dig a hole 1
+planting a tree: </s> take tree sapling to place you want to plant it </s> put sapling in hole 1
+planting a tree: </s> fill in the hole with the shovel </s> take tree sapling to place you want to plant it 0
+planting a tree: </s> take tree sapling to place you want to plant it </s> get a water hose 1
+planting a tree: </s> turn water on </s> take tree sapling to place you want to plant it 0
+planting a tree: </s> take tree sapling to place you want to plant it </s> water tree 1
+planting a tree: </s> take tree sapling to place you want to plant it </s> wait for tree to grow 1
+planting a tree: </s> dig a hole </s> get a shovel 0
+planting a tree: </s> put sapling in hole </s> get a shovel 0
+planting a tree: </s> get a shovel </s> fill in the hole with the shovel 1
+planting a tree: </s> get a shovel </s> get a water hose 1
+planting a tree: </s> get a shovel </s> turn water on 1
+planting a tree: </s> water tree </s> get a shovel 0
+planting a tree: </s> wait for tree to grow </s> get a shovel 0
+planting a tree: </s> put sapling in hole </s> dig a hole 0
+planting a tree: </s> fill in the hole with the shovel </s> dig a hole 0
+planting a tree: </s> get a water hose </s> dig a hole 0
+planting a tree: </s> dig a hole </s> turn water on 1
+planting a tree: </s> dig a hole </s> water tree 1
+planting a tree: </s> wait for tree to grow </s> dig a hole 0
+planting a tree: </s> fill in the hole with the shovel </s> put sapling in hole 0
+planting a tree: </s> put sapling in hole </s> get a water hose 1
+planting a tree: </s> turn water on </s> put sapling in hole 0
+planting a tree: </s> put sapling in hole </s> water tree 1
+planting a tree: </s> wait for tree to grow </s> put sapling in hole 0
+planting a tree: </s> get a water hose </s> fill in the hole with the shovel 0
+planting a tree: </s> fill in the hole with the shovel </s> turn water on 1
+planting a tree: </s> fill in the hole with the shovel </s> water tree 1
+planting a tree: </s> fill in the hole with the shovel </s> wait for tree to grow 1
+planting a tree: </s> turn water on </s> get a water hose 0
+planting a tree: </s> get a water hose </s> water tree 1
+planting a tree: </s> wait for tree to grow </s> get a water hose 0
+planting a tree: </s> water tree </s> turn water on 0
+planting a tree: </s> turn water on </s> wait for tree to grow 1
+planting a tree: </s> water tree </s> wait for tree to grow 1
+planting a tree: </s> dig hole </s> find shovel 0
+planting a tree: </s> get tree </s> find shovel 0
+planting a tree: </s> find shovel </s> put tree roots into hole 1
+planting a tree: </s> find shovel </s> put loose dirt around roots 1
+planting a tree: </s> find shovel </s> fill hole so that only top of tree is above ground 1
+planting a tree: </s> make sure tree is standing straight and secure </s> find shovel 0
+planting a tree: </s> add additional dirt if necessary </s> find shovel 0
+planting a tree: </s> find shovel </s> add small amount of water to base of tree 1
+planting a tree: </s> find shovel </s> water tree daily and wait to grow 1
+planting a tree: </s> get tree </s> dig hole 0
+planting a tree: </s> put tree roots into hole </s> dig hole 0
+planting a tree: </s> put loose dirt around roots </s> dig hole 0
+planting a tree: </s> fill hole so that only top of tree is above ground </s> dig hole 0
+planting a tree: </s> dig hole </s> make sure tree is standing straight and secure 1
+planting a tree: </s> add additional dirt if necessary </s> dig hole 0
+planting a tree: </s> dig hole </s> add small amount of water to base of tree 1
+planting a tree: </s> dig hole </s> water tree daily and wait to grow 1
+planting a tree: </s> put tree roots into hole </s> get tree 0
+planting a tree: </s> put loose dirt around roots </s> get tree 0
+planting a tree: </s> get tree </s> fill hole so that only top of tree is above ground 1
+planting a tree: </s> make sure tree is standing straight and secure </s> get tree 0
+planting a tree: </s> add additional dirt if necessary </s> get tree 0
+planting a tree: </s> add small amount of water to base of tree </s> get tree 0
+planting a tree: </s> water tree daily and wait to grow </s> get tree 0
+planting a tree: </s> put tree roots into hole </s> put loose dirt around roots 1
+planting a tree: </s> put tree roots into hole </s> fill hole so that only top of tree is above ground 1
+planting a tree: </s> make sure tree is standing straight and secure </s> put tree roots into hole 0
+planting a tree: </s> put tree roots into hole </s> add additional dirt if necessary 1
+planting a tree: </s> put tree roots into hole </s> add small amount of water to base of tree 1
+planting a tree: </s> water tree daily and wait to grow </s> put tree roots into hole 0
+planting a tree: </s> fill hole so that only top of tree is above ground </s> put loose dirt around roots 0
+planting a tree: </s> make sure tree is standing straight and secure </s> put loose dirt around roots 0
+planting a tree: </s> put loose dirt around roots </s> add additional dirt if necessary 1
+planting a tree: </s> put loose dirt around roots </s> add small amount of water to base of tree 1
+planting a tree: </s> put loose dirt around roots </s> water tree daily and wait to grow 1
+planting a tree: </s> fill hole so that only top of tree is above ground </s> make sure tree is standing straight and secure 1
+planting a tree: </s> fill hole so that only top of tree is above ground </s> add additional dirt if necessary 1
+planting a tree: </s> fill hole so that only top of tree is above ground </s> add small amount of water to base of tree 1
+planting a tree: </s> fill hole so that only top of tree is above ground </s> water tree daily and wait to grow 1
+planting a tree: </s> add additional dirt if necessary </s> make sure tree is standing straight and secure 0
+planting a tree: </s> add small amount of water to base of tree </s> make sure tree is standing straight and secure 0
+planting a tree: </s> water tree daily and wait to grow </s> make sure tree is standing straight and secure 0
+planting a tree: </s> add additional dirt if necessary </s> add small amount of water to base of tree 1
+planting a tree: </s> add additional dirt if necessary </s> water tree daily and wait to grow 1
+planting a tree: </s> water tree daily and wait to grow </s> add small amount of water to base of tree 0
+planting a tree: </s> choose tree and spot to plant </s> dig hole big enough for tree to grow 1
+planting a tree: </s> choose tree and spot to plant </s> place tree in hole 1
+planting a tree: </s> choose tree and spot to plant </s> replace the dirt 1
+planting a tree: </s> water the tree </s> choose tree and spot to plant 0
+planting a tree: </s> choose tree and spot to plant </s> wait for the tree to grow 1
+planting a tree: </s> dig hole big enough for tree to grow </s> place tree in hole 1
+planting a tree: </s> dig hole big enough for tree to grow </s> replace the dirt 1
+planting a tree: </s> water the tree </s> dig hole big enough for tree to grow 0
+planting a tree: </s> dig hole big enough for tree to grow </s> wait for the tree to grow 1
+planting a tree: </s> replace the dirt </s> place tree in hole 0
+planting a tree: </s> place tree in hole </s> water the tree 1
+planting a tree: </s> place tree in hole </s> wait for the tree to grow 1
+planting a tree: </s> water the tree </s> replace the dirt 0
+planting a tree: </s> replace the dirt </s> wait for the tree to grow 1
+planting a tree: </s> water the tree </s> wait for the tree to grow 1
+planting a tree: </s> dig the soil about two fingers deep </s> locate the spot to plant the tree 0
+planting a tree: </s> plant the seed in the soil </s> locate the spot to plant the tree 0
+planting a tree: </s> cover the seed loosely with soil </s> locate the spot to plant the tree 0
+planting a tree: </s> pour some water over the covered seed </s> locate the spot to plant the tree 0
+planting a tree: </s> dig the soil about two fingers deep </s> plant the seed in the soil 1
+planting a tree: </s> dig the soil about two fingers deep </s> cover the seed loosely with soil 1
+planting a tree: </s> pour some water over the covered seed </s> dig the soil about two fingers deep 0
+planting a tree: </s> cover the seed loosely with soil </s> plant the seed in the soil 0
+planting a tree: </s> pour some water over the covered seed </s> plant the seed in the soil 0
+planting a tree: </s> cover the seed loosely with soil </s> pour some water over the covered seed 1
+planting a tree: </s> dig a hole into the ground </s> get shovel and tree sapling 0
+planting a tree: </s> get shovel and tree sapling </s> place tree sapling into hole 1
+planting a tree: </s> get shovel and tree sapling </s> put dirt back into hole 1
+planting a tree: </s> press dirt firmly around root ball as hole is filled in </s> get shovel and tree sapling 0
+planting a tree: </s> water the tree generously </s> get shovel and tree sapling 0
+planting a tree: </s> dig a hole into the ground </s> place tree sapling into hole 1
+planting a tree: </s> dig a hole into the ground </s> put dirt back into hole 1
+planting a tree: </s> dig a hole into the ground </s> press dirt firmly around root ball as hole is filled in 1
+planting a tree: </s> water the tree generously </s> dig a hole into the ground 0
+planting a tree: </s> put dirt back into hole </s> place tree sapling into hole 0
+planting a tree: </s> place tree sapling into hole </s> press dirt firmly around root ball as hole is filled in 1
+planting a tree: </s> water the tree generously </s> place tree sapling into hole 0
+planting a tree: </s> press dirt firmly around root ball as hole is filled in </s> put dirt back into hole 0
+planting a tree: </s> water the tree generously </s> put dirt back into hole 0
+planting a tree: </s> water the tree generously </s> press dirt firmly around root ball as hole is filled in 0
+planting a tree: </s> dig the hole for the tree. </s> prepare soil. 0
+planting a tree: </s> prepare soil. </s> place tree in hole. 1
+planting a tree: </s> cover hole with soil. </s> prepare soil. 0
+planting a tree: </s> prepare soil. </s> water it. 1
+planting a tree: </s> prepare soil. </s> stake the tree. 1
+planting a tree: </s> place tree in hole. </s> dig the hole for the tree. 0
+planting a tree: </s> cover hole with soil. </s> dig the hole for the tree. 0
+planting a tree: </s> dig the hole for the tree. </s> water it. 1
+planting a tree: </s> dig the hole for the tree. </s> stake the tree. 1
+planting a tree: </s> place tree in hole. </s> cover hole with soil. 1
+planting a tree: </s> place tree in hole. </s> water it. 1
+planting a tree: </s> stake the tree. </s> place tree in hole. 0
+planting a tree: </s> cover hole with soil. </s> water it. 1
+planting a tree: </s> cover hole with soil. </s> stake the tree. 1
+planting a tree: </s> stake the tree. </s> water it. 0
+planting a tree: </s> decide where the tree will be planted. </s> using a shovel, dig a hole deep enough to place the tree roots. 1
+planting a tree: </s> water the hole well. </s> decide where the tree will be planted. 0
+planting a tree: </s> place the tree roots in the hole. </s> decide where the tree will be planted. 0
+planting a tree: </s> pack loose soil firmly around the base of the tree and top of the hole. </s> decide where the tree will be planted. 0
+planting a tree: </s> water the newly planted tree well. </s> decide where the tree will be planted. 0
+planting a tree: </s> decide where the tree will be planted. </s> add fertilizer if needed. 1
+planting a tree: </s> using a shovel, dig a hole deep enough to place the tree roots. </s> water the hole well. 1
+planting a tree: </s> using a shovel, dig a hole deep enough to place the tree roots. </s> place the tree roots in the hole. 1
+planting a tree: </s> pack loose soil firmly around the base of the tree and top of the hole. </s> using a shovel, dig a hole deep enough to place the tree roots. 0
+planting a tree: </s> water the newly planted tree well. </s> using a shovel, dig a hole deep enough to place the tree roots. 0
+planting a tree: </s> using a shovel, dig a hole deep enough to place the tree roots. </s> add fertilizer if needed. 1
+planting a tree: </s> water the hole well. </s> place the tree roots in the hole. 1
+planting a tree: </s> pack loose soil firmly around the base of the tree and top of the hole. </s> water the hole well. 0
+planting a tree: </s> water the newly planted tree well. </s> water the hole well. 0
+planting a tree: </s> water the hole well. </s> add fertilizer if needed. 1
+planting a tree: </s> place the tree roots in the hole. </s> pack loose soil firmly around the base of the tree and top of the hole. 1
+planting a tree: </s> place the tree roots in the hole. </s> water the newly planted tree well. 1
+planting a tree: </s> place the tree roots in the hole. </s> add fertilizer if needed. 1
+planting a tree: </s> water the newly planted tree well. </s> pack loose soil firmly around the base of the tree and top of the hole. 0
+planting a tree: </s> pack loose soil firmly around the base of the tree and top of the hole. </s> add fertilizer if needed. 1
+planting a tree: </s> water the newly planted tree well. </s> add fertilizer if needed. 1
+planting a tree: </s> go to area where you're planting </s> get tiny tree from a store 0
+planting a tree: </s> dig a whole big enough and deep enough to fit tree </s> get tiny tree from a store 0
+planting a tree: </s> take tree out of pot </s> get tiny tree from a store 0
+planting a tree: </s> get tiny tree from a store </s> put the tree into the hole 1
+planting a tree: </s> fill the hole back up </s> get tiny tree from a store 0
+planting a tree: </s> pat down the soil </s> get tiny tree from a store 0
+planting a tree: </s> go to area where you're planting </s> dig a whole big enough and deep enough to fit tree 1
+planting a tree: </s> take tree out of pot </s> go to area where you're planting 0
+planting a tree: </s> put the tree into the hole </s> go to area where you're planting 0
+planting a tree: </s> go to area where you're planting </s> fill the hole back up 1
+planting a tree: </s> go to area where you're planting </s> pat down the soil 1
+planting a tree: </s> dig a whole big enough and deep enough to fit tree </s> take tree out of pot 1
+planting a tree: </s> put the tree into the hole </s> dig a whole big enough and deep enough to fit tree 0
+planting a tree: </s> fill the hole back up </s> dig a whole big enough and deep enough to fit tree 0
+planting a tree: </s> pat down the soil </s> dig a whole big enough and deep enough to fit tree 0
+planting a tree: </s> put the tree into the hole </s> take tree out of pot 0
+planting a tree: </s> take tree out of pot </s> fill the hole back up 1
+planting a tree: </s> pat down the soil </s> take tree out of pot 0
+planting a tree: </s> fill the hole back up </s> put the tree into the hole 0
+planting a tree: </s> pat down the soil </s> put the tree into the hole 0
+planting a tree: </s> pat down the soil </s> fill the hole back up 0
+planting a tree: </s> dig small hole in dirt </s> buy tree seed 0
+planting a tree: </s> buy tree seed </s> place seed in hole 1
+planting a tree: </s> cover hole </s> buy tree seed 0
+planting a tree: </s> buy tree seed </s> water seed every day 1
+planting a tree: </s> dig small hole in dirt </s> place seed in hole 1
+planting a tree: </s> dig small hole in dirt </s> cover hole 1
+planting a tree: </s> water seed every day </s> dig small hole in dirt 0
+planting a tree: </s> place seed in hole </s> cover hole 1
+planting a tree: </s> place seed in hole </s> water seed every day 1
+planting a tree: </s> cover hole </s> water seed every day 1
+planting a tree: </s> choose a spot to plant the tree. </s> get the tree and take it out into the yard. 0
+planting a tree: </s> get the tree and take it out into the yard. </s> get a shovel and dig a hole where you want to plant the tree. 1
+planting a tree: </s> get the tree and take it out into the yard. </s> place the roots of the tree into the hole you have dug. 1
+planting a tree: </s> get the tree and take it out into the yard. </s> cover the roots with surrounding dirt. 1
+planting a tree: </s> water the tree. </s> get the tree and take it out into the yard. 0
+planting a tree: </s> choose a spot to plant the tree. </s> get a shovel and dig a hole where you want to plant the tree. 1
+planting a tree: </s> place the roots of the tree into the hole you have dug. </s> choose a spot to plant the tree. 0
+planting a tree: </s> cover the roots with surrounding dirt. </s> choose a spot to plant the tree. 0
+planting a tree: </s> choose a spot to plant the tree. </s> water the tree. 1
+planting a tree: </s> get a shovel and dig a hole where you want to plant the tree. </s> place the roots of the tree into the hole you have dug. 1
+planting a tree: </s> cover the roots with surrounding dirt. </s> get a shovel and dig a hole where you want to plant the tree. 0
+planting a tree: </s> get a shovel and dig a hole where you want to plant the tree. </s> water the tree. 1
+planting a tree: </s> cover the roots with surrounding dirt. </s> place the roots of the tree into the hole you have dug. 0
+planting a tree: </s> place the roots of the tree into the hole you have dug. </s> water the tree. 1
+planting a tree: </s> water the tree. </s> cover the roots with surrounding dirt. 0
+planting a tree: </s> dig a hole big enough to cover the tree's roots and the base of the tree. </s> get a tree. 0
+planting a tree: </s> remove the tree from any pot or container that it is in. </s> get a tree. 0
+planting a tree: </s> place the tree in the hole. </s> get a tree. 0
+planting a tree: </s> get a tree. </s> replace the soil that was removed from the hole. 1
+planting a tree: </s> get a tree. </s> water the tree so that its roots can take hold and begin to grow. 1
+planting a tree: </s> fertilize and water again as needed or desired. </s> get a tree. 0
+planting a tree: </s> remove the tree from any pot or container that it is in. </s> dig a hole big enough to cover the tree's roots and the base of the tree. 0
+planting a tree: </s> place the tree in the hole. </s> dig a hole big enough to cover the tree's roots and the base of the tree. 0
+planting a tree: </s> replace the soil that was removed from the hole. </s> dig a hole big enough to cover the tree's roots and the base of the tree. 0
+planting a tree: </s> water the tree so that its roots can take hold and begin to grow. </s> dig a hole big enough to cover the tree's roots and the base of the tree. 0
+planting a tree: </s> dig a hole big enough to cover the tree's roots and the base of the tree. </s> fertilize and water again as needed or desired. 1
+planting a tree: </s> remove the tree from any pot or container that it is in. </s> place the tree in the hole. 1
+planting a tree: </s> replace the soil that was removed from the hole. </s> remove the tree from any pot or container that it is in. 0
+planting a tree: </s> remove the tree from any pot or container that it is in. </s> water the tree so that its roots can take hold and begin to grow. 1
+planting a tree: </s> remove the tree from any pot or container that it is in. </s> fertilize and water again as needed or desired. 1
+planting a tree: </s> replace the soil that was removed from the hole. </s> place the tree in the hole. 0
+planting a tree: </s> place the tree in the hole. </s> water the tree so that its roots can take hold and begin to grow. 1
+planting a tree: </s> fertilize and water again as needed or desired. </s> place the tree in the hole. 0
+planting a tree: </s> replace the soil that was removed from the hole. </s> water the tree so that its roots can take hold and begin to grow. 1
+planting a tree: </s> replace the soil that was removed from the hole. </s> fertilize and water again as needed or desired. 1
+planting a tree: </s> water the tree so that its roots can take hold and begin to grow. </s> fertilize and water again as needed or desired. 1
+planting a tree: </s> find a place to plant it </s> find a sapling 0
+planting a tree: </s> dig a small hole in ground </s> find a sapling 0
+planting a tree: </s> remove sapling from old pot </s> find a sapling 0
+planting a tree: </s> set sapling in the ground </s> find a sapling 0
+planting a tree: </s> find a sapling </s> fill the dirt in around it 1
+planting a tree: </s> pack the dirt tightly </s> find a sapling 0
+planting a tree: </s> find a sapling </s> water the sapling 1
+planting a tree: </s> dig a small hole in ground </s> find a place to plant it 0
+planting a tree: </s> find a place to plant it </s> remove sapling from old pot 1
+planting a tree: </s> set sapling in the ground </s> find a place to plant it 0
+planting a tree: </s> find a place to plant it </s> fill the dirt in around it 1
+planting a tree: </s> pack the dirt tightly </s> find a place to plant it 0
+planting a tree: </s> water the sapling </s> find a place to plant it 0
+planting a tree: </s> dig a small hole in ground </s> remove sapling from old pot 1
+planting a tree: </s> dig a small hole in ground </s> set sapling in the ground 1
+planting a tree: </s> fill the dirt in around it </s> dig a small hole in ground 0
+planting a tree: </s> pack the dirt tightly </s> dig a small hole in ground 0
+planting a tree: </s> water the sapling </s> dig a small hole in ground 0
+planting a tree: </s> remove sapling from old pot </s> set sapling in the ground 1
+planting a tree: </s> remove sapling from old pot </s> fill the dirt in around it 1
+planting a tree: </s> remove sapling from old pot </s> pack the dirt tightly 1
+planting a tree: </s> remove sapling from old pot </s> water the sapling 1
+planting a tree: </s> fill the dirt in around it </s> set sapling in the ground 0
+planting a tree: </s> set sapling in the ground </s> pack the dirt tightly 1
+planting a tree: </s> set sapling in the ground </s> water the sapling 1
+planting a tree: </s> pack the dirt tightly </s> fill the dirt in around it 0
+planting a tree: </s> water the sapling </s> fill the dirt in around it 0
+planting a tree: </s> pack the dirt tightly </s> water the sapling 1
+planting a tree: </s> buy a tree. </s> get shovel out of garage. 1
+planting a tree: </s> dig a hole. </s> buy a tree. 0
+planting a tree: </s> buy a tree. </s> put tree in hole. 1
+planting a tree: </s> fill hole with dirt. </s> buy a tree. 0
+planting a tree: </s> put shovel away. </s> buy a tree. 0
+planting a tree: </s> buy a tree. </s> get the water hose. 1
+planting a tree: </s> buy a tree. </s> turn water on. 1
+planting a tree: </s> water the tree. </s> buy a tree. 0
+planting a tree: </s> buy a tree. </s> turn water off. 1
+planting a tree: </s> dig a hole. </s> get shovel out of garage. 0
+planting a tree: </s> put tree in hole. </s> get shovel out of garage. 0
+planting a tree: </s> get shovel out of garage. </s> fill hole with dirt. 1
+planting a tree: </s> get shovel out of garage. </s> put shovel away. 1
+planting a tree: </s> get shovel out of garage. </s> get the water hose. 1
+planting a tree: </s> turn water on. </s> get shovel out of garage. 0
+planting a tree: </s> water the tree. </s> get shovel out of garage. 0
+planting a tree: </s> turn water off. </s> get shovel out of garage. 0
+planting a tree: </s> put tree in hole. </s> dig a hole. 0
+planting a tree: </s> dig a hole. </s> fill hole with dirt. 1
+planting a tree: </s> put shovel away. </s> dig a hole. 0
+planting a tree: </s> dig a hole. </s> get the water hose. 1
+planting a tree: </s> turn water on. </s> dig a hole. 0
+planting a tree: </s> water the tree. </s> dig a hole. 0
+planting a tree: </s> dig a hole. </s> turn water off. 1
+planting a tree: </s> fill hole with dirt. </s> put tree in hole. 0
+planting a tree: </s> put shovel away. </s> put tree in hole. 0
+planting a tree: </s> put tree in hole. </s> get the water hose. 1
+planting a tree: </s> turn water on. </s> put tree in hole. 0
+planting a tree: </s> water the tree. </s> put tree in hole. 0
+planting a tree: </s> put tree in hole. </s> turn water off. 1
+planting a tree: </s> put shovel away. </s> fill hole with dirt. 0
+planting a tree: </s> fill hole with dirt. </s> get the water hose. 1
+planting a tree: </s> fill hole with dirt. </s> turn water on. 1
+planting a tree: </s> fill hole with dirt. </s> water the tree. 1
+planting a tree: </s> fill hole with dirt. </s> turn water off. 1
+planting a tree: </s> put shovel away. </s> get the water hose. 1
+planting a tree: </s> put shovel away. </s> turn water on. 1
+planting a tree: </s> water the tree. </s> put shovel away. 0
+planting a tree: </s> turn water off. </s> put shovel away. 0
+planting a tree: </s> turn water on. </s> get the water hose. 0
+planting a tree: </s> water the tree. </s> get the water hose. 0
+planting a tree: </s> turn water off. </s> get the water hose. 0
+planting a tree: </s> water the tree. </s> turn water on. 0
+planting a tree: </s> turn water off. </s> turn water on. 0
+planting a tree: </s> water the tree. </s> turn water off. 1
+planting a tree: </s> find a place for it </s> buy a tree 0
+planting a tree: </s> buy a tree </s> dig a hole 1
+planting a tree: </s> buy a tree </s> put the tree in the hole 1
+planting a tree: </s> buy a tree </s> cover the hole 1
+planting a tree: </s> water </s> buy a tree 0
+planting a tree: </s> find a place for it </s> dig a hole 1
+planting a tree: </s> find a place for it </s> put the tree in the hole 1
+planting a tree: </s> find a place for it </s> cover the hole 1
+planting a tree: </s> find a place for it </s> water 1
+planting a tree: </s> dig a hole </s> put the tree in the hole 1
+planting a tree: </s> cover the hole </s> dig a hole 0
+planting a tree: </s> water </s> dig a hole 0
+planting a tree: </s> cover the hole </s> put the tree in the hole 0
+planting a tree: </s> water </s> put the tree in the hole 0
+planting a tree: </s> cover the hole </s> water 1
+planting a tree: </s> dig hole in the ground </s> take a sapling 0
+planting a tree: </s> take a sapling </s> place the sapling 1
+planting a tree: </s> place it in the hole </s> take a sapling 0
+planting a tree: </s> cover with soil </s> take a sapling 0
+planting a tree: </s> water regularly </s> take a sapling 0
+planting a tree: </s> place the sapling </s> dig hole in the ground 0
+planting a tree: </s> dig hole in the ground </s> place it in the hole 1
+planting a tree: </s> dig hole in the ground </s> cover with soil 1
+planting a tree: </s> dig hole in the ground </s> water regularly 1
+planting a tree: </s> place it in the hole </s> place the sapling 0
+planting a tree: </s> place the sapling </s> cover with soil 1
+planting a tree: </s> water regularly </s> place the sapling 0
+planting a tree: </s> cover with soil </s> place it in the hole 0
+planting a tree: </s> water regularly </s> place it in the hole 0
+planting a tree: </s> water regularly </s> cover with soil 0
+planting a tree: </s> get baby tree to plant or seed </s> find spot to plant tree 1
+planting a tree: </s> dig a hole </s> get baby tree to plant or seed 0
+planting a tree: </s> get baby tree to plant or seed </s> place tree or seed in hole 1
+planting a tree: </s> get baby tree to plant or seed </s> put soil back in hole around tree 1
+planting a tree: </s> get baby tree to plant or seed </s> pat lightly 1
+planting a tree: </s> watch tree grow (years) </s> get baby tree to plant or seed 0
+planting a tree: </s> find spot to plant tree </s> dig a hole 1
+planting a tree: </s> place tree or seed in hole </s> find spot to plant tree 0
+planting a tree: </s> find spot to plant tree </s> put soil back in hole around tree 1
+planting a tree: </s> pat lightly </s> find spot to plant tree 0
+planting a tree: </s> find spot to plant tree </s> watch tree grow (years) 1
+planting a tree: </s> dig a hole </s> place tree or seed in hole 1
+planting a tree: </s> dig a hole </s> put soil back in hole around tree 1
+planting a tree: </s> pat lightly </s> dig a hole 0
+planting a tree: </s> dig a hole </s> watch tree grow (years) 1
+planting a tree: </s> place tree or seed in hole </s> put soil back in hole around tree 1
+planting a tree: </s> pat lightly </s> place tree or seed in hole 0
+planting a tree: </s> watch tree grow (years) </s> place tree or seed in hole 0
+planting a tree: </s> pat lightly </s> put soil back in hole around tree 0
+planting a tree: </s> watch tree grow (years) </s> put soil back in hole around tree 0
+planting a tree: </s> watch tree grow (years) </s> pat lightly 0
+planting a tree: </s> find a shovel. </s> dig a hole the same size as the container holding the tree. 1
+planting a tree: </s> find a shovel. </s> take the tree out of the container. 1
+planting a tree: </s> find a shovel. </s> place the tree in the hole. 1
+planting a tree: </s> find a shovel. </s> fill in any gaps in the hole with soil. 1
+planting a tree: </s> find a shovel. </s> watch your tree grow over the years. 1
+planting a tree: </s> dig a hole the same size as the container holding the tree. </s> take the tree out of the container. 1
+planting a tree: </s> place the tree in the hole. </s> dig a hole the same size as the container holding the tree. 0
+planting a tree: </s> dig a hole the same size as the container holding the tree. </s> fill in any gaps in the hole with soil. 1
+planting a tree: </s> watch your tree grow over the years. </s> dig a hole the same size as the container holding the tree. 0
+planting a tree: </s> place the tree in the hole. </s> take the tree out of the container. 0
+planting a tree: </s> take the tree out of the container. </s> fill in any gaps in the hole with soil. 1
+planting a tree: </s> watch your tree grow over the years. </s> take the tree out of the container. 0
+planting a tree: </s> fill in any gaps in the hole with soil. </s> place the tree in the hole. 0
+planting a tree: </s> watch your tree grow over the years. </s> place the tree in the hole. 0
+planting a tree: </s> fill in any gaps in the hole with soil. </s> watch your tree grow over the years. 1
+planting a tree: </s> determine where to plant it </s> acquire sapling 0
+planting a tree: </s> dig a small hole, keep the displaced dirt accessible </s> acquire sapling 0
+planting a tree: </s> place sapling in hole, roots down </s> acquire sapling 0
+planting a tree: </s> acquire sapling </s> replace displaced dirt 1
+planting a tree: </s> acquire sapling </s> pack dirt around tree 1
+planting a tree: </s> add water </s> acquire sapling 0
+planting a tree: </s> determine where to plant it </s> dig a small hole, keep the displaced dirt accessible 1
+planting a tree: </s> determine where to plant it </s> place sapling in hole, roots down 1
+planting a tree: </s> replace displaced dirt </s> determine where to plant it 0
+planting a tree: </s> determine where to plant it </s> pack dirt around tree 1
+planting a tree: </s> add water </s> determine where to plant it 0
+planting a tree: </s> dig a small hole, keep the displaced dirt accessible </s> place sapling in hole, roots down 1
+planting a tree: </s> replace displaced dirt </s> dig a small hole, keep the displaced dirt accessible 0
+planting a tree: </s> dig a small hole, keep the displaced dirt accessible </s> pack dirt around tree 1
+planting a tree: </s> add water </s> dig a small hole, keep the displaced dirt accessible 0
+planting a tree: </s> place sapling in hole, roots down </s> replace displaced dirt 1
+planting a tree: </s> pack dirt around tree </s> place sapling in hole, roots down 0
+planting a tree: </s> add water </s> place sapling in hole, roots down 0
+planting a tree: </s> pack dirt around tree </s> replace displaced dirt 0
+planting a tree: </s> replace displaced dirt </s> add water 1
+planting a tree: </s> add water </s> pack dirt around tree 0
+planting a tree: </s> get a shovel </s> buy a tree 0
+planting a tree: </s> buy a tree </s> find a place to plant the tree 1
+planting a tree: </s> buy a tree </s> dig the hole 1
+planting a tree: </s> buy a tree </s> sit the tree inside the whole 1
+planting a tree: </s> fill the hole with the shovel </s> buy a tree 0
+planting a tree: </s> buy a tree </s> water the tree 1
+planting a tree: </s> get a shovel </s> find a place to plant the tree 1
+planting a tree: </s> dig the hole </s> get a shovel 0
+planting a tree: </s> get a shovel </s> sit the tree inside the whole 1
+planting a tree: </s> get a shovel </s> fill the hole with the shovel 1
+planting a tree: </s> water the tree </s> get a shovel 0
+planting a tree: </s> find a place to plant the tree </s> dig the hole 1
+planting a tree: </s> find a place to plant the tree </s> sit the tree inside the whole 1
+planting a tree: </s> fill the hole with the shovel </s> find a place to plant the tree 0
+planting a tree: </s> water the tree </s> find a place to plant the tree 0
+planting a tree: </s> dig the hole </s> sit the tree inside the whole 1
+planting a tree: </s> dig the hole </s> fill the hole with the shovel 1
+planting a tree: </s> water the tree </s> dig the hole 0
+planting a tree: </s> fill the hole with the shovel </s> sit the tree inside the whole 0
+planting a tree: </s> water the tree </s> sit the tree inside the whole 0
+planting a tree: </s> water the tree </s> fill the hole with the shovel 0
+planting a tree: </s> buy a tree </s> transport it home 1
+planting a tree: </s> make a hole </s> buy a tree 0
+planting a tree: </s> plant the tree </s> buy a tree 0
+planting a tree: </s> make sure it is stable </s> buy a tree 0
+planting a tree: </s> water the tree </s> buy a tree 0
+planting a tree: </s> transport it home </s> make a hole 1
+planting a tree: </s> plant the tree </s> transport it home 0
+planting a tree: </s> transport it home </s> make sure it is stable 1
+planting a tree: </s> water the tree </s> transport it home 0
+planting a tree: </s> plant the tree </s> make a hole 0
+planting a tree: </s> make sure it is stable </s> make a hole 0
+planting a tree: </s> make a hole </s> water the tree 1
+planting a tree: </s> make sure it is stable </s> plant the tree 0
+planting a tree: </s> water the tree </s> plant the tree 0
+planting a tree: </s> water the tree </s> make sure it is stable 0
+planting a tree: </s> find a spot for the tree </s> dig a spot in the ground 1
+planting a tree: </s> place tree in it </s> find a spot for the tree 0
+planting a tree: </s> fill the hole with dirt </s> find a spot for the tree 0
+planting a tree: </s> find a spot for the tree </s> add water 1
+planting a tree: </s> dig a spot in the ground </s> place tree in it 1
+planting a tree: </s> fill the hole with dirt </s> dig a spot in the ground 0
+planting a tree: </s> add water </s> dig a spot in the ground 0
+planting a tree: </s> fill the hole with dirt </s> place tree in it 0
+planting a tree: </s> place tree in it </s> add water 1
+planting a tree: </s> add water </s> fill the hole with dirt 0
+planting a tree: </s> dig hole </s> when hole is deep enough, put tree in hole 1
+planting a tree: </s> dig hole </s> make sure tree is upright 1
+planting a tree: </s> start filling in hole with dirt </s> dig hole 0
+planting a tree: </s> dig hole </s> add compost 1
+planting a tree: </s> dig hole </s> finish filling in hole 1
+planting a tree: </s> level top of hole </s> dig hole 0
+planting a tree: </s> water tree </s> dig hole 0
+planting a tree: </s> when hole is deep enough, put tree in hole </s> make sure tree is upright 1
+planting a tree: </s> start filling in hole with dirt </s> when hole is deep enough, put tree in hole 0
+planting a tree: </s> add compost </s> when hole is deep enough, put tree in hole 0
+planting a tree: </s> when hole is deep enough, put tree in hole </s> finish filling in hole 1
+planting a tree: </s> level top of hole </s> when hole is deep enough, put tree in hole 0
+planting a tree: </s> water tree </s> when hole is deep enough, put tree in hole 0
+planting a tree: </s> start filling in hole with dirt </s> make sure tree is upright 0
+planting a tree: </s> add compost </s> make sure tree is upright 0
+planting a tree: </s> make sure tree is upright </s> finish filling in hole 1
+planting a tree: </s> level top of hole </s> make sure tree is upright 0
+planting a tree: </s> make sure tree is upright </s> water tree 1
+planting a tree: </s> add compost </s> start filling in hole with dirt 0
+planting a tree: </s> start filling in hole with dirt </s> finish filling in hole 1
+planting a tree: </s> start filling in hole with dirt </s> level top of hole 1
+planting a tree: </s> water tree </s> start filling in hole with dirt 0
+planting a tree: </s> finish filling in hole </s> add compost 0
+planting a tree: </s> add compost </s> level top of hole 1
+planting a tree: </s> add compost </s> water tree 1
+planting a tree: </s> finish filling in hole </s> level top of hole 1
+planting a tree: </s> water tree </s> finish filling in hole 0
+planting a tree: </s> water tree </s> level top of hole 0
+planting a tree: </s> buy seedling. </s> pick spot in yard. 1
+planting a tree: </s> get shovel. </s> buy seedling. 0
+planting a tree: </s> buy seedling. </s> dig hole. 1
+planting a tree: </s> place seedling in whole. </s> buy seedling. 0
+planting a tree: </s> bury with dirt. </s> buy seedling. 0
+planting a tree: </s> wait for tree to slowly grow. </s> buy seedling. 0
+planting a tree: </s> water tree. </s> buy seedling. 0
+planting a tree: </s> pick spot in yard. </s> get shovel. 1
+planting a tree: </s> dig hole. </s> pick spot in yard. 0
+planting a tree: </s> pick spot in yard. </s> place seedling in whole. 1
+planting a tree: </s> bury with dirt. </s> pick spot in yard. 0
+planting a tree: </s> pick spot in yard. </s> wait for tree to slowly grow. 1
+planting a tree: </s> water tree. </s> pick spot in yard. 0
+planting a tree: </s> dig hole. </s> get shovel. 0
+planting a tree: </s> get shovel. </s> place seedling in whole. 1
+planting a tree: </s> bury with dirt. </s> get shovel. 0
+planting a tree: </s> wait for tree to slowly grow. </s> get shovel. 0
+planting a tree: </s> get shovel. </s> water tree. 1
+planting a tree: </s> place seedling in whole. </s> dig hole. 0
+planting a tree: </s> bury with dirt. </s> dig hole. 0
+planting a tree: </s> wait for tree to slowly grow. </s> dig hole. 0
+planting a tree: </s> dig hole. </s> water tree. 1
+planting a tree: </s> place seedling in whole. </s> bury with dirt. 1
+planting a tree: </s> wait for tree to slowly grow. </s> place seedling in whole. 0
+planting a tree: </s> place seedling in whole. </s> water tree. 1
+planting a tree: </s> wait for tree to slowly grow. </s> bury with dirt. 0
+planting a tree: </s> bury with dirt. </s> water tree. 1
+planting a tree: </s> water tree. </s> wait for tree to slowly grow. 0
+planting a tree: </s> select a site to plant the tree </s> buy the tree 0
+planting a tree: </s> buy the tree </s> get a shovel 1
+planting a tree: </s> buy the tree </s> dig a hole three times the save as the root ball 1
+planting a tree: </s> place the tree at the top of the hole </s> buy the tree 0
+planting a tree: </s> fill in dirt around the tree gently </s> buy the tree 0
+planting a tree: </s> buy the tree </s> water the tree 1
+planting a tree: </s> get a shovel </s> select a site to plant the tree 0
+planting a tree: </s> select a site to plant the tree </s> dig a hole three times the save as the root ball 1
+planting a tree: </s> place the tree at the top of the hole </s> select a site to plant the tree 0
+planting a tree: </s> fill in dirt around the tree gently </s> select a site to plant the tree 0
+planting a tree: </s> water the tree </s> select a site to plant the tree 0
+planting a tree: </s> dig a hole three times the save as the root ball </s> get a shovel 0
+planting a tree: </s> get a shovel </s> place the tree at the top of the hole 1
+planting a tree: </s> get a shovel </s> fill in dirt around the tree gently 1
+planting a tree: </s> water the tree </s> get a shovel 0
+planting a tree: </s> dig a hole three times the save as the root ball </s> place the tree at the top of the hole 1
+planting a tree: </s> dig a hole three times the save as the root ball </s> fill in dirt around the tree gently 1
+planting a tree: </s> dig a hole three times the save as the root ball </s> water the tree 1
+planting a tree: </s> fill in dirt around the tree gently </s> place the tree at the top of the hole 0
+planting a tree: </s> place the tree at the top of the hole </s> water the tree 1
+planting a tree: </s> water the tree </s> fill in dirt around the tree gently 0
+planting a tree: </s> choose a tree that you want to grow </s> purchase the tree 1
+planting a tree: </s> choose a tree that you want to grow </s> use a shovel to dig a hole into the ground 1
+planting a tree: </s> put fertilizer in the hole </s> choose a tree that you want to grow 0
+planting a tree: </s> choose a tree that you want to grow </s> place the tree inside the whole 1
+planting a tree: </s> cover the hole with topsoil </s> choose a tree that you want to grow 0
+planting a tree: </s> purchase the tree </s> use a shovel to dig a hole into the ground 1
+planting a tree: </s> purchase the tree </s> put fertilizer in the hole 1
+planting a tree: </s> purchase the tree </s> place the tree inside the whole 1
+planting a tree: </s> cover the hole with topsoil </s> purchase the tree 0
+planting a tree: </s> put fertilizer in the hole </s> use a shovel to dig a hole into the ground 0
+planting a tree: </s> place the tree inside the whole </s> use a shovel to dig a hole into the ground 0
+planting a tree: </s> cover the hole with topsoil </s> use a shovel to dig a hole into the ground 0
+planting a tree: </s> place the tree inside the whole </s> put fertilizer in the hole 0
+planting a tree: </s> put fertilizer in the hole </s> cover the hole with topsoil 1
+planting a tree: </s> place the tree inside the whole </s> cover the hole with topsoil 1
+planting a tree: </s> go to nursery </s> buy sapling 1
+planting a tree: </s> go to nursery </s> go outside 1
+planting a tree: </s> go to nursery </s> dig hole 1
+planting a tree: </s> go to nursery </s> put sapling in hole 1
+planting a tree: </s> go to nursery </s> cover hole 1
+planting a tree: </s> water sapling </s> go to nursery 0
+planting a tree: </s> wait for growth </s> go to nursery 0
+planting a tree: </s> buy sapling </s> go outside 1
+planting a tree: </s> dig hole </s> buy sapling 0
+planting a tree: </s> buy sapling </s> put sapling in hole 1
+planting a tree: </s> cover hole </s> buy sapling 0
+planting a tree: </s> buy sapling </s> water sapling 1
+planting a tree: </s> buy sapling </s> wait for growth 1
+planting a tree: </s> dig hole </s> go outside 0
+planting a tree: </s> put sapling in hole </s> go outside 0
+planting a tree: </s> go outside </s> cover hole 1
+planting a tree: </s> water sapling </s> go outside 0
+planting a tree: </s> wait for growth </s> go outside 0
+planting a tree: </s> dig hole </s> put sapling in hole 1
+planting a tree: </s> cover hole </s> dig hole 0
+planting a tree: </s> dig hole </s> water sapling 1
+planting a tree: </s> dig hole </s> wait for growth 1
+planting a tree: </s> put sapling in hole </s> cover hole 1
+planting a tree: </s> water sapling </s> put sapling in hole 0
+planting a tree: </s> put sapling in hole </s> wait for growth 1
+planting a tree: </s> water sapling </s> cover hole 0
+planting a tree: </s> cover hole </s> wait for growth 1
+planting a tree: </s> wait for growth </s> water sapling 0
+planting a tree: </s> take the tree </s> get a spade 0
+planting a tree: </s> go to the location planned for the plant </s> get a spade 0
+planting a tree: </s> dig a small pit </s> get a spade 0
+planting a tree: </s> put a small quantity of organic fertilizer in the pit </s> get a spade 0
+planting a tree: </s> put some water in the pit </s> get a spade 0
+planting a tree: </s> get a spade </s> place the tree in the pit while keeping the orientation centered 1
+planting a tree: </s> get a spade </s> fill the pit with soil 1
+planting a tree: </s> make the loosened soil tight by pressing it. </s> get a spade 0
+planting a tree: </s> water the tree </s> get a spade 0
+planting a tree: </s> place a guard net around the newly planted tree </s> get a spade 0
+planting a tree: </s> go to the location planned for the plant </s> take the tree 0
+planting a tree: </s> take the tree </s> dig a small pit 1
+planting a tree: </s> put a small quantity of organic fertilizer in the pit </s> take the tree 0
+planting a tree: </s> take the tree </s> put some water in the pit 1
+planting a tree: </s> place the tree in the pit while keeping the orientation centered </s> take the tree 0
+planting a tree: </s> fill the pit with soil </s> take the tree 0
+planting a tree: </s> take the tree </s> make the loosened soil tight by pressing it. 1
+planting a tree: </s> water the tree </s> take the tree 0
+planting a tree: </s> take the tree </s> place a guard net around the newly planted tree 1
+planting a tree: </s> dig a small pit </s> go to the location planned for the plant 0
+planting a tree: </s> go to the location planned for the plant </s> put a small quantity of organic fertilizer in the pit 1
+planting a tree: </s> put some water in the pit </s> go to the location planned for the plant 0
+planting a tree: </s> place the tree in the pit while keeping the orientation centered </s> go to the location planned for the plant 0
+planting a tree: </s> fill the pit with soil </s> go to the location planned for the plant 0
+planting a tree: </s> go to the location planned for the plant </s> make the loosened soil tight by pressing it. 1
+planting a tree: </s> water the tree </s> go to the location planned for the plant 0
+planting a tree: </s> place a guard net around the newly planted tree </s> go to the location planned for the plant 0
+planting a tree: </s> dig a small pit </s> put a small quantity of organic fertilizer in the pit 1
+planting a tree: </s> dig a small pit </s> put some water in the pit 1
+planting a tree: </s> dig a small pit </s> place the tree in the pit while keeping the orientation centered 1
+planting a tree: </s> fill the pit with soil </s> dig a small pit 0
+planting a tree: </s> dig a small pit </s> make the loosened soil tight by pressing it. 1
+planting a tree: </s> water the tree </s> dig a small pit 0
+planting a tree: </s> place a guard net around the newly planted tree </s> dig a small pit 0
+planting a tree: </s> put some water in the pit </s> put a small quantity of organic fertilizer in the pit 0
+planting a tree: </s> put a small quantity of organic fertilizer in the pit </s> place the tree in the pit while keeping the orientation centered 1
+planting a tree: </s> put a small quantity of organic fertilizer in the pit </s> fill the pit with soil 1
+planting a tree: </s> make the loosened soil tight by pressing it. </s> put a small quantity of organic fertilizer in the pit 0
+planting a tree: </s> water the tree </s> put a small quantity of organic fertilizer in the pit 0
+planting a tree: </s> put a small quantity of organic fertilizer in the pit </s> place a guard net around the newly planted tree 1
+planting a tree: </s> place the tree in the pit while keeping the orientation centered </s> put some water in the pit 0
+planting a tree: </s> fill the pit with soil </s> put some water in the pit 0
+planting a tree: </s> make the loosened soil tight by pressing it. </s> put some water in the pit 0
+planting a tree: </s> water the tree </s> put some water in the pit 0
+planting a tree: </s> put some water in the pit </s> place a guard net around the newly planted tree 1
+planting a tree: </s> fill the pit with soil </s> place the tree in the pit while keeping the orientation centered 0
+planting a tree: </s> place the tree in the pit while keeping the orientation centered </s> make the loosened soil tight by pressing it. 1
+planting a tree: </s> water the tree </s> place the tree in the pit while keeping the orientation centered 0
+planting a tree: </s> place a guard net around the newly planted tree </s> place the tree in the pit while keeping the orientation centered 0
+planting a tree: </s> make the loosened soil tight by pressing it. </s> fill the pit with soil 0
+planting a tree: </s> water the tree </s> fill the pit with soil 0
+planting a tree: </s> fill the pit with soil </s> place a guard net around the newly planted tree 1
+planting a tree: </s> water the tree </s> make the loosened soil tight by pressing it. 0
+planting a tree: </s> place a guard net around the newly planted tree </s> make the loosened soil tight by pressing it. 0
+planting a tree: </s> water the tree </s> place a guard net around the newly planted tree 1
+planting a tree: </s> choose location for the tree </s> dig up the soil where the tree should go 1
+planting a tree: </s> choose location for the tree </s> plant the tree or the seeds 1
+planting a tree: </s> choose location for the tree </s> cover back over with soil 1
+planting a tree: </s> water the patch of land to help it grow. </s> choose location for the tree 0
+planting a tree: </s> dig up the soil where the tree should go </s> plant the tree or the seeds 1
+planting a tree: </s> cover back over with soil </s> dig up the soil where the tree should go 0
+planting a tree: </s> water the patch of land to help it grow. </s> dig up the soil where the tree should go 0
+planting a tree: </s> plant the tree or the seeds </s> cover back over with soil 1
+planting a tree: </s> plant the tree or the seeds </s> water the patch of land to help it grow. 1
+planting a tree: </s> water the patch of land to help it grow. </s> cover back over with soil 0
+planting a tree: </s> dig hole in the ground </s> take a sapling 0
+planting a tree: </s> place the sapling </s> take a sapling 0
+planting a tree: </s> place it in the hole </s> take a sapling 0
+planting a tree: </s> take a sapling </s> cover with soil 1
+planting a tree: </s> take a sapling </s> water regularly 1
+planting a tree: </s> place the sapling </s> dig hole in the ground 0
+planting a tree: </s> dig hole in the ground </s> place it in the hole 1
+planting a tree: </s> dig hole in the ground </s> cover with soil 1
+planting a tree: </s> water regularly </s> dig hole in the ground 0
+planting a tree: </s> place the sapling </s> place it in the hole 1
+planting a tree: </s> cover with soil </s> place the sapling 0
+planting a tree: </s> water regularly </s> place the sapling 0
+planting a tree: </s> cover with soil </s> place it in the hole 0
+planting a tree: </s> place it in the hole </s> water regularly 1
+planting a tree: </s> cover with soil </s> water regularly 1
+planting a tree: </s> buy some tree seeds or purchase a small tree. </s> use a shovel to dig a hole 1
+planting a tree: </s> place tree into hole carefully. </s> buy some tree seeds or purchase a small tree. 0
+planting a tree: </s> buy some tree seeds or purchase a small tree. </s> add some compost 1
+planting a tree: </s> buy some tree seeds or purchase a small tree. </s> water tree 1
+planting a tree: </s> add stakes to tree if necessary over the years. </s> buy some tree seeds or purchase a small tree. 0
+planting a tree: </s> buy some tree seeds or purchase a small tree. </s> tree will continue to grow over the years. 1
+planting a tree: </s> use a shovel to dig a hole </s> place tree into hole carefully. 1
+planting a tree: </s> use a shovel to dig a hole </s> add some compost 1
+planting a tree: </s> water tree </s> use a shovel to dig a hole 0
+planting a tree: </s> add stakes to tree if necessary over the years. </s> use a shovel to dig a hole 0
+planting a tree: </s> tree will continue to grow over the years. </s> use a shovel to dig a hole 0
+planting a tree: </s> place tree into hole carefully. </s> add some compost 1
+planting a tree: </s> water tree </s> place tree into hole carefully. 0
+planting a tree: </s> place tree into hole carefully. </s> add stakes to tree if necessary over the years. 1
+planting a tree: </s> place tree into hole carefully. </s> tree will continue to grow over the years. 1
+planting a tree: </s> water tree </s> add some compost 0
+planting a tree: </s> add some compost </s> add stakes to tree if necessary over the years. 1
+planting a tree: </s> add some compost </s> tree will continue to grow over the years. 1
+planting a tree: </s> add stakes to tree if necessary over the years. </s> water tree 0
+planting a tree: </s> water tree </s> tree will continue to grow over the years. 1
+planting a tree: </s> add stakes to tree if necessary over the years. </s> tree will continue to grow over the years. 1
+planting a tree: </s> get your tree </s> get a shovel 1
+planting a tree: </s> find the right spot in your garden or park </s> get your tree 0
+planting a tree: </s> get your tree </s> dig a hole 1
+planting a tree: </s> get your tree </s> remove tree from pot 1
+planting a tree: </s> get your tree </s> place tree in hole 1
+planting a tree: </s> refill the hole with dirt </s> get your tree 0
+planting a tree: </s> find the right spot in your garden or park </s> get a shovel 0
+planting a tree: </s> get a shovel </s> dig a hole 1
+planting a tree: </s> remove tree from pot </s> get a shovel 0
+planting a tree: </s> place tree in hole </s> get a shovel 0
+planting a tree: </s> get a shovel </s> refill the hole with dirt 1
+planting a tree: </s> dig a hole </s> find the right spot in your garden or park 0
+planting a tree: </s> find the right spot in your garden or park </s> remove tree from pot 1
+planting a tree: </s> find the right spot in your garden or park </s> place tree in hole 1
+planting a tree: </s> refill the hole with dirt </s> find the right spot in your garden or park 0
+planting a tree: </s> dig a hole </s> remove tree from pot 1
+planting a tree: </s> place tree in hole </s> dig a hole 0
+planting a tree: </s> refill the hole with dirt </s> dig a hole 0
+planting a tree: </s> remove tree from pot </s> place tree in hole 1
+planting a tree: </s> refill the hole with dirt </s> remove tree from pot 0
+planting a tree: </s> place tree in hole </s> refill the hole with dirt 1
+planting a tree: </s> select a location </s> select a tree 0
+planting a tree: </s> select a tree </s> dig a hole 1
+planting a tree: </s> put tree in hole </s> select a tree 0
+planting a tree: </s> cover hole </s> select a tree 0
+planting a tree: </s> select a tree </s> water tree 1
+planting a tree: </s> dig a hole </s> select a location 0
+planting a tree: </s> select a location </s> put tree in hole 1
+planting a tree: </s> select a location </s> cover hole 1
+planting a tree: </s> select a location </s> water tree 1
+planting a tree: </s> put tree in hole </s> dig a hole 0
+planting a tree: </s> cover hole </s> dig a hole 0
+planting a tree: </s> dig a hole </s> water tree 1
+planting a tree: </s> put tree in hole </s> cover hole 1
+planting a tree: </s> put tree in hole </s> water tree 1
+planting a tree: </s> cover hole </s> water tree 1
+planting a tree: </s> buy topsoil </s> buy a tree to plant from a flower supply company 0
+planting a tree: </s> buy a tree to plant from a flower supply company </s> buy mulch 1
+planting a tree: </s> buy fertilizer </s> buy a tree to plant from a flower supply company 0
+planting a tree: </s> buy a tree to plant from a flower supply company </s> dig a hole for the tree 1
+planting a tree: </s> hold the tree upright as you shovel topsoil into the hole </s> buy a tree to plant from a flower supply company 0
+planting a tree: </s> buy a tree to plant from a flower supply company </s> tamp the topsoil down 1
+planting a tree: </s> buy a tree to plant from a flower supply company </s> straighten the tree 1
+planting a tree: </s> pour a layer of fertilizer around the tree </s> buy a tree to plant from a flower supply company 0
+planting a tree: </s> pour chipped-wood mulch around tree </s> buy a tree to plant from a flower supply company 0
+planting a tree: </s> straighten tree </s> buy a tree to plant from a flower supply company 0
+planting a tree: </s> buy a tree to plant from a flower supply company </s> water tree 1
+planting a tree: </s> buy a tree to plant from a flower supply company </s> continue to water tree regularly 1
+planting a tree: </s> tree will grow </s> buy a tree to plant from a flower supply company 0
+planting a tree: </s> buy topsoil </s> buy mulch 1
+planting a tree: </s> buy topsoil </s> buy fertilizer 1
+planting a tree: </s> dig a hole for the tree </s> buy topsoil 0
+planting a tree: </s> hold the tree upright as you shovel topsoil into the hole </s> buy topsoil 0
+planting a tree: </s> tamp the topsoil down </s> buy topsoil 0
+planting a tree: </s> buy topsoil </s> straighten the tree 1
+planting a tree: </s> buy topsoil </s> pour a layer of fertilizer around the tree 1
+planting a tree: </s> buy topsoil </s> pour chipped-wood mulch around tree 1
+planting a tree: </s> buy topsoil </s> straighten tree 1
+planting a tree: </s> water tree </s> buy topsoil 0
+planting a tree: </s> buy topsoil </s> continue to water tree regularly 1
+planting a tree: </s> tree will grow </s> buy topsoil 0
+planting a tree: </s> buy fertilizer </s> buy mulch 0
+planting a tree: </s> dig a hole for the tree </s> buy mulch 0
+planting a tree: </s> buy mulch </s> hold the tree upright as you shovel topsoil into the hole 1
+planting a tree: </s> tamp the topsoil down </s> buy mulch 0
+planting a tree: </s> buy mulch </s> straighten the tree 1
+planting a tree: </s> buy mulch </s> pour a layer of fertilizer around the tree 1
+planting a tree: </s> buy mulch </s> pour chipped-wood mulch around tree 1
+planting a tree: </s> buy mulch </s> straighten tree 1
+planting a tree: </s> buy mulch </s> water tree 1
+planting a tree: </s> continue to water tree regularly </s> buy mulch 0
+planting a tree: </s> tree will grow </s> buy mulch 0
+planting a tree: </s> dig a hole for the tree </s> buy fertilizer 0
+planting a tree: </s> buy fertilizer </s> hold the tree upright as you shovel topsoil into the hole 1
+planting a tree: </s> tamp the topsoil down </s> buy fertilizer 0
+planting a tree: </s> straighten the tree </s> buy fertilizer 0
+planting a tree: </s> buy fertilizer </s> pour a layer of fertilizer around the tree 1
+planting a tree: </s> buy fertilizer </s> pour chipped-wood mulch around tree 1
+planting a tree: </s> straighten tree </s> buy fertilizer 0
+planting a tree: </s> water tree </s> buy fertilizer 0
+planting a tree: </s> continue to water tree regularly </s> buy fertilizer 0
+planting a tree: </s> tree will grow </s> buy fertilizer 0
+planting a tree: </s> hold the tree upright as you shovel topsoil into the hole </s> dig a hole for the tree 0
+planting a tree: </s> tamp the topsoil down </s> dig a hole for the tree 0
+planting a tree: </s> straighten the tree </s> dig a hole for the tree 0
+planting a tree: </s> dig a hole for the tree </s> pour a layer of fertilizer around the tree 1
+planting a tree: </s> pour chipped-wood mulch around tree </s> dig a hole for the tree 0
+planting a tree: </s> straighten tree </s> dig a hole for the tree 0
+planting a tree: </s> water tree </s> dig a hole for the tree 0
+planting a tree: </s> dig a hole for the tree </s> continue to water tree regularly 1
+planting a tree: </s> dig a hole for the tree </s> tree will grow 1
+planting a tree: </s> hold the tree upright as you shovel topsoil into the hole </s> tamp the topsoil down 1
+planting a tree: </s> straighten the tree </s> hold the tree upright as you shovel topsoil into the hole 0
+planting a tree: </s> pour a layer of fertilizer around the tree </s> hold the tree upright as you shovel topsoil into the hole 0
+planting a tree: </s> pour chipped-wood mulch around tree </s> hold the tree upright as you shovel topsoil into the hole 0
+planting a tree: </s> straighten tree </s> hold the tree upright as you shovel topsoil into the hole 0
+planting a tree: </s> water tree </s> hold the tree upright as you shovel topsoil into the hole 0
+planting a tree: </s> hold the tree upright as you shovel topsoil into the hole </s> continue to water tree regularly 1
+planting a tree: </s> hold the tree upright as you shovel topsoil into the hole </s> tree will grow 1
+planting a tree: </s> tamp the topsoil down </s> straighten the tree 1
+planting a tree: </s> pour a layer of fertilizer around the tree </s> tamp the topsoil down 0
+planting a tree: </s> pour chipped-wood mulch around tree </s> tamp the topsoil down 0
+planting a tree: </s> straighten tree </s> tamp the topsoil down 0
+planting a tree: </s> tamp the topsoil down </s> water tree 1
+planting a tree: </s> tamp the topsoil down </s> continue to water tree regularly 1
+planting a tree: </s> tamp the topsoil down </s> tree will grow 1
+planting a tree: </s> pour a layer of fertilizer around the tree </s> straighten the tree 0
+planting a tree: </s> pour chipped-wood mulch around tree </s> straighten the tree 0
+planting a tree: </s> straighten tree </s> straighten the tree 0
+planting a tree: </s> straighten the tree </s> water tree 1
+planting a tree: </s> continue to water tree regularly </s> straighten the tree 0
+planting a tree: </s> tree will grow </s> straighten the tree 0
+planting a tree: </s> pour a layer of fertilizer around the tree </s> pour chipped-wood mulch around tree 1
+planting a tree: </s> straighten tree </s> pour a layer of fertilizer around the tree 0
+planting a tree: </s> pour a layer of fertilizer around the tree </s> water tree 1
+planting a tree: </s> continue to water tree regularly </s> pour a layer of fertilizer around the tree 0
+planting a tree: </s> pour a layer of fertilizer around the tree </s> tree will grow 1
+planting a tree: </s> straighten tree </s> pour chipped-wood mulch around tree 0
+planting a tree: </s> pour chipped-wood mulch around tree </s> water tree 1
+planting a tree: </s> continue to water tree regularly </s> pour chipped-wood mulch around tree 0
+planting a tree: </s> tree will grow </s> pour chipped-wood mulch around tree 0
+planting a tree: </s> straighten tree </s> water tree 1
+planting a tree: </s> straighten tree </s> continue to water tree regularly 1
+planting a tree: </s> straighten tree </s> tree will grow 1
+planting a tree: </s> water tree </s> continue to water tree regularly 1
+planting a tree: </s> tree will grow </s> water tree 0
+planting a tree: </s> tree will grow </s> continue to water tree regularly 0
+planting a tree: </s> pick a spot in the yard for the tree. </s> buy or get a seed. 1
+planting a tree: </s> pick a spot in the yard for the tree. </s> plant tree seed about 4 inches in the dirt. 1
+planting a tree: </s> water the area daily. </s> pick a spot in the yard for the tree. 0
+planting a tree: </s> pick a spot in the yard for the tree. </s> as the tree grows, remove any weeds that may grow from the area. 1
+planting a tree: </s> buy or get a seed. </s> plant tree seed about 4 inches in the dirt. 1
+planting a tree: </s> water the area daily. </s> buy or get a seed. 0
+planting a tree: </s> buy or get a seed. </s> as the tree grows, remove any weeds that may grow from the area. 1
+planting a tree: </s> water the area daily. </s> plant tree seed about 4 inches in the dirt. 0
+planting a tree: </s> plant tree seed about 4 inches in the dirt. </s> as the tree grows, remove any weeds that may grow from the area. 1
+planting a tree: </s> water the area daily. </s> as the tree grows, remove any weeds that may grow from the area. 1
+planting a tree: </s> buy sapling </s> go to store 0
+planting a tree: </s> go to store </s> go home 1
+planting a tree: </s> go to store </s> get shovel 1
+planting a tree: </s> select location </s> go to store 0
+planting a tree: </s> dig hole </s> go to store 0
+planting a tree: </s> put sapling in hole </s> go to store 0
+planting a tree: </s> cover sapling with dirt </s> go to store 0
+planting a tree: </s> water new sapling </s> go to store 0
+planting a tree: </s> go home </s> buy sapling 0
+planting a tree: </s> buy sapling </s> get shovel 1
+planting a tree: </s> buy sapling </s> select location 1
+planting a tree: </s> dig hole </s> buy sapling 0
+planting a tree: </s> put sapling in hole </s> buy sapling 0
+planting a tree: </s> cover sapling with dirt </s> buy sapling 0
+planting a tree: </s> water new sapling </s> buy sapling 0
+planting a tree: </s> get shovel </s> go home 0
+planting a tree: </s> go home </s> select location 1
+planting a tree: </s> dig hole </s> go home 0
+planting a tree: </s> put sapling in hole </s> go home 0
+planting a tree: </s> cover sapling with dirt </s> go home 0
+planting a tree: </s> go home </s> water new sapling 1
+planting a tree: </s> select location </s> get shovel 0
+planting a tree: </s> dig hole </s> get shovel 0
+planting a tree: </s> put sapling in hole </s> get shovel 0
+planting a tree: </s> cover sapling with dirt </s> get shovel 0
+planting a tree: </s> water new sapling </s> get shovel 0
+planting a tree: </s> dig hole </s> select location 0
+planting a tree: </s> put sapling in hole </s> select location 0
+planting a tree: </s> select location </s> cover sapling with dirt 1
+planting a tree: </s> select location </s> water new sapling 1
+planting a tree: </s> put sapling in hole </s> dig hole 0
+planting a tree: </s> cover sapling with dirt </s> dig hole 0
+planting a tree: </s> water new sapling </s> dig hole 0
+planting a tree: </s> put sapling in hole </s> cover sapling with dirt 1
+planting a tree: </s> water new sapling </s> put sapling in hole 0
+planting a tree: </s> cover sapling with dirt </s> water new sapling 1
+planting a tree: </s> choose spot for planting. </s> obtain seedling. 0
+planting a tree: </s> obtain seedling. </s> dig hole big enough for seedling. 1
+planting a tree: </s> obtain seedling. </s> place seedling into hole. 1
+planting a tree: </s> cover roots with dirt. </s> obtain seedling. 0
+planting a tree: </s> obtain seedling. </s> water regularly. 1
+planting a tree: </s> choose spot for planting. </s> dig hole big enough for seedling. 1
+planting a tree: </s> place seedling into hole. </s> choose spot for planting. 0
+planting a tree: </s> cover roots with dirt. </s> choose spot for planting. 0
+planting a tree: </s> choose spot for planting. </s> water regularly. 1
+planting a tree: </s> dig hole big enough for seedling. </s> place seedling into hole. 1
+planting a tree: </s> cover roots with dirt. </s> dig hole big enough for seedling. 0
+planting a tree: </s> dig hole big enough for seedling. </s> water regularly. 1
+planting a tree: </s> place seedling into hole. </s> cover roots with dirt. 1
+planting a tree: </s> water regularly. </s> place seedling into hole. 0
+planting a tree: </s> cover roots with dirt. </s> water regularly. 1
+planting a tree: </s> dig a hole twice as wide as the pot </s> go buy a tree 0
+planting a tree: </s> go buy a tree </s> dig hole deep enough for the roots 1
+planting a tree: </s> go buy a tree </s> fill in with dirt 1
+planting a tree: </s> water very well </s> go buy a tree 0
+planting a tree: </s> dig hole deep enough for the roots </s> dig a hole twice as wide as the pot 0
+planting a tree: </s> dig a hole twice as wide as the pot </s> fill in with dirt 1
+planting a tree: </s> water very well </s> dig a hole twice as wide as the pot 0
+planting a tree: </s> fill in with dirt </s> dig hole deep enough for the roots 0
+planting a tree: </s> water very well </s> dig hole deep enough for the roots 0
+planting a tree: </s> water very well </s> fill in with dirt 0
+planting a tree: </s> digging in the ground </s> preparing the dirt 1
+planting a tree: </s> placing the seeds in the ground </s> digging in the ground 0
+planting a tree: </s> digging in the ground </s> putting dirt over the seeds 1
+planting a tree: </s> watering the dirt </s> digging in the ground 0
+planting a tree: </s> placing the seeds in the ground </s> preparing the dirt 0
+planting a tree: </s> preparing the dirt </s> putting dirt over the seeds 1
+planting a tree: </s> watering the dirt </s> preparing the dirt 0
+planting a tree: </s> putting dirt over the seeds </s> placing the seeds in the ground 0
+planting a tree: </s> watering the dirt </s> placing the seeds in the ground 0
+planting a tree: </s> watering the dirt </s> putting dirt over the seeds 0
+planting a tree: </s> get seeds </s> dig a hole 1
+planting a tree: </s> get seeds </s> insert some seeds 1
+planting a tree: </s> get seeds </s> cover up hole 1
+planting a tree: </s> water the soil </s> get seeds 0
+planting a tree: </s> insert some seeds </s> dig a hole 0
+planting a tree: </s> dig a hole </s> cover up hole 1
+planting a tree: </s> dig a hole </s> water the soil 1
+planting a tree: </s> cover up hole </s> insert some seeds 0
+planting a tree: </s> water the soil </s> insert some seeds 0
+planting a tree: </s> cover up hole </s> water the soil 1
+planting a tree: </s> get shovel and water ready. </s> purchase seeds. 0
+planting a tree: </s> purchase seeds. </s> go outside to find spot for tree. 1
+planting a tree: </s> purchase seeds. </s> dig hole for tree with shovel. 1
+planting a tree: </s> place seeds in hole. </s> purchase seeds. 0
+planting a tree: </s> cover seeds over with soil. </s> purchase seeds. 0
+planting a tree: </s> purchase seeds. </s> water soil. 1
+planting a tree: </s> get shovel and water ready. </s> go outside to find spot for tree. 1
+planting a tree: </s> dig hole for tree with shovel. </s> get shovel and water ready. 0
+planting a tree: </s> place seeds in hole. </s> get shovel and water ready. 0
+planting a tree: </s> cover seeds over with soil. </s> get shovel and water ready. 0
+planting a tree: </s> water soil. </s> get shovel and water ready. 0
+planting a tree: </s> dig hole for tree with shovel. </s> go outside to find spot for tree. 0
+planting a tree: </s> go outside to find spot for tree. </s> place seeds in hole. 1
+planting a tree: </s> go outside to find spot for tree. </s> cover seeds over with soil. 1
+planting a tree: </s> water soil. </s> go outside to find spot for tree. 0
+planting a tree: </s> dig hole for tree with shovel. </s> place seeds in hole. 1
+planting a tree: </s> cover seeds over with soil. </s> dig hole for tree with shovel. 0
+planting a tree: </s> dig hole for tree with shovel. </s> water soil. 1
+planting a tree: </s> place seeds in hole. </s> cover seeds over with soil. 1
+planting a tree: </s> place seeds in hole. </s> water soil. 1
+planting a tree: </s> cover seeds over with soil. </s> water soil. 1
+planting a tree: </s> find perfect spot to grow. </s> select tree seedling. 0
+planting a tree: </s> dig hole. </s> select tree seedling. 0
+planting a tree: </s> select tree seedling. </s> remove seedling from container. 1
+planting a tree: </s> place in hole. </s> select tree seedling. 0
+planting a tree: </s> select tree seedling. </s> fill in and pack dirt around seedling. 1
+planting a tree: </s> water thoroughly. </s> select tree seedling. 0
+planting a tree: </s> find perfect spot to grow. </s> dig hole. 1
+planting a tree: </s> remove seedling from container. </s> find perfect spot to grow. 0
+planting a tree: </s> place in hole. </s> find perfect spot to grow. 0
+planting a tree: </s> fill in and pack dirt around seedling. </s> find perfect spot to grow. 0
+planting a tree: </s> water thoroughly. </s> find perfect spot to grow. 0
+planting a tree: </s> remove seedling from container. </s> dig hole. 0
+planting a tree: </s> place in hole. </s> dig hole. 0
+planting a tree: </s> fill in and pack dirt around seedling. </s> dig hole. 0
+planting a tree: </s> dig hole. </s> water thoroughly. 1
+planting a tree: </s> place in hole. </s> remove seedling from container. 0
+planting a tree: </s> remove seedling from container. </s> fill in and pack dirt around seedling. 1
+planting a tree: </s> remove seedling from container. </s> water thoroughly. 1
+planting a tree: </s> place in hole. </s> fill in and pack dirt around seedling. 1
+planting a tree: </s> place in hole. </s> water thoroughly. 1
+planting a tree: </s> water thoroughly. </s> fill in and pack dirt around seedling. 0
+planting a tree: </s> find a good spot to plant tree </s> dig a hole deep enough and wide enough 1
+planting a tree: </s> find a good spot to plant tree </s> place tree roots in hole 1
+planting a tree: </s> fill in dirt </s> find a good spot to plant tree 0
+planting a tree: </s> find a good spot to plant tree </s> water tree 1
+planting a tree: </s> place tree roots in hole </s> dig a hole deep enough and wide enough 0
+planting a tree: </s> dig a hole deep enough and wide enough </s> fill in dirt 1
+planting a tree: </s> dig a hole deep enough and wide enough </s> water tree 1
+planting a tree: </s> place tree roots in hole </s> fill in dirt 1
+planting a tree: </s> water tree </s> place tree roots in hole 0
+planting a tree: </s> water tree </s> fill in dirt 0
+planting a tree: </s> get seeds, seedling, or bush </s> dig hole 1
+planting a tree: </s> get seeds, seedling, or bush </s> plant seed, seedling, or bush 1
+planting a tree: </s> fill hole with dirt around the tree </s> get seeds, seedling, or bush 0
+planting a tree: </s> get seeds, seedling, or bush </s> water the tree 1
+planting a tree: </s> plant seed, seedling, or bush </s> dig hole 0
+planting a tree: </s> dig hole </s> fill hole with dirt around the tree 1
+planting a tree: </s> water the tree </s> dig hole 0
+planting a tree: </s> plant seed, seedling, or bush </s> fill hole with dirt around the tree 1
+planting a tree: </s> plant seed, seedling, or bush </s> water the tree 1
+planting a tree: </s> water the tree </s> fill hole with dirt around the tree 0
+planting a tree: </s> grab a shovel </s> dig a hole 1
+planting a tree: </s> grab a shovel </s> put tree in hole 1
+planting a tree: </s> grab a shovel </s> cover up hole 1
+planting a tree: </s> water tree </s> grab a shovel 0
+planting a tree: </s> grab a shovel </s> wait 1
+planting a tree: </s> dig a hole </s> put tree in hole 1
+planting a tree: </s> cover up hole </s> dig a hole 0
+planting a tree: </s> water tree </s> dig a hole 0
+planting a tree: </s> dig a hole </s> wait 1
+planting a tree: </s> put tree in hole </s> cover up hole 1
+planting a tree: </s> put tree in hole </s> water tree 1
+planting a tree: </s> wait </s> put tree in hole 0
+planting a tree: </s> water tree </s> cover up hole 0
+planting a tree: </s> cover up hole </s> wait 1
+planting a tree: </s> wait </s> water tree 0
+planting a tree: </s> get shovel </s> find place for tree 0
+planting a tree: </s> dig hole </s> find place for tree 0
+planting a tree: </s> find place for tree </s> place tree in hole 1
+planting a tree: </s> fill hole with dirt </s> find place for tree 0
+planting a tree: </s> water tree </s> find place for tree 0
+planting a tree: </s> dig hole </s> get shovel 0
+planting a tree: </s> place tree in hole </s> get shovel 0
+planting a tree: </s> fill hole with dirt </s> get shovel 0
+planting a tree: </s> get shovel </s> water tree 1
+planting a tree: </s> place tree in hole </s> dig hole 0
+planting a tree: </s> fill hole with dirt </s> dig hole 0
+planting a tree: </s> water tree </s> dig hole 0
+planting a tree: </s> fill hole with dirt </s> place tree in hole 0
+planting a tree: </s> water tree </s> place tree in hole 0
+planting a tree: </s> water tree </s> fill hole with dirt 0
+planting a tree: </s> buy a tree </s> pick a spot to plant it 1
+planting a tree: </s> buy a tree </s> get a shovel 1
+planting a tree: </s> buy a tree </s> dig a hole 1
+planting a tree: </s> put the tree in </s> buy a tree 0
+planting a tree: </s> buy a tree </s> fill around it with dirt 1
+planting a tree: </s> buy a tree </s> water it 1
+planting a tree: </s> get a shovel </s> pick a spot to plant it 0
+planting a tree: </s> dig a hole </s> pick a spot to plant it 0
+planting a tree: </s> put the tree in </s> pick a spot to plant it 0
+planting a tree: </s> fill around it with dirt </s> pick a spot to plant it 0
+planting a tree: </s> water it </s> pick a spot to plant it 0
+planting a tree: </s> dig a hole </s> get a shovel 0
+planting a tree: </s> put the tree in </s> get a shovel 0
+planting a tree: </s> get a shovel </s> fill around it with dirt 1
+planting a tree: </s> water it </s> get a shovel 0
+planting a tree: </s> put the tree in </s> dig a hole 0
+planting a tree: </s> fill around it with dirt </s> dig a hole 0
+planting a tree: </s> dig a hole </s> water it 1
+planting a tree: </s> fill around it with dirt </s> put the tree in 0
+planting a tree: </s> put the tree in </s> water it 1
+planting a tree: </s> water it </s> fill around it with dirt 0
+planting a tree: </s> dig a hole into the ground </s> buy seeds 0
+planting a tree: </s> buy seeds </s> place seed into hole 1
+planting a tree: </s> buy seeds </s> cover hole back up 1
+planting a tree: </s> buy seeds </s> take some water 1
+planting a tree: </s> buy seeds </s> water the seed everyday 1
+planting a tree: </s> buy seeds </s> make sure it gets sunlight 1
+planting a tree: </s> place seed into hole </s> dig a hole into the ground 0
+planting a tree: </s> cover hole back up </s> dig a hole into the ground 0
+planting a tree: </s> dig a hole into the ground </s> take some water 1
+planting a tree: </s> dig a hole into the ground </s> water the seed everyday 1
+planting a tree: </s> dig a hole into the ground </s> make sure it gets sunlight 1
+planting a tree: </s> cover hole back up </s> place seed into hole 0
+planting a tree: </s> take some water </s> place seed into hole 0
+planting a tree: </s> place seed into hole </s> water the seed everyday 1
+planting a tree: </s> make sure it gets sunlight </s> place seed into hole 0
+planting a tree: </s> take some water </s> cover hole back up 0
+planting a tree: </s> water the seed everyday </s> cover hole back up 0
+planting a tree: </s> make sure it gets sunlight </s> cover hole back up 0
+planting a tree: </s> water the seed everyday </s> take some water 0
+planting a tree: </s> make sure it gets sunlight </s> take some water 0
+planting a tree: </s> water the seed everyday </s> make sure it gets sunlight 1
+planting a tree: </s> put on gloves </s> get a sapling, shovel and garden gloves. 0
+planting a tree: </s> get a sapling, shovel and garden gloves. </s> dig hole for tree 1
+planting a tree: </s> put sapling in hole </s> get a sapling, shovel and garden gloves. 0
+planting a tree: </s> cover with dirt </s> get a sapling, shovel and garden gloves. 0
+planting a tree: </s> take off gloves and put away with shovel </s> get a sapling, shovel and garden gloves. 0
+planting a tree: </s> come back regularly to water sapling </s> get a sapling, shovel and garden gloves. 0
+planting a tree: </s> watch tree grow </s> get a sapling, shovel and garden gloves. 0
+planting a tree: </s> put on gloves </s> dig hole for tree 1
+planting a tree: </s> put on gloves </s> put sapling in hole 1
+planting a tree: </s> put on gloves </s> cover with dirt 1
+planting a tree: </s> put on gloves </s> take off gloves and put away with shovel 1
+planting a tree: </s> put on gloves </s> come back regularly to water sapling 1
+planting a tree: </s> put on gloves </s> watch tree grow 1
+planting a tree: </s> dig hole for tree </s> put sapling in hole 1
+planting a tree: </s> dig hole for tree </s> cover with dirt 1
+planting a tree: </s> take off gloves and put away with shovel </s> dig hole for tree 0
+planting a tree: </s> come back regularly to water sapling </s> dig hole for tree 0
+planting a tree: </s> watch tree grow </s> dig hole for tree 0
+planting a tree: </s> cover with dirt </s> put sapling in hole 0
+planting a tree: </s> take off gloves and put away with shovel </s> put sapling in hole 0
+planting a tree: </s> come back regularly to water sapling </s> put sapling in hole 0
+planting a tree: </s> put sapling in hole </s> watch tree grow 1
+planting a tree: </s> cover with dirt </s> take off gloves and put away with shovel 1
+planting a tree: </s> cover with dirt </s> come back regularly to water sapling 1
+planting a tree: </s> cover with dirt </s> watch tree grow 1
+planting a tree: </s> come back regularly to water sapling </s> take off gloves and put away with shovel 0
+planting a tree: </s> take off gloves and put away with shovel </s> watch tree grow 1
+planting a tree: </s> watch tree grow </s> come back regularly to water sapling 0
+planting a tree: </s> visit a plant nursery and choose a tree. </s> transport the tree to where you will plant it. 1
+planting a tree: </s> dig a hole in the ground large enough to accommodate the root ball of the tree. </s> visit a plant nursery and choose a tree. 0
+planting a tree: </s> visit a plant nursery and choose a tree. </s> add a bit of water to the hole before planting the tree. 1
+planting a tree: </s> put the roots of the tree into the hole. </s> visit a plant nursery and choose a tree. 0
+planting a tree: </s> replace the dirt, ensuring that roots are well covered. </s> visit a plant nursery and choose a tree. 0
+planting a tree: </s> water the tree again. </s> visit a plant nursery and choose a tree. 0
+planting a tree: </s> watch it grow. </s> visit a plant nursery and choose a tree. 0
+planting a tree: </s> transport the tree to where you will plant it. </s> dig a hole in the ground large enough to accommodate the root ball of the tree. 1
+planting a tree: </s> transport the tree to where you will plant it. </s> add a bit of water to the hole before planting the tree. 1
+planting a tree: </s> transport the tree to where you will plant it. </s> put the roots of the tree into the hole. 1
+planting a tree: </s> transport the tree to where you will plant it. </s> replace the dirt, ensuring that roots are well covered. 1
+planting a tree: </s> transport the tree to where you will plant it. </s> water the tree again. 1
+planting a tree: </s> watch it grow. </s> transport the tree to where you will plant it. 0
+planting a tree: </s> dig a hole in the ground large enough to accommodate the root ball of the tree. </s> add a bit of water to the hole before planting the tree. 1
+planting a tree: </s> dig a hole in the ground large enough to accommodate the root ball of the tree. </s> put the roots of the tree into the hole. 1
+planting a tree: </s> dig a hole in the ground large enough to accommodate the root ball of the tree. </s> replace the dirt, ensuring that roots are well covered. 1
+planting a tree: </s> dig a hole in the ground large enough to accommodate the root ball of the tree. </s> water the tree again. 1
+planting a tree: </s> dig a hole in the ground large enough to accommodate the root ball of the tree. </s> watch it grow. 1
+planting a tree: </s> put the roots of the tree into the hole. </s> add a bit of water to the hole before planting the tree. 0
+planting a tree: </s> add a bit of water to the hole before planting the tree. </s> replace the dirt, ensuring that roots are well covered. 1
+planting a tree: </s> water the tree again. </s> add a bit of water to the hole before planting the tree. 0
+planting a tree: </s> add a bit of water to the hole before planting the tree. </s> watch it grow. 1
+planting a tree: </s> replace the dirt, ensuring that roots are well covered. </s> put the roots of the tree into the hole. 0
+planting a tree: </s> put the roots of the tree into the hole. </s> water the tree again. 1
+planting a tree: </s> watch it grow. </s> put the roots of the tree into the hole. 0
+planting a tree: </s> water the tree again. </s> replace the dirt, ensuring that roots are well covered. 0
+planting a tree: </s> replace the dirt, ensuring that roots are well covered. </s> watch it grow. 1
+planting a tree: </s> watch it grow. </s> water the tree again. 0
+planting a tree: </s> pick a spot for the tree </s> dig a hole 1
+planting a tree: </s> put root ball into the hole </s> pick a spot for the tree 0
+planting a tree: </s> fill in the rest of the hole with dirt </s> pick a spot for the tree 0
+planting a tree: </s> remove left over dirt </s> pick a spot for the tree 0
+planting a tree: </s> water the tree </s> pick a spot for the tree 0
+planting a tree: </s> dig a hole </s> put root ball into the hole 1
+planting a tree: </s> dig a hole </s> fill in the rest of the hole with dirt 1
+planting a tree: </s> remove left over dirt </s> dig a hole 0
+planting a tree: </s> water the tree </s> dig a hole 0
+planting a tree: </s> fill in the rest of the hole with dirt </s> put root ball into the hole 0
+planting a tree: </s> put root ball into the hole </s> remove left over dirt 1
+planting a tree: </s> put root ball into the hole </s> water the tree 1
+planting a tree: </s> remove left over dirt </s> fill in the rest of the hole with dirt 0
+planting a tree: </s> water the tree </s> fill in the rest of the hole with dirt 0
+planting a tree: </s> water the tree </s> remove left over dirt 0
+planting a tree: </s> get a shovel </s> get a tree 0
+planting a tree: </s> go to a field or a yard </s> get a tree 0
+planting a tree: </s> dig a hole deep enough to plant the tree roots </s> get a tree 0
+planting a tree: </s> put the tree in the hole </s> get a tree 0
+planting a tree: </s> get a tree </s> fill up the rest of the hole with dirt 1
+planting a tree: </s> get a tree </s> pat the dirt down with the shovel 1
+planting a tree: </s> get a shovel </s> go to a field or a yard 1
+planting a tree: </s> get a shovel </s> dig a hole deep enough to plant the tree roots 1
+planting a tree: </s> put the tree in the hole </s> get a shovel 0
+planting a tree: </s> get a shovel </s> fill up the rest of the hole with dirt 1
+planting a tree: </s> pat the dirt down with the shovel </s> get a shovel 0
+planting a tree: </s> dig a hole deep enough to plant the tree roots </s> go to a field or a yard 0
+planting a tree: </s> put the tree in the hole </s> go to a field or a yard 0
+planting a tree: </s> fill up the rest of the hole with dirt </s> go to a field or a yard 0
+planting a tree: </s> go to a field or a yard </s> pat the dirt down with the shovel 1
+planting a tree: </s> put the tree in the hole </s> dig a hole deep enough to plant the tree roots 0
+planting a tree: </s> dig a hole deep enough to plant the tree roots </s> fill up the rest of the hole with dirt 1
+planting a tree: </s> pat the dirt down with the shovel </s> dig a hole deep enough to plant the tree roots 0
+planting a tree: </s> fill up the rest of the hole with dirt </s> put the tree in the hole 0
+planting a tree: </s> put the tree in the hole </s> pat the dirt down with the shovel 1
+planting a tree: </s> pat the dirt down with the shovel </s> fill up the rest of the hole with dirt 0
+planting a tree: </s> buy a small tree at a nursery </s> get a shovel 1
+planting a tree: </s> dig a hole large enough to place the tree into </s> buy a small tree at a nursery 0
+planting a tree: </s> buy a small tree at a nursery </s> put tree into hole 1
+planting a tree: </s> cover tree roots with dirt </s> buy a small tree at a nursery 0
+planting a tree: </s> buy a small tree at a nursery </s> pack down the dirt around the tree 1
+planting a tree: </s> water tree </s> buy a small tree at a nursery 0
+planting a tree: </s> dig a hole large enough to place the tree into </s> get a shovel 0
+planting a tree: </s> put tree into hole </s> get a shovel 0
+planting a tree: </s> get a shovel </s> cover tree roots with dirt 1
+planting a tree: </s> pack down the dirt around the tree </s> get a shovel 0
+planting a tree: </s> get a shovel </s> water tree 1
+planting a tree: </s> dig a hole large enough to place the tree into </s> put tree into hole 1
+planting a tree: </s> cover tree roots with dirt </s> dig a hole large enough to place the tree into 0
+planting a tree: </s> dig a hole large enough to place the tree into </s> pack down the dirt around the tree 1
+planting a tree: </s> dig a hole large enough to place the tree into </s> water tree 1
+planting a tree: </s> cover tree roots with dirt </s> put tree into hole 0
+planting a tree: </s> pack down the dirt around the tree </s> put tree into hole 0
+planting a tree: </s> put tree into hole </s> water tree 1
+planting a tree: </s> cover tree roots with dirt </s> pack down the dirt around the tree 1
+planting a tree: </s> cover tree roots with dirt </s> water tree 1
+planting a tree: </s> pack down the dirt around the tree </s> water tree 1
+planting a tree: </s> buy a tree sapling </s> dig a hole 1
+planting a tree: </s> buy a tree sapling </s> place sapling in hole 1
+planting a tree: </s> fill hole with dirt </s> buy a tree sapling 0
+planting a tree: </s> water the tree every day </s> buy a tree sapling 0
+planting a tree: </s> place sapling in hole </s> dig a hole 0
+planting a tree: </s> dig a hole </s> fill hole with dirt 1
+planting a tree: </s> dig a hole </s> water the tree every day 1
+planting a tree: </s> fill hole with dirt </s> place sapling in hole 0
+planting a tree: </s> place sapling in hole </s> water the tree every day 1
+planting a tree: </s> water the tree every day </s> fill hole with dirt 0
+planting a tree: </s> buy a young tree. </s> take it home. 1
+planting a tree: </s> buy a young tree. </s> dig a hole where you want to plant tree. 1
+planting a tree: </s> buy a young tree. </s> put the tree in the hole. 1
+planting a tree: </s> fill the hole back with dirt. </s> buy a young tree. 0
+planting a tree: </s> buy a young tree. </s> watch tree grow. 1
+planting a tree: </s> take it home. </s> dig a hole where you want to plant tree. 1
+planting a tree: </s> put the tree in the hole. </s> take it home. 0
+planting a tree: </s> fill the hole back with dirt. </s> take it home. 0
+planting a tree: </s> watch tree grow. </s> take it home. 0
+planting a tree: </s> put the tree in the hole. </s> dig a hole where you want to plant tree. 0
+planting a tree: </s> dig a hole where you want to plant tree. </s> fill the hole back with dirt. 1
+planting a tree: </s> watch tree grow. </s> dig a hole where you want to plant tree. 0
+planting a tree: </s> fill the hole back with dirt. </s> put the tree in the hole. 0
+planting a tree: </s> watch tree grow. </s> put the tree in the hole. 0
+planting a tree: </s> fill the hole back with dirt. </s> watch tree grow. 1
+planting a tree: </s> get tree seed </s> dig a hole 1
+planting a tree: </s> place seed in hole </s> get tree seed 0
+planting a tree: </s> get tree seed </s> cover hole with dirt 1
+planting a tree: </s> water and care for tree </s> get tree seed 0
+planting a tree: </s> place seed in hole </s> dig a hole 0
+planting a tree: </s> dig a hole </s> cover hole with dirt 1
+planting a tree: </s> dig a hole </s> water and care for tree 1
+planting a tree: </s> place seed in hole </s> cover hole with dirt 1
+planting a tree: </s> place seed in hole </s> water and care for tree 1
+planting a tree: </s> water and care for tree </s> cover hole with dirt 0
+planting a tree: </s> buy mature tree at nursery </s> have tree delivered to house 1
+planting a tree: </s> choose location of where tree will be planted </s> buy mature tree at nursery 0
+planting a tree: </s> buy mature tree at nursery </s> dig hole at location 1
+planting a tree: </s> place root of tree in hole </s> buy mature tree at nursery 0
+planting a tree: </s> cover up hole with soil </s> buy mature tree at nursery 0
+planting a tree: </s> water tree </s> buy mature tree at nursery 0
+planting a tree: </s> choose location of where tree will be planted </s> have tree delivered to house 0
+planting a tree: </s> dig hole at location </s> have tree delivered to house 0
+planting a tree: </s> place root of tree in hole </s> have tree delivered to house 0
+planting a tree: </s> cover up hole with soil </s> have tree delivered to house 0
+planting a tree: </s> water tree </s> have tree delivered to house 0
+planting a tree: </s> dig hole at location </s> choose location of where tree will be planted 0
+planting a tree: </s> place root of tree in hole </s> choose location of where tree will be planted 0
+planting a tree: </s> choose location of where tree will be planted </s> cover up hole with soil 1
+planting a tree: </s> choose location of where tree will be planted </s> water tree 1
+planting a tree: </s> dig hole at location </s> place root of tree in hole 1
+planting a tree: </s> dig hole at location </s> cover up hole with soil 1
+planting a tree: </s> water tree </s> dig hole at location 0
+planting a tree: </s> cover up hole with soil </s> place root of tree in hole 0
+planting a tree: </s> place root of tree in hole </s> water tree 1
+planting a tree: </s> cover up hole with soil </s> water tree 1

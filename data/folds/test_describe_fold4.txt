@@ -1,0 +1,5 @@
+<BOS> describe washing dishes in small sequences of short sentences: 
+<BOS> describe making a bonfire in small sequences of short sentences: 
+<BOS> describe going to the sauna in small sequences of short sentences: 
+<BOS> describe making coffee in small sequences of short sentences: 
+<BOS> describe going to the swimming pool in small sequences of short sentences:

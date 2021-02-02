@@ -1,0 +1,5 @@
+<BOS> here is a sequence of events that happen while baking a cake: 
+<BOS> here is a sequence of events that happen while borrowing a book from the library: 
+<BOS> here is a sequence of events that happen while flying in an airplane: 
+<BOS> here is a sequence of events that happen while going on a train: 
+<BOS> here is a sequence of events that happen while riding on a bus: 

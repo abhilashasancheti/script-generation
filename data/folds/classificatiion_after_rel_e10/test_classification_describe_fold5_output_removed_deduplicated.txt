@@ -1,0 +1,980 @@
+taking a shower: </s> enter shower </s> turn on water 1
+taking a shower: </s> enter shower </s> take off clothes 1
+taking a shower: </s> fill up tub with water </s> enter shower 0
+taking a shower: </s> add shower gel </s> enter shower 0
+taking a shower: </s> enter shower </s> allow water to fill up tub 1
+taking a shower: </s> enter shower </s> get in tub 1
+taking a shower: </s> enter shower </s> turn on shower 1
+taking a shower: </s> wait for water to fill </s> enter shower 0
+taking a shower: </s> wet yourself </s> enter shower 0
+taking a shower: </s> exit shower </s> enter shower 0
+taking a shower: </s> clean yourself </s> enter shower 0
+taking a shower: </s> enter shower </s> get dressed 1
+taking a shower: </s> turn on water </s> take off clothes 1
+taking a shower: </s> turn on water </s> fill up tub with water 1
+taking a shower: </s> turn on water </s> add shower gel 1
+taking a shower: </s> allow water to fill up tub </s> turn on water 0
+taking a shower: </s> get in tub </s> turn on water 0
+taking a shower: </s> turn on water </s> turn on shower 1
+taking a shower: </s> wait for water to fill </s> turn on water 0
+taking a shower: </s> wet yourself </s> turn on water 0
+taking a shower: </s> exit shower </s> turn on water 0
+taking a shower: </s> clean yourself </s> turn on water 0
+taking a shower: </s> turn on water </s> get dressed 1
+taking a shower: </s> fill up tub with water </s> take off clothes 0
+taking a shower: </s> take off clothes </s> add shower gel 1
+taking a shower: </s> allow water to fill up tub </s> take off clothes 0
+taking a shower: </s> get in tub </s> take off clothes 0
+taking a shower: </s> take off clothes </s> turn on shower 1
+taking a shower: </s> take off clothes </s> wait for water to fill 1
+taking a shower: </s> wet yourself </s> take off clothes 0
+taking a shower: </s> exit shower </s> take off clothes 0
+taking a shower: </s> take off clothes </s> clean yourself 1
+taking a shower: </s> get dressed </s> take off clothes 0
+taking a shower: </s> add shower gel </s> fill up tub with water 0
+taking a shower: </s> fill up tub with water </s> allow water to fill up tub 1
+taking a shower: </s> get in tub </s> fill up tub with water 0
+taking a shower: </s> turn on shower </s> fill up tub with water 0
+taking a shower: </s> wait for water to fill </s> fill up tub with water 0
+taking a shower: </s> wet yourself </s> fill up tub with water 0
+taking a shower: </s> exit shower </s> fill up tub with water 0
+taking a shower: </s> fill up tub with water </s> clean yourself 1
+taking a shower: </s> get dressed </s> fill up tub with water 0
+taking a shower: </s> add shower gel </s> allow water to fill up tub 1
+taking a shower: </s> add shower gel </s> get in tub 1
+taking a shower: </s> turn on shower </s> add shower gel 0
+taking a shower: </s> add shower gel </s> wait for water to fill 1
+taking a shower: </s> wet yourself </s> add shower gel 0
+taking a shower: </s> add shower gel </s> exit shower 1
+taking a shower: </s> add shower gel </s> clean yourself 1
+taking a shower: </s> add shower gel </s> get dressed 1
+taking a shower: </s> get in tub </s> allow water to fill up tub 0
+taking a shower: </s> allow water to fill up tub </s> turn on shower 1
+taking a shower: </s> allow water to fill up tub </s> wait for water to fill 1
+taking a shower: </s> allow water to fill up tub </s> wet yourself 1
+taking a shower: </s> exit shower </s> allow water to fill up tub 0
+taking a shower: </s> clean yourself </s> allow water to fill up tub 0
+taking a shower: </s> allow water to fill up tub </s> get dressed 1
+taking a shower: </s> get in tub </s> turn on shower 1
+taking a shower: </s> get in tub </s> wait for water to fill 1
+taking a shower: </s> get in tub </s> wet yourself 1
+taking a shower: </s> exit shower </s> get in tub 0
+taking a shower: </s> clean yourself </s> get in tub 0
+taking a shower: </s> get dressed </s> get in tub 0
+taking a shower: </s> turn on shower </s> wait for water to fill 1
+taking a shower: </s> wet yourself </s> turn on shower 0
+taking a shower: </s> turn on shower </s> exit shower 1
+taking a shower: </s> turn on shower </s> clean yourself 1
+taking a shower: </s> turn on shower </s> get dressed 1
+taking a shower: </s> wet yourself </s> wait for water to fill 0
+taking a shower: </s> wait for water to fill </s> exit shower 1
+taking a shower: </s> clean yourself </s> wait for water to fill 0
+taking a shower: </s> wait for water to fill </s> get dressed 1
+taking a shower: </s> exit shower </s> wet yourself 0
+taking a shower: </s> wet yourself </s> clean yourself 1
+taking a shower: </s> get dressed </s> wet yourself 0
+taking a shower: </s> exit shower </s> clean yourself 1
+taking a shower: </s> get dressed </s> exit shower 0
+taking a shower: </s> clean yourself </s> get dressed 1
+taking a shower: </s> get in shower </s> turn on the water 1
+taking a shower: </s> get in shower </s> get a towel 1
+taking a shower: </s> step into shower </s> get in shower 0
+taking a shower: </s> get in shower </s> sit in the shower 1
+taking a shower: </s> get in shower </s> rinse and dry off with a towel 1
+taking a shower: </s> get in shower </s> turn off the water 1
+taking a shower: </s> get out of the shower </s> get in shower 0
+taking a shower: </s> get in shower </s> get dressed 1
+taking a shower: </s> turn on the water </s> get a towel 1
+taking a shower: </s> step into shower </s> turn on the water 0
+taking a shower: </s> turn on the water </s> sit in the shower 1
+taking a shower: </s> rinse and dry off with a towel </s> turn on the water 0
+taking a shower: </s> turn on the water </s> turn off the water 1
+taking a shower: </s> get out of the shower </s> turn on the water 0
+taking a shower: </s> get dressed </s> turn on the water 0
+taking a shower: </s> step into shower </s> get a towel 0
+taking a shower: </s> get a towel </s> sit in the shower 1
+taking a shower: </s> get a towel </s> rinse and dry off with a towel 1
+taking a shower: </s> turn off the water </s> get a towel 0
+taking a shower: </s> get a towel </s> get out of the shower 1
+taking a shower: </s> get a towel </s> get dressed 1
+taking a shower: </s> sit in the shower </s> step into shower 0
+taking a shower: </s> rinse and dry off with a towel </s> step into shower 0
+taking a shower: </s> turn off the water </s> step into shower 0
+taking a shower: </s> get out of the shower </s> step into shower 0
+taking a shower: </s> step into shower </s> get dressed 1
+taking a shower: </s> sit in the shower </s> rinse and dry off with a towel 1
+taking a shower: </s> sit in the shower </s> turn off the water 1
+taking a shower: </s> sit in the shower </s> get out of the shower 1
+taking a shower: </s> sit in the shower </s> get dressed 1
+taking a shower: </s> rinse and dry off with a towel </s> turn off the water 1
+taking a shower: </s> get out of the shower </s> rinse and dry off with a towel 0
+taking a shower: </s> rinse and dry off with a towel </s> get dressed 1
+taking a shower: </s> turn off the water </s> get out of the shower 1
+taking a shower: </s> turn off the water </s> get dressed 1
+taking a shower: </s> get dressed </s> get out of the shower 0
+taking a shower: </s> turn on the water </s> open the door 0
+taking a shower: </s> open the door </s> step out the shower 1
+taking a shower: </s> clean myself with a sponge </s> open the door 0
+taking a shower: </s> go to the bathroom and shower </s> open the door 0
+taking a shower: </s> turn on the water </s> step out the shower 1
+taking a shower: </s> turn on the water </s> clean myself with a sponge 1
+taking a shower: </s> turn on the water </s> go to the bathroom and shower 1
+taking a shower: </s> clean myself with a sponge </s> step out the shower 0
+taking a shower: </s> go to the bathroom and shower </s> step out the shower 0
+taking a shower: </s> clean myself with a sponge </s> go to the bathroom and shower 1
+taking a shower: </s> turn on water </s> take off clothes 0
+taking a shower: </s> fill water with water </s> take off clothes 0
+taking a shower: </s> get into shower </s> take off clothes 0
+taking a shower: </s> take off clothes </s> wash yourself with soap 1
+taking a shower: </s> take off clothes </s> rinse and dry yourself with towel 1
+taking a shower: </s> take off clothes </s> get out of shower 1
+taking a shower: </s> take off clothes </s> dry off 1
+taking a shower: </s> turn on water </s> fill water with water 1
+taking a shower: </s> get into shower </s> turn on water 0
+taking a shower: </s> wash yourself with soap </s> turn on water 0
+taking a shower: </s> rinse and dry yourself with towel </s> turn on water 0
+taking a shower: </s> get out of shower </s> turn on water 0
+taking a shower: </s> dry off </s> turn on water 0
+taking a shower: </s> get into shower </s> fill water with water 0
+taking a shower: </s> fill water with water </s> wash yourself with soap 1
+taking a shower: </s> fill water with water </s> rinse and dry yourself with towel 1
+taking a shower: </s> get out of shower </s> fill water with water 0
+taking a shower: </s> fill water with water </s> dry off 1
+taking a shower: </s> wash yourself with soap </s> get into shower 0
+taking a shower: </s> rinse and dry yourself with towel </s> get into shower 0
+taking a shower: </s> get into shower </s> get out of shower 1
+taking a shower: </s> get into shower </s> dry off 1
+taking a shower: </s> rinse and dry yourself with towel </s> wash yourself with soap 0
+taking a shower: </s> wash yourself with soap </s> get out of shower 1
+taking a shower: </s> dry off </s> wash yourself with soap 0
+taking a shower: </s> get out of shower </s> rinse and dry yourself with towel 0
+taking a shower: </s> dry off </s> rinse and dry yourself with towel 0
+taking a shower: </s> dry off </s> get out of shower 0
+taking a shower: </s> turn on the water. </s> close the bathroom door. 0
+taking a shower: </s> close the bathroom door. </s> get dressed. 1
+taking a shower: </s> enter the shower. </s> close the bathroom door. 0
+taking a shower: </s> close the bathroom door. </s> close the door. 1
+taking a shower: </s> adjust the water temperature. </s> close the bathroom door. 0
+taking a shower: </s> close the bathroom door. </s> wait for the water to come to the desired temperature. 1
+taking a shower: </s> turn off the water. </s> close the bathroom door. 0
+taking a shower: </s> close the bathroom door. </s> wash your body. 1
+taking a shower: </s> rinse your body. </s> close the bathroom door. 0
+taking a shower: </s> exit the shower. </s> close the bathroom door. 0
+taking a shower: </s> turn on the water. </s> get dressed. 1
+taking a shower: </s> turn on the water. </s> enter the shower. 1
+taking a shower: </s> turn on the water. </s> close the door. 1
+taking a shower: </s> turn on the water. </s> adjust the water temperature. 1
+taking a shower: </s> turn on the water. </s> wait for the water to come to the desired temperature. 1
+taking a shower: </s> turn on the water. </s> turn off the water. 1
+taking a shower: </s> wash your body. </s> turn on the water. 0
+taking a shower: </s> rinse your body. </s> turn on the water. 0
+taking a shower: </s> exit the shower. </s> turn on the water. 0
+taking a shower: </s> get dressed. </s> enter the shower. 1
+taking a shower: </s> get dressed. </s> close the door. 1
+taking a shower: </s> get dressed. </s> adjust the water temperature. 1
+taking a shower: </s> wait for the water to come to the desired temperature. </s> get dressed. 0
+taking a shower: </s> get dressed. </s> turn off the water. 1
+taking a shower: </s> wash your body. </s> get dressed. 0
+taking a shower: </s> get dressed. </s> rinse your body. 1
+taking a shower: </s> get dressed. </s> exit the shower. 1
+taking a shower: </s> enter the shower. </s> close the door. 1
+taking a shower: </s> adjust the water temperature. </s> enter the shower. 0
+taking a shower: </s> enter the shower. </s> wait for the water to come to the desired temperature. 1
+taking a shower: </s> turn off the water. </s> enter the shower. 0
+taking a shower: </s> enter the shower. </s> wash your body. 1
+taking a shower: </s> enter the shower. </s> rinse your body. 1
+taking a shower: </s> enter the shower. </s> exit the shower. 1
+taking a shower: </s> close the door. </s> adjust the water temperature. 1
+taking a shower: </s> wait for the water to come to the desired temperature. </s> close the door. 0
+taking a shower: </s> close the door. </s> turn off the water. 1
+taking a shower: </s> wash your body. </s> close the door. 0
+taking a shower: </s> close the door. </s> rinse your body. 1
+taking a shower: </s> close the door. </s> exit the shower. 1
+taking a shower: </s> adjust the water temperature. </s> wait for the water to come to the desired temperature. 1
+taking a shower: </s> turn off the water. </s> adjust the water temperature. 0
+taking a shower: </s> adjust the water temperature. </s> wash your body. 1
+taking a shower: </s> rinse your body. </s> adjust the water temperature. 0
+taking a shower: </s> exit the shower. </s> adjust the water temperature. 0
+taking a shower: </s> wait for the water to come to the desired temperature. </s> turn off the water. 1
+taking a shower: </s> wash your body. </s> wait for the water to come to the desired temperature. 0
+taking a shower: </s> wait for the water to come to the desired temperature. </s> rinse your body. 1
+taking a shower: </s> exit the shower. </s> wait for the water to come to the desired temperature. 0
+taking a shower: </s> wash your body. </s> turn off the water. 0
+taking a shower: </s> rinse your body. </s> turn off the water. 0
+taking a shower: </s> exit the shower. </s> turn off the water. 0
+taking a shower: </s> wash your body. </s> rinse your body. 1
+taking a shower: </s> exit the shower. </s> wash your body. 0
+taking a shower: </s> rinse your body. </s> exit the shower. 1
+ironing laundry: </s> drive to the laundry room </s> get in the car 0
+ironing laundry: </s> get in the car </s> change the color 1
+ironing laundry: </s> get in the car </s> add some fabric softener 1
+ironing laundry: </s> iron the entire garment </s> get in the car 0
+ironing laundry: </s> change the color </s> drive to the laundry room 0
+ironing laundry: </s> drive to the laundry room </s> add some fabric softener 1
+ironing laundry: </s> iron the entire garment </s> drive to the laundry room 0
+ironing laundry: </s> add some fabric softener </s> change the color 0
+ironing laundry: </s> iron the entire garment </s> change the color 0
+ironing laundry: </s> iron the entire garment </s> add some fabric softener 0
+ironing laundry: </s> pick out item </s> grab laundry detergent 0
+ironing laundry: </s> put iron in machine </s> grab laundry detergent 0
+ironing laundry: </s> hit start </s> grab laundry detergent 0
+ironing laundry: </s> wait until machine is done </s> grab laundry detergent 0
+ironing laundry: </s> grab wash cloth </s> grab laundry detergent 0
+ironing laundry: </s> grab laundry detergent </s> put wash cloth in dryer 1
+ironing laundry: </s> wait until dryer is done </s> grab laundry detergent 0
+ironing laundry: </s> put wash cloth in laundry basket </s> grab laundry detergent 0
+ironing laundry: </s> wait until iron is done </s> grab laundry detergent 0
+ironing laundry: </s> grab dry cloth </s> grab laundry detergent 0
+ironing laundry: </s> put dry cloth in dryer </s> grab laundry detergent 0
+ironing laundry: </s> pick out item </s> put iron in machine 1
+ironing laundry: </s> pick out item </s> hit start 1
+ironing laundry: </s> wait until machine is done </s> pick out item 0
+ironing laundry: </s> pick out item </s> grab wash cloth 1
+ironing laundry: </s> put wash cloth in dryer </s> pick out item 0
+ironing laundry: </s> wait until dryer is done </s> pick out item 0
+ironing laundry: </s> pick out item </s> put wash cloth in laundry basket 1
+ironing laundry: </s> pick out item </s> wait until iron is done 1
+ironing laundry: </s> pick out item </s> grab dry cloth 1
+ironing laundry: </s> pick out item </s> put dry cloth in dryer 1
+ironing laundry: </s> put iron in machine </s> hit start 1
+ironing laundry: </s> wait until machine is done </s> put iron in machine 0
+ironing laundry: </s> grab wash cloth </s> put iron in machine 0
+ironing laundry: </s> put wash cloth in dryer </s> put iron in machine 0
+ironing laundry: </s> put iron in machine </s> wait until dryer is done 1
+ironing laundry: </s> put wash cloth in laundry basket </s> put iron in machine 0
+ironing laundry: </s> put iron in machine </s> wait until iron is done 1
+ironing laundry: </s> grab dry cloth </s> put iron in machine 0
+ironing laundry: </s> put iron in machine </s> put dry cloth in dryer 1
+ironing laundry: </s> hit start </s> wait until machine is done 1
+ironing laundry: </s> grab wash cloth </s> hit start 0
+ironing laundry: </s> put wash cloth in dryer </s> hit start 0
+ironing laundry: </s> wait until dryer is done </s> hit start 0
+ironing laundry: </s> put wash cloth in laundry basket </s> hit start 0
+ironing laundry: </s> hit start </s> wait until iron is done 1
+ironing laundry: </s> grab dry cloth </s> hit start 0
+ironing laundry: </s> hit start </s> put dry cloth in dryer 1
+ironing laundry: </s> grab wash cloth </s> wait until machine is done 0
+ironing laundry: </s> put wash cloth in dryer </s> wait until machine is done 0
+ironing laundry: </s> wait until dryer is done </s> wait until machine is done 0
+ironing laundry: </s> put wash cloth in laundry basket </s> wait until machine is done 0
+ironing laundry: </s> wait until iron is done </s> wait until machine is done 0
+ironing laundry: </s> wait until machine is done </s> grab dry cloth 1
+ironing laundry: </s> put dry cloth in dryer </s> wait until machine is done 0
+ironing laundry: </s> grab wash cloth </s> put wash cloth in dryer 1
+ironing laundry: </s> wait until dryer is done </s> grab wash cloth 0
+ironing laundry: </s> grab wash cloth </s> put wash cloth in laundry basket 1
+ironing laundry: </s> wait until iron is done </s> grab wash cloth 0
+ironing laundry: </s> grab dry cloth </s> grab wash cloth 0
+ironing laundry: </s> put dry cloth in dryer </s> grab wash cloth 0
+ironing laundry: </s> put wash cloth in dryer </s> wait until dryer is done 1
+ironing laundry: </s> put wash cloth in dryer </s> put wash cloth in laundry basket 1
+ironing laundry: </s> wait until iron is done </s> put wash cloth in dryer 0
+ironing laundry: </s> grab dry cloth </s> put wash cloth in dryer 0
+ironing laundry: </s> put dry cloth in dryer </s> put wash cloth in dryer 0
+ironing laundry: </s> wait until dryer is done </s> put wash cloth in laundry basket 1
+ironing laundry: </s> wait until iron is done </s> wait until dryer is done 0
+ironing laundry: </s> wait until dryer is done </s> grab dry cloth 1
+ironing laundry: </s> put dry cloth in dryer </s> wait until dryer is done 0
+ironing laundry: </s> put wash cloth in laundry basket </s> wait until iron is done 1
+ironing laundry: </s> put wash cloth in laundry basket </s> grab dry cloth 1
+ironing laundry: </s> put wash cloth in laundry basket </s> put dry cloth in dryer 1
+ironing laundry: </s> grab dry cloth </s> wait until iron is done 0
+ironing laundry: </s> wait until iron is done </s> put dry cloth in dryer 1
+ironing laundry: </s> put dry cloth in dryer </s> grab dry cloth 0
+ironing laundry: </s> run washing machine </s> get detergent 1
+ironing laundry: </s> put iron in machine </s> run washing machine 0
+ironing laundry: </s> run washing machine </s> when finished, get fabric softener 1
+ironing laundry: </s> run washing machine </s> put fabric softener in machine 1
+ironing laundry: </s> when finished, get towel </s> run washing machine 0
+ironing laundry: </s> put towel on top of washing machine </s> run washing machine 0
+ironing laundry: </s> run washing machine </s> when finished, get dryer sheet 1
+ironing laundry: </s> run washing machine </s> put dryer sheet on top of washing machine 1
+ironing laundry: </s> when finished, get clothes </s> run washing machine 0
+ironing laundry: </s> run washing machine </s> fold and put away 1
+ironing laundry: </s> run washing machine </s> put away dryer sheet 1
+ironing laundry: </s> put clothes in hamper </s> run washing machine 0
+ironing laundry: </s> put iron in machine </s> get detergent 0
+ironing laundry: </s> when finished, get fabric softener </s> get detergent 0
+ironing laundry: </s> get detergent </s> put fabric softener in machine 1
+ironing laundry: </s> get detergent </s> when finished, get towel 1
+ironing laundry: </s> get detergent </s> put towel on top of washing machine 1
+ironing laundry: </s> when finished, get dryer sheet </s> get detergent 0
+ironing laundry: </s> get detergent </s> put dryer sheet on top of washing machine 1
+ironing laundry: </s> when finished, get clothes </s> get detergent 0
+ironing laundry: </s> fold and put away </s> get detergent 0
+ironing laundry: </s> get detergent </s> put away dryer sheet 1
+ironing laundry: </s> put clothes in hamper </s> get detergent 0
+ironing laundry: </s> put iron in machine </s> when finished, get fabric softener 1
+ironing laundry: </s> put fabric softener in machine </s> put iron in machine 0
+ironing laundry: </s> when finished, get towel </s> put iron in machine 0
+ironing laundry: </s> put towel on top of washing machine </s> put iron in machine 0
+ironing laundry: </s> put iron in machine </s> when finished, get dryer sheet 1
+ironing laundry: </s> put dryer sheet on top of washing machine </s> put iron in machine 0
+ironing laundry: </s> put iron in machine </s> when finished, get clothes 1
+ironing laundry: </s> fold and put away </s> put iron in machine 0
+ironing laundry: </s> put away dryer sheet </s> put iron in machine 0
+ironing laundry: </s> put clothes in hamper </s> put iron in machine 0
+ironing laundry: </s> when finished, get fabric softener </s> put fabric softener in machine 1
+ironing laundry: </s> when finished, get fabric softener </s> when finished, get towel 1
+ironing laundry: </s> when finished, get fabric softener </s> put towel on top of washing machine 1
+ironing laundry: </s> when finished, get fabric softener </s> when finished, get dryer sheet 1
+ironing laundry: </s> when finished, get fabric softener </s> put dryer sheet on top of washing machine 1
+ironing laundry: </s> when finished, get clothes </s> when finished, get fabric softener 0
+ironing laundry: </s> fold and put away </s> when finished, get fabric softener 0
+ironing laundry: </s> when finished, get fabric softener </s> put away dryer sheet 1
+ironing laundry: </s> when finished, get fabric softener </s> put clothes in hamper 1
+ironing laundry: </s> put fabric softener in machine </s> when finished, get towel 1
+ironing laundry: </s> put fabric softener in machine </s> put towel on top of washing machine 1
+ironing laundry: </s> when finished, get dryer sheet </s> put fabric softener in machine 0
+ironing laundry: </s> put fabric softener in machine </s> put dryer sheet on top of washing machine 1
+ironing laundry: </s> put fabric softener in machine </s> when finished, get clothes 1
+ironing laundry: </s> put fabric softener in machine </s> fold and put away 1
+ironing laundry: </s> put fabric softener in machine </s> put away dryer sheet 1
+ironing laundry: </s> put clothes in hamper </s> put fabric softener in machine 0
+ironing laundry: </s> put towel on top of washing machine </s> when finished, get towel 0
+ironing laundry: </s> when finished, get towel </s> when finished, get dryer sheet 1
+ironing laundry: </s> put dryer sheet on top of washing machine </s> when finished, get towel 0
+ironing laundry: </s> when finished, get clothes </s> when finished, get towel 0
+ironing laundry: </s> when finished, get towel </s> fold and put away 1
+ironing laundry: </s> when finished, get towel </s> put away dryer sheet 1
+ironing laundry: </s> put clothes in hamper </s> when finished, get towel 0
+ironing laundry: </s> when finished, get dryer sheet </s> put towel on top of washing machine 0
+ironing laundry: </s> put dryer sheet on top of washing machine </s> put towel on top of washing machine 0
+ironing laundry: </s> when finished, get clothes </s> put towel on top of washing machine 0
+ironing laundry: </s> fold and put away </s> put towel on top of washing machine 0
+ironing laundry: </s> put towel on top of washing machine </s> put away dryer sheet 1
+ironing laundry: </s> put clothes in hamper </s> put towel on top of washing machine 0
+ironing laundry: </s> put dryer sheet on top of washing machine </s> when finished, get dryer sheet 0
+ironing laundry: </s> when finished, get clothes </s> when finished, get dryer sheet 0
+ironing laundry: </s> fold and put away </s> when finished, get dryer sheet 0
+ironing laundry: </s> put away dryer sheet </s> when finished, get dryer sheet 0
+ironing laundry: </s> put clothes in hamper </s> when finished, get dryer sheet 0
+ironing laundry: </s> when finished, get clothes </s> put dryer sheet on top of washing machine 0
+ironing laundry: </s> fold and put away </s> put dryer sheet on top of washing machine 0
+ironing laundry: </s> put dryer sheet on top of washing machine </s> put away dryer sheet 1
+ironing laundry: </s> put dryer sheet on top of washing machine </s> put clothes in hamper 1
+ironing laundry: </s> fold and put away </s> when finished, get clothes 0
+ironing laundry: </s> when finished, get clothes </s> put away dryer sheet 1
+ironing laundry: </s> when finished, get clothes </s> put clothes in hamper 1
+ironing laundry: </s> fold and put away </s> put away dryer sheet 1
+ironing laundry: </s> fold and put away </s> put clothes in hamper 1
+ironing laundry: </s> put away dryer sheet </s> put clothes in hamper 1
+ironing laundry: </s> put a towel in the washer. </s> load the dirty clothes. 1
+ironing laundry: </s> turn on the washer. </s> put a towel in the washer. 0
+ironing laundry: </s> add iron. </s> put a towel in the washer. 0
+ironing laundry: </s> put a towel in the washer. </s> wait until the clothes are completely wet. 1
+ironing laundry: </s> add a washcloth. </s> put a towel in the washer. 0
+ironing laundry: </s> put a towel in the washer. </s> wait for the water to come to a rolling boil. 1
+ironing laundry: </s> fold the clothes. </s> put a towel in the washer. 0
+ironing laundry: </s> turn on the washer. </s> load the dirty clothes. 0
+ironing laundry: </s> add iron. </s> load the dirty clothes. 0
+ironing laundry: </s> load the dirty clothes. </s> wait until the clothes are completely wet. 1
+ironing laundry: </s> add a washcloth. </s> load the dirty clothes. 0
+ironing laundry: </s> wait for the water to come to a rolling boil. </s> load the dirty clothes. 0
+ironing laundry: </s> load the dirty clothes. </s> fold the clothes. 1
+ironing laundry: </s> turn on the washer. </s> add iron. 1
+ironing laundry: </s> wait until the clothes are completely wet. </s> turn on the washer. 0
+ironing laundry: </s> turn on the washer. </s> add a washcloth. 1
+ironing laundry: </s> wait for the water to come to a rolling boil. </s> turn on the washer. 0
+ironing laundry: </s> fold the clothes. </s> turn on the washer. 0
+ironing laundry: </s> add iron. </s> wait until the clothes are completely wet. 1
+ironing laundry: </s> add iron. </s> add a washcloth. 1
+ironing laundry: </s> wait for the water to come to a rolling boil. </s> add iron. 0
+ironing laundry: </s> add iron. </s> fold the clothes. 1
+ironing laundry: </s> add a washcloth. </s> wait until the clothes are completely wet. 0
+ironing laundry: </s> wait until the clothes are completely wet. </s> wait for the water to come to a rolling boil. 1
+ironing laundry: </s> wait until the clothes are completely wet. </s> fold the clothes. 1
+ironing laundry: </s> add a washcloth. </s> wait for the water to come to a rolling boil. 1
+ironing laundry: </s> add a washcloth. </s> fold the clothes. 1
+ironing laundry: </s> wait for the water to come to a rolling boil. </s> fold the clothes. 1
+ironing laundry: </s> iron </s> open clothes 0
+ironing laundry: </s> fold clothes </s> open clothes 0
+ironing laundry: </s> put in hamper </s> open clothes 0
+ironing laundry: </s> open clothes </s> put out clothes 1
+ironing laundry: </s> fold clothes </s> iron 0
+ironing laundry: </s> put in hamper </s> iron 0
+ironing laundry: </s> iron </s> put out clothes 1
+ironing laundry: </s> fold clothes </s> put in hamper 1
+ironing laundry: </s> fold clothes </s> put out clothes 1
+ironing laundry: </s> put out clothes </s> put in hamper 0
+taking a driving lesson: </s> drive to the school </s> get in car 0
+taking a driving lesson: </s> get in car </s> park and find parking lot 1
+taking a driving lesson: </s> get out of the car </s> get in car 0
+taking a driving lesson: </s> pay and take driving lessons </s> get in car 0
+taking a driving lesson: </s> get in car </s> learn driving technique 1
+taking a driving lesson: </s> take a test </s> get in car 0
+taking a driving lesson: </s> get in car </s> drive to the car 1
+taking a driving lesson: </s> drive home </s> get in car 0
+taking a driving lesson: </s> drive to the school </s> park and find parking lot 1
+taking a driving lesson: </s> get out of the car </s> drive to the school 0
+taking a driving lesson: </s> pay and take driving lessons </s> drive to the school 0
+taking a driving lesson: </s> drive to the school </s> learn driving technique 1
+taking a driving lesson: </s> drive to the school </s> take a test 1
+taking a driving lesson: </s> drive to the school </s> drive to the car 1
+taking a driving lesson: </s> drive to the school </s> drive home 1
+taking a driving lesson: </s> get out of the car </s> park and find parking lot 0
+taking a driving lesson: </s> park and find parking lot </s> pay and take driving lessons 1
+taking a driving lesson: </s> park and find parking lot </s> learn driving technique 1
+taking a driving lesson: </s> park and find parking lot </s> take a test 1
+taking a driving lesson: </s> park and find parking lot </s> drive to the car 1
+taking a driving lesson: </s> park and find parking lot </s> drive home 1
+taking a driving lesson: </s> pay and take driving lessons </s> get out of the car 0
+taking a driving lesson: </s> get out of the car </s> learn driving technique 1
+taking a driving lesson: </s> get out of the car </s> take a test 1
+taking a driving lesson: </s> get out of the car </s> drive to the car 1
+taking a driving lesson: </s> drive home </s> get out of the car 0
+taking a driving lesson: </s> learn driving technique </s> pay and take driving lessons 0
+taking a driving lesson: </s> take a test </s> pay and take driving lessons 0
+taking a driving lesson: </s> pay and take driving lessons </s> drive to the car 1
+taking a driving lesson: </s> pay and take driving lessons </s> drive home 1
+taking a driving lesson: </s> take a test </s> learn driving technique 0
+taking a driving lesson: </s> drive to the car </s> learn driving technique 0
+taking a driving lesson: </s> learn driving technique </s> drive home 1
+taking a driving lesson: </s> take a test </s> drive to the car 1
+taking a driving lesson: </s> take a test </s> drive home 1
+taking a driving lesson: </s> drive home </s> drive to the car 0
+taking a driving lesson: </s> drive to car dealership </s> park car in car lot 1
+taking a driving lesson: </s> drive to car dealership </s> go inside car dealer 1
+taking a driving lesson: </s> purchase car and car maintenance </s> drive to car dealership 0
+taking a driving lesson: </s> drive to car school </s> drive to car dealership 0
+taking a driving lesson: </s> take driving test </s> drive to car dealership 0
+taking a driving lesson: </s> drive to car dealership </s> pay for car 1
+taking a driving lesson: </s> take driving lessons </s> drive to car dealership 0
+taking a driving lesson: </s> leave car dealership </s> drive to car dealership 0
+taking a driving lesson: </s> park car in car lot </s> go inside car dealer 1
+taking a driving lesson: </s> park car in car lot </s> purchase car and car maintenance 1
+taking a driving lesson: </s> drive to car school </s> park car in car lot 0
+taking a driving lesson: </s> park car in car lot </s> take driving test 1
+taking a driving lesson: </s> pay for car </s> park car in car lot 0
+taking a driving lesson: </s> park car in car lot </s> take driving lessons 1
+taking a driving lesson: </s> park car in car lot </s> leave car dealership 1
+taking a driving lesson: </s> purchase car and car maintenance </s> go inside car dealer 0
+taking a driving lesson: </s> drive to car school </s> go inside car dealer 0
+taking a driving lesson: </s> take driving test </s> go inside car dealer 0
+taking a driving lesson: </s> go inside car dealer </s> pay for car 1
+taking a driving lesson: </s> take driving lessons </s> go inside car dealer 0
+taking a driving lesson: </s> go inside car dealer </s> leave car dealership 1
+taking a driving lesson: </s> purchase car and car maintenance </s> drive to car school 1
+taking a driving lesson: </s> take driving test </s> purchase car and car maintenance 0
+taking a driving lesson: </s> purchase car and car maintenance </s> pay for car 1
+taking a driving lesson: </s> purchase car and car maintenance </s> take driving lessons 1
+taking a driving lesson: </s> leave car dealership </s> purchase car and car maintenance 0
+taking a driving lesson: </s> drive to car school </s> take driving test 1
+taking a driving lesson: </s> drive to car school </s> pay for car 1
+taking a driving lesson: </s> take driving lessons </s> drive to car school 0
+taking a driving lesson: </s> leave car dealership </s> drive to car school 0
+taking a driving lesson: </s> take driving test </s> pay for car 1
+taking a driving lesson: </s> take driving test </s> take driving lessons 1
+taking a driving lesson: </s> take driving test </s> leave car dealership 1
+taking a driving lesson: </s> pay for car </s> take driving lessons 1
+taking a driving lesson: </s> leave car dealership </s> pay for car 0
+taking a driving lesson: </s> take driving lessons </s> leave car dealership 1
+taking a driving lesson: </s> go to the school. </s> take the book. 1
+taking a driving lesson: </s> go to the school. </s> walk in the front door. 1
+taking a driving lesson: </s> go to the school. </s> wait in line. 1
+taking a driving lesson: </s> get out of the car. </s> go to the school. 0
+taking a driving lesson: </s> go to the school. </s> get in the car. 1
+taking a driving lesson: </s> get out of the car and give the teacher your license. </s> go to the school. 0
+taking a driving lesson: </s> go sit in the car. </s> go to the school. 0
+taking a driving lesson: </s> drive to the school. </s> go to the school. 0
+taking a driving lesson: </s> give the test. </s> go to the school. 0
+taking a driving lesson: </s> take your test. </s> go to the school. 0
+taking a driving lesson: </s> go to the school. </s> leave the school. 1
+taking a driving lesson: </s> go home. </s> go to the school. 0
+taking a driving lesson: </s> walk in the front door. </s> take the book. 0
+taking a driving lesson: </s> wait in line. </s> take the book. 0
+taking a driving lesson: </s> take the book. </s> get out of the car. 1
+taking a driving lesson: </s> get in the car. </s> take the book. 0
+taking a driving lesson: </s> take the book. </s> get out of the car and give the teacher your license. 1
+taking a driving lesson: </s> go sit in the car. </s> take the book. 0
+taking a driving lesson: </s> drive to the school. </s> take the book. 0
+taking a driving lesson: </s> take the book. </s> give the test. 1
+taking a driving lesson: </s> take the book. </s> take your test. 1
+taking a driving lesson: </s> take the book. </s> leave the school. 1
+taking a driving lesson: </s> go home. </s> take the book. 0
+taking a driving lesson: </s> walk in the front door. </s> wait in line. 1
+taking a driving lesson: </s> walk in the front door. </s> get out of the car. 1
+taking a driving lesson: </s> walk in the front door. </s> get in the car. 1
+taking a driving lesson: </s> walk in the front door. </s> get out of the car and give the teacher your license. 1
+taking a driving lesson: </s> walk in the front door. </s> go sit in the car. 1
+taking a driving lesson: </s> drive to the school. </s> walk in the front door. 0
+taking a driving lesson: </s> walk in the front door. </s> give the test. 1
+taking a driving lesson: </s> take your test. </s> walk in the front door. 0
+taking a driving lesson: </s> walk in the front door. </s> leave the school. 1
+taking a driving lesson: </s> walk in the front door. </s> go home. 1
+taking a driving lesson: </s> get out of the car. </s> wait in line. 0
+taking a driving lesson: </s> get in the car. </s> wait in line. 0
+taking a driving lesson: </s> get out of the car and give the teacher your license. </s> wait in line. 0
+taking a driving lesson: </s> go sit in the car. </s> wait in line. 0
+taking a driving lesson: </s> wait in line. </s> drive to the school. 1
+taking a driving lesson: </s> give the test. </s> wait in line. 0
+taking a driving lesson: </s> wait in line. </s> take your test. 1
+taking a driving lesson: </s> wait in line. </s> leave the school. 1
+taking a driving lesson: </s> wait in line. </s> go home. 1
+taking a driving lesson: </s> get in the car. </s> get out of the car. 0
+taking a driving lesson: </s> get out of the car and give the teacher your license. </s> get out of the car. 0
+taking a driving lesson: </s> go sit in the car. </s> get out of the car. 0
+taking a driving lesson: </s> get out of the car. </s> drive to the school. 1
+taking a driving lesson: </s> give the test. </s> get out of the car. 0
+taking a driving lesson: </s> take your test. </s> get out of the car. 0
+taking a driving lesson: </s> get out of the car. </s> leave the school. 1
+taking a driving lesson: </s> go home. </s> get out of the car. 0
+taking a driving lesson: </s> get in the car. </s> get out of the car and give the teacher your license. 1
+taking a driving lesson: </s> go sit in the car. </s> get in the car. 0
+taking a driving lesson: </s> drive to the school. </s> get in the car. 0
+taking a driving lesson: </s> give the test. </s> get in the car. 0
+taking a driving lesson: </s> take your test. </s> get in the car. 0
+taking a driving lesson: </s> leave the school. </s> get in the car. 0
+taking a driving lesson: </s> get in the car. </s> go home. 1
+taking a driving lesson: </s> go sit in the car. </s> get out of the car and give the teacher your license. 0
+taking a driving lesson: </s> drive to the school. </s> get out of the car and give the teacher your license. 0
+taking a driving lesson: </s> give the test. </s> get out of the car and give the teacher your license. 0
+taking a driving lesson: </s> take your test. </s> get out of the car and give the teacher your license. 0
+taking a driving lesson: </s> leave the school. </s> get out of the car and give the teacher your license. 0
+taking a driving lesson: </s> go home. </s> get out of the car and give the teacher your license. 0
+taking a driving lesson: </s> drive to the school. </s> go sit in the car. 0
+taking a driving lesson: </s> go sit in the car. </s> give the test. 1
+taking a driving lesson: </s> go sit in the car. </s> take your test. 1
+taking a driving lesson: </s> leave the school. </s> go sit in the car. 0
+taking a driving lesson: </s> go sit in the car. </s> go home. 1
+taking a driving lesson: </s> give the test. </s> drive to the school. 0
+taking a driving lesson: </s> drive to the school. </s> take your test. 1
+taking a driving lesson: </s> leave the school. </s> drive to the school. 0
+taking a driving lesson: </s> go home. </s> drive to the school. 0
+taking a driving lesson: </s> give the test. </s> take your test. 1
+taking a driving lesson: </s> leave the school. </s> give the test. 0
+taking a driving lesson: </s> give the test. </s> go home. 1
+taking a driving lesson: </s> leave the school. </s> take your test. 0
+taking a driving lesson: </s> go home. </s> take your test. 0
+taking a driving lesson: </s> go home. </s> leave the school. 0
+taking a driving lesson: </s> sit in the backseat of the car </s> walk into school 0
+taking a driving lesson: </s> walk into school </s> sit with the car in gear 1
+taking a driving lesson: </s> tell the instructor what you want to learn </s> walk into school 0
+taking a driving lesson: </s> walk into school </s> keep watch and listen for the instruction to be finished 1
+taking a driving lesson: </s> walk into school </s> return the car to the parking lot 1
+taking a driving lesson: </s> go home </s> walk into school 0
+taking a driving lesson: </s> sit with the car in gear </s> sit in the backseat of the car 0
+taking a driving lesson: </s> sit in the backseat of the car </s> tell the instructor what you want to learn 1
+taking a driving lesson: </s> sit in the backseat of the car </s> keep watch and listen for the instruction to be finished 1
+taking a driving lesson: </s> return the car to the parking lot </s> sit in the backseat of the car 0
+taking a driving lesson: </s> sit in the backseat of the car </s> go home 1
+taking a driving lesson: </s> sit with the car in gear </s> tell the instructor what you want to learn 1
+taking a driving lesson: </s> sit with the car in gear </s> keep watch and listen for the instruction to be finished 1
+taking a driving lesson: </s> return the car to the parking lot </s> sit with the car in gear 0
+taking a driving lesson: </s> sit with the car in gear </s> go home 1
+taking a driving lesson: </s> tell the instructor what you want to learn </s> keep watch and listen for the instruction to be finished 1
+taking a driving lesson: </s> tell the instructor what you want to learn </s> return the car to the parking lot 1
+taking a driving lesson: </s> tell the instructor what you want to learn </s> go home 1
+taking a driving lesson: </s> return the car to the parking lot </s> keep watch and listen for the instruction to be finished 0
+taking a driving lesson: </s> go home </s> keep watch and listen for the instruction to be finished 0
+taking a driving lesson: </s> return the car to the parking lot </s> go home 1
+taking a driving lesson: </s> buy the license </s> drive to the driving instructor 1
+taking a driving lesson: </s> buy the license </s> pay the fee 1
+taking a driving lesson: </s> sit in the car </s> buy the license 0
+taking a driving lesson: </s> show the instructor your proper driving skills </s> buy the license 0
+taking a driving lesson: </s> buy the license </s> get the license plate 1
+taking a driving lesson: </s> buy the license </s> wait for your instructor to drive you home 1
+taking a driving lesson: </s> pay the fee </s> drive to the driving instructor 0
+taking a driving lesson: </s> drive to the driving instructor </s> sit in the car 1
+taking a driving lesson: </s> drive to the driving instructor </s> show the instructor your proper driving skills 1
+taking a driving lesson: </s> get the license plate </s> drive to the driving instructor 0
+taking a driving lesson: </s> wait for your instructor to drive you home </s> drive to the driving instructor 0
+taking a driving lesson: </s> sit in the car </s> pay the fee 0
+taking a driving lesson: </s> show the instructor your proper driving skills </s> pay the fee 0
+taking a driving lesson: </s> get the license plate </s> pay the fee 0
+taking a driving lesson: </s> pay the fee </s> wait for your instructor to drive you home 1
+taking a driving lesson: </s> show the instructor your proper driving skills </s> sit in the car 0
+taking a driving lesson: </s> get the license plate </s> sit in the car 0
+taking a driving lesson: </s> wait for your instructor to drive you home </s> sit in the car 0
+taking a driving lesson: </s> get the license plate </s> show the instructor your proper driving skills 0
+taking a driving lesson: </s> wait for your instructor to drive you home </s> show the instructor your proper driving skills 0
+taking a driving lesson: </s> wait for your instructor to drive you home </s> get the license plate 0
+going to the dentist: </s> look at my tooth </s> get an appointment 1
+going to the dentist: </s> go to the dentist's office </s> look at my tooth 0
+going to the dentist: </s> look at my tooth </s> have my teeth cleaned 1
+going to the dentist: </s> look at my tooth </s> get my fillings filled 1
+going to the dentist: </s> have my mouth swathed </s> look at my tooth 0
+going to the dentist: </s> put on the dentist's crown </s> look at my tooth 0
+going to the dentist: </s> look at my tooth </s> give the dentist your name 1
+going to the dentist: </s> look at my tooth </s> take your leave 1
+going to the dentist: </s> look at my tooth </s> pay for your dental treatment 1
+going to the dentist: </s> go to the dentist's office </s> get an appointment 0
+going to the dentist: </s> get an appointment </s> have my teeth cleaned 1
+going to the dentist: </s> get my fillings filled </s> get an appointment 0
+going to the dentist: </s> have my mouth swathed </s> get an appointment 0
+going to the dentist: </s> get an appointment </s> put on the dentist's crown 1
+going to the dentist: </s> give the dentist your name </s> get an appointment 0
+going to the dentist: </s> take your leave </s> get an appointment 0
+going to the dentist: </s> get an appointment </s> pay for your dental treatment 1
+going to the dentist: </s> go to the dentist's office </s> have my teeth cleaned 1
+going to the dentist: </s> get my fillings filled </s> go to the dentist's office 0
+going to the dentist: </s> go to the dentist's office </s> have my mouth swathed 1
+going to the dentist: </s> put on the dentist's crown </s> go to the dentist's office 0
+going to the dentist: </s> go to the dentist's office </s> give the dentist your name 1
+going to the dentist: </s> go to the dentist's office </s> take your leave 1
+going to the dentist: </s> go to the dentist's office </s> pay for your dental treatment 1
+going to the dentist: </s> have my teeth cleaned </s> get my fillings filled 1
+going to the dentist: </s> have my mouth swathed </s> have my teeth cleaned 0
+going to the dentist: </s> have my teeth cleaned </s> put on the dentist's crown 1
+going to the dentist: </s> give the dentist your name </s> have my teeth cleaned 0
+going to the dentist: </s> take your leave </s> have my teeth cleaned 0
+going to the dentist: </s> have my teeth cleaned </s> pay for your dental treatment 1
+going to the dentist: </s> get my fillings filled </s> have my mouth swathed 1
+going to the dentist: </s> get my fillings filled </s> put on the dentist's crown 1
+going to the dentist: </s> get my fillings filled </s> give the dentist your name 1
+going to the dentist: </s> get my fillings filled </s> take your leave 1
+going to the dentist: </s> pay for your dental treatment </s> get my fillings filled 0
+going to the dentist: </s> have my mouth swathed </s> put on the dentist's crown 1
+going to the dentist: </s> give the dentist your name </s> have my mouth swathed 0
+going to the dentist: </s> take your leave </s> have my mouth swathed 0
+going to the dentist: </s> pay for your dental treatment </s> have my mouth swathed 0
+going to the dentist: </s> give the dentist your name </s> put on the dentist's crown 0
+going to the dentist: </s> put on the dentist's crown </s> take your leave 1
+going to the dentist: </s> put on the dentist's crown </s> pay for your dental treatment 1
+going to the dentist: </s> take your leave </s> give the dentist your name 0
+going to the dentist: </s> pay for your dental treatment </s> give the dentist your name 0
+going to the dentist: </s> take your leave </s> pay for your dental treatment 1
+going to the dentist: </s> talk to the dentist </s> go to the dentist 0
+going to the dentist: </s> go to the dentist </s> get an appointment 1
+going to the dentist: </s> go to the dentist's office </s> go to the dentist 0
+going to the dentist: </s> go to the dentist </s> fill the bill with the dentist 1
+going to the dentist: </s> leave the office </s> go to the dentist 0
+going to the dentist: </s> get an appointment </s> talk to the dentist 0
+going to the dentist: </s> go to the dentist's office </s> talk to the dentist 0
+going to the dentist: </s> talk to the dentist </s> fill the bill with the dentist 1
+going to the dentist: </s> talk to the dentist </s> leave the office 1
+going to the dentist: </s> get an appointment </s> go to the dentist's office 1
+going to the dentist: </s> fill the bill with the dentist </s> get an appointment 0
+going to the dentist: </s> leave the office </s> get an appointment 0
+going to the dentist: </s> fill the bill with the dentist </s> go to the dentist's office 0
+going to the dentist: </s> leave the office </s> go to the dentist's office 0
+going to the dentist: </s> leave the office </s> fill the bill with the dentist 0
+going to the dentist: </s> go to the front desk </s> drive to the dentist 0
+going to the dentist: </s> drive to the dentist </s> give your name to the receptionist 1
+going to the dentist: </s> drive to the dentist </s> tell the receptionist if you have any problems or need any information 1
+going to the dentist: </s> drive to the dentist </s> when the receptionist comes back, you have a dentist appointment 1
+going to the dentist: </s> leave the receptionist and pay for the dental treatment </s> drive to the dentist 0
+going to the dentist: </s> drive to the dentist </s> drive home 1
+going to the dentist: </s> give your name to the receptionist </s> go to the front desk 0
+going to the dentist: </s> tell the receptionist if you have any problems or need any information </s> go to the front desk 0
+going to the dentist: </s> go to the front desk </s> when the receptionist comes back, you have a dentist appointment 1
+going to the dentist: </s> leave the receptionist and pay for the dental treatment </s> go to the front desk 0
+going to the dentist: </s> drive home </s> go to the front desk 0
+going to the dentist: </s> tell the receptionist if you have any problems or need any information </s> give your name to the receptionist 0
+going to the dentist: </s> when the receptionist comes back, you have a dentist appointment </s> give your name to the receptionist 0
+going to the dentist: </s> leave the receptionist and pay for the dental treatment </s> give your name to the receptionist 0
+going to the dentist: </s> give your name to the receptionist </s> drive home 1
+going to the dentist: </s> tell the receptionist if you have any problems or need any information </s> when the receptionist comes back, you have a dentist appointment 1
+going to the dentist: </s> leave the receptionist and pay for the dental treatment </s> tell the receptionist if you have any problems or need any information 0
+going to the dentist: </s> drive home </s> tell the receptionist if you have any problems or need any information 0
+going to the dentist: </s> when the receptionist comes back, you have a dentist appointment </s> leave the receptionist and pay for the dental treatment 1
+going to the dentist: </s> when the receptionist comes back, you have a dentist appointment </s> drive home 1
+going to the dentist: </s> leave the receptionist and pay for the dental treatment </s> drive home 1
+going to the dentist: </s> walk in dentist's office </s> make appointment at dentist's office 0
+going to the dentist: </s> make appointment at dentist's office </s> get in the dentist's chair and wait 1
+going to the dentist: </s> make appointment at dentist's office </s> be seated in dentist's chair 1
+going to the dentist: </s> have tooth pulled </s> make appointment at dentist's office 0
+going to the dentist: </s> get in mouth with your teeth intact </s> make appointment at dentist's office 0
+going to the dentist: </s> make appointment at dentist's office </s> have tooth removed 1
+going to the dentist: </s> put on dentures </s> make appointment at dentist's office 0
+going to the dentist: </s> make appointment at dentist's office </s> pay for treatment 1
+going to the dentist: </s> make appointment at dentist's office </s> get out of dentist's office 1
+going to the dentist: </s> get in the dentist's chair and wait </s> walk in dentist's office 0
+going to the dentist: </s> be seated in dentist's chair </s> walk in dentist's office 0
+going to the dentist: </s> walk in dentist's office </s> have tooth pulled 1
+going to the dentist: </s> get in mouth with your teeth intact </s> walk in dentist's office 0
+going to the dentist: </s> have tooth removed </s> walk in dentist's office 0
+going to the dentist: </s> put on dentures </s> walk in dentist's office 0
+going to the dentist: </s> pay for treatment </s> walk in dentist's office 0
+going to the dentist: </s> get out of dentist's office </s> walk in dentist's office 0
+going to the dentist: </s> be seated in dentist's chair </s> get in the dentist's chair and wait 0
+going to the dentist: </s> have tooth pulled </s> get in the dentist's chair and wait 0
+going to the dentist: </s> get in the dentist's chair and wait </s> get in mouth with your teeth intact 1
+going to the dentist: </s> have tooth removed </s> get in the dentist's chair and wait 0
+going to the dentist: </s> get in the dentist's chair and wait </s> put on dentures 1
+going to the dentist: </s> pay for treatment </s> get in the dentist's chair and wait 0
+going to the dentist: </s> get in the dentist's chair and wait </s> get out of dentist's office 1
+going to the dentist: </s> have tooth pulled </s> be seated in dentist's chair 0
+going to the dentist: </s> be seated in dentist's chair </s> get in mouth with your teeth intact 1
+going to the dentist: </s> have tooth removed </s> be seated in dentist's chair 0
+going to the dentist: </s> be seated in dentist's chair </s> put on dentures 1
+going to the dentist: </s> pay for treatment </s> be seated in dentist's chair 0
+going to the dentist: </s> get out of dentist's office </s> be seated in dentist's chair 0
+going to the dentist: </s> have tooth pulled </s> get in mouth with your teeth intact 1
+going to the dentist: </s> have tooth pulled </s> have tooth removed 1
+going to the dentist: </s> put on dentures </s> have tooth pulled 0
+going to the dentist: </s> have tooth pulled </s> pay for treatment 1
+going to the dentist: </s> have tooth pulled </s> get out of dentist's office 1
+going to the dentist: </s> have tooth removed </s> get in mouth with your teeth intact 0
+going to the dentist: </s> get in mouth with your teeth intact </s> put on dentures 1
+going to the dentist: </s> pay for treatment </s> get in mouth with your teeth intact 0
+going to the dentist: </s> get in mouth with your teeth intact </s> get out of dentist's office 1
+going to the dentist: </s> put on dentures </s> have tooth removed 0
+going to the dentist: </s> have tooth removed </s> pay for treatment 1
+going to the dentist: </s> get out of dentist's office </s> have tooth removed 0
+going to the dentist: </s> pay for treatment </s> put on dentures 0
+going to the dentist: </s> put on dentures </s> get out of dentist's office 1
+going to the dentist: </s> pay for treatment </s> get out of dentist's office 1
+going to the dentist: </s> get toothpaste </s> get toothbrush 0
+going to the dentist: </s> get a glass of water </s> get toothbrush 0
+going to the dentist: </s> get toothbrush </s> go to the dentist 1
+going to the dentist: </s> get toothbrush </s> tell the dentist the problem 1
+going to the dentist: </s> get toothbrush </s> get the toothbrush 1
+going to the dentist: </s> get toothbrush </s> fill in the gaps with the toothpaste 1
+going to the dentist: </s> get toothbrush </s> get the glasses 1
+going to the dentist: </s> get toothbrush </s> leave the dentist's office 1
+going to the dentist: </s> get a glass of water </s> get toothpaste 0
+going to the dentist: </s> get toothpaste </s> go to the dentist 1
+going to the dentist: </s> get toothpaste </s> tell the dentist the problem 1
+going to the dentist: </s> get toothpaste </s> get the toothbrush 1
+going to the dentist: </s> get toothpaste </s> fill in the gaps with the toothpaste 1
+going to the dentist: </s> get the glasses </s> get toothpaste 0
+going to the dentist: </s> leave the dentist's office </s> get toothpaste 0
+going to the dentist: </s> go to the dentist </s> get a glass of water 0
+going to the dentist: </s> tell the dentist the problem </s> get a glass of water 0
+going to the dentist: </s> get a glass of water </s> get the toothbrush 1
+going to the dentist: </s> fill in the gaps with the toothpaste </s> get a glass of water 0
+going to the dentist: </s> get a glass of water </s> get the glasses 1
+going to the dentist: </s> get a glass of water </s> leave the dentist's office 1
+going to the dentist: </s> tell the dentist the problem </s> go to the dentist 0
+going to the dentist: </s> get the toothbrush </s> go to the dentist 0
+going to the dentist: </s> go to the dentist </s> fill in the gaps with the toothpaste 1
+going to the dentist: </s> get the glasses </s> go to the dentist 0
+going to the dentist: </s> leave the dentist's office </s> go to the dentist 0
+going to the dentist: </s> tell the dentist the problem </s> get the toothbrush 1
+going to the dentist: </s> tell the dentist the problem </s> fill in the gaps with the toothpaste 1
+going to the dentist: </s> tell the dentist the problem </s> get the glasses 1
+going to the dentist: </s> tell the dentist the problem </s> leave the dentist's office 1
+going to the dentist: </s> get the toothbrush </s> fill in the gaps with the toothpaste 1
+going to the dentist: </s> get the glasses </s> get the toothbrush 0
+going to the dentist: </s> get the toothbrush </s> leave the dentist's office 1
+going to the dentist: </s> fill in the gaps with the toothpaste </s> get the glasses 1
+going to the dentist: </s> fill in the gaps with the toothpaste </s> leave the dentist's office 1
+going to the dentist: </s> leave the dentist's office </s> get the glasses 0
+going to a funeral: </s> call family members </s> tell them about funeral plans 1
+going to a funeral: </s> call family members </s> give money to pay for the funeral 1
+going to a funeral: </s> take clothes off </s> call family members 0
+going to a funeral: </s> call family members </s> gather flowers 1
+going to a funeral: </s> call family members </s> dress in funeral dress 1
+going to a funeral: </s> call family members </s> leave house 1
+going to a funeral: </s> give money to pay for the funeral </s> tell them about funeral plans 0
+going to a funeral: </s> take clothes off </s> tell them about funeral plans 0
+going to a funeral: </s> tell them about funeral plans </s> gather flowers 1
+going to a funeral: </s> tell them about funeral plans </s> dress in funeral dress 1
+going to a funeral: </s> tell them about funeral plans </s> leave house 1
+going to a funeral: </s> take clothes off </s> give money to pay for the funeral 0
+going to a funeral: </s> gather flowers </s> give money to pay for the funeral 0
+going to a funeral: </s> dress in funeral dress </s> give money to pay for the funeral 0
+going to a funeral: </s> leave house </s> give money to pay for the funeral 0
+going to a funeral: </s> gather flowers </s> take clothes off 0
+going to a funeral: </s> dress in funeral dress </s> take clothes off 0
+going to a funeral: </s> take clothes off </s> leave house 1
+going to a funeral: </s> dress in funeral dress </s> gather flowers 0
+going to a funeral: </s> gather flowers </s> leave house 1
+going to a funeral: </s> leave house </s> dress in funeral dress 0
+going to a funeral: </s> decide what you want to do. </s> drive to funeral home. 1
+going to a funeral: </s> enter. </s> decide what you want to do. 0
+going to a funeral: </s> decide what you want to do. </s> pay for funeral. 1
+going to a funeral: </s> decide what you want to do. </s> leave. 1
+going to a funeral: </s> drive to funeral home. </s> enter. 1
+going to a funeral: </s> pay for funeral. </s> drive to funeral home. 0
+going to a funeral: </s> leave. </s> drive to funeral home. 0
+going to a funeral: </s> pay for funeral. </s> enter. 0
+going to a funeral: </s> enter. </s> leave. 1
+going to a funeral: </s> pay for funeral. </s> leave. 1
+going to a funeral: </s> determine what funeral will take place </s> get to the local cemetery 1
+going to a funeral: </s> check in at the front desk and register </s> determine what funeral will take place 0
+going to a funeral: </s> wait in line </s> determine what funeral will take place 0
+going to a funeral: </s> determine what funeral will take place </s> drive to the graveside 1
+going to a funeral: </s> pay for funeral expenses and leave </s> determine what funeral will take place 0
+going to a funeral: </s> check in at the front desk and register </s> get to the local cemetery 0
+going to a funeral: </s> wait in line </s> get to the local cemetery 0
+going to a funeral: </s> drive to the graveside </s> get to the local cemetery 0
+going to a funeral: </s> get to the local cemetery </s> pay for funeral expenses and leave 1
+going to a funeral: </s> wait in line </s> check in at the front desk and register 0
+going to a funeral: </s> drive to the graveside </s> check in at the front desk and register 0
+going to a funeral: </s> check in at the front desk and register </s> pay for funeral expenses and leave 1
+going to a funeral: </s> wait in line </s> drive to the graveside 1
+going to a funeral: </s> pay for funeral expenses and leave </s> wait in line 0
+going to a funeral: </s> pay for funeral expenses and leave </s> drive to the graveside 0
+going to a funeral: </s> get in car. </s> pick the funeral. 0
+going to a funeral: </s> drive to the funeral home. </s> pick the funeral. 0
+going to a funeral: </s> pick the funeral. </s> pay the funeral home fees. 1
+going to a funeral: </s> pick the funeral. </s> check in at the reception desk. 1
+going to a funeral: </s> pick the funeral. </s> go inside the funeral home. 1
+going to a funeral: </s> wait for the funeral services to start. </s> pick the funeral. 0
+going to a funeral: </s> watch funeral services. </s> pick the funeral. 0
+going to a funeral: </s> pick the funeral. </s> put all belongings in their proper places. 1
+going to a funeral: </s> leave the funeral home. </s> pick the funeral. 0
+going to a funeral: </s> get in car. </s> drive to the funeral home. 1
+going to a funeral: </s> get in car. </s> pay the funeral home fees. 1
+going to a funeral: </s> get in car. </s> check in at the reception desk. 1
+going to a funeral: </s> get in car. </s> go inside the funeral home. 1
+going to a funeral: </s> get in car. </s> wait for the funeral services to start. 1
+going to a funeral: </s> get in car. </s> watch funeral services. 1
+going to a funeral: </s> get in car. </s> put all belongings in their proper places. 1
+going to a funeral: </s> leave the funeral home. </s> get in car. 0
+going to a funeral: </s> drive to the funeral home. </s> pay the funeral home fees. 1
+going to a funeral: </s> drive to the funeral home. </s> check in at the reception desk. 1
+going to a funeral: </s> go inside the funeral home. </s> drive to the funeral home. 0
+going to a funeral: </s> drive to the funeral home. </s> wait for the funeral services to start. 1
+going to a funeral: </s> watch funeral services. </s> drive to the funeral home. 0
+going to a funeral: </s> drive to the funeral home. </s> put all belongings in their proper places. 1
+going to a funeral: </s> leave the funeral home. </s> drive to the funeral home. 0
+going to a funeral: </s> check in at the reception desk. </s> pay the funeral home fees. 0
+going to a funeral: </s> go inside the funeral home. </s> pay the funeral home fees. 0
+going to a funeral: </s> pay the funeral home fees. </s> wait for the funeral services to start. 1
+going to a funeral: </s> watch funeral services. </s> pay the funeral home fees. 0
+going to a funeral: </s> pay the funeral home fees. </s> put all belongings in their proper places. 1
+going to a funeral: </s> pay the funeral home fees. </s> leave the funeral home. 1
+going to a funeral: </s> check in at the reception desk. </s> go inside the funeral home. 1
+going to a funeral: </s> check in at the reception desk. </s> wait for the funeral services to start. 1
+going to a funeral: </s> check in at the reception desk. </s> watch funeral services. 1
+going to a funeral: </s> check in at the reception desk. </s> put all belongings in their proper places. 1
+going to a funeral: </s> check in at the reception desk. </s> leave the funeral home. 1
+going to a funeral: </s> wait for the funeral services to start. </s> go inside the funeral home. 0
+going to a funeral: </s> go inside the funeral home. </s> watch funeral services. 1
+going to a funeral: </s> go inside the funeral home. </s> put all belongings in their proper places. 1
+going to a funeral: </s> leave the funeral home. </s> go inside the funeral home. 0
+going to a funeral: </s> wait for the funeral services to start. </s> watch funeral services. 1
+going to a funeral: </s> put all belongings in their proper places. </s> wait for the funeral services to start. 0
+going to a funeral: </s> leave the funeral home. </s> wait for the funeral services to start. 0
+going to a funeral: </s> watch funeral services. </s> put all belongings in their proper places. 1
+going to a funeral: </s> watch funeral services. </s> leave the funeral home. 1
+going to a funeral: </s> leave the funeral home. </s> put all belongings in their proper places. 0
+going to a funeral: </s> arrive at funeral home </s> go to the lobby 1
+going to a funeral: </s> ring the bell </s> arrive at funeral home 0
+going to a funeral: </s> enter into funeral home </s> arrive at funeral home 0
+going to a funeral: </s> arrive at funeral home </s> wait for funeral to begin 1
+going to a funeral: </s> get in line to pay for a casket </s> arrive at funeral home 0
+going to a funeral: </s> arrive at funeral home </s> tell attendant who will be burying your dead 1
+going to a funeral: </s> arrive at funeral home </s> give attendant your name and number 1
+going to a funeral: </s> walk through line </s> arrive at funeral home 0
+going to a funeral: </s> be told you will be buried in the cemetery </s> arrive at funeral home 0
+going to a funeral: </s> arrive at funeral home </s> walk out of funeral home 1
+going to a funeral: </s> arrive at funeral home </s> put on dress and tuck it into casket 1
+going to a funeral: </s> arrive at funeral home </s> take to the funeral home attendant 1
+going to a funeral: </s> pay for a small funeral service </s> arrive at funeral home 0
+going to a funeral: </s> arrive at funeral home </s> give attendant your ashes 1
+going to a funeral: </s> leave with your empty tombstone and an engraved token of thanks </s> arrive at funeral home 0
+going to a funeral: </s> leave home. </s> arrive at funeral home 0
+going to a funeral: </s> ring the bell </s> go to the lobby 0
+going to a funeral: </s> go to the lobby </s> enter into funeral home 1
+going to a funeral: </s> wait for funeral to begin </s> go to the lobby 0
+going to a funeral: </s> go to the lobby </s> get in line to pay for a casket 1
+going to a funeral: </s> tell attendant who will be burying your dead </s> go to the lobby 0
+going to a funeral: </s> go to the lobby </s> give attendant your name and number 1
+going to a funeral: </s> go to the lobby </s> walk through line 1
+going to a funeral: </s> be told you will be buried in the cemetery </s> go to the lobby 0
+going to a funeral: </s> go to the lobby </s> walk out of funeral home 1
+going to a funeral: </s> put on dress and tuck it into casket </s> go to the lobby 0
+going to a funeral: </s> take to the funeral home attendant </s> go to the lobby 0
+going to a funeral: </s> pay for a small funeral service </s> go to the lobby 0
+going to a funeral: </s> give attendant your ashes </s> go to the lobby 0
+going to a funeral: </s> leave with your empty tombstone and an engraved token of thanks </s> go to the lobby 0
+going to a funeral: </s> leave home. </s> go to the lobby 0
+going to a funeral: </s> enter into funeral home </s> ring the bell 0
+going to a funeral: </s> ring the bell </s> wait for funeral to begin 1
+going to a funeral: </s> get in line to pay for a casket </s> ring the bell 0
+going to a funeral: </s> tell attendant who will be burying your dead </s> ring the bell 0
+going to a funeral: </s> ring the bell </s> give attendant your name and number 1
+going to a funeral: </s> ring the bell </s> walk through line 1
+going to a funeral: </s> be told you will be buried in the cemetery </s> ring the bell 0
+going to a funeral: </s> walk out of funeral home </s> ring the bell 0
+going to a funeral: </s> put on dress and tuck it into casket </s> ring the bell 0
+going to a funeral: </s> ring the bell </s> take to the funeral home attendant 1
+going to a funeral: </s> pay for a small funeral service </s> ring the bell 0
+going to a funeral: </s> ring the bell </s> give attendant your ashes 1
+going to a funeral: </s> leave with your empty tombstone and an engraved token of thanks </s> ring the bell 0
+going to a funeral: </s> leave home. </s> ring the bell 0
+going to a funeral: </s> enter into funeral home </s> wait for funeral to begin 1
+going to a funeral: </s> get in line to pay for a casket </s> enter into funeral home 0
+going to a funeral: </s> tell attendant who will be burying your dead </s> enter into funeral home 0
+going to a funeral: </s> give attendant your name and number </s> enter into funeral home 0
+going to a funeral: </s> enter into funeral home </s> walk through line 1
+going to a funeral: </s> be told you will be buried in the cemetery </s> enter into funeral home 0
+going to a funeral: </s> walk out of funeral home </s> enter into funeral home 0
+going to a funeral: </s> enter into funeral home </s> put on dress and tuck it into casket 1
+going to a funeral: </s> enter into funeral home </s> take to the funeral home attendant 1
+going to a funeral: </s> pay for a small funeral service </s> enter into funeral home 0
+going to a funeral: </s> give attendant your ashes </s> enter into funeral home 0
+going to a funeral: </s> enter into funeral home </s> leave with your empty tombstone and an engraved token of thanks 1
+going to a funeral: </s> leave home. </s> enter into funeral home 0
+going to a funeral: </s> get in line to pay for a casket </s> wait for funeral to begin 0
+going to a funeral: </s> wait for funeral to begin </s> tell attendant who will be burying your dead 1
+going to a funeral: </s> give attendant your name and number </s> wait for funeral to begin 0
+going to a funeral: </s> walk through line </s> wait for funeral to begin 0
+going to a funeral: </s> wait for funeral to begin </s> be told you will be buried in the cemetery 1
+going to a funeral: </s> walk out of funeral home </s> wait for funeral to begin 0
+going to a funeral: </s> put on dress and tuck it into casket </s> wait for funeral to begin 0
+going to a funeral: </s> take to the funeral home attendant </s> wait for funeral to begin 0
+going to a funeral: </s> wait for funeral to begin </s> pay for a small funeral service 1
+going to a funeral: </s> give attendant your ashes </s> wait for funeral to begin 0
+going to a funeral: </s> wait for funeral to begin </s> leave with your empty tombstone and an engraved token of thanks 1
+going to a funeral: </s> wait for funeral to begin </s> leave home. 1
+going to a funeral: </s> tell attendant who will be burying your dead </s> get in line to pay for a casket 0
+going to a funeral: </s> get in line to pay for a casket </s> give attendant your name and number 1
+going to a funeral: </s> walk through line </s> get in line to pay for a casket 0
+going to a funeral: </s> be told you will be buried in the cemetery </s> get in line to pay for a casket 0
+going to a funeral: </s> walk out of funeral home </s> get in line to pay for a casket 0
+going to a funeral: </s> get in line to pay for a casket </s> put on dress and tuck it into casket 1
+going to a funeral: </s> take to the funeral home attendant </s> get in line to pay for a casket 0
+going to a funeral: </s> pay for a small funeral service </s> get in line to pay for a casket 0
+going to a funeral: </s> give attendant your ashes </s> get in line to pay for a casket 0
+going to a funeral: </s> get in line to pay for a casket </s> leave with your empty tombstone and an engraved token of thanks 1
+going to a funeral: </s> get in line to pay for a casket </s> leave home. 1
+going to a funeral: </s> give attendant your name and number </s> tell attendant who will be burying your dead 0
+going to a funeral: </s> walk through line </s> tell attendant who will be burying your dead 0
+going to a funeral: </s> be told you will be buried in the cemetery </s> tell attendant who will be burying your dead 0
+going to a funeral: </s> walk out of funeral home </s> tell attendant who will be burying your dead 0
+going to a funeral: </s> tell attendant who will be burying your dead </s> put on dress and tuck it into casket 1
+going to a funeral: </s> tell attendant who will be burying your dead </s> take to the funeral home attendant 1
+going to a funeral: </s> tell attendant who will be burying your dead </s> pay for a small funeral service 1
+going to a funeral: </s> tell attendant who will be burying your dead </s> give attendant your ashes 1
+going to a funeral: </s> tell attendant who will be burying your dead </s> leave with your empty tombstone and an engraved token of thanks 1
+going to a funeral: </s> tell attendant who will be burying your dead </s> leave home. 1
+going to a funeral: </s> give attendant your name and number </s> walk through line 1
+going to a funeral: </s> be told you will be buried in the cemetery </s> give attendant your name and number 0
+going to a funeral: </s> walk out of funeral home </s> give attendant your name and number 0
+going to a funeral: </s> put on dress and tuck it into casket </s> give attendant your name and number 0
+going to a funeral: </s> take to the funeral home attendant </s> give attendant your name and number 0
+going to a funeral: </s> pay for a small funeral service </s> give attendant your name and number 0
+going to a funeral: </s> give attendant your ashes </s> give attendant your name and number 0
+going to a funeral: </s> give attendant your name and number </s> leave with your empty tombstone and an engraved token of thanks 1
+going to a funeral: </s> leave home. </s> give attendant your name and number 0
+going to a funeral: </s> walk through line </s> be told you will be buried in the cemetery 1
+going to a funeral: </s> walk out of funeral home </s> walk through line 0
+going to a funeral: </s> walk through line </s> put on dress and tuck it into casket 1
+going to a funeral: </s> walk through line </s> take to the funeral home attendant 1
+going to a funeral: </s> pay for a small funeral service </s> walk through line 0
+going to a funeral: </s> give attendant your ashes </s> walk through line 0
+going to a funeral: </s> leave with your empty tombstone and an engraved token of thanks </s> walk through line 0
+going to a funeral: </s> leave home. </s> walk through line 0
+going to a funeral: </s> walk out of funeral home </s> be told you will be buried in the cemetery 0
+going to a funeral: </s> be told you will be buried in the cemetery </s> put on dress and tuck it into casket 1
+going to a funeral: </s> take to the funeral home attendant </s> be told you will be buried in the cemetery 0
+going to a funeral: </s> be told you will be buried in the cemetery </s> pay for a small funeral service 1
+going to a funeral: </s> be told you will be buried in the cemetery </s> give attendant your ashes 1
+going to a funeral: </s> be told you will be buried in the cemetery </s> leave with your empty tombstone and an engraved token of thanks 1
+going to a funeral: </s> leave home. </s> be told you will be buried in the cemetery 0
+going to a funeral: </s> put on dress and tuck it into casket </s> walk out of funeral home 0
+going to a funeral: </s> take to the funeral home attendant </s> walk out of funeral home 0
+going to a funeral: </s> pay for a small funeral service </s> walk out of funeral home 0
+going to a funeral: </s> give attendant your ashes </s> walk out of funeral home 0
+going to a funeral: </s> leave with your empty tombstone and an engraved token of thanks </s> walk out of funeral home 0
+going to a funeral: </s> walk out of funeral home </s> leave home. 1
+going to a funeral: </s> take to the funeral home attendant </s> put on dress and tuck it into casket 0
+going to a funeral: </s> put on dress and tuck it into casket </s> pay for a small funeral service 1
+going to a funeral: </s> put on dress and tuck it into casket </s> give attendant your ashes 1
+going to a funeral: </s> leave with your empty tombstone and an engraved token of thanks </s> put on dress and tuck it into casket 0
+going to a funeral: </s> leave home. </s> put on dress and tuck it into casket 0
+going to a funeral: </s> pay for a small funeral service </s> take to the funeral home attendant 0
+going to a funeral: </s> give attendant your ashes </s> take to the funeral home attendant 0
+going to a funeral: </s> leave with your empty tombstone and an engraved token of thanks </s> take to the funeral home attendant 0
+going to a funeral: </s> leave home. </s> take to the funeral home attendant 0
+going to a funeral: </s> pay for a small funeral service </s> give attendant your ashes 1
+going to a funeral: </s> pay for a small funeral service </s> leave with your empty tombstone and an engraved token of thanks 1
+going to a funeral: </s> pay for a small funeral service </s> leave home. 1
+going to a funeral: </s> give attendant your ashes </s> leave with your empty tombstone and an engraved token of thanks 1
+going to a funeral: </s> give attendant your ashes </s> leave home. 1
+going to a funeral: </s> leave with your empty tombstone and an engraved token of thanks </s> leave home. 1

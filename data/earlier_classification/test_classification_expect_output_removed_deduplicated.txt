@@ -1,0 +1,638 @@
+<BOS> these are the things that happen when you bake a cake: </s> put the sugar in </s> put the water in the stove 0
+<BOS> these are the things that happen when you bake a cake: </s> put the water in the stove </s> turn on the stove 1
+<BOS> these are the things that happen when you bake a cake: </s> let the sugar melt </s> put the water in the stove 0
+<BOS> these are the things that happen when you bake a cake: </s> pour the cake into the water </s> put the water in the stove 0
+<BOS> these are the things that happen when you bake a cake: </s> mix the cake and pour it into the cake molds </s> put the water in the stove 0
+<BOS> these are the things that happen when you bake a cake: </s> put the water in the stove </s> place the molds on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> turn on the stove </s> put the sugar in 0
+<BOS> these are the things that happen when you bake a cake: </s> let the sugar melt </s> put the sugar in 0
+<BOS> these are the things that happen when you bake a cake: </s> pour the cake into the water </s> put the sugar in 0
+<BOS> these are the things that happen when you bake a cake: </s> put the sugar in </s> mix the cake and pour it into the cake molds 1
+<BOS> these are the things that happen when you bake a cake: </s> place the molds on the cake </s> put the sugar in 0
+<BOS> these are the things that happen when you bake a cake: </s> let the sugar melt </s> turn on the stove 0
+<BOS> these are the things that happen when you bake a cake: </s> pour the cake into the water </s> turn on the stove 0
+<BOS> these are the things that happen when you bake a cake: </s> mix the cake and pour it into the cake molds </s> turn on the stove 0
+<BOS> these are the things that happen when you bake a cake: </s> turn on the stove </s> place the molds on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> pour the cake into the water </s> let the sugar melt 0
+<BOS> these are the things that happen when you bake a cake: </s> let the sugar melt </s> mix the cake and pour it into the cake molds 1
+<BOS> these are the things that happen when you bake a cake: </s> let the sugar melt </s> place the molds on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> pour the cake into the water </s> mix the cake and pour it into the cake molds 1
+<BOS> these are the things that happen when you bake a cake: </s> place the molds on the cake </s> pour the cake into the water 0
+<BOS> these are the things that happen when you bake a cake: </s> mix the cake and pour it into the cake molds </s> place the molds on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> get some water </s> get a mixer 0
+<BOS> these are the things that happen when you bake a cake: </s> get a mixer </s> place a small bowl of water on the mixer 1
+<BOS> these are the things that happen when you bake a cake: </s> get a mixer </s> put a small amount of butter into the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> get a mixer </s> add sugar 1
+<BOS> these are the things that happen when you bake a cake: </s> get a mixer </s> mix until the sugar is dissolved 1
+<BOS> these are the things that happen when you bake a cake: </s> get a mixer </s> place the bowl of water in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> get a mixer </s> turn the oven on 1
+<BOS> these are the things that happen when you bake a cake: </s> get a mixer </s> place the bowl of water on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> get a mixer </s> cook the cake for 15 minutes 1
+<BOS> these are the things that happen when you bake a cake: </s> take the cake out of the oven </s> get a mixer 0
+<BOS> these are the things that happen when you bake a cake: </s> cut the cake with a knife or knife and serve </s> get a mixer 0
+<BOS> these are the things that happen when you bake a cake: </s> get some water </s> place a small bowl of water on the mixer 1
+<BOS> these are the things that happen when you bake a cake: </s> get some water </s> put a small amount of butter into the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> get some water </s> add sugar 1
+<BOS> these are the things that happen when you bake a cake: </s> mix until the sugar is dissolved </s> get some water 0
+<BOS> these are the things that happen when you bake a cake: </s> get some water </s> place the bowl of water in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> turn the oven on </s> get some water 0
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water on the cake </s> get some water 0
+<BOS> these are the things that happen when you bake a cake: </s> cook the cake for 15 minutes </s> get some water 0
+<BOS> these are the things that happen when you bake a cake: </s> take the cake out of the oven </s> get some water 0
+<BOS> these are the things that happen when you bake a cake: </s> cut the cake with a knife or knife and serve </s> get some water 0
+<BOS> these are the things that happen when you bake a cake: </s> place a small bowl of water on the mixer </s> put a small amount of butter into the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> place a small bowl of water on the mixer </s> add sugar 1
+<BOS> these are the things that happen when you bake a cake: </s> place a small bowl of water on the mixer </s> mix until the sugar is dissolved 1
+<BOS> these are the things that happen when you bake a cake: </s> place a small bowl of water on the mixer </s> place the bowl of water in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> place a small bowl of water on the mixer </s> turn the oven on 1
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water on the cake </s> place a small bowl of water on the mixer 0
+<BOS> these are the things that happen when you bake a cake: </s> place a small bowl of water on the mixer </s> cook the cake for 15 minutes 1
+<BOS> these are the things that happen when you bake a cake: </s> place a small bowl of water on the mixer </s> take the cake out of the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> cut the cake with a knife or knife and serve </s> place a small bowl of water on the mixer 0
+<BOS> these are the things that happen when you bake a cake: </s> put a small amount of butter into the bowl </s> add sugar 1
+<BOS> these are the things that happen when you bake a cake: </s> mix until the sugar is dissolved </s> put a small amount of butter into the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> put a small amount of butter into the bowl </s> place the bowl of water in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> turn the oven on </s> put a small amount of butter into the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> put a small amount of butter into the bowl </s> place the bowl of water on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> put a small amount of butter into the bowl </s> cook the cake for 15 minutes 1
+<BOS> these are the things that happen when you bake a cake: </s> take the cake out of the oven </s> put a small amount of butter into the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> cut the cake with a knife or knife and serve </s> put a small amount of butter into the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> mix until the sugar is dissolved </s> add sugar 0
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water in the oven </s> add sugar 0
+<BOS> these are the things that happen when you bake a cake: </s> turn the oven on </s> add sugar 0
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water on the cake </s> add sugar 0
+<BOS> these are the things that happen when you bake a cake: </s> cook the cake for 15 minutes </s> add sugar 0
+<BOS> these are the things that happen when you bake a cake: </s> take the cake out of the oven </s> add sugar 0
+<BOS> these are the things that happen when you bake a cake: </s> add sugar </s> cut the cake with a knife or knife and serve 1
+<BOS> these are the things that happen when you bake a cake: </s> mix until the sugar is dissolved </s> place the bowl of water in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> turn the oven on </s> mix until the sugar is dissolved 0
+<BOS> these are the things that happen when you bake a cake: </s> mix until the sugar is dissolved </s> place the bowl of water on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> mix until the sugar is dissolved </s> cook the cake for 15 minutes 1
+<BOS> these are the things that happen when you bake a cake: </s> mix until the sugar is dissolved </s> take the cake out of the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> mix until the sugar is dissolved </s> cut the cake with a knife or knife and serve 1
+<BOS> these are the things that happen when you bake a cake: </s> turn the oven on </s> place the bowl of water in the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water in the oven </s> place the bowl of water on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> cook the cake for 15 minutes </s> place the bowl of water in the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water in the oven </s> take the cake out of the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water in the oven </s> cut the cake with a knife or knife and serve 1
+<BOS> these are the things that happen when you bake a cake: </s> turn the oven on </s> place the bowl of water on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> cook the cake for 15 minutes </s> turn the oven on 0
+<BOS> these are the things that happen when you bake a cake: </s> turn the oven on </s> take the cake out of the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> cut the cake with a knife or knife and serve </s> turn the oven on 0
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water on the cake </s> cook the cake for 15 minutes 1
+<BOS> these are the things that happen when you bake a cake: </s> take the cake out of the oven </s> place the bowl of water on the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> place the bowl of water on the cake </s> cut the cake with a knife or knife and serve 1
+<BOS> these are the things that happen when you bake a cake: </s> take the cake out of the oven </s> cook the cake for 15 minutes 0
+<BOS> these are the things that happen when you bake a cake: </s> cut the cake with a knife or knife and serve </s> cook the cake for 15 minutes 0
+<BOS> these are the things that happen when you bake a cake: </s> take the cake out of the oven </s> cut the cake with a knife or knife and serve 1
+<BOS> these are the things that happen when you bake a cake: </s> get a cake pan </s> choose a color for the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> choose a color for the cake </s> turn on the stove 1
+<BOS> these are the things that happen when you bake a cake: </s> choose a color for the cake </s> add butter to the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> choose a color for the cake </s> put a tablespoon of oil in the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> choose a color for the cake </s> put the cake on the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> choose a color for the cake </s> place the cake in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> choose a color for the cake </s> take out the cake after the baking is done 1
+<BOS> these are the things that happen when you bake a cake: </s> get a cake pan </s> turn on the stove 1
+<BOS> these are the things that happen when you bake a cake: </s> get a cake pan </s> add butter to the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> get a cake pan </s> put a tablespoon of oil in the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> get a cake pan </s> put the cake on the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> get a cake pan </s> place the cake in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> take out the cake after the baking is done </s> get a cake pan 0
+<BOS> these are the things that happen when you bake a cake: </s> add butter to the pan </s> turn on the stove 0
+<BOS> these are the things that happen when you bake a cake: </s> turn on the stove </s> put a tablespoon of oil in the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> turn on the stove </s> put the cake on the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> turn on the stove </s> place the cake in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> turn on the stove </s> take out the cake after the baking is done 1
+<BOS> these are the things that happen when you bake a cake: </s> add butter to the pan </s> put a tablespoon of oil in the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> add butter to the pan </s> put the cake on the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> add butter to the pan </s> place the cake in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> add butter to the pan </s> take out the cake after the baking is done 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake on the pan </s> put a tablespoon of oil in the pan 0
+<BOS> these are the things that happen when you bake a cake: </s> put a tablespoon of oil in the pan </s> place the cake in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> take out the cake after the baking is done </s> put a tablespoon of oil in the pan 0
+<BOS> these are the things that happen when you bake a cake: </s> put the cake on the pan </s> place the cake in the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake on the pan </s> take out the cake after the baking is done 1
+<BOS> these are the things that happen when you bake a cake: </s> take out the cake after the baking is done </s> place the cake in the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> get a pan </s> get some butter 1
+<BOS> these are the things that happen when you bake a cake: </s> mix up the butter </s> get a pan 0
+<BOS> these are the things that happen when you bake a cake: </s> get a pan </s> get out the cake mix 1
+<BOS> these are the things that happen when you bake a cake: </s> get a pan </s> take the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> get the bowl </s> get a pan 0
+<BOS> these are the things that happen when you bake a cake: </s> get a pan </s> put the cake mix in the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> put butter in the bowl </s> get a pan 0
+<BOS> these are the things that happen when you bake a cake: </s> get a pan </s> pour the butter in the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> heat up the pan </s> get a pan 0
+<BOS> these are the things that happen when you bake a cake: </s> put the butter on the cake </s> get a pan 0
+<BOS> these are the things that happen when you bake a cake: </s> get a pan </s> add the sugar 1
+<BOS> these are the things that happen when you bake a cake: </s> get a pan </s> bake until done 1
+<BOS> these are the things that happen when you bake a cake: </s> mix up the butter </s> get some butter 0
+<BOS> these are the things that happen when you bake a cake: </s> get some butter </s> get out the cake mix 1
+<BOS> these are the things that happen when you bake a cake: </s> get some butter </s> take the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> get some butter </s> get the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake mix in the bowl </s> get some butter 0
+<BOS> these are the things that happen when you bake a cake: </s> put butter in the bowl </s> get some butter 0
+<BOS> these are the things that happen when you bake a cake: </s> pour the butter in the pan </s> get some butter 0
+<BOS> these are the things that happen when you bake a cake: </s> heat up the pan </s> get some butter 0
+<BOS> these are the things that happen when you bake a cake: </s> put the butter on the cake </s> get some butter 0
+<BOS> these are the things that happen when you bake a cake: </s> add the sugar </s> get some butter 0
+<BOS> these are the things that happen when you bake a cake: </s> bake until done </s> get some butter 0
+<BOS> these are the things that happen when you bake a cake: </s> get out the cake mix </s> mix up the butter 0
+<BOS> these are the things that happen when you bake a cake: </s> take the cake </s> mix up the butter 0
+<BOS> these are the things that happen when you bake a cake: </s> mix up the butter </s> get the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake mix in the bowl </s> mix up the butter 0
+<BOS> these are the things that happen when you bake a cake: </s> mix up the butter </s> put butter in the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> mix up the butter </s> pour the butter in the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> mix up the butter </s> heat up the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> put the butter on the cake </s> mix up the butter 0
+<BOS> these are the things that happen when you bake a cake: </s> add the sugar </s> mix up the butter 0
+<BOS> these are the things that happen when you bake a cake: </s> bake until done </s> mix up the butter 0
+<BOS> these are the things that happen when you bake a cake: </s> take the cake </s> get out the cake mix 0
+<BOS> these are the things that happen when you bake a cake: </s> get out the cake mix </s> get the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake mix in the bowl </s> get out the cake mix 0
+<BOS> these are the things that happen when you bake a cake: </s> put butter in the bowl </s> get out the cake mix 0
+<BOS> these are the things that happen when you bake a cake: </s> pour the butter in the pan </s> get out the cake mix 0
+<BOS> these are the things that happen when you bake a cake: </s> heat up the pan </s> get out the cake mix 0
+<BOS> these are the things that happen when you bake a cake: </s> put the butter on the cake </s> get out the cake mix 0
+<BOS> these are the things that happen when you bake a cake: </s> get out the cake mix </s> add the sugar 1
+<BOS> these are the things that happen when you bake a cake: </s> bake until done </s> get out the cake mix 0
+<BOS> these are the things that happen when you bake a cake: </s> take the cake </s> get the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake mix in the bowl </s> take the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> take the cake </s> put butter in the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> pour the butter in the pan </s> take the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> heat up the pan </s> take the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> take the cake </s> put the butter on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> take the cake </s> add the sugar 1
+<BOS> these are the things that happen when you bake a cake: </s> take the cake </s> bake until done 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake mix in the bowl </s> get the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> get the bowl </s> put butter in the bowl 1
+<BOS> these are the things that happen when you bake a cake: </s> pour the butter in the pan </s> get the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> heat up the pan </s> get the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> get the bowl </s> put the butter on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> get the bowl </s> add the sugar 1
+<BOS> these are the things that happen when you bake a cake: </s> bake until done </s> get the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> put butter in the bowl </s> put the cake mix in the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> put the cake mix in the bowl </s> pour the butter in the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake mix in the bowl </s> heat up the pan 1
+<BOS> these are the things that happen when you bake a cake: </s> put the cake mix in the bowl </s> put the butter on the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> add the sugar </s> put the cake mix in the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> bake until done </s> put the cake mix in the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> pour the butter in the pan </s> put butter in the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> heat up the pan </s> put butter in the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> put the butter on the cake </s> put butter in the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> add the sugar </s> put butter in the bowl 0
+<BOS> these are the things that happen when you bake a cake: </s> put butter in the bowl </s> bake until done 1
+<BOS> these are the things that happen when you bake a cake: </s> heat up the pan </s> pour the butter in the pan 0
+<BOS> these are the things that happen when you bake a cake: </s> put the butter on the cake </s> pour the butter in the pan 0
+<BOS> these are the things that happen when you bake a cake: </s> add the sugar </s> pour the butter in the pan 0
+<BOS> these are the things that happen when you bake a cake: </s> pour the butter in the pan </s> bake until done 1
+<BOS> these are the things that happen when you bake a cake: </s> put the butter on the cake </s> heat up the pan 0
+<BOS> these are the things that happen when you bake a cake: </s> add the sugar </s> heat up the pan 0
+<BOS> these are the things that happen when you bake a cake: </s> heat up the pan </s> bake until done 1
+<BOS> these are the things that happen when you bake a cake: </s> add the sugar </s> put the butter on the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> bake until done </s> put the butter on the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> bake until done </s> add the sugar 0
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in a pan on the oven </s> remove the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> turn on the oven </s> remove the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> remove the cake </s> add butter 1
+<BOS> these are the things that happen when you bake a cake: </s> remove the cake </s> add the milk 1
+<BOS> these are the things that happen when you bake a cake: </s> remove the cake </s> pour in the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> stir until the cake is firm </s> remove the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in the cupboard </s> remove the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> enjoy </s> remove the cake 0
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in a pan on the oven </s> turn on the oven 1
+<BOS> these are the things that happen when you bake a cake: </s> add butter </s> place the cake in a pan on the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> add the milk </s> place the cake in a pan on the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in a pan on the oven </s> pour in the cake 1
+<BOS> these are the things that happen when you bake a cake: </s> stir until the cake is firm </s> place the cake in a pan on the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in a pan on the oven </s> place the cake in the cupboard 1
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in a pan on the oven </s> enjoy 1
+<BOS> these are the things that happen when you bake a cake: </s> turn on the oven </s> add butter 1
+<BOS> these are the things that happen when you bake a cake: </s> add the milk </s> turn on the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> pour in the cake </s> turn on the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> stir until the cake is firm </s> turn on the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in the cupboard </s> turn on the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> enjoy </s> turn on the oven 0
+<BOS> these are the things that happen when you bake a cake: </s> add the milk </s> add butter 0
+<BOS> these are the things that happen when you bake a cake: </s> pour in the cake </s> add butter 0
+<BOS> these are the things that happen when you bake a cake: </s> add butter </s> stir until the cake is firm 1
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in the cupboard </s> add butter 0
+<BOS> these are the things that happen when you bake a cake: </s> add butter </s> enjoy 1
+<BOS> these are the things that happen when you bake a cake: </s> pour in the cake </s> add the milk 0
+<BOS> these are the things that happen when you bake a cake: </s> stir until the cake is firm </s> add the milk 0
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in the cupboard </s> add the milk 0
+<BOS> these are the things that happen when you bake a cake: </s> add the milk </s> enjoy 1
+<BOS> these are the things that happen when you bake a cake: </s> pour in the cake </s> stir until the cake is firm 1
+<BOS> these are the things that happen when you bake a cake: </s> pour in the cake </s> place the cake in the cupboard 1
+<BOS> these are the things that happen when you bake a cake: </s> pour in the cake </s> enjoy 1
+<BOS> these are the things that happen when you bake a cake: </s> place the cake in the cupboard </s> stir until the cake is firm 0
+<BOS> these are the things that happen when you bake a cake: </s> stir until the cake is firm </s> enjoy 1
+<BOS> these are the things that happen when you bake a cake: </s> enjoy </s> place the cake in the cupboard 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> park the car </s> go to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> find a book in a shelf 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> bring the book to the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> go into the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> sign in the appropriate area 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> find a seat 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> read the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> get a copy of the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> return the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> go to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> park the car </s> find a book in a shelf 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> park the car </s> bring the book to the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go into the library </s> park the car 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> park the car </s> sign in the appropriate area 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> find a seat </s> park the car 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> read the book </s> park the car 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> park the car </s> get a copy of the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> return the book </s> park the car 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> park the car 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> bring the book to the library </s> find a book in a shelf 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> go into the library </s> find a book in a shelf 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> find a book in a shelf </s> sign in the appropriate area 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> find a seat </s> find a book in a shelf 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> find a book in a shelf </s> read the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> get a copy of the book </s> find a book in a shelf 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> return the book </s> find a book in a shelf 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> find a book in a shelf 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> go into the library </s> bring the book to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> bring the book to the library </s> sign in the appropriate area 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> bring the book to the library </s> find a seat 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> read the book </s> bring the book to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> get a copy of the book </s> bring the book to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> bring the book to the library </s> return the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> bring the book to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> sign in the appropriate area </s> go into the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> find a seat </s> go into the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> go into the library </s> read the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go into the library </s> get a copy of the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go into the library </s> return the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> go into the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> find a seat </s> sign in the appropriate area 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> sign in the appropriate area </s> read the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> sign in the appropriate area </s> get a copy of the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> sign in the appropriate area </s> return the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> sign in the appropriate area </s> leave the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> read the book </s> find a seat 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> find a seat </s> get a copy of the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> return the book </s> find a seat 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> find a seat </s> leave the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> get a copy of the book </s> read the book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> read the book </s> return the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> read the book </s> leave the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> get a copy of the book </s> return the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> get a copy of the book </s> leave the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> return the book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> enter library </s> tell receptionist you are borrowing a book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> wait </s> enter library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> collect book </s> enter library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave library </s> enter library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> wait </s> tell receptionist you are borrowing a book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> tell receptionist you are borrowing a book </s> collect book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave library </s> tell receptionist you are borrowing a book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> collect book </s> wait 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave library </s> wait 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> collect book </s> leave library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> call library </s> tell the librarian you're looking for a book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> call library </s> go to the back 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> call library </s> open up the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> take the book from the back of the bookcase </s> call library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> put the book in the cabinet </s> call library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> call library </s> put the book back in the cabinet 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> return the book to the shelves </s> call library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the back </s> tell the librarian you're looking for a book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> open up the book </s> tell the librarian you're looking for a book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> tell the librarian you're looking for a book </s> take the book from the back of the bookcase 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> tell the librarian you're looking for a book </s> put the book in the cabinet 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> put the book back in the cabinet </s> tell the librarian you're looking for a book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> tell the librarian you're looking for a book </s> return the book to the shelves 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the back </s> open up the book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the back </s> take the book from the back of the bookcase 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the back </s> put the book in the cabinet 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the back </s> put the book back in the cabinet 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> return the book to the shelves </s> go to the back 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> open up the book </s> take the book from the back of the bookcase 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> put the book in the cabinet </s> open up the book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> put the book back in the cabinet </s> open up the book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> open up the book </s> return the book to the shelves 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> put the book in the cabinet </s> take the book from the back of the bookcase 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> put the book back in the cabinet </s> take the book from the back of the bookcase 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> return the book to the shelves </s> take the book from the back of the bookcase 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> put the book in the cabinet </s> put the book back in the cabinet 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> put the book in the cabinet </s> return the book to the shelves 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> return the book to the shelves </s> put the book back in the cabinet 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> check a library </s> go to the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> check a library </s> find the book that you want to borrow 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> check a library </s> go to the desk of the person who is lending your book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> check a library </s> sign your name 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> get the book back </s> check a library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> check a library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> find the book that you want to borrow 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> go to the desk of the person who is lending your book 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> sign your name </s> go to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> get the book back </s> go to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the library </s> leave the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the desk of the person who is lending your book </s> find the book that you want to borrow 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> find the book that you want to borrow </s> sign your name 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> find the book that you want to borrow </s> get the book back 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> find the book that you want to borrow 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> sign your name </s> go to the desk of the person who is lending your book 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the desk of the person who is lending your book </s> get the book back 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> go to the desk of the person who is lending your book </s> leave the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> get the book back </s> sign your name 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> sign your name </s> leave the library 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> leave the library </s> get the book back 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> walk up to the library </s> tell the cashier you are borrowing 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> hand the book over to the employee </s> walk up to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> get a receipt </s> walk up to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> get your card back </s> walk up to the library 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> tell the cashier you are borrowing </s> hand the book over to the employee 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> tell the cashier you are borrowing </s> get a receipt 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> get your card back </s> tell the cashier you are borrowing 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> hand the book over to the employee </s> get a receipt 1
+<BOS> these are the things that happen when you borrow a book from the library: </s> get your card back </s> hand the book over to the employee 0
+<BOS> these are the things that happen when you borrow a book from the library: </s> get your card back </s> get a receipt 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get in the car </s> drive to the airport 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get in the car </s> check in luggage 1
+<BOS> these are the things that happen when you fly in an airplane: </s> check in bags </s> get in the car 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get in the car </s> get out of car 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get in the car </s> drive to the terminal 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> get in the car 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security check in </s> get in the car 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get in the car </s> go through turnstiles 1
+<BOS> these are the things that happen when you fly in an airplane: </s> board airplane </s> get in the car 0
+<BOS> these are the things that happen when you fly in an airplane: </s> check in luggage </s> drive to the airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> drive to the airport </s> check in bags 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get out of car </s> drive to the airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> drive to the terminal </s> drive to the airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> drive to the airport </s> wait in line 1
+<BOS> these are the things that happen when you fly in an airplane: </s> drive to the airport </s> go through security check in 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through turnstiles </s> drive to the airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> board airplane </s> drive to the airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> check in luggage </s> check in bags 1
+<BOS> these are the things that happen when you fly in an airplane: </s> check in luggage </s> get out of car 1
+<BOS> these are the things that happen when you fly in an airplane: </s> check in luggage </s> drive to the terminal 1
+<BOS> these are the things that happen when you fly in an airplane: </s> check in luggage </s> wait in line 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security check in </s> check in luggage 0
+<BOS> these are the things that happen when you fly in an airplane: </s> check in luggage </s> go through turnstiles 1
+<BOS> these are the things that happen when you fly in an airplane: </s> check in luggage </s> board airplane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get out of car </s> check in bags 0
+<BOS> these are the things that happen when you fly in an airplane: </s> check in bags </s> drive to the terminal 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> check in bags 0
+<BOS> these are the things that happen when you fly in an airplane: </s> check in bags </s> go through security check in 1
+<BOS> these are the things that happen when you fly in an airplane: </s> check in bags </s> go through turnstiles 1
+<BOS> these are the things that happen when you fly in an airplane: </s> check in bags </s> board airplane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> drive to the terminal </s> get out of car 0
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> get out of car 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get out of car </s> go through security check in 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through turnstiles </s> get out of car 0
+<BOS> these are the things that happen when you fly in an airplane: </s> board airplane </s> get out of car 0
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> drive to the terminal 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security check in </s> drive to the terminal 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go through turnstiles </s> drive to the terminal 0
+<BOS> these are the things that happen when you fly in an airplane: </s> board airplane </s> drive to the terminal 0
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> go through security check in 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> go through turnstiles 1
+<BOS> these are the things that happen when you fly in an airplane: </s> board airplane </s> wait in line 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security check in </s> go through turnstiles 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security check in </s> board airplane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through turnstiles </s> board airplane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> drive to the airport </s> wait in line 1
+<BOS> these are the things that happen when you fly in an airplane: </s> give ticket </s> drive to the airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> drive to the airport </s> go to gate 1
+<BOS> these are the things that happen when you fly in an airplane: </s> drive to the airport </s> wait on aircraft 1
+<BOS> these are the things that happen when you fly in an airplane: </s> exit aircraft </s> drive to the airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> give ticket </s> wait in line 0
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> go to gate 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> wait on aircraft 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> exit aircraft 1
+<BOS> these are the things that happen when you fly in an airplane: </s> give ticket </s> go to gate 1
+<BOS> these are the things that happen when you fly in an airplane: </s> give ticket </s> wait on aircraft 1
+<BOS> these are the things that happen when you fly in an airplane: </s> give ticket </s> exit aircraft 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait on aircraft </s> go to gate 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go to gate </s> exit aircraft 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait on aircraft </s> exit aircraft 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security </s> go to airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go to the airport </s> go to airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> find flight </s> go to airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get luggage </s> go to airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go to airport </s> go back to the airport 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security </s> go to the airport 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security </s> find flight 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security </s> get luggage 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go through security </s> go back to the airport 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go to the airport </s> find flight 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get luggage </s> go to the airport 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go to the airport </s> go back to the airport 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get luggage </s> find flight 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go back to the airport </s> find flight 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get luggage </s> go back to the airport 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get your ticket </s> get ready 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get ready </s> wait in line 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get your boarding pass </s> get ready 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get ready </s> wait for plane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> board plane </s> get ready 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get your ticket </s> wait in line 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get your ticket </s> get your boarding pass 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get your ticket </s> wait for plane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get your ticket </s> board plane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line </s> get your boarding pass 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait for plane </s> wait in line 0
+<BOS> these are the things that happen when you fly in an airplane: </s> board plane </s> wait in line 0
+<BOS> these are the things that happen when you fly in an airplane: </s> wait for plane </s> get your boarding pass 0
+<BOS> these are the things that happen when you fly in an airplane: </s> get your boarding pass </s> board plane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> board plane </s> wait for plane 0
+<BOS> these are the things that happen when you fly in an airplane: </s> make sure your plane is ready </s> buy airplane tickets 1
+<BOS> these are the things that happen when you fly in an airplane: </s> make sure your plane is ready </s> get checked luggage 1
+<BOS> these are the things that happen when you fly in an airplane: </s> find a place to park your plane </s> make sure your plane is ready 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go to airport with checked luggage </s> make sure your plane is ready 0
+<BOS> these are the things that happen when you fly in an airplane: </s> make sure your plane is ready </s> wait in line until plane arrives 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get checked luggage </s> buy airplane tickets 0
+<BOS> these are the things that happen when you fly in an airplane: </s> buy airplane tickets </s> find a place to park your plane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> buy airplane tickets </s> go to airport with checked luggage 1
+<BOS> these are the things that happen when you fly in an airplane: </s> buy airplane tickets </s> wait in line until plane arrives 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get checked luggage </s> find a place to park your plane 1
+<BOS> these are the things that happen when you fly in an airplane: </s> get checked luggage </s> go to airport with checked luggage 1
+<BOS> these are the things that happen when you fly in an airplane: </s> wait in line until plane arrives </s> get checked luggage 0
+<BOS> these are the things that happen when you fly in an airplane: </s> go to airport with checked luggage </s> find a place to park your plane 0
+<BOS> these are the things that happen when you fly in an airplane: </s> find a place to park your plane </s> wait in line until plane arrives 1
+<BOS> these are the things that happen when you fly in an airplane: </s> go to airport with checked luggage </s> wait in line until plane arrives 1
+<BOS> these are the things that happen when you go on a train: </s> take a train </s> pick a train 0
+<BOS> these are the things that happen when you go on a train: </s> get on a train </s> pick a train 0
+<BOS> these are the things that happen when you go on a train: </s> pick a train </s> wait for train to arrive 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to stop </s> pick a train 0
+<BOS> these are the things that happen when you go on a train: </s> take a train </s> get on a train 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to arrive </s> take a train 0
+<BOS> these are the things that happen when you go on a train: </s> take a train </s> wait for train to stop 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to arrive </s> get on a train 0
+<BOS> these are the things that happen when you go on a train: </s> get on a train </s> wait for train to stop 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to stop </s> wait for train to arrive 0
+<BOS> these are the things that happen when you go on a train: </s> get your pass and train </s> get your ticket 0
+<BOS> these are the things that happen when you go on a train: </s> get your ticket </s> get on the train 1
+<BOS> these are the things that happen when you go on a train: </s> find your correct stop </s> get your ticket 0
+<BOS> these are the things that happen when you go on a train: </s> get your ticket </s> board train 1
+<BOS> these are the things that happen when you go on a train: </s> when the train arrives, walk to the train station </s> get your ticket 0
+<BOS> these are the things that happen when you go on a train: </s> get your ticket </s> sit down and enjoy the train 1
+<BOS> these are the things that happen when you go on a train: </s> get on the train </s> get your pass and train 0
+<BOS> these are the things that happen when you go on a train: </s> get your pass and train </s> find your correct stop 1
+<BOS> these are the things that happen when you go on a train: </s> board train </s> get your pass and train 0
+<BOS> these are the things that happen when you go on a train: </s> get your pass and train </s> when the train arrives, walk to the train station 1
+<BOS> these are the things that happen when you go on a train: </s> sit down and enjoy the train </s> get your pass and train 0
+<BOS> these are the things that happen when you go on a train: </s> get on the train </s> find your correct stop 1
+<BOS> these are the things that happen when you go on a train: </s> get on the train </s> board train 1
+<BOS> these are the things that happen when you go on a train: </s> get on the train </s> when the train arrives, walk to the train station 1
+<BOS> these are the things that happen when you go on a train: </s> sit down and enjoy the train </s> get on the train 0
+<BOS> these are the things that happen when you go on a train: </s> find your correct stop </s> board train 1
+<BOS> these are the things that happen when you go on a train: </s> when the train arrives, walk to the train station </s> find your correct stop 0
+<BOS> these are the things that happen when you go on a train: </s> find your correct stop </s> sit down and enjoy the train 1
+<BOS> these are the things that happen when you go on a train: </s> when the train arrives, walk to the train station </s> board train 0
+<BOS> these are the things that happen when you go on a train: </s> board train </s> sit down and enjoy the train 1
+<BOS> these are the things that happen when you go on a train: </s> sit down and enjoy the train </s> when the train arrives, walk to the train station 0
+<BOS> these are the things that happen when you go on a train: </s> get in line at station. </s> decide where you want to go. 0
+<BOS> these are the things that happen when you go on a train: </s> decide where you want to go. </s> wait in line. 1
+<BOS> these are the things that happen when you go on a train: </s> get your ticket. </s> decide where you want to go. 0
+<BOS> these are the things that happen when you go on a train: </s> board train. </s> decide where you want to go. 0
+<BOS> these are the things that happen when you go on a train: </s> decide where you want to go. </s> get on train. 1
+<BOS> these are the things that happen when you go on a train: </s> get off train. </s> decide where you want to go. 0
+<BOS> these are the things that happen when you go on a train: </s> go home. </s> decide where you want to go. 0
+<BOS> these are the things that happen when you go on a train: </s> wait in line. </s> get in line at station. 0
+<BOS> these are the things that happen when you go on a train: </s> get in line at station. </s> get your ticket. 1
+<BOS> these are the things that happen when you go on a train: </s> board train. </s> get in line at station. 0
+<BOS> these are the things that happen when you go on a train: </s> get in line at station. </s> get on train. 1
+<BOS> these are the things that happen when you go on a train: </s> get off train. </s> get in line at station. 0
+<BOS> these are the things that happen when you go on a train: </s> go home. </s> get in line at station. 0
+<BOS> these are the things that happen when you go on a train: </s> get your ticket. </s> wait in line. 0
+<BOS> these are the things that happen when you go on a train: </s> wait in line. </s> board train. 1
+<BOS> these are the things that happen when you go on a train: </s> get on train. </s> wait in line. 0
+<BOS> these are the things that happen when you go on a train: </s> get off train. </s> wait in line. 0
+<BOS> these are the things that happen when you go on a train: </s> wait in line. </s> go home. 1
+<BOS> these are the things that happen when you go on a train: </s> board train. </s> get your ticket. 0
+<BOS> these are the things that happen when you go on a train: </s> get your ticket. </s> get on train. 1
+<BOS> these are the things that happen when you go on a train: </s> get your ticket. </s> get off train. 1
+<BOS> these are the things that happen when you go on a train: </s> go home. </s> get your ticket. 0
+<BOS> these are the things that happen when you go on a train: </s> board train. </s> get on train. 1
+<BOS> these are the things that happen when you go on a train: </s> get off train. </s> board train. 0
+<BOS> these are the things that happen when you go on a train: </s> board train. </s> go home. 1
+<BOS> these are the things that happen when you go on a train: </s> get on train. </s> get off train. 1
+<BOS> these are the things that happen when you go on a train: </s> go home. </s> get on train. 0
+<BOS> these are the things that happen when you go on a train: </s> get off train. </s> go home. 1
+<BOS> these are the things that happen when you go on a train: </s> put on clothes </s> drive to station 1
+<BOS> these are the things that happen when you go on a train: </s> put on clothes </s> wait for train 1
+<BOS> these are the things that happen when you go on a train: </s> put on clothes </s> get on the train 1
+<BOS> these are the things that happen when you go on a train: </s> put on clothes </s> go down stairs and go to the underground 1
+<BOS> these are the things that happen when you go on a train: </s> get off the train </s> put on clothes 0
+<BOS> these are the things that happen when you go on a train: </s> put on clothes </s> go home 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train </s> drive to station 0
+<BOS> these are the things that happen when you go on a train: </s> drive to station </s> get on the train 1
+<BOS> these are the things that happen when you go on a train: </s> go down stairs and go to the underground </s> drive to station 0
+<BOS> these are the things that happen when you go on a train: </s> get off the train </s> drive to station 0
+<BOS> these are the things that happen when you go on a train: </s> drive to station </s> go home 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train </s> get on the train 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train </s> go down stairs and go to the underground 1
+<BOS> these are the things that happen when you go on a train: </s> get off the train </s> wait for train 0
+<BOS> these are the things that happen when you go on a train: </s> wait for train </s> go home 1
+<BOS> these are the things that happen when you go on a train: </s> go down stairs and go to the underground </s> get on the train 0
+<BOS> these are the things that happen when you go on a train: </s> get off the train </s> get on the train 0
+<BOS> these are the things that happen when you go on a train: </s> go home </s> get on the train 0
+<BOS> these are the things that happen when you go on a train: </s> go down stairs and go to the underground </s> get off the train 1
+<BOS> these are the things that happen when you go on a train: </s> go down stairs and go to the underground </s> go home 1
+<BOS> these are the things that happen when you go on a train: </s> go home </s> get off the train 0
+<BOS> these are the things that happen when you go on a train: </s> go to station </s> get dressed 0
+<BOS> these are the things that happen when you go on a train: </s> get dressed </s> pay for a ride 1
+<BOS> these are the things that happen when you go on a train: </s> wait for the train </s> get dressed 0
+<BOS> these are the things that happen when you go on a train: </s> get dressed </s> board the train 1
+<BOS> these are the things that happen when you go on a train: </s> go to destination </s> get dressed 0
+<BOS> these are the things that happen when you go on a train: </s> get dressed </s> sit down 1
+<BOS> these are the things that happen when you go on a train: </s> get off at desired stop </s> get dressed 0
+<BOS> these are the things that happen when you go on a train: </s> get dressed </s> walk down stairs to the correct platform 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to arrive </s> get dressed 0
+<BOS> these are the things that happen when you go on a train: </s> go to station </s> pay for a ride 1
+<BOS> these are the things that happen when you go on a train: </s> go to station </s> wait for the train 1
+<BOS> these are the things that happen when you go on a train: </s> board the train </s> go to station 0
+<BOS> these are the things that happen when you go on a train: </s> go to destination </s> go to station 0
+<BOS> these are the things that happen when you go on a train: </s> go to station </s> sit down 1
+<BOS> these are the things that happen when you go on a train: </s> get off at desired stop </s> go to station 0
+<BOS> these are the things that happen when you go on a train: </s> go to station </s> walk down stairs to the correct platform 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to arrive </s> go to station 0
+<BOS> these are the things that happen when you go on a train: </s> pay for a ride </s> wait for the train 1
+<BOS> these are the things that happen when you go on a train: </s> pay for a ride </s> board the train 1
+<BOS> these are the things that happen when you go on a train: </s> pay for a ride </s> go to destination 1
+<BOS> these are the things that happen when you go on a train: </s> pay for a ride </s> sit down 1
+<BOS> these are the things that happen when you go on a train: </s> pay for a ride </s> get off at desired stop 1
+<BOS> these are the things that happen when you go on a train: </s> pay for a ride </s> walk down stairs to the correct platform 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to arrive </s> pay for a ride 0
+<BOS> these are the things that happen when you go on a train: </s> board the train </s> wait for the train 0
+<BOS> these are the things that happen when you go on a train: </s> go to destination </s> wait for the train 0
+<BOS> these are the things that happen when you go on a train: </s> wait for the train </s> sit down 1
+<BOS> these are the things that happen when you go on a train: </s> wait for the train </s> get off at desired stop 1
+<BOS> these are the things that happen when you go on a train: </s> wait for the train </s> walk down stairs to the correct platform 1
+<BOS> these are the things that happen when you go on a train: </s> wait for the train </s> wait for train to arrive 1
+<BOS> these are the things that happen when you go on a train: </s> go to destination </s> board the train 0
+<BOS> these are the things that happen when you go on a train: </s> sit down </s> board the train 0
+<BOS> these are the things that happen when you go on a train: </s> board the train </s> get off at desired stop 1
+<BOS> these are the things that happen when you go on a train: </s> walk down stairs to the correct platform </s> board the train 0
+<BOS> these are the things that happen when you go on a train: </s> wait for train to arrive </s> board the train 0
+<BOS> these are the things that happen when you go on a train: </s> go to destination </s> sit down 1
+<BOS> these are the things that happen when you go on a train: </s> get off at desired stop </s> go to destination 0
+<BOS> these are the things that happen when you go on a train: </s> go to destination </s> walk down stairs to the correct platform 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to arrive </s> go to destination 0
+<BOS> these are the things that happen when you go on a train: </s> sit down </s> get off at desired stop 1
+<BOS> these are the things that happen when you go on a train: </s> sit down </s> walk down stairs to the correct platform 1
+<BOS> these are the things that happen when you go on a train: </s> sit down </s> wait for train to arrive 1
+<BOS> these are the things that happen when you go on a train: </s> get off at desired stop </s> walk down stairs to the correct platform 1
+<BOS> these are the things that happen when you go on a train: </s> wait for train to arrive </s> get off at desired stop 0
+<BOS> these are the things that happen when you go on a train: </s> walk down stairs to the correct platform </s> wait for train to arrive 1
+<BOS> these are the things that happen when you ride on a bus: </s> find a driver </s> pay for driver 1
+<BOS> these are the things that happen when you ride on a bus: </s> find a driver </s> check in 1
+<BOS> these are the things that happen when you ride on a bus: </s> get on the bus </s> find a driver 0
+<BOS> these are the things that happen when you ride on a bus: </s> find a driver </s> wait for driver 1
+<BOS> these are the things that happen when you ride on a bus: </s> board bus </s> find a driver 0
+<BOS> these are the things that happen when you ride on a bus: </s> pay for driver </s> check in 1
+<BOS> these are the things that happen when you ride on a bus: </s> get on the bus </s> pay for driver 0
+<BOS> these are the things that happen when you ride on a bus: </s> wait for driver </s> pay for driver 0
+<BOS> these are the things that happen when you ride on a bus: </s> pay for driver </s> board bus 1
+<BOS> these are the things that happen when you ride on a bus: </s> get on the bus </s> check in 0
+<BOS> these are the things that happen when you ride on a bus: </s> check in </s> wait for driver 1
+<BOS> these are the things that happen when you ride on a bus: </s> check in </s> board bus 1
+<BOS> these are the things that happen when you ride on a bus: </s> get on the bus </s> wait for driver 1
+<BOS> these are the things that happen when you ride on a bus: </s> board bus </s> get on the bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> board bus </s> wait for driver 0
+<BOS> these are the things that happen when you ride on a bus: </s> arrive at bus stop </s> get on bus 1
+<BOS> these are the things that happen when you ride on a bus: </s> arrive at bus stop </s> wait for stop 1
+<BOS> these are the things that happen when you ride on a bus: </s> board the bus </s> arrive at bus stop 0
+<BOS> these are the things that happen when you ride on a bus: </s> arrive at bus stop </s> wait for stop to arrive 1
+<BOS> these are the things that happen when you ride on a bus: </s> get on bus </s> wait for stop 1
+<BOS> these are the things that happen when you ride on a bus: </s> get on bus </s> board the bus 1
+<BOS> these are the things that happen when you ride on a bus: </s> wait for stop to arrive </s> get on bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> board the bus </s> wait for stop 0
+<BOS> these are the things that happen when you ride on a bus: </s> wait for stop to arrive </s> wait for stop 0
+<BOS> these are the things that happen when you ride on a bus: </s> board the bus </s> wait for stop to arrive 1
+<BOS> these are the things that happen when you ride on a bus: </s> park at destination </s> board bus 1
+<BOS> these are the things that happen when you ride on a bus: </s> park at destination </s> get on 1
+<BOS> these are the things that happen when you ride on a bus: </s> wait for others to board </s> park at destination 0
+<BOS> these are the things that happen when you ride on a bus: </s> park at destination </s> sit in seats 1
+<BOS> these are the things that happen when you ride on a bus: </s> board bus </s> get on 1
+<BOS> these are the things that happen when you ride on a bus: </s> board bus </s> wait for others to board 1
+<BOS> these are the things that happen when you ride on a bus: </s> board bus </s> sit in seats 1
+<BOS> these are the things that happen when you ride on a bus: </s> wait for others to board </s> get on 0
+<BOS> these are the things that happen when you ride on a bus: </s> sit in seats </s> get on 0
+<BOS> these are the things that happen when you ride on a bus: </s> wait for others to board </s> sit in seats 1
+<BOS> these are the things that happen when you ride on a bus: </s> board bus </s> walk to bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> find my seat </s> walk to bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> walk to bus </s> start my ride 1
+<BOS> these are the things that happen when you ride on a bus: </s> walk to bus </s> go to my destination 1
+<BOS> these are the things that happen when you ride on a bus: </s> find my seat </s> board bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> board bus </s> start my ride 1
+<BOS> these are the things that happen when you ride on a bus: </s> go to my destination </s> board bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> find my seat </s> start my ride 1
+<BOS> these are the things that happen when you ride on a bus: </s> go to my destination </s> find my seat 0
+<BOS> these are the things that happen when you ride on a bus: </s> start my ride </s> go to my destination 1
+<BOS> these are the things that happen when you ride on a bus: </s> get on bus </s> arrive at bus stop 0
+<BOS> these are the things that happen when you ride on a bus: </s> wait for next bus </s> arrive at bus stop 0
+<BOS> these are the things that happen when you ride on a bus: </s> pay </s> arrive at bus stop 0
+<BOS> these are the things that happen when you ride on a bus: </s> arrive at bus stop </s> get on bus 1
+<BOS> these are the things that happen when you ride on a bus: </s> wait for next bus </s> get on bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> pay </s> get on bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> get on bus </s> get on bus 1
+<BOS> these are the things that happen when you ride on a bus: </s> wait for next bus </s> pay 1
+<BOS> these are the things that happen when you ride on a bus: </s> get on bus </s> wait for next bus 0
+<BOS> these are the things that happen when you ride on a bus: </s> get on bus </s> pay 0

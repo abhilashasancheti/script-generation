@@ -1,0 +1,5 @@
+<BOS> eating in a fast food restaurant: 
+<BOS> paying with a credit card: 
+<BOS> playing tennis: 
+<BOS> going to the theater: 
+<BOS> taking a child to bed: 

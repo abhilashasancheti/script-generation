@@ -1,0 +1,5 @@
+<BOS> here is a sequence of events that happen while eating in a fast food restaurant: 
+<BOS> here is a sequence of events that happen while paying with a credit card: 
+<BOS> here is a sequence of events that happen while playing tennis: 
+<BOS> here is a sequence of events that happen while going to the theater: 
+<BOS> here is a sequence of events that happen while taking a child to bed: 

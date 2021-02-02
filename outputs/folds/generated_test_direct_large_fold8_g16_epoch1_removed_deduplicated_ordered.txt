@@ -1,0 +1,25 @@
+<BOS> renovating a room: 1. enter room 2. take out tools 3. take out stuff from shelves 4. open door 5. make room 6. put stuff into room 7. close door 8. turn on the stove 9. light stove
+<BOS> renovating a room: 1. get a broom and dustpan 2. bring your dustpan 3. put a small piece of dry laundry in the dustpan 4. put all the dry laundry in the dustpan 5. dust the carpet 6. hang the laundry on the wall
+<BOS> renovating a room: 1. buy a new dresser 2. find a new lamp 3. make sure that the lamps are on the correct places 4. put the lamps in the proper spots 5. put everything in its proper place 6. change the lights 7. finish the job
+<BOS> renovating a room: 1. start the house 2. take out the trash 3. put the carpet up 4. put the carpeting on the floor 5. add the heating 6. put the toilet on 7. put the windows up 8. turn the lights on 9. put everything else on 10. put everything on the bed 11. turn the lights off
+<BOS> renovating a room: 1. buy a new room. 2. put the old room in. 3. fill the empty space with stuff. 4. light the new room. 5. clean up.
+<BOS> cooking pasta: 
+<BOS> cooking pasta: 1. grab pasta 2. put pasta in bowl 3. add water 4. stir well 
+<BOS> cooking pasta: 1. start pasta 2. put a small amount of pasta in the bowl 3. add a bit of water 4. mix well 5. put some water in 6. put the pasta in the pan 7. cook the pasta 8. put the sauce on the pasta
+<BOS> cooking pasta: 1. put a lid on the pot. 2. stir. 3. add water. 4. turn pot on low. 5. wait for pot to boil. 6. when the timer goes off, remove pot from stove. 7. wait for pot to cool. 8. put pasta on plate. 9. eat with a fork.
+<BOS> cooking pasta: 1. add water 2. turn heat on 3. put cooked pasta in a saucepan 4. cook pasta 5. put cooked pasta in a plate 6. serve hot or cold with sauce 7. drain pasta 
+<BOS> sewing a button: 1. get a button 2. press the button 
+<BOS> sewing a button: 1. choose fabric to make button 2. put button on buttonhole 3. press button 4. wait for button to be complete 
+<BOS> sewing a button: 1. take button and thread it through hole 2. fold button and place inside fabric 3. sew button and buttonhole 4. test to make sure it works 5. repeat with all buttons
+<BOS> sewing a button: 1. take out sewing machine 2. take out the sewing machine 3. take the sewing machine 4. place the needle into the seam 5. put the sewing machine in the wall
+<BOS> sewing a button: 1. add the button to the piece of fabric 2. put button into garment 
+<BOS> doing laundry: 1. gather clothes 2. get a laundry basket 3. get clothes out of cupboard 4. put clothes on basket 5. put clothes on rack 
+<BOS> doing laundry: 1. get dirty clothes 2. put washing utensil in hamper 3. fill hamper with soapy water 4. put clothes in a hamper 5. scrub all the areas in washing machine 6. hang the clothes 
+<BOS> doing laundry: 1. getting ironing board ready 2. plug in iron 3. putting laundry on laundry rack 4. iron the laundry 5. fold the laundry 
+<BOS> doing laundry: 1. get laundry 2. turn clothes upside down 3. put clothes in hamper 
+<BOS> doing laundry: 1. take laundry out of the dryer 2. put laundry in a bag 3. put the laundry in the laundry basket 4. hang the laundry up to dry 5. put clothes in their places
+<BOS> going bowling: 
+<BOS> going bowling: 1. decide what time you want to go bowling 2. go to bowling alley 3. walk into bowling alley 4. get in the bowling machine 5. buy a drink 6. play the game 
+<BOS> going bowling: 1. drive to bowling alley 2. go inside 3. buy a drink 4. start bowling 5. finish bowling 
+<BOS> going bowling: 
+<BOS> going bowling: 1. go to the bowling alley 2. drive to the bowling alley 3. get in your car 4. go down to the parking lot 5. go to the door 6. park your car 7. wait until they give you your tickets 8. pick up your pass 9. drink your drink 10. leave the bowling alley 

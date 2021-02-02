@@ -1,0 +1,55 @@
+=== PROMPT <BOS> <SCR> getting a hair cut <ESCR>: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> <SCR> getting a hair cut <ESCR>: 1. choose hair type and cut 2. get scissors 3. get hair tie 4. cut hair 5. wash hair with shampoo or conditioner 6. comb hair 7. apply conditioner 8. let conditioner dry 9. place on scalp 10. repeat until all hair is covered 
+=== GENERATED SEQUENCE 2 ===
+<BOS> <SCR> getting a hair cut <ESCR>: 1. go to salon 2. look at the products they offer 3. decide on cut 4. sit down 5. get in chair 6. brush your hair 7. take off clothes 8. brush your body 9. get in bath 10. get into bath 11. wash hair 12. brush your face 13. put on moisturizer 14. wash body 15. get out of bath 16. rinse and condition body 17. turn off machine and leave with clean hair 
+=== GENERATED SEQUENCE 3 ===
+<BOS> <SCR> getting a hair cut <ESCR>: 1. walk to the bathroom 2. find a hair cut spot 3. go to the hair salon 4. get scissors 5. go to the hairline 6. take the scissors 7. cut your hair 
+=== GENERATED SEQUENCE 4 ===
+<BOS> <SCR> getting a hair cut <ESCR>: 1. get in the car 2. drive to the hair salon 3. go into the office 4. give them your hair 5. put on make-up 6. make your order 7. leave the salon 
+=== GENERATED SEQUENCE 5 ===
+<BOS> <SCR> getting a hair cut <ESCR>: 1. buy your hair 2. take a shower 3. get a hair curler 4. brush your hair 5. go into hair salon for an appointment 6. wait for the stylist to remove your hair 7. give your hair a few mips 8. put your hair into your hair hair extensions 9. put on an outfit 10. walk to bathroom 11. get a towel 12. wet hair, make sure to keep your hair wet 13. shampoo the hair 14. get your hair cut 15. get out of the bathroom 16. get in your car and drive home 
+=== PROMPT <BOS> <SCR> going grocery shopping <ESCR>: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> <SCR> going grocery shopping <ESCR>: 1. go to the store. 2. go to counter. 3. walk to the grocery store. 4. take item from cashier to the register. 5. select what you would like to buy. 6. pay for the items. 7. take your receipt. 8. put the items into basket. 9. give it back. 10. leave store. 
+=== GENERATED SEQUENCE 2 ===
+<BOS> <SCR> going grocery shopping <ESCR>: 1. decide where you want to shop 2. get groceries 3. drive to store 4. buy your groceries 5. wait for pick up at counter 6. pay at cashier 7. go home 
+=== GENERATED SEQUENCE 3 ===
+<BOS> <SCR> going grocery shopping <ESCR>: 1. find grocery store 2. go to grocery store 3. buy items from cashier 4. pay for items 5. buy items from delivery guy 6. wait for items to be delivered 7. return items to cashier 8. collect money 9. take items out of store 
+=== GENERATED SEQUENCE 4 ===
+<BOS> <SCR> going grocery shopping <ESCR>: 1. buy a basket of groceries. 2. drive to grocery store. 3. pick up any items you may need. 4. go into the store. 5. pay for what you purchase. 
+=== GENERATED SEQUENCE 5 ===
+<BOS> <SCR> going grocery shopping <ESCR>: 1. drive to store 2. pick out items you want to buy 3. drive to store 4. buy items in store 5. take items and leave shopping 6. drive home 
+=== PROMPT <BOS> <SCR> planting a tree <ESCR>: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> <SCR> planting a tree <ESCR>: 1. take the dead tree out of the ground. 2. lay the dead tree in a basket. 3. add more wood if necessary. 4. gather some dirt and mulch. 5. start the woodfire to keep the fire going. 6. wait for the wood to dry. 7. put up a little cover. 8. when the wood has dried, add more wood if necessary. 9. wait for the wood to dry again. 10. gather some moss and soil. 11. spread the moss and soil over the branches. 12. wait for the wood to dry again. 13. remove the tree from the ground. 
+=== GENERATED SEQUENCE 2 ===
+<BOS> <SCR> planting a tree <ESCR>: 1. choose a suitable tree 2. gather materials to get the desired tree 3. collect some seedlings 4. set up the tree 5. place the soil around the tree 6. give the tree water and food 7. wait until the tree roots are soft 8. plant the tree 
+=== GENERATED SEQUENCE 3 ===
+<BOS> <SCR> planting a tree <ESCR>: 1. go to the store. 2. pick out the most attractive of the trees you would like to use. 3. choose a suitable location. 4. choose an area to grow. 5. set up an area to store the tree. 
+=== GENERATED SEQUENCE 4 ===
+<BOS> <SCR> planting a tree <ESCR>: 1. pick up trees 2. pick out ground 3. put them in place 4. watch them grow 5. plant trees 
+=== GENERATED SEQUENCE 5 ===
+<BOS> <SCR> planting a tree <ESCR>: 1. pick out some plants for tree 2. choose suitable tree 3. put down new plants 4. set up a spot to grow 5. get new leaves and branches 6. keep tree up and flower 
+=== PROMPT <BOS> <SCR> repairing a flat bicycle tire <ESCR>: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. buy new tire 2. put in new replacement parts 3. get tools and other supplies 4. do repairs 5. replace rubber with new material 6. clean the whole bike and all surfaces 7. replace any old tires with new pieces 8. put in new shoes 9. put new bike and wheels on 10. finish repairs 
+=== GENERATED SEQUENCE 2 ===
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. get new tire 2. take old one to the shop for replacement 3. take out old wheel 4. get new tire 5. get the new one 6. put new wheel in wheel 
+=== GENERATED SEQUENCE 3 ===
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. purchase new bike 2. take to the shop 3. examine machine 4. apply the paint 5. add replacement wheel 6. put on new shoes 7. put on new wheel 8. take it to the shop 9. get the new tires from the garage 
+=== GENERATED SEQUENCE 4 ===
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. pick up dirty flat 2. put in correct amount 3. take up clean flat 4. replace dirty flat with clean flat 5. replace all brake pads with new ones 6. put on new shoes 7. remove and put away old flat 8. put away empty cup on desk 9. put away empty bottle on desk 10. remove dirty dishes and tray 11. put away trash and trash bags 12. remove empty water bottle 13. put away clothes 14. get out from under chair and sit 15. put dirty dishes away 16. put away trash bags 17. throw away trash bags 18. leave flat 16 if you are wearing shoes 
+=== GENERATED SEQUENCE 5 ===
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. take spare tire 2. pick up broken tire 3. get new set 4. pick up replacement 5. replace old tire 6. go back to the shop 
+=== PROMPT <BOS> <SCR> taking a bath <ESCR>: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> <SCR> taking a bath <ESCR>: 1. find a towel 2. put on dryer 3. put wet towels in to the dryer 4. turn on dryer 5. rub and massage shampoo into body 6. massage shampoo into hair 7. massage shampoo into skin 8. rub shampoo into fingertips 9. rub shampoo into nose 10. massage shampoo into mouth 11. massage shampoo into throat 12. massage shampoo into face 13. massage shampoo into head 14. massage shampoo into hands 15. massage shampoo into mouth 16. massage shampoo into fingertips 17. massage shampoo into body 18. massage shampoo into body as desired 19. let shampoo work in the body 20. rinse the body wash out of body 21. return to the dryer. 
+=== GENERATED SEQUENCE 2 ===
+<BOS> <SCR> taking a bath <ESCR>: 1. gather soap and towel 2. get into tub 3. wet tub 4. get soap in hand 5. wash tub 6. rinse soap and towel 7. turn on bath 8. get towel out of shower 9. wash towel 10. put away towel 
+=== GENERATED SEQUENCE 3 ===
+<BOS> <SCR> taking a bath <ESCR>: 1. grab towel 2. fill tub with water 3. use a sponge 4. pour soap into tub 5. get sponge inside bathtub 6. wet sponge 7. get shampoo out of tub 8. rinse shampoo from sponge 9. clean towel 10. go in bath tub 11. massage sponge 12. dry shampoo 13. step out of bathtub 
+=== GENERATED SEQUENCE 4 ===
+<BOS> <SCR> taking a bath <ESCR>: 1. place clothes in a tub 2. turn on water 3. step into the bath 4. remove all clothes from tub 5. rinse out water 6. dry out shampoo soap 7. rinse with towel 8. put in dryer 9. put out dryer 10. set water temperature 
+=== GENERATED SEQUENCE 5 ===
+<BOS> <SCR> taking a bath <ESCR>: 1. wet the bathroom 2. step in the bathtub 3. rinse the body 4. dry off 5. turn off water 6. get dressed 

@@ -1,0 +1,181 @@
+eating in a fast food restaurant: </s> wait for your order to be called 1
+eating in a fast food restaurant: </s> get on the food delivery menu 1
+eating in a fast food restaurant: </s> pay for your meal 1
+eating in a fast food restaurant: </s> wait for your order to be delivered 1
+eating in a fast food restaurant: </s> eat your meal 1
+eating in a fast food restaurant: </s> get a hamburger 1
+eating in a fast food restaurant: </s> pay the bill 1
+eating in a fast food restaurant: </s> go to the food counter 1
+eating in a fast food restaurant: </s> order food 1
+eating in a fast food restaurant: </s> get a fork and knife 1
+eating in a fast food restaurant: </s> pick out a piece of food 1
+eating in a fast food restaurant: </s> eat the food 1
+eating in a fast food restaurant: </s> pay the bill 1
+eating in a fast food restaurant: </s> go home 1
+eating in a fast food restaurant: </s> enter the fast food restaurant 1
+eating in a fast food restaurant: </s> order a food 1
+eating in a fast food restaurant: </s> find a chair or table 1
+eating in a fast food restaurant: </s> order a soda or other non-alcoholic drink 1
+eating in a fast food restaurant: </s> order a snack 1
+eating in a fast food restaurant: </s> wait for your meal 1
+eating in a fast food restaurant: </s> pay your bill 1
+eating in a fast food restaurant: </s> tip the waiter 1
+eating in a fast food restaurant: </s> call the restaurant and order a meal 1
+eating in a fast food restaurant: </s> order food from the menu 1
+eating in a fast food restaurant: </s> get out of your car 1
+eating in a fast food restaurant: </s> get in the car 1
+eating in a fast food restaurant: </s> drive to the restaurant 1
+eating in a fast food restaurant: </s> order food from the menu 1
+eating in a fast food restaurant: </s> sit down 1
+eating in a fast food restaurant: </s> wait for your meal 1
+eating in a fast food restaurant: </s> get up to eat food 1
+eating in a fast food restaurant: </s> tip the waiter 1
+eating in a fast food restaurant: </s> drive home 1
+eating in a fast food restaurant: </s> choose a nice place. 1
+eating in a fast food restaurant: </s> order a food. 1
+eating in a fast food restaurant: </s> when the waiter comes bring you food. 1
+eating in a fast food restaurant: </s> eat your food. 1
+eating in a fast food restaurant: </s> put the plate away. 1
+paying with a credit card: </s> go to the bank 1
+paying with a credit card: </s> deposit the card into the bank 1
+paying with a credit card: </s> get a receipt 1
+paying with a credit card: </s> pay for the card 1
+paying with a credit card: </s> close the account 1
+paying with a credit card: </s> enter credit card information 1
+paying with a credit card: </s> select card 1
+paying with a credit card: </s> enter card details 1
+paying with a credit card: </s> enter your credit card information 1
+paying with a credit card: </s> scan card 1
+paying with a credit card: </s> pay with credit card 1
+paying with a credit card: </s> leave card details 1
+paying with a credit card: </s> insert back into card reader 1
+paying with a credit card: </s> insert card back into machine 1
+paying with a credit card: </s> exit card reader 1
+paying with a credit card: </s> get credit card information 1
+paying with a credit card: </s> go to the checkout line 1
+paying with a credit card: </s> pay for the order 1
+paying with a credit card: </s> go back to the shop 1
+paying with a credit card: </s> give credit card information 1
+paying with a credit card: </s> get your order 1
+paying with a credit card: </s> leave with the item 1
+paying with a credit card: </s> find a location that accepts card. 1
+paying with a credit card: </s> go there. 1
+paying with a credit card: </s> get out of car. 1
+paying with a credit card: </s> take out money and put it in machine. 1
+paying with a credit card: </s> put card in machine and pay with credit. 1
+paying with a credit card: </s> put card in machine again. 1
+paying with a credit card: </s> put card back in card reader. 1
+paying with a credit card: </s> check out 1
+paying with a credit card: </s> insert card in machine 1
+paying with a credit card: </s> pay for what you want 1
+paying with a credit card: </s> show card when you are ready 1
+paying with a credit card: </s> get money 1
+paying with a credit card: </s> leave 1
+playing tennis: </s> get on the ball 1
+playing tennis: </s> turn on the tennis racket 1
+playing tennis: </s> start hitting the ball 1
+playing tennis: </s> return the ball to the racket 1
+playing tennis: </s> return to your feet 1
+playing tennis: </s> put on tennis shoes 1
+playing tennis: </s> pick out a ball 1
+playing tennis: </s> pick out tennis rack 1
+playing tennis: </s> put racket on rack 1
+playing tennis: </s> put ball on rack 1
+playing tennis: </s> pick up ball 1
+playing tennis: </s> put rack back on rack 1
+playing tennis: </s> take ball off rack 1
+playing tennis: </s> put rack back on rack 1
+playing tennis: </s> set tennis rack back on rack 1
+playing tennis: </s> go to the pool. 1
+playing tennis: </s> get in the car. 1
+playing tennis: </s> drive to the tennis club. 1
+playing tennis: </s> find a match with another person. 1
+playing tennis: </s> put on a tennis suit. 1
+playing tennis: </s> get out of the car. 1
+playing tennis: </s> enter the tennis club. 1
+playing tennis: </s> find a game partner. 1
+playing tennis: </s> play the game. 1
+playing tennis: </s> pay for your game. 1
+playing tennis: </s> get out of the locker room. 1
+playing tennis: </s> leave the tennis club. 1
+playing tennis: </s> drive to home. 1
+playing tennis: </s> get into tennis shoes 1
+playing tennis: </s> get in the tennis car 1
+playing tennis: </s> drive to the tennis court 1
+playing tennis: </s> park your car 1
+playing tennis: </s> walk up to the lane 1
+playing tennis: </s> get on the court 1
+playing tennis: </s> play ball with a ball and tennis racket 1
+playing tennis: </s> enjoy the game 1
+playing tennis: </s> get out tennis shoes 1
+playing tennis: </s> find a grass tennis court 1
+playing tennis: </s> get your tennis ball 1
+playing tennis: </s> go to the grass 1
+playing tennis: </s> find the right ball 1
+playing tennis: </s> hit the ball 1
+playing tennis: </s> take a nap 1
+going to the theater: </s> put on black clothing 1
+going to the theater: </s> go to the theater 1
+going to the theater: </s> go to the main lobby 1
+going to the theater: </s> go through the doors 1
+going to the theater: </s> sit down in the theater seat 1
+going to the theater: </s> enjoy the show 1
+going to the theater: </s> go to the theater 1
+going to the theater: </s> enter the theater 1
+going to the theater: </s> go to the ticket counter 1
+going to the theater: </s> buy your ticket 1
+going to the theater: </s> wait for your turn to go to the theater 1
+going to the theater: </s> when the curtain rises, go to your seat 1
+going to the theater: </s> show up at your stop on the line 1
+going to the theater: </s> go back to the ticket counter to pay the ticket 1
+going to the theater: </s> leave the theater 1
+going to the theater: </s> enter theater 1
+going to the theater: </s> wait in line for seat 1
+going to the theater: </s> seat yourself 1
+going to the theater: </s> enjoy the movie 1
+going to the theater: </s> get up from your seat when you're done 1
+going to the theater: </s> find your desired seat 1
+going to the theater: </s> get in car and drive to the theater 1
+going to the theater: </s> take a seat 1
+going to the theater: </s> go through security 1
+going to the theater: </s> enter the theater 1
+going to the theater: </s> sit down and enjoy the movie 1
+going to the theater: </s> leave the theater at your leisure 1
+going to the theater: </s> get dressed 1
+going to the theater: </s> go to the theater 1
+going to the theater: </s> enter the theater 1
+going to the theater: </s> wait for the movie to start 1
+going to the theater: </s> get a ticket to the movie 1
+going to the theater: </s> sit down 1
+going to the theater: </s> take your seat 1
+going to the theater: </s> enjoy the movie 1
+taking a child to bed: </s> get up 1
+taking a child to bed: </s> get clothes on 1
+taking a child to bed: </s> put on bed 1
+taking a child to bed: </s> get in bed 1
+taking a child to bed: </s> close eyes 1
+taking a child to bed: </s> sleep 1
+taking a child to bed: </s> drive to the station 1
+taking a child to bed: </s> take the correct train to your destination 1
+taking a child to bed: </s> when you get to your destination go back to the train station 1
+taking a child to bed: </s> get into the correct train 1
+taking a child to bed: </s> when you reach the destination take the exit 1
+taking a child to bed: </s> wait for the train 1
+taking a child to bed: </s> get off at your destination 1
+taking a child to bed: </s> pack up belongings 1
+taking a child to bed: </s> leave room 1
+taking a child to bed: </s> get in the car 1
+taking a child to bed: </s> drive to the hospital 1
+taking a child to bed: </s> get dressed 1
+taking a child to bed: </s> find a safe place for your child 1
+taking a child to bed: </s> get your child out of the room 1
+taking a child to bed: </s> turn the light on 1
+taking a child to bed: </s> close the door 1
+taking a child to bed: </s> take your child into bed 1
+taking a child to bed: </s> dress the child 1
+taking a child to bed: </s> put the child in bed 1
+taking a child to bed: </s> shut the door 1
+taking a child to bed: </s> put on some bed clothes 1
+taking a child to bed: </s> put the child in bed 1
+taking a child to bed: </s> turn on the light 1
+taking a child to bed: </s> when the light goes off take the child out 1

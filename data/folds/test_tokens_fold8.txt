@@ -1,0 +1,5 @@
+<BOS> <SCR> renovating a room <ESCR>: 
+<BOS> <SCR> cooking pasta <ESCR>: 
+<BOS> <SCR> sewing a button <ESCR>: 
+<BOS> <SCR> doing laundry <ESCR>: 
+<BOS> <SCR> going bowling <ESCR>: 

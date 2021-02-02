@@ -1,0 +1,110 @@
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <SEP> fill tire with fresh air <EEVENT> <BEVENT> place flat on floor <EEVENT> <BEVENT> set u
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <SEP> gather all the necessities and tools needed <EEVENT> <BEVENT> open the tire to th
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <SEP> open gas tank. <ANS> remove old tire. <ANS> put new tire on
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <SEP> get some new tire out of box <EEVENT> <BEVENT> thread it on <EEVENT> <BEVENT> pu
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <SEP> get flat tire out of car. <EEVENT> <BEVENT> take out old tire. <ANS
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <SEP> replace tire. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <SEP> <BLK> <EEVENT> <BEVENT> apply pressure to tire. <ANS> put in new wheel. <ANS
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <SEP> tear off any loose debris. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <SEP> put new wheel in. <ANS> 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <SEP> get a needle and thread. <EEVENT> <BEVENT> insert a needle through the center o
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> remove flat tire. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> put new tube in. <ANS> 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> get tire iron. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> get new tire. <ANS> 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> remove old tube and insert a new inner tube. <ANS> 
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <SEP> drive up to rack to replace tire. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <SEP> put new inner tube in front. <ANS> 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <SEP> replace with new inner tube. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <SEP> <BLK> <EEVENT> <BEVENT> put new outer tube on. <ANS> replace the inner tube o
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <SEP> open case of old tire. <ANS> 
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <SEP> remove flat tire. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <SEP> replace wheel. <ANS> 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <SEP> put wheel on the bicycle. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <SEP> <BLK> <EEVENT> <BEVENT> replace inner tube in wheel. <ANS> put the old wheel bac
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <SEP> <BLK> <EEVENT> <BEVENT> close package. <ANS> 
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <SEP> replace tire. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <SEP> put back old inner tube. <ANS> 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <SEP> remove and replace tire. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <SEP> put out new tires on wheel. <ANS> 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <SEP> gather some tools. <ANS> 
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <SEP> insert new inner tube in. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <SEP> put new inner tube and new wheel on the bike. <ANS> 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <SEP> remove the old tire. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <SEP> remove rear wheel. <ANS> 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <SEP> replace brake. <ANS> 
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <BEVENT> test ride bike. <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <BEVENT> test ride bike. <EEVENT> <SEP> replace outer tube. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <BEVENT> test ride bike. <EEVENT> <SEP> remove old tire. <ANS> 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <BEVENT> test ride bike. <EEVENT> <SEP> replace tire. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <BEVENT> test ride bike. <EEVENT> <SEP> get spare tire. <ANS> 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> <BLK> <EEVENT> <BEVENT> remove wheel. <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <BEVENT> open package with new inner tube. <EEVENT> <BEVENT> install new inner tube. <EEVENT> <BEVENT> use pump to fill with air. <EEVENT> <BEVENT> secure wheel on. <EEVENT> <BEVENT> test ride bike. <EEVENT> <SEP> get new tire. <ANS> 
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <SEP> open tire <EEVENT> <BEVENT> replace rubber and plastic. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <SEP> replace the tire. <ANS> 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <SEP> pull tire out. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <SEP> put new tire in. <ANS> 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <SEP> find out tire size. <ANS> remove old tire from frame. <ANS> 
+=== PROMPT <BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> remove inner tube from bike. <ANS> 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> push through with small bit of paper. <ANS> 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> pull out inner tube. <ANS> 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> find a flat spot. <ANS> 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BEVENT> prop bike upside down. <EEVENT> <BEVENT> <BLK> <EEVENT> <BEVENT> from wheel pull out inner tube. <EEVENT> <SEP> insert needle into hole. <ANS> 

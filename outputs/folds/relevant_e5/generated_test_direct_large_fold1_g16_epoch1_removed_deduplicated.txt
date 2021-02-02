@@ -1,0 +1,25 @@
+<BOS> baking a cake: 1. gather ingredients for cake 2. place pan on stove 3. turn stove on to medium high 4. pour water into pan 5. place pan on stove burner 6. add sugar 7. place pan on burner 8. cook until the cake is firm 9. turn off stove 10. pour cooled cake onto plate 11. eat cake 12. put away cake 
+<BOS> baking a cake: 1. get a baking pan 2. place a pan on top of a stove 3. fill the pan with water 4. pour the water into the pan 5. add sugar 6. stir the sugar 7. pour the cake 8. eat the cake 
+<BOS> baking a cake: 1. grab a pan 2. turn on the oven 3. put the lid on 4. place the pot in the oven 5. turn off the oven 6. pour the cake 7. take the cake out of the oven 
+<BOS> baking a cake: 1. get a pan 2. take out the cake 3. put the pan on the stove 4. put sugar on it 5. put the cake in the pan 6. cook the cake 7. add milk 8. cook the milk 9. put the cake into the oven 10. cook the cake until the sides of the cake are done 11. pour the cake onto plate 12. eat the cake 
+<BOS> baking a cake: 1. fill a pan with water 2. put the water in a pan on the stove 3. stir and turn it over 4. cook the cake slowly 5. when it is done, remove the cake from the pan 
+<BOS> borrowing a book from the library: 1. go to the library 2. park the car 3. get a book from the shelf 4. read the book 5. return the book to the shelf 6. leave the library 
+<BOS> borrowing a book from the library: 1. enter library 2. order book 3. take books out of cabinet 4. put on library card 5. pick book from shelf 6. put book back in cabinet 7. leave library 
+<BOS> borrowing a book from the library: 1. get book 2. get a book bag 3. get an adult 4. get a book 5. put book bag into car 6. drive to the library 7. take the book to the counter 8. pay for the book 9. put the book back on the shelf 
+<BOS> borrowing a book from the library: 1. find a copy of the book to borrow 2. wait for the copy to get back to you 3. look at the cover of the book 4. pay for the book 5. wait for your copy to be delivered 6. get your copy back 7. put the book back in the library 
+<BOS> borrowing a book from the library: 1. check that the book you want to borrow is not on the list 2. get the book you want to borrow 3. call the book house 4. find a place to borrow 5. take the book 6. return it 
+<BOS> flying in an airplane: 1. get in the plane 2. take off the seat belt 3. put on the seat belt 4. take off the plane 
+<BOS> flying in an airplane: 1. find a plane 2. make sure you are in the correct cabin 3. book the flight 4. check the flight schedule 5. arrive at the airport 
+<BOS> flying in an airplane: 1. go to airport 2. go through security 3. go to the airline counter 4. present ticket to agent 5. board plane 
+<BOS> flying in an airplane: 1. get your luggage 2. make your way to airport 3. give flight attendant your identification 4. go through security check 5. enter gate 
+<BOS> flying in an airplane: 1. get in line 2. buy ticket 3. wait for plane 4. board plane 5. sit in seat 6. get out of plane 7. pay ticket 8. wait for airplane 
+<BOS> going on a train: 1. find a train 2. find a seat 3. get on the train 4. board your train 
+<BOS> going on a train: 1. get out of car 2. walk to the train 3. get on train 4. sit down 5. get off train 6. get in car 7. drive to station 8. wait at train 9. enter train 
+<BOS> going on a train: 1. decide how many stops you need to go to. 2. decide how much time you need to arrive. 3. get on the train and sit down. 4. wait for the train to arrive. 5. board the train. 6. take a seat and wait. 7. when the train arrives, board the train. 8. go to the end stop on the line. 9. get off of the train. 10. get on the next train. 11. get off of the next train. 12. get on the last train. 13. get off of the last train. 14. walk home. 
+<BOS> going on a train: 1. find train station 2. wait for train 3. get on train 4. sit in seats 
+<BOS> going on a train: 1. get dressed 2. go to train 3. find seat 4. find seat number 5. wait for train 6. get to destination 7. pay the fare 8. get off the train 
+<BOS> riding on a bus: 1. get on bus 2. wait for bus 3. get off of bus 4. find a seat 5. wait for bus to stop 
+<BOS> riding on a bus: 1. arrive at bus stop 2. get on bus 3. wait for train 4. enter bus 5. board train 
+<BOS> riding on a bus: 1. park at stop 2. wait for bus 3. get in bus 4. board bus 5. get off at destination 
+<BOS> riding on a bus: 1. getting on the bus 2. getting off of the bus 3. getting in the bus 4. get out of the bus 5. get on the bus 
+<BOS> riding on a bus: 1. arrive at bus stop 2. get on bus 3. wait for next bus 4. board bus 5. get off bus 

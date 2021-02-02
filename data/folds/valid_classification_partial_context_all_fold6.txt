@@ -1,0 +1,1886 @@
+paying with a credit card: </s> cashier scans purchases </s> bring purchases to cashier 0
+paying with a credit card: </s> get total from cashier </s> bring purchases to cashier 0
+paying with a credit card: </s> take credit card out of wallet </s> bring purchases to cashier 0
+paying with a credit card: </s> bring purchases to cashier </s> swipe credit card in payment console 1
+paying with a credit card: </s> sign your name </s> bring purchases to cashier 0
+paying with a credit card: </s> put credit card back in wallet </s> bring purchases to cashier 0
+paying with a credit card: </s> take receipt and purchases </s> bring purchases to cashier 0
+paying with a credit card: </s> get total from cashier </s> cashier scans purchases 0
+paying with a credit card: </s> take credit card out of wallet </s> cashier scans purchases 0
+paying with a credit card: </s> swipe credit card in payment console </s> cashier scans purchases 0
+paying with a credit card: </s> cashier scans purchases </s> sign your name 1
+paying with a credit card: </s> put credit card back in wallet </s> cashier scans purchases 0
+paying with a credit card: </s> take receipt and purchases </s> cashier scans purchases 0
+paying with a credit card: </s> take credit card out of wallet </s> get total from cashier 0
+paying with a credit card: </s> get total from cashier </s> swipe credit card in payment console 1
+paying with a credit card: </s> get total from cashier </s> sign your name 1
+paying with a credit card: </s> get total from cashier </s> put credit card back in wallet 1
+paying with a credit card: </s> take receipt and purchases </s> get total from cashier 0
+paying with a credit card: </s> swipe credit card in payment console </s> take credit card out of wallet 0
+paying with a credit card: </s> sign your name </s> take credit card out of wallet 0
+paying with a credit card: </s> put credit card back in wallet </s> take credit card out of wallet 0
+paying with a credit card: </s> take credit card out of wallet </s> take receipt and purchases 1
+paying with a credit card: </s> swipe credit card in payment console </s> sign your name 1
+paying with a credit card: </s> swipe credit card in payment console </s> put credit card back in wallet 1
+paying with a credit card: </s> take receipt and purchases </s> swipe credit card in payment console 0
+paying with a credit card: </s> sign your name </s> put credit card back in wallet 1
+paying with a credit card: </s> sign your name </s> take receipt and purchases 1
+paying with a credit card: </s> put credit card back in wallet </s> take receipt and purchases 1
+paying with a credit card: </s> get credit card </s> swipe through the machine 1
+paying with a credit card: </s> get credit card </s> follow on-screen instructions 1
+paying with a credit card: </s> when prompted, sign your name </s> get credit card 0
+paying with a credit card: </s> get credit card </s> wait for the payment to be processed 1
+paying with a credit card: </s> get credit card </s> receive receipt for payment. 1
+paying with a credit card: </s> swipe through the machine </s> follow on-screen instructions 1
+paying with a credit card: </s> when prompted, sign your name </s> swipe through the machine 0
+paying with a credit card: </s> swipe through the machine </s> wait for the payment to be processed 1
+paying with a credit card: </s> swipe through the machine </s> receive receipt for payment. 1
+paying with a credit card: </s> when prompted, sign your name </s> follow on-screen instructions 0
+paying with a credit card: </s> follow on-screen instructions </s> wait for the payment to be processed 1
+paying with a credit card: </s> receive receipt for payment. </s> follow on-screen instructions 0
+paying with a credit card: </s> wait for the payment to be processed </s> when prompted, sign your name 0
+paying with a credit card: </s> when prompted, sign your name </s> receive receipt for payment. 1
+paying with a credit card: </s> receive receipt for payment. </s> wait for the payment to be processed 0
+paying with a credit card: </s> find a service or product needed. </s> swipe card at register. 1
+paying with a credit card: </s> type in your pin number. </s> find a service or product needed. 0
+paying with a credit card: </s> find a service or product needed. </s> press enter. 1
+paying with a credit card: </s> sign when prompted. </s> find a service or product needed. 0
+paying with a credit card: </s> find a service or product needed. </s> get receipt. 1
+paying with a credit card: </s> enjoy product or service. </s> find a service or product needed. 0
+paying with a credit card: </s> swipe card at register. </s> type in your pin number. 1
+paying with a credit card: </s> press enter. </s> swipe card at register. 0
+paying with a credit card: </s> swipe card at register. </s> sign when prompted. 1
+paying with a credit card: </s> get receipt. </s> swipe card at register. 0
+paying with a credit card: </s> swipe card at register. </s> enjoy product or service. 1
+paying with a credit card: </s> type in your pin number. </s> press enter. 1
+paying with a credit card: </s> type in your pin number. </s> sign when prompted. 1
+paying with a credit card: </s> type in your pin number. </s> get receipt. 1
+paying with a credit card: </s> enjoy product or service. </s> type in your pin number. 0
+paying with a credit card: </s> press enter. </s> sign when prompted. 1
+paying with a credit card: </s> press enter. </s> get receipt. 1
+paying with a credit card: </s> press enter. </s> enjoy product or service. 1
+paying with a credit card: </s> get receipt. </s> sign when prompted. 0
+paying with a credit card: </s> enjoy product or service. </s> sign when prompted. 0
+paying with a credit card: </s> enjoy product or service. </s> get receipt. 0
+paying with a credit card: </s> select goods and merchandise </s> drive to store 0
+paying with a credit card: </s> take your purchases to check-out </s> drive to store 0
+paying with a credit card: </s> have your purchases bagged </s> drive to store 0
+paying with a credit card: </s> drive to store </s> pay with credit card 1
+paying with a credit card: </s> select debit or credit </s> drive to store 0
+paying with a credit card: </s> drive to store </s> sign on machine 1
+paying with a credit card: </s> drive to store </s> receive receipt 1
+paying with a credit card: </s> exit with purchases </s> drive to store 0
+paying with a credit card: </s> take your purchases to check-out </s> select goods and merchandise 0
+paying with a credit card: </s> select goods and merchandise </s> have your purchases bagged 1
+paying with a credit card: </s> pay with credit card </s> select goods and merchandise 0
+paying with a credit card: </s> select goods and merchandise </s> select debit or credit 1
+paying with a credit card: </s> select goods and merchandise </s> sign on machine 1
+paying with a credit card: </s> receive receipt </s> select goods and merchandise 0
+paying with a credit card: </s> select goods and merchandise </s> exit with purchases 1
+paying with a credit card: </s> have your purchases bagged </s> take your purchases to check-out 0
+paying with a credit card: </s> take your purchases to check-out </s> pay with credit card 1
+paying with a credit card: </s> take your purchases to check-out </s> select debit or credit 1
+paying with a credit card: </s> sign on machine </s> take your purchases to check-out 0
+paying with a credit card: </s> take your purchases to check-out </s> receive receipt 1
+paying with a credit card: </s> take your purchases to check-out </s> exit with purchases 1
+paying with a credit card: </s> have your purchases bagged </s> pay with credit card 1
+paying with a credit card: </s> select debit or credit </s> have your purchases bagged 0
+paying with a credit card: </s> have your purchases bagged </s> sign on machine 1
+paying with a credit card: </s> have your purchases bagged </s> receive receipt 1
+paying with a credit card: </s> exit with purchases </s> have your purchases bagged 0
+paying with a credit card: </s> pay with credit card </s> select debit or credit 1
+paying with a credit card: </s> sign on machine </s> pay with credit card 0
+paying with a credit card: </s> pay with credit card </s> receive receipt 1
+paying with a credit card: </s> exit with purchases </s> pay with credit card 0
+paying with a credit card: </s> select debit or credit </s> sign on machine 1
+paying with a credit card: </s> select debit or credit </s> receive receipt 1
+paying with a credit card: </s> select debit or credit </s> exit with purchases 1
+paying with a credit card: </s> sign on machine </s> receive receipt 1
+paying with a credit card: </s> sign on machine </s> exit with purchases 1
+paying with a credit card: </s> exit with purchases </s> receive receipt 0
+paying with a credit card: </s> swipe credit card </s> accept the charges 1
+paying with a credit card: </s> swipe credit card </s> wait for your receipt 1
+paying with a credit card: </s> sign receipt </s> swipe credit card 0
+paying with a credit card: </s> swipe credit card </s> take customer copy of receipt 1
+paying with a credit card: </s> take purchases </s> swipe credit card 0
+paying with a credit card: </s> swipe credit card </s> leave store 1
+paying with a credit card: </s> accept the charges </s> wait for your receipt 1
+paying with a credit card: </s> accept the charges </s> sign receipt 1
+paying with a credit card: </s> take customer copy of receipt </s> accept the charges 0
+paying with a credit card: </s> accept the charges </s> take purchases 1
+paying with a credit card: </s> accept the charges </s> leave store 1
+paying with a credit card: </s> sign receipt </s> wait for your receipt 0
+paying with a credit card: </s> take customer copy of receipt </s> wait for your receipt 0
+paying with a credit card: </s> take purchases </s> wait for your receipt 0
+paying with a credit card: </s> wait for your receipt </s> leave store 1
+paying with a credit card: </s> take customer copy of receipt </s> sign receipt 0
+paying with a credit card: </s> sign receipt </s> take purchases 1
+paying with a credit card: </s> leave store </s> sign receipt 0
+paying with a credit card: </s> take purchases </s> take customer copy of receipt 0
+paying with a credit card: </s> take customer copy of receipt </s> leave store 1
+paying with a credit card: </s> leave store </s> take purchases 0
+paying with a credit card: </s> bring items you want to buy to register </s> wait for clerk to tell you total 1
+paying with a credit card: </s> pull out credit card </s> bring items you want to buy to register 0
+paying with a credit card: </s> swipe in credit card machine </s> bring items you want to buy to register 0
+paying with a credit card: </s> bring items you want to buy to register </s> sign your name on credit card machine or receipt 1
+paying with a credit card: </s> bring items you want to buy to register </s> get receipt 1
+paying with a credit card: </s> get items </s> bring items you want to buy to register 0
+paying with a credit card: </s> leave store </s> bring items you want to buy to register 0
+paying with a credit card: </s> pull out credit card </s> wait for clerk to tell you total 0
+paying with a credit card: </s> wait for clerk to tell you total </s> swipe in credit card machine 1
+paying with a credit card: </s> wait for clerk to tell you total </s> sign your name on credit card machine or receipt 1
+paying with a credit card: </s> get receipt </s> wait for clerk to tell you total 0
+paying with a credit card: </s> wait for clerk to tell you total </s> get items 1
+paying with a credit card: </s> leave store </s> wait for clerk to tell you total 0
+paying with a credit card: </s> swipe in credit card machine </s> pull out credit card 0
+paying with a credit card: </s> pull out credit card </s> sign your name on credit card machine or receipt 1
+paying with a credit card: </s> pull out credit card </s> get receipt 1
+paying with a credit card: </s> pull out credit card </s> get items 1
+paying with a credit card: </s> leave store </s> pull out credit card 0
+paying with a credit card: </s> swipe in credit card machine </s> sign your name on credit card machine or receipt 1
+paying with a credit card: </s> get receipt </s> swipe in credit card machine 0
+paying with a credit card: </s> get items </s> swipe in credit card machine 0
+paying with a credit card: </s> swipe in credit card machine </s> leave store 1
+paying with a credit card: </s> sign your name on credit card machine or receipt </s> get receipt 1
+paying with a credit card: </s> get items </s> sign your name on credit card machine or receipt 0
+paying with a credit card: </s> leave store </s> sign your name on credit card machine or receipt 0
+paying with a credit card: </s> get items </s> get receipt 0
+paying with a credit card: </s> get receipt </s> leave store 1
+paying with a credit card: </s> get items </s> leave store 1
+paying with a credit card: </s> get my credit card. </s> hand it to the cashier. 1
+paying with a credit card: </s> get my credit card. </s> cashier checks my id. 1
+paying with a credit card: </s> get my credit card. </s> swipe the card. 1
+paying with a credit card: </s> get my credit card. </s> type in some information. 1
+paying with a credit card: </s> sign my name. </s> get my credit card. 0
+paying with a credit card: </s> get my credit card. </s> put my card back in wallet. 1
+paying with a credit card: </s> cashier checks my id. </s> hand it to the cashier. 0
+paying with a credit card: </s> hand it to the cashier. </s> swipe the card. 1
+paying with a credit card: </s> hand it to the cashier. </s> type in some information. 1
+paying with a credit card: </s> hand it to the cashier. </s> sign my name. 1
+paying with a credit card: </s> put my card back in wallet. </s> hand it to the cashier. 0
+paying with a credit card: </s> cashier checks my id. </s> swipe the card. 1
+paying with a credit card: </s> cashier checks my id. </s> type in some information. 1
+paying with a credit card: </s> cashier checks my id. </s> sign my name. 1
+paying with a credit card: </s> cashier checks my id. </s> put my card back in wallet. 1
+paying with a credit card: </s> swipe the card. </s> type in some information. 1
+paying with a credit card: </s> swipe the card. </s> sign my name. 1
+paying with a credit card: </s> swipe the card. </s> put my card back in wallet. 1
+paying with a credit card: </s> type in some information. </s> sign my name. 1
+paying with a credit card: </s> type in some information. </s> put my card back in wallet. 1
+paying with a credit card: </s> sign my name. </s> put my card back in wallet. 1
+paying with a credit card: </s> take items to checkout counter </s> have the worker ring them up 1
+paying with a credit card: </s> take items to checkout counter </s> get the total price 1
+paying with a credit card: </s> take items to checkout counter </s> get your credit card out of your wallet 1
+paying with a credit card: </s> take items to checkout counter </s> swipe the credit card through the card reader 1
+paying with a credit card: </s> take items to checkout counter </s> put the credit card back in your wallet 1
+paying with a credit card: </s> take items to checkout counter </s> get the receipt 1
+paying with a credit card: </s> take items to checkout counter </s> take items and leave the store 1
+paying with a credit card: </s> get the total price </s> have the worker ring them up 0
+paying with a credit card: </s> have the worker ring them up </s> get your credit card out of your wallet 1
+paying with a credit card: </s> have the worker ring them up </s> swipe the credit card through the card reader 1
+paying with a credit card: </s> have the worker ring them up </s> put the credit card back in your wallet 1
+paying with a credit card: </s> get the receipt </s> have the worker ring them up 0
+paying with a credit card: </s> take items and leave the store </s> have the worker ring them up 0
+paying with a credit card: </s> get the total price </s> get your credit card out of your wallet 1
+paying with a credit card: </s> swipe the credit card through the card reader </s> get the total price 0
+paying with a credit card: </s> put the credit card back in your wallet </s> get the total price 0
+paying with a credit card: </s> get the receipt </s> get the total price 0
+paying with a credit card: </s> take items and leave the store </s> get the total price 0
+paying with a credit card: </s> swipe the credit card through the card reader </s> get your credit card out of your wallet 0
+paying with a credit card: </s> put the credit card back in your wallet </s> get your credit card out of your wallet 0
+paying with a credit card: </s> get the receipt </s> get your credit card out of your wallet 0
+paying with a credit card: </s> take items and leave the store </s> get your credit card out of your wallet 0
+paying with a credit card: </s> swipe the credit card through the card reader </s> put the credit card back in your wallet 1
+paying with a credit card: </s> swipe the credit card through the card reader </s> get the receipt 1
+paying with a credit card: </s> swipe the credit card through the card reader </s> take items and leave the store 1
+paying with a credit card: </s> put the credit card back in your wallet </s> get the receipt 1
+paying with a credit card: </s> take items and leave the store </s> put the credit card back in your wallet 0
+paying with a credit card: </s> get the receipt </s> take items and leave the store 1
+paying with a credit card: </s> see what brands the merchant accepts </s> reach into pocket 1
+paying with a credit card: </s> pull wallet out of pocket </s> see what brands the merchant accepts 0
+paying with a credit card: </s> see what brands the merchant accepts </s> find card that corresponds to brand accepted by merchant 1
+paying with a credit card: </s> pull card out of wallet </s> see what brands the merchant accepts 0
+paying with a credit card: </s> hand card to cashier to swipe </s> see what brands the merchant accepts 0
+paying with a credit card: </s> write signature on receipt </s> see what brands the merchant accepts 0
+paying with a credit card: </s> get copy of receipt from cashier </s> see what brands the merchant accepts 0
+paying with a credit card: </s> pull wallet out of pocket </s> reach into pocket 0
+paying with a credit card: </s> reach into pocket </s> find card that corresponds to brand accepted by merchant 1
+paying with a credit card: </s> pull card out of wallet </s> reach into pocket 0
+paying with a credit card: </s> hand card to cashier to swipe </s> reach into pocket 0
+paying with a credit card: </s> reach into pocket </s> write signature on receipt 1
+paying with a credit card: </s> reach into pocket </s> get copy of receipt from cashier 1
+paying with a credit card: </s> find card that corresponds to brand accepted by merchant </s> pull wallet out of pocket 0
+paying with a credit card: </s> pull card out of wallet </s> pull wallet out of pocket 0
+paying with a credit card: </s> pull wallet out of pocket </s> hand card to cashier to swipe 1
+paying with a credit card: </s> write signature on receipt </s> pull wallet out of pocket 0
+paying with a credit card: </s> get copy of receipt from cashier </s> pull wallet out of pocket 0
+paying with a credit card: </s> find card that corresponds to brand accepted by merchant </s> pull card out of wallet 1
+paying with a credit card: </s> hand card to cashier to swipe </s> find card that corresponds to brand accepted by merchant 0
+paying with a credit card: </s> write signature on receipt </s> find card that corresponds to brand accepted by merchant 0
+paying with a credit card: </s> get copy of receipt from cashier </s> find card that corresponds to brand accepted by merchant 0
+paying with a credit card: </s> hand card to cashier to swipe </s> pull card out of wallet 0
+paying with a credit card: </s> pull card out of wallet </s> write signature on receipt 1
+paying with a credit card: </s> pull card out of wallet </s> get copy of receipt from cashier 1
+paying with a credit card: </s> write signature on receipt </s> hand card to cashier to swipe 0
+paying with a credit card: </s> hand card to cashier to swipe </s> get copy of receipt from cashier 1
+paying with a credit card: </s> get copy of receipt from cashier </s> write signature on receipt 0
+paying with a credit card: </s> pull out wallet </s> grab credit card 1
+paying with a credit card: </s> swipe through machine </s> pull out wallet 0
+paying with a credit card: </s> pull out wallet </s> sign for payment 1
+paying with a credit card: </s> insert card in wallet </s> pull out wallet 0
+paying with a credit card: </s> swipe through machine </s> grab credit card 0
+paying with a credit card: </s> sign for payment </s> grab credit card 0
+paying with a credit card: </s> insert card in wallet </s> grab credit card 0
+paying with a credit card: </s> swipe through machine </s> sign for payment 1
+paying with a credit card: </s> insert card in wallet </s> swipe through machine 0
+paying with a credit card: </s> insert card in wallet </s> sign for payment 0
+paying with a credit card: </s> let the cashier scan all the items </s> bring selected merchandise to the till counter 0
+paying with a credit card: </s> take out credit card </s> bring selected merchandise to the till counter 0
+paying with a credit card: </s> bring selected merchandise to the till counter </s> ask the cashier for payment with credit card 1
+paying with a credit card: </s> bring selected merchandise to the till counter </s> give the cashier your credit card 1
+paying with a credit card: </s> watch her as she swipes the card </s> bring selected merchandise to the till counter 0
+paying with a credit card: </s> bring selected merchandise to the till counter </s> sign one copy of the receipt 1
+paying with a credit card: </s> bring selected merchandise to the till counter </s> collect other copy 1
+paying with a credit card: </s> take the credit card back from cashier </s> bring selected merchandise to the till counter 0
+paying with a credit card: </s> let the cashier scan all the items </s> take out credit card 1
+paying with a credit card: </s> ask the cashier for payment with credit card </s> let the cashier scan all the items 0
+paying with a credit card: </s> let the cashier scan all the items </s> give the cashier your credit card 1
+paying with a credit card: </s> let the cashier scan all the items </s> watch her as she swipes the card 1
+paying with a credit card: </s> sign one copy of the receipt </s> let the cashier scan all the items 0
+paying with a credit card: </s> collect other copy </s> let the cashier scan all the items 0
+paying with a credit card: </s> let the cashier scan all the items </s> take the credit card back from cashier 1
+paying with a credit card: </s> take out credit card </s> ask the cashier for payment with credit card 1
+paying with a credit card: </s> take out credit card </s> give the cashier your credit card 1
+paying with a credit card: </s> take out credit card </s> watch her as she swipes the card 1
+paying with a credit card: </s> take out credit card </s> sign one copy of the receipt 1
+paying with a credit card: </s> take out credit card </s> collect other copy 1
+paying with a credit card: </s> take out credit card </s> take the credit card back from cashier 1
+paying with a credit card: </s> ask the cashier for payment with credit card </s> give the cashier your credit card 1
+paying with a credit card: </s> ask the cashier for payment with credit card </s> watch her as she swipes the card 1
+paying with a credit card: </s> ask the cashier for payment with credit card </s> sign one copy of the receipt 1
+paying with a credit card: </s> collect other copy </s> ask the cashier for payment with credit card 0
+paying with a credit card: </s> ask the cashier for payment with credit card </s> take the credit card back from cashier 1
+paying with a credit card: </s> watch her as she swipes the card </s> give the cashier your credit card 0
+paying with a credit card: </s> sign one copy of the receipt </s> give the cashier your credit card 0
+paying with a credit card: </s> collect other copy </s> give the cashier your credit card 0
+paying with a credit card: </s> take the credit card back from cashier </s> give the cashier your credit card 0
+paying with a credit card: </s> sign one copy of the receipt </s> watch her as she swipes the card 0
+paying with a credit card: </s> watch her as she swipes the card </s> collect other copy 1
+paying with a credit card: </s> watch her as she swipes the card </s> take the credit card back from cashier 1
+paying with a credit card: </s> collect other copy </s> sign one copy of the receipt 0
+paying with a credit card: </s> sign one copy of the receipt </s> take the credit card back from cashier 1
+paying with a credit card: </s> take the credit card back from cashier </s> collect other copy 0
+paying with a credit card: </s> find something to buy </s> check credit card balance 0
+paying with a credit card: </s> check credit card balance </s> take item to register 1
+paying with a credit card: </s> check credit card balance </s> hand cashier card 1
+paying with a credit card: </s> check credit card balance </s> sign for purchase 1
+paying with a credit card: </s> check credit card balance </s> pay balance when bill arrives 1
+paying with a credit card: </s> find something to buy </s> take item to register 1
+paying with a credit card: </s> find something to buy </s> hand cashier card 1
+paying with a credit card: </s> sign for purchase </s> find something to buy 0
+paying with a credit card: </s> pay balance when bill arrives </s> find something to buy 0
+paying with a credit card: </s> hand cashier card </s> take item to register 0
+paying with a credit card: </s> take item to register </s> sign for purchase 1
+paying with a credit card: </s> take item to register </s> pay balance when bill arrives 1
+paying with a credit card: </s> hand cashier card </s> sign for purchase 1
+paying with a credit card: </s> hand cashier card </s> pay balance when bill arrives 1
+paying with a credit card: </s> pay balance when bill arrives </s> sign for purchase 0
+paying with a credit card: </s> go to checkout. </s> person will tell you the amount you owe. 1
+paying with a credit card: </s> go to checkout. </s> hand them your credit card. 1
+paying with a credit card: </s> go to checkout. </s> person will slide it through their machine. 1
+paying with a credit card: </s> go to checkout. </s> receipt will print. 1
+paying with a credit card: </s> person will hand you the receipt and a pen. </s> go to checkout. 0
+paying with a credit card: </s> sign your name in the area marked on the receipt. </s> go to checkout. 0
+paying with a credit card: </s> give receipt and pen back to person. </s> go to checkout. 0
+paying with a credit card: </s> go to checkout. </s> person will hand you a copy of the receipt for you to keep. 1
+paying with a credit card: </s> get card back from person and put it away. </s> go to checkout. 0
+paying with a credit card: </s> take purchase and leave. </s> go to checkout. 0
+paying with a credit card: </s> hand them your credit card. </s> person will tell you the amount you owe. 0
+paying with a credit card: </s> person will slide it through their machine. </s> person will tell you the amount you owe. 0
+paying with a credit card: </s> person will tell you the amount you owe. </s> receipt will print. 1
+paying with a credit card: </s> person will tell you the amount you owe. </s> person will hand you the receipt and a pen. 1
+paying with a credit card: </s> person will tell you the amount you owe. </s> sign your name in the area marked on the receipt. 1
+paying with a credit card: </s> person will tell you the amount you owe. </s> give receipt and pen back to person. 1
+paying with a credit card: </s> person will tell you the amount you owe. </s> person will hand you a copy of the receipt for you to keep. 1
+paying with a credit card: </s> person will tell you the amount you owe. </s> get card back from person and put it away. 1
+paying with a credit card: </s> person will tell you the amount you owe. </s> take purchase and leave. 1
+paying with a credit card: </s> hand them your credit card. </s> person will slide it through their machine. 1
+paying with a credit card: </s> hand them your credit card. </s> receipt will print. 1
+paying with a credit card: </s> hand them your credit card. </s> person will hand you the receipt and a pen. 1
+paying with a credit card: </s> sign your name in the area marked on the receipt. </s> hand them your credit card. 0
+paying with a credit card: </s> hand them your credit card. </s> give receipt and pen back to person. 1
+paying with a credit card: </s> person will hand you a copy of the receipt for you to keep. </s> hand them your credit card. 0
+paying with a credit card: </s> hand them your credit card. </s> get card back from person and put it away. 1
+paying with a credit card: </s> hand them your credit card. </s> take purchase and leave. 1
+paying with a credit card: </s> person will slide it through their machine. </s> receipt will print. 1
+paying with a credit card: </s> person will hand you the receipt and a pen. </s> person will slide it through their machine. 0
+paying with a credit card: </s> sign your name in the area marked on the receipt. </s> person will slide it through their machine. 0
+paying with a credit card: </s> person will slide it through their machine. </s> give receipt and pen back to person. 1
+paying with a credit card: </s> person will hand you a copy of the receipt for you to keep. </s> person will slide it through their machine. 0
+paying with a credit card: </s> person will slide it through their machine. </s> get card back from person and put it away. 1
+paying with a credit card: </s> person will slide it through their machine. </s> take purchase and leave. 1
+paying with a credit card: </s> person will hand you the receipt and a pen. </s> receipt will print. 0
+paying with a credit card: </s> receipt will print. </s> sign your name in the area marked on the receipt. 1
+paying with a credit card: </s> receipt will print. </s> give receipt and pen back to person. 1
+paying with a credit card: </s> receipt will print. </s> person will hand you a copy of the receipt for you to keep. 1
+paying with a credit card: </s> receipt will print. </s> get card back from person and put it away. 1
+paying with a credit card: </s> take purchase and leave. </s> receipt will print. 0
+paying with a credit card: </s> person will hand you the receipt and a pen. </s> sign your name in the area marked on the receipt. 1
+paying with a credit card: </s> person will hand you the receipt and a pen. </s> give receipt and pen back to person. 1
+paying with a credit card: </s> person will hand you the receipt and a pen. </s> person will hand you a copy of the receipt for you to keep. 1
+paying with a credit card: </s> person will hand you the receipt and a pen. </s> get card back from person and put it away. 1
+paying with a credit card: </s> person will hand you the receipt and a pen. </s> take purchase and leave. 1
+paying with a credit card: </s> sign your name in the area marked on the receipt. </s> give receipt and pen back to person. 1
+paying with a credit card: </s> person will hand you a copy of the receipt for you to keep. </s> sign your name in the area marked on the receipt. 0
+paying with a credit card: </s> get card back from person and put it away. </s> sign your name in the area marked on the receipt. 0
+paying with a credit card: </s> sign your name in the area marked on the receipt. </s> take purchase and leave. 1
+paying with a credit card: </s> give receipt and pen back to person. </s> person will hand you a copy of the receipt for you to keep. 1
+paying with a credit card: </s> give receipt and pen back to person. </s> get card back from person and put it away. 1
+paying with a credit card: </s> give receipt and pen back to person. </s> take purchase and leave. 1
+paying with a credit card: </s> person will hand you a copy of the receipt for you to keep. </s> get card back from person and put it away. 1
+paying with a credit card: </s> take purchase and leave. </s> person will hand you a copy of the receipt for you to keep. 0
+paying with a credit card: </s> get card back from person and put it away. </s> take purchase and leave. 1
+paying with a credit card: </s> get card out wallet </s> swipe card on machine 1
+paying with a credit card: </s> put password in </s> get card out wallet 0
+paying with a credit card: </s> answer questions </s> get card out wallet 0
+paying with a credit card: </s> get card out wallet </s> get receipt 1
+paying with a credit card: </s> put password in </s> swipe card on machine 0
+paying with a credit card: </s> answer questions </s> swipe card on machine 0
+paying with a credit card: </s> swipe card on machine </s> get receipt 1
+paying with a credit card: </s> answer questions </s> put password in 0
+paying with a credit card: </s> put password in </s> get receipt 1
+paying with a credit card: </s> get receipt </s> answer questions 0
+paying with a credit card: </s> hand bill to clerk </s> get out your card 0
+paying with a credit card: </s> get out your card </s> hand card to clerk 1
+paying with a credit card: </s> sign receipt </s> get out your card 0
+paying with a credit card: </s> put away card </s> get out your card 0
+paying with a credit card: </s> hand card to clerk </s> hand bill to clerk 0
+paying with a credit card: </s> hand bill to clerk </s> sign receipt 1
+paying with a credit card: </s> put away card </s> hand bill to clerk 0
+paying with a credit card: </s> sign receipt </s> hand card to clerk 0
+paying with a credit card: </s> hand card to clerk </s> put away card 1
+paying with a credit card: </s> sign receipt </s> put away card 1
+paying with a credit card: </s> withdraw from wallet. </s> select desired credit card. 0
+paying with a credit card: </s> hand to cashier. </s> select desired credit card. 0
+paying with a credit card: </s> hand over id upon request. </s> select desired credit card. 0
+paying with a credit card: </s> select desired credit card. </s> wait for receipts to print. 1
+paying with a credit card: </s> select desired credit card. </s> sign receipt. 1
+paying with a credit card: </s> keep copy for records. </s> select desired credit card. 0
+paying with a credit card: </s> withdraw from wallet. </s> hand to cashier. 1
+paying with a credit card: </s> withdraw from wallet. </s> hand over id upon request. 1
+paying with a credit card: </s> withdraw from wallet. </s> wait for receipts to print. 1
+paying with a credit card: </s> sign receipt. </s> withdraw from wallet. 0
+paying with a credit card: </s> withdraw from wallet. </s> keep copy for records. 1
+paying with a credit card: </s> hand over id upon request. </s> hand to cashier. 0
+paying with a credit card: </s> hand to cashier. </s> wait for receipts to print. 1
+paying with a credit card: </s> sign receipt. </s> hand to cashier. 0
+paying with a credit card: </s> keep copy for records. </s> hand to cashier. 0
+paying with a credit card: </s> wait for receipts to print. </s> hand over id upon request. 0
+paying with a credit card: </s> sign receipt. </s> hand over id upon request. 0
+paying with a credit card: </s> hand over id upon request. </s> keep copy for records. 1
+paying with a credit card: </s> wait for receipts to print. </s> sign receipt. 1
+paying with a credit card: </s> keep copy for records. </s> wait for receipts to print. 0
+paying with a credit card: </s> keep copy for records. </s> sign receipt. 0
+paying with a credit card: </s> cashier rings it up. </s> you get something to buy and walk to cashier. 0
+paying with a credit card: </s> you give her your credit card. </s> you get something to buy and walk to cashier. 0
+paying with a credit card: </s> she slides it and hands it back to you. </s> you get something to buy and walk to cashier. 0
+paying with a credit card: </s> you get something to buy and walk to cashier. </s> you put it in your purse. 1
+paying with a credit card: </s> you sign the receipt. </s> you get something to buy and walk to cashier. 0
+paying with a credit card: </s> you get something to buy and walk to cashier. </s> you get a copy. 1
+paying with a credit card: </s> you take your bags and leave. </s> you get something to buy and walk to cashier. 0
+paying with a credit card: </s> you give her your credit card. </s> cashier rings it up. 0
+paying with a credit card: </s> cashier rings it up. </s> she slides it and hands it back to you. 1
+paying with a credit card: </s> you put it in your purse. </s> cashier rings it up. 0
+paying with a credit card: </s> cashier rings it up. </s> you sign the receipt. 1
+paying with a credit card: </s> cashier rings it up. </s> you get a copy. 1
+paying with a credit card: </s> cashier rings it up. </s> you take your bags and leave. 1
+paying with a credit card: </s> you give her your credit card. </s> she slides it and hands it back to you. 1
+paying with a credit card: </s> you give her your credit card. </s> you put it in your purse. 1
+paying with a credit card: </s> you sign the receipt. </s> you give her your credit card. 0
+paying with a credit card: </s> you get a copy. </s> you give her your credit card. 0
+paying with a credit card: </s> you give her your credit card. </s> you take your bags and leave. 1
+paying with a credit card: </s> she slides it and hands it back to you. </s> you put it in your purse. 1
+paying with a credit card: </s> you sign the receipt. </s> she slides it and hands it back to you. 0
+paying with a credit card: </s> she slides it and hands it back to you. </s> you get a copy. 1
+paying with a credit card: </s> you take your bags and leave. </s> she slides it and hands it back to you. 0
+paying with a credit card: </s> you sign the receipt. </s> you put it in your purse. 0
+paying with a credit card: </s> you get a copy. </s> you put it in your purse. 0
+paying with a credit card: </s> you take your bags and leave. </s> you put it in your purse. 0
+paying with a credit card: </s> you get a copy. </s> you sign the receipt. 0
+paying with a credit card: </s> you take your bags and leave. </s> you sign the receipt. 0
+paying with a credit card: </s> you get a copy. </s> you take your bags and leave. 1
+paying with a credit card: </s> bring item to counter </s> find item you want in store 0
+paying with a credit card: </s> slide card in reader </s> find item you want in store 0
+paying with a credit card: </s> take items home </s> find item you want in store 0
+paying with a credit card: </s> bring item to counter </s> slide card in reader 1
+paying with a credit card: </s> take items home </s> bring item to counter 0
+paying with a credit card: </s> take items home </s> slide card in reader 0
+paying with a credit card: </s> pull out credit card </s> swipe card in machine 1
+paying with a credit card: </s> pull out credit card </s> or enter numbers online (if online purchase) 1
+paying with a credit card: </s> enter expiration date (if online) </s> pull out credit card 0
+paying with a credit card: </s> pull out credit card </s> enter csc (if online) 1
+paying with a credit card: </s> pull out credit card </s> sign for purchase 1
+paying with a credit card: </s> return card to wallet </s> pull out credit card 0
+paying with a credit card: </s> or enter numbers online (if online purchase) </s> swipe card in machine 0
+paying with a credit card: </s> swipe card in machine </s> enter expiration date (if online) 1
+paying with a credit card: </s> swipe card in machine </s> enter csc (if online) 1
+paying with a credit card: </s> swipe card in machine </s> sign for purchase 1
+paying with a credit card: </s> return card to wallet </s> swipe card in machine 0
+paying with a credit card: </s> or enter numbers online (if online purchase) </s> enter expiration date (if online) 1
+paying with a credit card: </s> enter csc (if online) </s> or enter numbers online (if online purchase) 0
+paying with a credit card: </s> or enter numbers online (if online purchase) </s> sign for purchase 1
+paying with a credit card: </s> or enter numbers online (if online purchase) </s> return card to wallet 1
+paying with a credit card: </s> enter expiration date (if online) </s> enter csc (if online) 1
+paying with a credit card: </s> sign for purchase </s> enter expiration date (if online) 0
+paying with a credit card: </s> enter expiration date (if online) </s> return card to wallet 1
+paying with a credit card: </s> enter csc (if online) </s> sign for purchase 1
+paying with a credit card: </s> return card to wallet </s> enter csc (if online) 0
+paying with a credit card: </s> return card to wallet </s> sign for purchase 0
+paying with a credit card: </s> stand in line at counter </s> hand over items to cashier 1
+paying with a credit card: </s> stand in line at counter </s> watch prices as she scans items 1
+paying with a credit card: </s> get total of purchase </s> stand in line at counter 0
+paying with a credit card: </s> get out credit card. </s> stand in line at counter 0
+paying with a credit card: </s> swipe credit card on machine </s> stand in line at counter 0
+paying with a credit card: </s> stand in line at counter </s> punch credit 1
+paying with a credit card: </s> stand in line at counter </s> sign name 1
+paying with a credit card: </s> stand in line at counter </s> put card back into wallet 1
+paying with a credit card: </s> take receipt from cashier </s> stand in line at counter 0
+paying with a credit card: </s> watch prices as she scans items </s> hand over items to cashier 0
+paying with a credit card: </s> get total of purchase </s> hand over items to cashier 0
+paying with a credit card: </s> get out credit card. </s> hand over items to cashier 0
+paying with a credit card: </s> swipe credit card on machine </s> hand over items to cashier 0
+paying with a credit card: </s> punch credit </s> hand over items to cashier 0
+paying with a credit card: </s> sign name </s> hand over items to cashier 0
+paying with a credit card: </s> hand over items to cashier </s> put card back into wallet 1
+paying with a credit card: </s> hand over items to cashier </s> take receipt from cashier 1
+paying with a credit card: </s> get total of purchase </s> watch prices as she scans items 0
+paying with a credit card: </s> get out credit card. </s> watch prices as she scans items 0
+paying with a credit card: </s> swipe credit card on machine </s> watch prices as she scans items 0
+paying with a credit card: </s> punch credit </s> watch prices as she scans items 0
+paying with a credit card: </s> watch prices as she scans items </s> sign name 1
+paying with a credit card: </s> watch prices as she scans items </s> put card back into wallet 1
+paying with a credit card: </s> watch prices as she scans items </s> take receipt from cashier 1
+paying with a credit card: </s> get total of purchase </s> get out credit card. 1
+paying with a credit card: </s> get total of purchase </s> swipe credit card on machine 1
+paying with a credit card: </s> get total of purchase </s> punch credit 1
+paying with a credit card: </s> get total of purchase </s> sign name 1
+paying with a credit card: </s> get total of purchase </s> put card back into wallet 1
+paying with a credit card: </s> get total of purchase </s> take receipt from cashier 1
+paying with a credit card: </s> get out credit card. </s> swipe credit card on machine 1
+paying with a credit card: </s> punch credit </s> get out credit card. 0
+paying with a credit card: </s> sign name </s> get out credit card. 0
+paying with a credit card: </s> get out credit card. </s> put card back into wallet 1
+paying with a credit card: </s> get out credit card. </s> take receipt from cashier 1
+paying with a credit card: </s> punch credit </s> swipe credit card on machine 0
+paying with a credit card: </s> swipe credit card on machine </s> sign name 1
+paying with a credit card: </s> swipe credit card on machine </s> put card back into wallet 1
+paying with a credit card: </s> swipe credit card on machine </s> take receipt from cashier 1
+paying with a credit card: </s> sign name </s> punch credit 0
+paying with a credit card: </s> put card back into wallet </s> punch credit 0
+paying with a credit card: </s> punch credit </s> take receipt from cashier 1
+paying with a credit card: </s> put card back into wallet </s> sign name 0
+paying with a credit card: </s> take receipt from cashier </s> sign name 0
+paying with a credit card: </s> take receipt from cashier </s> put card back into wallet 0
+paying with a credit card: </s> take item to the cash register </s> find item you would like to purchase 0
+paying with a credit card: </s> find item you would like to purchase </s> wait for cashier to ring up item 1
+paying with a credit card: </s> find item you would like to purchase </s> swipe credit card through machine 1
+paying with a credit card: </s> find item you would like to purchase </s> approve the total 1
+paying with a credit card: </s> find item you would like to purchase </s> sign to authorize the purchase 1
+paying with a credit card: </s> find item you would like to purchase </s> take your receipt 1
+paying with a credit card: </s> take item to the cash register </s> wait for cashier to ring up item 1
+paying with a credit card: </s> take item to the cash register </s> swipe credit card through machine 1
+paying with a credit card: </s> take item to the cash register </s> approve the total 1
+paying with a credit card: </s> sign to authorize the purchase </s> take item to the cash register 0
+paying with a credit card: </s> take your receipt </s> take item to the cash register 0
+paying with a credit card: </s> swipe credit card through machine </s> wait for cashier to ring up item 0
+paying with a credit card: </s> approve the total </s> wait for cashier to ring up item 0
+paying with a credit card: </s> wait for cashier to ring up item </s> sign to authorize the purchase 1
+paying with a credit card: </s> take your receipt </s> wait for cashier to ring up item 0
+paying with a credit card: </s> approve the total </s> swipe credit card through machine 0
+paying with a credit card: </s> sign to authorize the purchase </s> swipe credit card through machine 0
+paying with a credit card: </s> swipe credit card through machine </s> take your receipt 1
+paying with a credit card: </s> approve the total </s> sign to authorize the purchase 1
+paying with a credit card: </s> approve the total </s> take your receipt 1
+paying with a credit card: </s> sign to authorize the purchase </s> take your receipt 1
+paying with a credit card: </s> find the item you want to buy </s> bring item to checkout 1
+paying with a credit card: </s> find the item you want to buy </s> take out credit card 1
+paying with a credit card: </s> find the item you want to buy </s> slide card through the reader 1
+paying with a credit card: </s> find the item you want to buy </s> input pin number 1
+paying with a credit card: </s> find the item you want to buy </s> press ok 1
+paying with a credit card: </s> take out credit card </s> bring item to checkout 0
+paying with a credit card: </s> bring item to checkout </s> slide card through the reader 1
+paying with a credit card: </s> bring item to checkout </s> input pin number 1
+paying with a credit card: </s> bring item to checkout </s> press ok 1
+paying with a credit card: </s> take out credit card </s> slide card through the reader 1
+paying with a credit card: </s> take out credit card </s> input pin number 1
+paying with a credit card: </s> press ok </s> take out credit card 0
+paying with a credit card: </s> slide card through the reader </s> input pin number 1
+paying with a credit card: </s> press ok </s> slide card through the reader 0
+paying with a credit card: </s> press ok </s> input pin number 0
+paying with a credit card: </s> open wallet. </s> take out credit card. 1
+paying with a credit card: </s> swipe credit card. </s> open wallet. 0
+paying with a credit card: </s> hit accept button. </s> open wallet. 0
+paying with a credit card: </s> open wallet. </s> wait for receipt to print. 1
+paying with a credit card: </s> sign receipt. </s> open wallet. 0
+paying with a credit card: </s> swipe credit card. </s> take out credit card. 0
+paying with a credit card: </s> hit accept button. </s> take out credit card. 0
+paying with a credit card: </s> wait for receipt to print. </s> take out credit card. 0
+paying with a credit card: </s> sign receipt. </s> take out credit card. 0
+paying with a credit card: </s> swipe credit card. </s> hit accept button. 1
+paying with a credit card: </s> swipe credit card. </s> wait for receipt to print. 1
+paying with a credit card: </s> sign receipt. </s> swipe credit card. 0
+paying with a credit card: </s> hit accept button. </s> wait for receipt to print. 1
+paying with a credit card: </s> hit accept button. </s> sign receipt. 1
+paying with a credit card: </s> wait for receipt to print. </s> sign receipt. 1
+paying with a credit card: </s> announce you will be paying by credit card. </s> receive a bill that you will be paying for. 0
+paying with a credit card: </s> swipe the card or allow the cashier to swipe. </s> receive a bill that you will be paying for. 0
+paying with a credit card: </s> receive a bill that you will be paying for. </s> wait for the transaction to be authorized. 1
+paying with a credit card: </s> receive a bill that you will be paying for. </s> sign the receipt if needed. 1
+paying with a credit card: </s> receive a bill that you will be paying for. </s> take your receipt. 1
+paying with a credit card: </s> make sure transaction posts correctly on your credit card bill. </s> receive a bill that you will be paying for. 0
+paying with a credit card: </s> swipe the card or allow the cashier to swipe. </s> announce you will be paying by credit card. 0
+paying with a credit card: </s> announce you will be paying by credit card. </s> wait for the transaction to be authorized. 1
+paying with a credit card: </s> announce you will be paying by credit card. </s> sign the receipt if needed. 1
+paying with a credit card: </s> take your receipt. </s> announce you will be paying by credit card. 0
+paying with a credit card: </s> announce you will be paying by credit card. </s> make sure transaction posts correctly on your credit card bill. 1
+paying with a credit card: </s> swipe the card or allow the cashier to swipe. </s> wait for the transaction to be authorized. 1
+paying with a credit card: </s> sign the receipt if needed. </s> swipe the card or allow the cashier to swipe. 0
+paying with a credit card: </s> take your receipt. </s> swipe the card or allow the cashier to swipe. 0
+paying with a credit card: </s> swipe the card or allow the cashier to swipe. </s> make sure transaction posts correctly on your credit card bill. 1
+paying with a credit card: </s> sign the receipt if needed. </s> wait for the transaction to be authorized. 0
+paying with a credit card: </s> take your receipt. </s> wait for the transaction to be authorized. 0
+paying with a credit card: </s> make sure transaction posts correctly on your credit card bill. </s> wait for the transaction to be authorized. 0
+paying with a credit card: </s> take your receipt. </s> sign the receipt if needed. 0
+paying with a credit card: </s> sign the receipt if needed. </s> make sure transaction posts correctly on your credit card bill. 1
+paying with a credit card: </s> take your receipt. </s> make sure transaction posts correctly on your credit card bill. 1
+paying with a credit card: </s> take items to the counter </s> swipe the card 1
+paying with a credit card: </s> take items to the counter </s> sign the receipt 1
+paying with a credit card: </s> take items to the counter </s> take bagged items 1
+paying with a credit card: </s> take copy of the receipt </s> take items to the counter 0
+paying with a credit card: </s> take items to the counter </s> leave the store 1
+paying with a credit card: </s> sign the receipt </s> swipe the card 0
+paying with a credit card: </s> take bagged items </s> swipe the card 0
+paying with a credit card: </s> take copy of the receipt </s> swipe the card 0
+paying with a credit card: </s> swipe the card </s> leave the store 1
+paying with a credit card: </s> sign the receipt </s> take bagged items 1
+paying with a credit card: </s> take copy of the receipt </s> sign the receipt 0
+paying with a credit card: </s> sign the receipt </s> leave the store 1
+paying with a credit card: </s> take copy of the receipt </s> take bagged items 0
+paying with a credit card: </s> leave the store </s> take bagged items 0
+paying with a credit card: </s> take copy of the receipt </s> leave the store 1
+paying with a credit card: </s> select 'pay with credit' option </s> take credit card out of wallet 1
+paying with a credit card: </s> swipe credit card </s> select 'pay with credit' option 0
+paying with a credit card: </s> select 'pay with credit' option </s> sign your signature 1
+paying with a credit card: </s> put credit card back in wallet </s> select 'pay with credit' option 0
+paying with a credit card: </s> swipe credit card </s> take credit card out of wallet 0
+paying with a credit card: </s> take credit card out of wallet </s> sign your signature 1
+paying with a credit card: </s> take credit card out of wallet </s> put credit card back in wallet 1
+paying with a credit card: </s> sign your signature </s> swipe credit card 0
+paying with a credit card: </s> swipe credit card </s> put credit card back in wallet 1
+paying with a credit card: </s> sign your signature </s> put credit card back in wallet 1
+paying with a credit card: </s> decide what items you would like to buy. </s> proceed to checkout. 1
+paying with a credit card: </s> scan items. </s> decide what items you would like to buy. 0
+paying with a credit card: </s> swipe card through reader. </s> decide what items you would like to buy. 0
+paying with a credit card: </s> decide what items you would like to buy. </s> confirm amount on screen. 1
+paying with a credit card: </s> authorize purchase by signing. </s> decide what items you would like to buy. 0
+paying with a credit card: </s> decide what items you would like to buy. </s> leave store. 1
+paying with a credit card: </s> pay bill later. </s> decide what items you would like to buy. 0
+paying with a credit card: </s> scan items. </s> proceed to checkout. 0
+paying with a credit card: </s> swipe card through reader. </s> proceed to checkout. 0
+paying with a credit card: </s> confirm amount on screen. </s> proceed to checkout. 0
+paying with a credit card: </s> authorize purchase by signing. </s> proceed to checkout. 0
+paying with a credit card: </s> proceed to checkout. </s> leave store. 1
+paying with a credit card: </s> pay bill later. </s> proceed to checkout. 0
+paying with a credit card: </s> scan items. </s> swipe card through reader. 1
+paying with a credit card: </s> confirm amount on screen. </s> scan items. 0
+paying with a credit card: </s> authorize purchase by signing. </s> scan items. 0
+paying with a credit card: </s> leave store. </s> scan items. 0
+paying with a credit card: </s> scan items. </s> pay bill later. 1
+paying with a credit card: </s> confirm amount on screen. </s> swipe card through reader. 0
+paying with a credit card: </s> authorize purchase by signing. </s> swipe card through reader. 0
+paying with a credit card: </s> swipe card through reader. </s> leave store. 1
+paying with a credit card: </s> swipe card through reader. </s> pay bill later. 1
+paying with a credit card: </s> authorize purchase by signing. </s> confirm amount on screen. 0
+paying with a credit card: </s> confirm amount on screen. </s> leave store. 1
+paying with a credit card: </s> pay bill later. </s> confirm amount on screen. 0
+paying with a credit card: </s> authorize purchase by signing. </s> leave store. 1
+paying with a credit card: </s> authorize purchase by signing. </s> pay bill later. 1
+paying with a credit card: </s> pay bill later. </s> leave store. 0
+paying with a credit card: </s> get credit card out of wallet/purse </s> go to cashier with what you are buying 0
+paying with a credit card: </s> go to cashier with what you are buying </s> hand credit card to cashier 1
+paying with a credit card: </s> make sure it goes through </s> go to cashier with what you are buying 0
+paying with a credit card: </s> go to cashier with what you are buying </s> ask for receipt 1
+paying with a credit card: </s> get credit card out of wallet/purse </s> hand credit card to cashier 1
+paying with a credit card: </s> get credit card out of wallet/purse </s> make sure it goes through 1
+paying with a credit card: </s> get credit card out of wallet/purse </s> ask for receipt 1
+paying with a credit card: </s> make sure it goes through </s> hand credit card to cashier 0
+paying with a credit card: </s> ask for receipt </s> hand credit card to cashier 0
+paying with a credit card: </s> ask for receipt </s> make sure it goes through 0
+paying with a credit card: </s> remove card from wallet </s> slide it with the number facing upwards 1
+paying with a credit card: </s> remove card from wallet </s> input your pin number but don't let anyone see you doing it 1
+paying with a credit card: </s> remove card from wallet </s> sign your name using the stylus 1
+paying with a credit card: </s> remove card from wallet </s> receive your receipt 1
+paying with a credit card: </s> sign your name on the recite if required </s> remove card from wallet 0
+paying with a credit card: </s> input your pin number but don't let anyone see you doing it </s> slide it with the number facing upwards 0
+paying with a credit card: </s> sign your name using the stylus </s> slide it with the number facing upwards 0
+paying with a credit card: </s> receive your receipt </s> slide it with the number facing upwards 0
+paying with a credit card: </s> sign your name on the recite if required </s> slide it with the number facing upwards 0
+paying with a credit card: </s> input your pin number but don't let anyone see you doing it </s> sign your name using the stylus 1
+paying with a credit card: </s> input your pin number but don't let anyone see you doing it </s> receive your receipt 1
+paying with a credit card: </s> input your pin number but don't let anyone see you doing it </s> sign your name on the recite if required 1
+paying with a credit card: </s> sign your name using the stylus </s> receive your receipt 1
+paying with a credit card: </s> sign your name on the recite if required </s> sign your name using the stylus 0
+paying with a credit card: </s> sign your name on the recite if required </s> receive your receipt 0
+paying with a credit card: </s> choose what you wish to purchase </s> take it to the register 1
+paying with a credit card: </s> tell the worker that you wish to pay with credit </s> choose what you wish to purchase 0
+paying with a credit card: </s> choose what you wish to purchase </s> hand over your card or swipe it yourself 1
+paying with a credit card: </s> choose what you wish to purchase </s> enter your pin number 1
+paying with a credit card: </s> write your initials on the slip that they give you </s> choose what you wish to purchase 0
+paying with a credit card: </s> choose what you wish to purchase </s> leave 1
+paying with a credit card: </s> take it to the register </s> tell the worker that you wish to pay with credit 1
+paying with a credit card: </s> hand over your card or swipe it yourself </s> take it to the register 0
+paying with a credit card: </s> enter your pin number </s> take it to the register 0
+paying with a credit card: </s> take it to the register </s> write your initials on the slip that they give you 1
+paying with a credit card: </s> take it to the register </s> leave 1
+paying with a credit card: </s> tell the worker that you wish to pay with credit </s> hand over your card or swipe it yourself 1
+paying with a credit card: </s> tell the worker that you wish to pay with credit </s> enter your pin number 1
+paying with a credit card: </s> tell the worker that you wish to pay with credit </s> write your initials on the slip that they give you 1
+paying with a credit card: </s> tell the worker that you wish to pay with credit </s> leave 1
+paying with a credit card: </s> enter your pin number </s> hand over your card or swipe it yourself 0
+paying with a credit card: </s> write your initials on the slip that they give you </s> hand over your card or swipe it yourself 0
+paying with a credit card: </s> leave </s> hand over your card or swipe it yourself 0
+paying with a credit card: </s> enter your pin number </s> write your initials on the slip that they give you 1
+paying with a credit card: </s> enter your pin number </s> leave 1
+paying with a credit card: </s> write your initials on the slip that they give you </s> leave 1
+paying with a credit card: </s> take item to sales clerk </s> find items to purchase 0
+paying with a credit card: </s> find items to purchase </s> clerk tallies up the amount 1
+paying with a credit card: </s> find items to purchase </s> slide the credit card through the reader 1
+paying with a credit card: </s> find items to purchase </s> sign your name on the reader 1
+paying with a credit card: </s> take receipt and items </s> find items to purchase 0
+paying with a credit card: </s> find items to purchase </s> leave store 1
+paying with a credit card: </s> clerk tallies up the amount </s> take item to sales clerk 0
+paying with a credit card: </s> slide the credit card through the reader </s> take item to sales clerk 0
+paying with a credit card: </s> sign your name on the reader </s> take item to sales clerk 0
+paying with a credit card: </s> take receipt and items </s> take item to sales clerk 0
+paying with a credit card: </s> leave store </s> take item to sales clerk 0
+paying with a credit card: </s> slide the credit card through the reader </s> clerk tallies up the amount 0
+paying with a credit card: </s> clerk tallies up the amount </s> sign your name on the reader 1
+paying with a credit card: </s> clerk tallies up the amount </s> take receipt and items 1
+paying with a credit card: </s> clerk tallies up the amount </s> leave store 1
+paying with a credit card: </s> slide the credit card through the reader </s> sign your name on the reader 1
+paying with a credit card: </s> take receipt and items </s> slide the credit card through the reader 0
+paying with a credit card: </s> slide the credit card through the reader </s> leave store 1
+paying with a credit card: </s> take receipt and items </s> sign your name on the reader 0
+paying with a credit card: </s> sign your name on the reader </s> leave store 1
+paying with a credit card: </s> take receipt and items </s> leave store 1
+paying with a credit card: </s> tell the cashier it is credit </s> after the cashier rings up your items, pull your card out 0
+paying with a credit card: </s> swipe the card </s> after the cashier rings up your items, pull your card out 0
+paying with a credit card: </s> sign the signature pad to accept the transaction </s> after the cashier rings up your items, pull your card out 0
+paying with a credit card: </s> after the cashier rings up your items, pull your card out </s> wait until the transaction is authorized 1
+paying with a credit card: </s> take receipt from cashier </s> after the cashier rings up your items, pull your card out 0
+paying with a credit card: </s> tell the cashier it is credit </s> swipe the card 1
+paying with a credit card: </s> tell the cashier it is credit </s> sign the signature pad to accept the transaction 1
+paying with a credit card: </s> wait until the transaction is authorized </s> tell the cashier it is credit 0
+paying with a credit card: </s> tell the cashier it is credit </s> take receipt from cashier 1
+paying with a credit card: </s> sign the signature pad to accept the transaction </s> swipe the card 0
+paying with a credit card: </s> wait until the transaction is authorized </s> swipe the card 0
+paying with a credit card: </s> take receipt from cashier </s> swipe the card 0
+paying with a credit card: </s> wait until the transaction is authorized </s> sign the signature pad to accept the transaction 0
+paying with a credit card: </s> sign the signature pad to accept the transaction </s> take receipt from cashier 1
+paying with a credit card: </s> take receipt from cashier </s> wait until the transaction is authorized 0
+paying with a credit card: </s> check the bill amount </s> get the bill 0
+paying with a credit card: </s> get the bill </s> take out credit card from the wallet 1
+paying with a credit card: </s> get the bill </s> give the credit card to the cashier 1
+paying with a credit card: </s> get the bill </s> cashier swipes the card 1
+paying with a credit card: </s> get the bill </s> ensure the bill amount correctness 1
+paying with a credit card: </s> enter the pin </s> get the bill 0
+paying with a credit card: </s> press enter button </s> get the bill 0
+paying with a credit card: </s> get the bill </s> take back the card 1
+paying with a credit card: </s> sign the receipt </s> get the bill 0
+paying with a credit card: </s> get a copy of receipt </s> get the bill 0
+paying with a credit card: </s> get the bill </s> keep the credit card in the wallet 1
+paying with a credit card: </s> check the bill amount </s> take out credit card from the wallet 1
+paying with a credit card: </s> check the bill amount </s> give the credit card to the cashier 1
+paying with a credit card: </s> cashier swipes the card </s> check the bill amount 0
+paying with a credit card: </s> ensure the bill amount correctness </s> check the bill amount 0
+paying with a credit card: </s> enter the pin </s> check the bill amount 0
+paying with a credit card: </s> press enter button </s> check the bill amount 0
+paying with a credit card: </s> take back the card </s> check the bill amount 0
+paying with a credit card: </s> sign the receipt </s> check the bill amount 0
+paying with a credit card: </s> get a copy of receipt </s> check the bill amount 0
+paying with a credit card: </s> check the bill amount </s> keep the credit card in the wallet 1
+paying with a credit card: </s> take out credit card from the wallet </s> give the credit card to the cashier 1
+paying with a credit card: </s> cashier swipes the card </s> take out credit card from the wallet 0
+paying with a credit card: </s> take out credit card from the wallet </s> ensure the bill amount correctness 1
+paying with a credit card: </s> enter the pin </s> take out credit card from the wallet 0
+paying with a credit card: </s> press enter button </s> take out credit card from the wallet 0
+paying with a credit card: </s> take back the card </s> take out credit card from the wallet 0
+paying with a credit card: </s> take out credit card from the wallet </s> sign the receipt 1
+paying with a credit card: </s> take out credit card from the wallet </s> get a copy of receipt 1
+paying with a credit card: </s> keep the credit card in the wallet </s> take out credit card from the wallet 0
+paying with a credit card: </s> cashier swipes the card </s> give the credit card to the cashier 0
+paying with a credit card: </s> give the credit card to the cashier </s> ensure the bill amount correctness 1
+paying with a credit card: </s> enter the pin </s> give the credit card to the cashier 0
+paying with a credit card: </s> give the credit card to the cashier </s> press enter button 1
+paying with a credit card: </s> take back the card </s> give the credit card to the cashier 0
+paying with a credit card: </s> give the credit card to the cashier </s> sign the receipt 1
+paying with a credit card: </s> give the credit card to the cashier </s> get a copy of receipt 1
+paying with a credit card: </s> keep the credit card in the wallet </s> give the credit card to the cashier 0
+paying with a credit card: </s> cashier swipes the card </s> ensure the bill amount correctness 1
+paying with a credit card: </s> enter the pin </s> cashier swipes the card 0
+paying with a credit card: </s> press enter button </s> cashier swipes the card 0
+paying with a credit card: </s> cashier swipes the card </s> take back the card 1
+paying with a credit card: </s> sign the receipt </s> cashier swipes the card 0
+paying with a credit card: </s> cashier swipes the card </s> get a copy of receipt 1
+paying with a credit card: </s> keep the credit card in the wallet </s> cashier swipes the card 0
+paying with a credit card: </s> enter the pin </s> ensure the bill amount correctness 0
+paying with a credit card: </s> ensure the bill amount correctness </s> press enter button 1
+paying with a credit card: </s> take back the card </s> ensure the bill amount correctness 0
+paying with a credit card: </s> ensure the bill amount correctness </s> sign the receipt 1
+paying with a credit card: </s> ensure the bill amount correctness </s> get a copy of receipt 1
+paying with a credit card: </s> ensure the bill amount correctness </s> keep the credit card in the wallet 1
+paying with a credit card: </s> enter the pin </s> press enter button 1
+paying with a credit card: </s> enter the pin </s> take back the card 1
+paying with a credit card: </s> enter the pin </s> sign the receipt 1
+paying with a credit card: </s> get a copy of receipt </s> enter the pin 0
+paying with a credit card: </s> enter the pin </s> keep the credit card in the wallet 1
+paying with a credit card: </s> take back the card </s> press enter button 0
+paying with a credit card: </s> sign the receipt </s> press enter button 0
+paying with a credit card: </s> get a copy of receipt </s> press enter button 0
+paying with a credit card: </s> keep the credit card in the wallet </s> press enter button 0
+paying with a credit card: </s> sign the receipt </s> take back the card 0
+paying with a credit card: </s> take back the card </s> get a copy of receipt 1
+paying with a credit card: </s> keep the credit card in the wallet </s> take back the card 0
+paying with a credit card: </s> get a copy of receipt </s> sign the receipt 0
+paying with a credit card: </s> sign the receipt </s> keep the credit card in the wallet 1
+paying with a credit card: </s> keep the credit card in the wallet </s> get a copy of receipt 0
+paying with a credit card: </s> ring up items </s> wait for total amount 1
+paying with a credit card: </s> ring up items </s> pull credit card from wallet 1
+paying with a credit card: </s> ring up items </s> run credit card through scanner 1
+paying with a credit card: </s> wait for approval </s> ring up items 0
+paying with a credit card: </s> show identification </s> ring up items 0
+paying with a credit card: </s> sign scanner with digital pen </s> ring up items 0
+paying with a credit card: </s> ring up items </s> put credit card back in wallet 1
+paying with a credit card: </s> wait for receipt </s> ring up items 0
+paying with a credit card: </s> take items </s> ring up items 0
+paying with a credit card: </s> pull credit card from wallet </s> wait for total amount 0
+paying with a credit card: </s> wait for total amount </s> run credit card through scanner 1
+paying with a credit card: </s> wait for total amount </s> wait for approval 1
+paying with a credit card: </s> show identification </s> wait for total amount 0
+paying with a credit card: </s> sign scanner with digital pen </s> wait for total amount 0
+paying with a credit card: </s> put credit card back in wallet </s> wait for total amount 0
+paying with a credit card: </s> wait for receipt </s> wait for total amount 0
+paying with a credit card: </s> wait for total amount </s> take items 1
+paying with a credit card: </s> run credit card through scanner </s> pull credit card from wallet 0
+paying with a credit card: </s> wait for approval </s> pull credit card from wallet 0
+paying with a credit card: </s> pull credit card from wallet </s> show identification 1
+paying with a credit card: </s> pull credit card from wallet </s> sign scanner with digital pen 1
+paying with a credit card: </s> pull credit card from wallet </s> put credit card back in wallet 1
+paying with a credit card: </s> wait for receipt </s> pull credit card from wallet 0
+paying with a credit card: </s> take items </s> pull credit card from wallet 0
+paying with a credit card: </s> wait for approval </s> run credit card through scanner 0
+paying with a credit card: </s> run credit card through scanner </s> show identification 1
+paying with a credit card: </s> sign scanner with digital pen </s> run credit card through scanner 0
+paying with a credit card: </s> put credit card back in wallet </s> run credit card through scanner 0
+paying with a credit card: </s> run credit card through scanner </s> wait for receipt 1
+paying with a credit card: </s> take items </s> run credit card through scanner 0
+paying with a credit card: </s> show identification </s> wait for approval 0
+paying with a credit card: </s> wait for approval </s> sign scanner with digital pen 1
+paying with a credit card: </s> wait for approval </s> put credit card back in wallet 1
+paying with a credit card: </s> wait for receipt </s> wait for approval 0
+paying with a credit card: </s> take items </s> wait for approval 0
+paying with a credit card: </s> show identification </s> sign scanner with digital pen 1
+paying with a credit card: </s> show identification </s> put credit card back in wallet 1
+paying with a credit card: </s> wait for receipt </s> show identification 0
+paying with a credit card: </s> take items </s> show identification 0
+paying with a credit card: </s> sign scanner with digital pen </s> put credit card back in wallet 1
+paying with a credit card: </s> wait for receipt </s> sign scanner with digital pen 0
+paying with a credit card: </s> take items </s> sign scanner with digital pen 0
+paying with a credit card: </s> wait for receipt </s> put credit card back in wallet 0
+paying with a credit card: </s> put credit card back in wallet </s> take items 1
+paying with a credit card: </s> wait for receipt </s> take items 1
+paying with a credit card: </s> wait for approval </s> apply for credit card 0
+paying with a credit card: </s> go to store </s> apply for credit card 0
+paying with a credit card: </s> choose item </s> apply for credit card 0
+paying with a credit card: </s> apply for credit card </s> bring item to clerk 1
+paying with a credit card: </s> apply for credit card </s> hand them credit card 1
+paying with a credit card: </s> apply for credit card </s> sign your name 1
+paying with a credit card: </s> take item and receipt </s> apply for credit card 0
+paying with a credit card: </s> leave store </s> apply for credit card 0
+paying with a credit card: </s> go to store </s> wait for approval 0
+paying with a credit card: </s> wait for approval </s> choose item 1
+paying with a credit card: </s> wait for approval </s> bring item to clerk 1
+paying with a credit card: </s> hand them credit card </s> wait for approval 0
+paying with a credit card: </s> sign your name </s> wait for approval 0
+paying with a credit card: </s> wait for approval </s> take item and receipt 1
+paying with a credit card: </s> wait for approval </s> leave store 1
+paying with a credit card: </s> choose item </s> go to store 0
+paying with a credit card: </s> go to store </s> bring item to clerk 1
+paying with a credit card: </s> hand them credit card </s> go to store 0
+paying with a credit card: </s> go to store </s> sign your name 1
+paying with a credit card: </s> take item and receipt </s> go to store 0
+paying with a credit card: </s> leave store </s> go to store 0
+paying with a credit card: </s> choose item </s> bring item to clerk 1
+paying with a credit card: </s> hand them credit card </s> choose item 0
+paying with a credit card: </s> choose item </s> sign your name 1
+paying with a credit card: </s> choose item </s> take item and receipt 1
+paying with a credit card: </s> leave store </s> choose item 0
+paying with a credit card: </s> hand them credit card </s> bring item to clerk 0
+paying with a credit card: </s> sign your name </s> bring item to clerk 0
+paying with a credit card: </s> bring item to clerk </s> take item and receipt 1
+paying with a credit card: </s> leave store </s> bring item to clerk 0
+paying with a credit card: </s> sign your name </s> hand them credit card 0
+paying with a credit card: </s> hand them credit card </s> take item and receipt 1
+paying with a credit card: </s> hand them credit card </s> leave store 1
+paying with a credit card: </s> sign your name </s> take item and receipt 1
+paying with a credit card: </s> leave store </s> sign your name 0
+paying with a credit card: </s> take item and receipt </s> leave store 1
+paying with a credit card: </s> place order </s> give card info by slideing or entering it online 1
+paying with a credit card: </s> place order </s> wait for payment to happen 1
+paying with a credit card: </s> place order </s> get items you paid for 1
+paying with a credit card: </s> take note of money spent </s> place order 0
+paying with a credit card: </s> wait for payment to happen </s> give card info by slideing or entering it online 0
+paying with a credit card: </s> give card info by slideing or entering it online </s> get items you paid for 1
+paying with a credit card: </s> take note of money spent </s> give card info by slideing or entering it online 0
+paying with a credit card: </s> wait for payment to happen </s> get items you paid for 1
+paying with a credit card: </s> wait for payment to happen </s> take note of money spent 1
+paying with a credit card: </s> take note of money spent </s> get items you paid for 0
+paying with a credit card: </s> cashier rings up items </s> take items to register 0
+paying with a credit card: </s> take items to register </s> give credit card to cashier 1
+paying with a credit card: </s> take items to register </s> cashier swipes card 1
+paying with a credit card: </s> cashier gives back card and receipt </s> take items to register 0
+paying with a credit card: </s> put card away </s> take items to register 0
+paying with a credit card: </s> take items to register </s> sign the receipt 1
+paying with a credit card: </s> give the receipt to cashier </s> take items to register 0
+paying with a credit card: </s> leave </s> take items to register 0
+paying with a credit card: </s> cashier rings up items </s> give credit card to cashier 1
+paying with a credit card: </s> cashier rings up items </s> cashier swipes card 1
+paying with a credit card: </s> cashier gives back card and receipt </s> cashier rings up items 0
+paying with a credit card: </s> put card away </s> cashier rings up items 0
+paying with a credit card: </s> cashier rings up items </s> sign the receipt 1
+paying with a credit card: </s> cashier rings up items </s> give the receipt to cashier 1
+paying with a credit card: </s> leave </s> cashier rings up items 0
+paying with a credit card: </s> cashier swipes card </s> give credit card to cashier 0
+paying with a credit card: </s> cashier gives back card and receipt </s> give credit card to cashier 0
+paying with a credit card: </s> put card away </s> give credit card to cashier 0
+paying with a credit card: </s> sign the receipt </s> give credit card to cashier 0
+paying with a credit card: </s> give the receipt to cashier </s> give credit card to cashier 0
+paying with a credit card: </s> give credit card to cashier </s> leave 1
+paying with a credit card: </s> cashier gives back card and receipt </s> cashier swipes card 0
+paying with a credit card: </s> cashier swipes card </s> put card away 1
+paying with a credit card: </s> sign the receipt </s> cashier swipes card 0
+paying with a credit card: </s> cashier swipes card </s> give the receipt to cashier 1
+paying with a credit card: </s> cashier swipes card </s> leave 1
+paying with a credit card: </s> cashier gives back card and receipt </s> put card away 1
+paying with a credit card: </s> cashier gives back card and receipt </s> sign the receipt 1
+paying with a credit card: </s> give the receipt to cashier </s> cashier gives back card and receipt 0
+paying with a credit card: </s> cashier gives back card and receipt </s> leave 1
+paying with a credit card: </s> sign the receipt </s> put card away 0
+paying with a credit card: </s> give the receipt to cashier </s> put card away 0
+paying with a credit card: </s> put card away </s> leave 1
+paying with a credit card: </s> give the receipt to cashier </s> sign the receipt 0
+paying with a credit card: </s> leave </s> sign the receipt 0
+paying with a credit card: </s> leave </s> give the receipt to cashier 0
+paying with a credit card: </s> hand purchases to clerk. </s> wait in line. 0
+paying with a credit card: </s> wait for clerk to scan purchases. </s> wait in line. 0
+paying with a credit card: </s> wait in line. </s> get total charge amount from clerk. 1
+paying with a credit card: </s> wait in line. </s> slide credit card through card reader. 1
+paying with a credit card: </s> follow prompts on machine. </s> wait in line. 0
+paying with a credit card: </s> sign name on card reader. </s> wait in line. 0
+paying with a credit card: </s> get receipt from clerk. </s> wait in line. 0
+paying with a credit card: </s> take purchases and leave store. </s> wait in line. 0
+paying with a credit card: </s> wait for clerk to scan purchases. </s> hand purchases to clerk. 0
+paying with a credit card: </s> get total charge amount from clerk. </s> hand purchases to clerk. 0
+paying with a credit card: </s> hand purchases to clerk. </s> slide credit card through card reader. 1
+paying with a credit card: </s> follow prompts on machine. </s> hand purchases to clerk. 0
+paying with a credit card: </s> sign name on card reader. </s> hand purchases to clerk. 0
+paying with a credit card: </s> get receipt from clerk. </s> hand purchases to clerk. 0
+paying with a credit card: </s> hand purchases to clerk. </s> take purchases and leave store. 1
+paying with a credit card: </s> get total charge amount from clerk. </s> wait for clerk to scan purchases. 0
+paying with a credit card: </s> slide credit card through card reader. </s> wait for clerk to scan purchases. 0
+paying with a credit card: </s> follow prompts on machine. </s> wait for clerk to scan purchases. 0
+paying with a credit card: </s> wait for clerk to scan purchases. </s> sign name on card reader. 1
+paying with a credit card: </s> get receipt from clerk. </s> wait for clerk to scan purchases. 0
+paying with a credit card: </s> wait for clerk to scan purchases. </s> take purchases and leave store. 1
+paying with a credit card: </s> get total charge amount from clerk. </s> slide credit card through card reader. 1
+paying with a credit card: </s> follow prompts on machine. </s> get total charge amount from clerk. 0
+paying with a credit card: </s> sign name on card reader. </s> get total charge amount from clerk. 0
+paying with a credit card: </s> get total charge amount from clerk. </s> get receipt from clerk. 1
+paying with a credit card: </s> take purchases and leave store. </s> get total charge amount from clerk. 0
+paying with a credit card: </s> follow prompts on machine. </s> slide credit card through card reader. 0
+paying with a credit card: </s> sign name on card reader. </s> slide credit card through card reader. 0
+paying with a credit card: </s> slide credit card through card reader. </s> get receipt from clerk. 1
+paying with a credit card: </s> take purchases and leave store. </s> slide credit card through card reader. 0
+paying with a credit card: </s> follow prompts on machine. </s> sign name on card reader. 1
+paying with a credit card: </s> follow prompts on machine. </s> get receipt from clerk. 1
+paying with a credit card: </s> take purchases and leave store. </s> follow prompts on machine. 0
+paying with a credit card: </s> get receipt from clerk. </s> sign name on card reader. 0
+paying with a credit card: </s> sign name on card reader. </s> take purchases and leave store. 1
+paying with a credit card: </s> get receipt from clerk. </s> take purchases and leave store. 1
+paying with a credit card: </s> open wallet and select a credit card </s> pull out credit card and swipe in pos machine 1
+paying with a credit card: </s> enter credit or debit </s> open wallet and select a credit card 0
+paying with a credit card: </s> enter pin if asked </s> open wallet and select a credit card 0
+paying with a credit card: </s> wait for approval </s> open wallet and select a credit card 0
+paying with a credit card: </s> open wallet and select a credit card </s> take reciept 1
+paying with a credit card: </s> pull out credit card and swipe in pos machine </s> enter credit or debit 1
+paying with a credit card: </s> pull out credit card and swipe in pos machine </s> enter pin if asked 1
+paying with a credit card: </s> pull out credit card and swipe in pos machine </s> wait for approval 1
+paying with a credit card: </s> pull out credit card and swipe in pos machine </s> take reciept 1
+paying with a credit card: </s> enter pin if asked </s> enter credit or debit 0
+paying with a credit card: </s> wait for approval </s> enter credit or debit 0
+paying with a credit card: </s> take reciept </s> enter credit or debit 0
+paying with a credit card: </s> enter pin if asked </s> wait for approval 1
+paying with a credit card: </s> enter pin if asked </s> take reciept 1
+paying with a credit card: </s> wait for approval </s> take reciept 1
+paying with a credit card: </s> take out credit card from wallet </s> the cashier tells you the cash amount required for purchase 0
+paying with a credit card: </s> slide credit card on electronic card reader </s> the cashier tells you the cash amount required for purchase 0
+paying with a credit card: </s> the cashier tells you the cash amount required for purchase </s> sign the receipt 1
+paying with a credit card: </s> the cashier tells you the cash amount required for purchase </s> take your purchase 1
+paying with a credit card: </s> slide credit card on electronic card reader </s> take out credit card from wallet 0
+paying with a credit card: </s> sign the receipt </s> take out credit card from wallet 0
+paying with a credit card: </s> take out credit card from wallet </s> take your purchase 1
+paying with a credit card: </s> slide credit card on electronic card reader </s> sign the receipt 1
+paying with a credit card: </s> slide credit card on electronic card reader </s> take your purchase 1
+paying with a credit card: </s> take your purchase </s> sign the receipt 0
+paying with a credit card: </s> go shopping. </s> pick out goods. 1
+paying with a credit card: </s> go to the checkout. </s> go shopping. 0
+paying with a credit card: </s> pull out credit card. </s> go shopping. 0
+paying with a credit card: </s> checkout with credit. </s> go shopping. 0
+paying with a credit card: </s> pick out goods. </s> go to the checkout. 1
+paying with a credit card: </s> pick out goods. </s> pull out credit card. 1
+paying with a credit card: </s> checkout with credit. </s> pick out goods. 0
+paying with a credit card: </s> pull out credit card. </s> go to the checkout. 0
+paying with a credit card: </s> checkout with credit. </s> go to the checkout. 0
+paying with a credit card: </s> checkout with credit. </s> pull out credit card. 0
+paying with a credit card: </s> get into a shop </s> choose the product 1
+paying with a credit card: </s> take the credit card </s> get into a shop 0
+paying with a credit card: </s> get into a shop </s> swipe your credit card for paying 1
+paying with a credit card: </s> enter the amount </s> get into a shop 0
+paying with a credit card: </s> get into a shop </s> get the statements 1
+paying with a credit card: </s> get into a shop </s> sign the bill 1
+paying with a credit card: </s> get into a shop </s> take the product purchased 1
+paying with a credit card: </s> leave the shop </s> get into a shop 0
+paying with a credit card: </s> choose the product </s> take the credit card 1
+paying with a credit card: </s> swipe your credit card for paying </s> choose the product 0
+paying with a credit card: </s> enter the amount </s> choose the product 0
+paying with a credit card: </s> choose the product </s> get the statements 1
+paying with a credit card: </s> choose the product </s> sign the bill 1
+paying with a credit card: </s> choose the product </s> take the product purchased 1
+paying with a credit card: </s> choose the product </s> leave the shop 1
+paying with a credit card: </s> swipe your credit card for paying </s> take the credit card 0
+paying with a credit card: </s> enter the amount </s> take the credit card 0
+paying with a credit card: </s> take the credit card </s> get the statements 1
+paying with a credit card: </s> sign the bill </s> take the credit card 0
+paying with a credit card: </s> take the product purchased </s> take the credit card 0
+paying with a credit card: </s> take the credit card </s> leave the shop 1
+paying with a credit card: </s> enter the amount </s> swipe your credit card for paying 0
+paying with a credit card: </s> swipe your credit card for paying </s> get the statements 1
+paying with a credit card: </s> swipe your credit card for paying </s> sign the bill 1
+paying with a credit card: </s> swipe your credit card for paying </s> take the product purchased 1
+paying with a credit card: </s> swipe your credit card for paying </s> leave the shop 1
+paying with a credit card: </s> get the statements </s> enter the amount 0
+paying with a credit card: </s> enter the amount </s> sign the bill 1
+paying with a credit card: </s> take the product purchased </s> enter the amount 0
+paying with a credit card: </s> leave the shop </s> enter the amount 0
+paying with a credit card: </s> get the statements </s> sign the bill 1
+paying with a credit card: </s> get the statements </s> take the product purchased 1
+paying with a credit card: </s> get the statements </s> leave the shop 1
+paying with a credit card: </s> sign the bill </s> take the product purchased 1
+paying with a credit card: </s> leave the shop </s> sign the bill 0
+paying with a credit card: </s> take the product purchased </s> leave the shop 1
+paying with a credit card: </s> cashier rings up all your items </s> give you a subtotal 1
+paying with a credit card: </s> cashier rings up all your items </s> slide your card through credit card console 1
+paying with a credit card: </s> cashier rings up all your items </s> click yes that you accept the charges 1
+paying with a credit card: </s> cashier rings up all your items </s> sign your name 1
+paying with a credit card: </s> claim your receipt and goods </s> cashier rings up all your items 0
+paying with a credit card: </s> slide your card through credit card console </s> give you a subtotal 0
+paying with a credit card: </s> give you a subtotal </s> click yes that you accept the charges 1
+paying with a credit card: </s> give you a subtotal </s> sign your name 1
+paying with a credit card: </s> claim your receipt and goods </s> give you a subtotal 0
+paying with a credit card: </s> click yes that you accept the charges </s> slide your card through credit card console 0
+paying with a credit card: </s> slide your card through credit card console </s> sign your name 1
+paying with a credit card: </s> slide your card through credit card console </s> claim your receipt and goods 1
+paying with a credit card: </s> click yes that you accept the charges </s> sign your name 1
+paying with a credit card: </s> click yes that you accept the charges </s> claim your receipt and goods 1
+paying with a credit card: </s> claim your receipt and goods </s> sign your name 0
+paying with a credit card: </s> make sure your price is right </s> pull out your credit 1
+paying with a credit card: </s> either hand you card to the merchant to be swiped, or swipe the card yourself </s> make sure your price is right 0
+paying with a credit card: </s> make sure your price is right </s> type in your pin number or zipcode if prompted 1
+paying with a credit card: </s> make sure your price is right </s> take your receipt 1
+paying with a credit card: </s> make sure your price is right </s> put your card back 1
+paying with a credit card: </s> pull out your credit </s> either hand you card to the merchant to be swiped, or swipe the card yourself 1
+paying with a credit card: </s> type in your pin number or zipcode if prompted </s> pull out your credit 0
+paying with a credit card: </s> take your receipt </s> pull out your credit 0
+paying with a credit card: </s> put your card back </s> pull out your credit 0
+paying with a credit card: </s> either hand you card to the merchant to be swiped, or swipe the card yourself </s> type in your pin number or zipcode if prompted 1
+paying with a credit card: </s> take your receipt </s> either hand you card to the merchant to be swiped, or swipe the card yourself 0
+paying with a credit card: </s> put your card back </s> either hand you card to the merchant to be swiped, or swipe the card yourself 0
+paying with a credit card: </s> take your receipt </s> type in your pin number or zipcode if prompted 0
+paying with a credit card: </s> type in your pin number or zipcode if prompted </s> put your card back 1
+paying with a credit card: </s> put your card back </s> take your receipt 0
+paying with a credit card: </s> take out credit card. </s> swipe card in machine. 1
+paying with a credit card: </s> sign authorization. </s> take out credit card. 0
+paying with a credit card: </s> take receipt. </s> take out credit card. 0
+paying with a credit card: </s> put card and receipt back in wallet. </s> take out credit card. 0
+paying with a credit card: </s> swipe card in machine. </s> sign authorization. 1
+paying with a credit card: </s> swipe card in machine. </s> take receipt. 1
+paying with a credit card: </s> put card and receipt back in wallet. </s> swipe card in machine. 0
+paying with a credit card: </s> sign authorization. </s> take receipt. 1
+paying with a credit card: </s> sign authorization. </s> put card and receipt back in wallet. 1
+paying with a credit card: </s> put card and receipt back in wallet. </s> take receipt. 0
+paying with a credit card: </s> bag items </s> ring up purchases with cashier 0
+paying with a credit card: </s> ring up purchases with cashier </s> swipe credit card 1
+paying with a credit card: </s> wait for cashier to approve transaction </s> ring up purchases with cashier 0
+paying with a credit card: </s> ring up purchases with cashier </s> sign receipt 1
+paying with a credit card: </s> ring up purchases with cashier </s> leave the store 1
+paying with a credit card: </s> bag items </s> swipe credit card 1
+paying with a credit card: </s> bag items </s> wait for cashier to approve transaction 1
+paying with a credit card: </s> bag items </s> sign receipt 1
+paying with a credit card: </s> bag items </s> leave the store 1
+paying with a credit card: </s> swipe credit card </s> wait for cashier to approve transaction 1
+paying with a credit card: </s> sign receipt </s> swipe credit card 0
+paying with a credit card: </s> swipe credit card </s> leave the store 1
+paying with a credit card: </s> sign receipt </s> wait for cashier to approve transaction 0
+paying with a credit card: </s> wait for cashier to approve transaction </s> leave the store 1
+paying with a credit card: </s> sign receipt </s> leave the store 1
+paying with a credit card: </s> pick the product you wish to buy </s> approach the cashier 1
+paying with a credit card: </s> take out your wallet </s> pick the product you wish to buy 0
+paying with a credit card: </s> slide your credit card </s> pick the product you wish to buy 0
+paying with a credit card: </s> collect receipt </s> pick the product you wish to buy 0
+paying with a credit card: </s> pick the product you wish to buy </s> leave the store 1
+paying with a credit card: </s> take out your wallet </s> approach the cashier 0
+paying with a credit card: </s> approach the cashier </s> slide your credit card 1
+paying with a credit card: </s> collect receipt </s> approach the cashier 0
+paying with a credit card: </s> leave the store </s> approach the cashier 0
+paying with a credit card: </s> take out your wallet </s> slide your credit card 1
+paying with a credit card: </s> collect receipt </s> take out your wallet 0
+paying with a credit card: </s> leave the store </s> take out your wallet 0
+paying with a credit card: </s> slide your credit card </s> collect receipt 1
+paying with a credit card: </s> slide your credit card </s> leave the store 1
+paying with a credit card: </s> collect receipt </s> leave the store 1
+paying with a credit card: </s> take wallet out of pocket </s> take credit card out of wallet 1
+paying with a credit card: </s> slide card into machine </s> take wallet out of pocket 0
+paying with a credit card: </s> pick correct options on machine </s> take wallet out of pocket 0
+paying with a credit card: </s> take wallet out of pocket </s> sign your name 1
+paying with a credit card: </s> slide card into machine </s> take credit card out of wallet 0
+paying with a credit card: </s> pick correct options on machine </s> take credit card out of wallet 0
+paying with a credit card: </s> take credit card out of wallet </s> sign your name 1
+paying with a credit card: </s> slide card into machine </s> pick correct options on machine 1
+paying with a credit card: </s> slide card into machine </s> sign your name 1
+paying with a credit card: </s> pick correct options on machine </s> sign your name 1
+paying with a credit card: </s> receive total for items </s> enter point of sale area 0
+paying with a credit card: </s> select the card to pay with </s> enter point of sale area 0
+paying with a credit card: </s> enter point of sale area </s> swipe or hand card over as required 1
+paying with a credit card: </s> sign for charges when prompted </s> enter point of sale area 0
+paying with a credit card: </s> enter point of sale area </s> obtain receipt from business for payment 1
+paying with a credit card: </s> receive total for items </s> select the card to pay with 1
+paying with a credit card: </s> swipe or hand card over as required </s> receive total for items 0
+paying with a credit card: </s> receive total for items </s> sign for charges when prompted 1
+paying with a credit card: </s> receive total for items </s> obtain receipt from business for payment 1
+paying with a credit card: </s> swipe or hand card over as required </s> select the card to pay with 0
+paying with a credit card: </s> select the card to pay with </s> sign for charges when prompted 1
+paying with a credit card: </s> select the card to pay with </s> obtain receipt from business for payment 1
+paying with a credit card: </s> swipe or hand card over as required </s> sign for charges when prompted 1
+paying with a credit card: </s> obtain receipt from business for payment </s> swipe or hand card over as required 0
+paying with a credit card: </s> sign for charges when prompted </s> obtain receipt from business for payment 1
+paying with a credit card: </s> retrieve card </s> put items on cash wrap 0
+paying with a credit card: </s> put items on cash wrap </s> give to cashier 1
+paying with a credit card: </s> put items on cash wrap </s> cashier swipes 1
+paying with a credit card: </s> put items on cash wrap </s> wait for approval 1
+paying with a credit card: </s> sign name </s> put items on cash wrap 0
+paying with a credit card: </s> put items on cash wrap </s> get card back 1
+paying with a credit card: </s> put items on cash wrap </s> get receipt 1
+paying with a credit card: </s> put items on cash wrap </s> leave store 1
+paying with a credit card: </s> retrieve card </s> give to cashier 1
+paying with a credit card: </s> retrieve card </s> cashier swipes 1
+paying with a credit card: </s> retrieve card </s> wait for approval 1
+paying with a credit card: </s> retrieve card </s> sign name 1
+paying with a credit card: </s> retrieve card </s> get card back 1
+paying with a credit card: </s> get receipt </s> retrieve card 0
+paying with a credit card: </s> retrieve card </s> leave store 1
+paying with a credit card: </s> give to cashier </s> cashier swipes 1
+paying with a credit card: </s> wait for approval </s> give to cashier 0
+paying with a credit card: </s> sign name </s> give to cashier 0
+paying with a credit card: </s> get card back </s> give to cashier 0
+paying with a credit card: </s> get receipt </s> give to cashier 0
+paying with a credit card: </s> leave store </s> give to cashier 0
+paying with a credit card: </s> cashier swipes </s> wait for approval 1
+paying with a credit card: </s> cashier swipes </s> sign name 1
+paying with a credit card: </s> get card back </s> cashier swipes 0
+paying with a credit card: </s> get receipt </s> cashier swipes 0
+paying with a credit card: </s> leave store </s> cashier swipes 0
+paying with a credit card: </s> sign name </s> wait for approval 0
+paying with a credit card: </s> wait for approval </s> get card back 1
+paying with a credit card: </s> get receipt </s> wait for approval 0
+paying with a credit card: </s> wait for approval </s> leave store 1
+paying with a credit card: </s> get card back </s> sign name 0
+paying with a credit card: </s> get receipt </s> sign name 0
+paying with a credit card: </s> leave store </s> sign name 0
+paying with a credit card: </s> get card back </s> get receipt 1
+paying with a credit card: </s> leave store </s> get card back 0
+paying with a credit card: </s> get receipt </s> leave store 1
+paying with a credit card: </s> swipe card </s> make purchase 0
+paying with a credit card: </s> sign screen </s> make purchase 0
+paying with a credit card: </s> make purchase </s> get receipt 1
+paying with a credit card: </s> make purchase </s> leave store 1
+paying with a credit card: </s> swipe card </s> sign screen 1
+paying with a credit card: </s> swipe card </s> get receipt 1
+paying with a credit card: </s> leave store </s> swipe card 0
+paying with a credit card: </s> sign screen </s> get receipt 1
+paying with a credit card: </s> leave store </s> sign screen 0
+paying with a credit card: </s> leave store </s> get receipt 0
+paying with a credit card: </s> wait for clerk to tell you your total, </s> tell cashier you are paying with credit. 1
+paying with a credit card: </s> swipe card. </s> wait for clerk to tell you your total, 0
+paying with a credit card: </s> press the button for credit card. </s> wait for clerk to tell you your total, 0
+paying with a credit card: </s> sign receipt. </s> wait for clerk to tell you your total, 0
+paying with a credit card: </s> tell cashier you are paying with credit. </s> swipe card. 1
+paying with a credit card: </s> press the button for credit card. </s> tell cashier you are paying with credit. 0
+paying with a credit card: </s> sign receipt. </s> tell cashier you are paying with credit. 0
+paying with a credit card: </s> swipe card. </s> press the button for credit card. 1
+paying with a credit card: </s> swipe card. </s> sign receipt. 1
+paying with a credit card: </s> press the button for credit card. </s> sign receipt. 1
+paying with a credit card: </s> get in check out line </s> select items to buy 0
+paying with a credit card: </s> select items to buy </s> give items to cashier 1
+paying with a credit card: </s> select items to buy </s> slide credit card into machine 1
+paying with a credit card: </s> sign for purchase </s> select items to buy 0
+paying with a credit card: </s> get bags from cashier </s> select items to buy 0
+paying with a credit card: </s> select items to buy </s> exit store 1
+paying with a credit card: </s> get in check out line </s> give items to cashier 1
+paying with a credit card: </s> get in check out line </s> slide credit card into machine 1
+paying with a credit card: </s> sign for purchase </s> get in check out line 0
+paying with a credit card: </s> get bags from cashier </s> get in check out line 0
+paying with a credit card: </s> exit store </s> get in check out line 0
+paying with a credit card: </s> give items to cashier </s> slide credit card into machine 1
+paying with a credit card: </s> give items to cashier </s> sign for purchase 1
+paying with a credit card: </s> get bags from cashier </s> give items to cashier 0
+paying with a credit card: </s> exit store </s> give items to cashier 0
+paying with a credit card: </s> sign for purchase </s> slide credit card into machine 0
+paying with a credit card: </s> slide credit card into machine </s> get bags from cashier 1
+paying with a credit card: </s> exit store </s> slide credit card into machine 0
+paying with a credit card: </s> get bags from cashier </s> sign for purchase 0
+paying with a credit card: </s> sign for purchase </s> exit store 1
+paying with a credit card: </s> get bags from cashier </s> exit store 1
+paying with a credit card: </s> remove your credit card from your wallet. </s> review your bill for accuracy. 0
+paying with a credit card: </s> review your bill for accuracy. </s> present your credit card as form of payment. 1
+paying with a credit card: </s> review your bill for accuracy. </s> review receipt for accuracy. 1
+paying with a credit card: </s> review your bill for accuracy. </s> sign your name on receipt. 1
+paying with a credit card: </s> review your bill for accuracy. </s> take your copy of the receipt. 1
+paying with a credit card: </s> review your bill for accuracy. </s> place your credit card back into your wallet. 1
+paying with a credit card: </s> remove your credit card from your wallet. </s> present your credit card as form of payment. 1
+paying with a credit card: </s> remove your credit card from your wallet. </s> review receipt for accuracy. 1
+paying with a credit card: </s> sign your name on receipt. </s> remove your credit card from your wallet. 0
+paying with a credit card: </s> take your copy of the receipt. </s> remove your credit card from your wallet. 0
+paying with a credit card: </s> remove your credit card from your wallet. </s> place your credit card back into your wallet. 1
+paying with a credit card: </s> present your credit card as form of payment. </s> review receipt for accuracy. 1
+paying with a credit card: </s> present your credit card as form of payment. </s> sign your name on receipt. 1
+paying with a credit card: </s> take your copy of the receipt. </s> present your credit card as form of payment. 0
+paying with a credit card: </s> present your credit card as form of payment. </s> place your credit card back into your wallet. 1
+paying with a credit card: </s> sign your name on receipt. </s> review receipt for accuracy. 0
+paying with a credit card: </s> review receipt for accuracy. </s> take your copy of the receipt. 1
+paying with a credit card: </s> place your credit card back into your wallet. </s> review receipt for accuracy. 0
+paying with a credit card: </s> take your copy of the receipt. </s> sign your name on receipt. 0
+paying with a credit card: </s> sign your name on receipt. </s> place your credit card back into your wallet. 1
+paying with a credit card: </s> take your copy of the receipt. </s> place your credit card back into your wallet. 1
+paying with a credit card: </s> provide the credit card to the seller </s> check the amount, how much we need to pay for our shopping 1
+paying with a credit card: </s> check the transfer amount and enter the pin number </s> provide the credit card to the seller 0
+paying with a credit card: </s> collect the bill for money transfer </s> provide the credit card to the seller 0
+paying with a credit card: </s> provide the credit card to the seller </s> make sure the amount was transferred correctly 1
+paying with a credit card: </s> keep the credit card at safely while moving from that place </s> provide the credit card to the seller 0
+paying with a credit card: </s> check the transfer amount and enter the pin number </s> check the amount, how much we need to pay for our shopping 0
+paying with a credit card: </s> check the amount, how much we need to pay for our shopping </s> collect the bill for money transfer 1
+paying with a credit card: </s> make sure the amount was transferred correctly </s> check the amount, how much we need to pay for our shopping 0
+paying with a credit card: </s> keep the credit card at safely while moving from that place </s> check the amount, how much we need to pay for our shopping 0
+paying with a credit card: </s> check the transfer amount and enter the pin number </s> collect the bill for money transfer 1
+paying with a credit card: </s> make sure the amount was transferred correctly </s> check the transfer amount and enter the pin number 0
+paying with a credit card: </s> check the transfer amount and enter the pin number </s> keep the credit card at safely while moving from that place 1
+paying with a credit card: </s> collect the bill for money transfer </s> make sure the amount was transferred correctly 1
+paying with a credit card: </s> collect the bill for money transfer </s> keep the credit card at safely while moving from that place 1
+paying with a credit card: </s> make sure the amount was transferred correctly </s> keep the credit card at safely while moving from that place 1
+paying with a credit card: </s> take out your wallet </s> find your card 1
+paying with a credit card: </s> present or swipe your card </s> take out your wallet 0
+paying with a credit card: </s> verify the total </s> take out your wallet 0
+paying with a credit card: </s> take out your wallet </s> sign the receipt 1
+paying with a credit card: </s> take your copy of the receipt </s> take out your wallet 0
+paying with a credit card: </s> find your card </s> present or swipe your card 1
+paying with a credit card: </s> verify the total </s> find your card 0
+paying with a credit card: </s> find your card </s> sign the receipt 1
+paying with a credit card: </s> find your card </s> take your copy of the receipt 1
+paying with a credit card: </s> present or swipe your card </s> verify the total 1
+paying with a credit card: </s> sign the receipt </s> present or swipe your card 0
+paying with a credit card: </s> take your copy of the receipt </s> present or swipe your card 0
+paying with a credit card: </s> sign the receipt </s> verify the total 0
+paying with a credit card: </s> take your copy of the receipt </s> verify the total 0
+paying with a credit card: </s> sign the receipt </s> take your copy of the receipt 1
+paying with a credit card: </s> pull credit card out </s> open wallet 0
+paying with a credit card: </s> open wallet </s> swipe my card 1
+paying with a credit card: </s> open wallet </s> put in my pin number 1
+paying with a credit card: </s> open wallet </s> put card back in my wallet 1
+paying with a credit card: </s> put wallet in pocket </s> open wallet 0
+paying with a credit card: </s> pull credit card out </s> swipe my card 1
+paying with a credit card: </s> put in my pin number </s> pull credit card out 0
+paying with a credit card: </s> pull credit card out </s> put card back in my wallet 1
+paying with a credit card: </s> pull credit card out </s> put wallet in pocket 1
+paying with a credit card: </s> put in my pin number </s> swipe my card 0
+paying with a credit card: </s> swipe my card </s> put card back in my wallet 1
+paying with a credit card: </s> swipe my card </s> put wallet in pocket 1
+paying with a credit card: </s> put in my pin number </s> put card back in my wallet 1
+paying with a credit card: </s> put wallet in pocket </s> put in my pin number 0
+paying with a credit card: </s> put wallet in pocket </s> put card back in my wallet 0
+paying with a credit card: </s> select items to purchase. </s> when asked if you are paying with credit or debit, choose credit. 1
+paying with a credit card: </s> select items to purchase. </s> input credit card type (visa, mastercard, etc) if asked. 1
+paying with a credit card: </s> select items to purchase. </s> enter pin number if required. 1
+paying with a credit card: </s> select items to purchase. </s> keep receipt from purchase for record-keeping. 1
+paying with a credit card: </s> input credit card type (visa, mastercard, etc) if asked. </s> when asked if you are paying with credit or debit, choose credit. 0
+paying with a credit card: </s> when asked if you are paying with credit or debit, choose credit. </s> enter pin number if required. 1
+paying with a credit card: </s> keep receipt from purchase for record-keeping. </s> when asked if you are paying with credit or debit, choose credit. 0
+paying with a credit card: </s> input credit card type (visa, mastercard, etc) if asked. </s> enter pin number if required. 1
+paying with a credit card: </s> keep receipt from purchase for record-keeping. </s> input credit card type (visa, mastercard, etc) if asked. 0
+paying with a credit card: </s> enter pin number if required. </s> keep receipt from purchase for record-keeping. 1
+paying with a credit card: </s> place items in front of cashier </s> look for cash register 0
+paying with a credit card: </s> look for cash register </s> wait until cashier is finished ringing up items 1
+paying with a credit card: </s> look for cash register </s> swipe credit card 1
+paying with a credit card: </s> show cashier identification and credit card </s> look for cash register 0
+paying with a credit card: </s> sign name on machine when prompted </s> look for cash register 0
+paying with a credit card: </s> wait until cashier is finished ringing up items </s> place items in front of cashier 0
+paying with a credit card: </s> swipe credit card </s> place items in front of cashier 0
+paying with a credit card: </s> show cashier identification and credit card </s> place items in front of cashier 0
+paying with a credit card: </s> sign name on machine when prompted </s> place items in front of cashier 0
+paying with a credit card: </s> swipe credit card </s> wait until cashier is finished ringing up items 0
+paying with a credit card: </s> wait until cashier is finished ringing up items </s> show cashier identification and credit card 1
+paying with a credit card: </s> sign name on machine when prompted </s> wait until cashier is finished ringing up items 0
+paying with a credit card: </s> show cashier identification and credit card </s> swipe credit card 0
+paying with a credit card: </s> sign name on machine when prompted </s> swipe credit card 0
+paying with a credit card: </s> sign name on machine when prompted </s> show cashier identification and credit card 0
+paying with a credit card: </s> take credit card from wallet </s> swipe the card in the card reader 1
+paying with a credit card: </s> when prompted, sign on card reader screen using finger as pen </s> take credit card from wallet 0
+paying with a credit card: </s> take credit card from wallet </s> remove paper receipt from printer 1
+paying with a credit card: </s> examine receipt for accuracy </s> take credit card from wallet 0
+paying with a credit card: </s> walk away. </s> take credit card from wallet 0
+paying with a credit card: </s> when prompted, sign on card reader screen using finger as pen </s> swipe the card in the card reader 0
+paying with a credit card: </s> remove paper receipt from printer </s> swipe the card in the card reader 0
+paying with a credit card: </s> swipe the card in the card reader </s> examine receipt for accuracy 1
+paying with a credit card: </s> swipe the card in the card reader </s> walk away. 1
+paying with a credit card: </s> when prompted, sign on card reader screen using finger as pen </s> remove paper receipt from printer 1
+paying with a credit card: </s> when prompted, sign on card reader screen using finger as pen </s> examine receipt for accuracy 1
+paying with a credit card: </s> when prompted, sign on card reader screen using finger as pen </s> walk away. 1
+paying with a credit card: </s> remove paper receipt from printer </s> examine receipt for accuracy 1
+paying with a credit card: </s> walk away. </s> remove paper receipt from printer 0
+paying with a credit card: </s> examine receipt for accuracy </s> walk away. 1
+paying with a credit card: </s> take out credit card </s> walk to cashier or automated teller 0
+paying with a credit card: </s> swipe card </s> walk to cashier or automated teller 0
+paying with a credit card: </s> enter password </s> walk to cashier or automated teller 0
+paying with a credit card: </s> walk to cashier or automated teller </s> approve fee 1
+paying with a credit card: </s> walk to cashier or automated teller </s> get receipt 1
+paying with a credit card: </s> depart with purchases </s> walk to cashier or automated teller 0
+paying with a credit card: </s> take out credit card </s> swipe card 1
+paying with a credit card: </s> take out credit card </s> enter password 1
+paying with a credit card: </s> take out credit card </s> approve fee 1
+paying with a credit card: </s> get receipt </s> take out credit card 0
+paying with a credit card: </s> take out credit card </s> depart with purchases 1
+paying with a credit card: </s> swipe card </s> enter password 1
+paying with a credit card: </s> swipe card </s> approve fee 1
+paying with a credit card: </s> get receipt </s> swipe card 0
+paying with a credit card: </s> swipe card </s> depart with purchases 1
+paying with a credit card: </s> approve fee </s> enter password 0
+paying with a credit card: </s> get receipt </s> enter password 0
+paying with a credit card: </s> depart with purchases </s> enter password 0
+paying with a credit card: </s> approve fee </s> get receipt 1
+paying with a credit card: </s> depart with purchases </s> approve fee 0
+paying with a credit card: </s> depart with purchases </s> get receipt 0
+paying with a credit card: </s> swipe your card through the card machine </s> present your card to make payment 0
+paying with a credit card: </s> present your card to make payment </s> enter your pin 1
+paying with a credit card: </s> confirm the payment </s> present your card to make payment 0
+paying with a credit card: </s> sign your receipt </s> present your card to make payment 0
+paying with a credit card: </s> swipe your card through the card machine </s> enter your pin 1
+paying with a credit card: </s> swipe your card through the card machine </s> confirm the payment 1
+paying with a credit card: </s> swipe your card through the card machine </s> sign your receipt 1
+paying with a credit card: </s> enter your pin </s> confirm the payment 1
+paying with a credit card: </s> enter your pin </s> sign your receipt 1
+paying with a credit card: </s> confirm the payment </s> sign your receipt 1
+paying with a credit card: </s> get your card out </s> slide it in the machine 1
+paying with a credit card: </s> wait than sign your name in box </s> get your card out 0
+paying with a credit card: </s> put your card away </s> get your card out 0
+paying with a credit card: </s> take your receipt </s> get your card out 0
+paying with a credit card: </s> slide it in the machine </s> wait than sign your name in box 1
+paying with a credit card: </s> slide it in the machine </s> put your card away 1
+paying with a credit card: </s> take your receipt </s> slide it in the machine 0
+paying with a credit card: </s> put your card away </s> wait than sign your name in box 0
+paying with a credit card: </s> take your receipt </s> wait than sign your name in box 0
+paying with a credit card: </s> take your receipt </s> put your card away 0
+paying with a credit card: </s> go to where you are buying an item </s> get your credit card out of wallet 1
+paying with a credit card: </s> swipe through the credit card machine </s> go to where you are buying an item 0
+paying with a credit card: </s> wait for cashier to give you a receipt to sign </s> go to where you are buying an item 0
+paying with a credit card: </s> go to where you are buying an item </s> sign the credit card reciept 1
+paying with a credit card: </s> go to where you are buying an item </s> give back signed receipt to clerk and leave 1
+paying with a credit card: </s> swipe through the credit card machine </s> get your credit card out of wallet 0
+paying with a credit card: </s> wait for cashier to give you a receipt to sign </s> get your credit card out of wallet 0
+paying with a credit card: </s> sign the credit card reciept </s> get your credit card out of wallet 0
+paying with a credit card: </s> give back signed receipt to clerk and leave </s> get your credit card out of wallet 0
+paying with a credit card: </s> wait for cashier to give you a receipt to sign </s> swipe through the credit card machine 0
+paying with a credit card: </s> swipe through the credit card machine </s> sign the credit card reciept 1
+paying with a credit card: </s> give back signed receipt to clerk and leave </s> swipe through the credit card machine 0
+paying with a credit card: </s> sign the credit card reciept </s> wait for cashier to give you a receipt to sign 0
+paying with a credit card: </s> wait for cashier to give you a receipt to sign </s> give back signed receipt to clerk and leave 1
+paying with a credit card: </s> give back signed receipt to clerk and leave </s> sign the credit card reciept 0
+paying with a credit card: </s> get bill </s> hand over credit card 1
+paying with a credit card: </s> let cashier swipe credit card </s> get bill 0
+paying with a credit card: </s> get bill </s> when receipt printed sign it 1
+paying with a credit card: </s> hand receipt to cashier </s> get bill 0
+paying with a credit card: </s> get bill </s> get credit card back from cashier 1
+paying with a credit card: </s> get customer copy of receipt back from cashier </s> get bill 0
+paying with a credit card: </s> let cashier swipe credit card </s> hand over credit card 0
+paying with a credit card: </s> when receipt printed sign it </s> hand over credit card 0
+paying with a credit card: </s> hand receipt to cashier </s> hand over credit card 0
+paying with a credit card: </s> get credit card back from cashier </s> hand over credit card 0
+paying with a credit card: </s> hand over credit card </s> get customer copy of receipt back from cashier 1
+paying with a credit card: </s> when receipt printed sign it </s> let cashier swipe credit card 0
+paying with a credit card: </s> hand receipt to cashier </s> let cashier swipe credit card 0
+paying with a credit card: </s> get credit card back from cashier </s> let cashier swipe credit card 0
+paying with a credit card: </s> get customer copy of receipt back from cashier </s> let cashier swipe credit card 0
+paying with a credit card: </s> when receipt printed sign it </s> hand receipt to cashier 1
+paying with a credit card: </s> get credit card back from cashier </s> when receipt printed sign it 0
+paying with a credit card: </s> when receipt printed sign it </s> get customer copy of receipt back from cashier 1
+paying with a credit card: </s> hand receipt to cashier </s> get credit card back from cashier 1
+paying with a credit card: </s> hand receipt to cashier </s> get customer copy of receipt back from cashier 1
+paying with a credit card: </s> get customer copy of receipt back from cashier </s> get credit card back from cashier 0
+paying with a credit card: </s> drive to store </s> choose items you want to purchase 1
+paying with a credit card: </s> take items to checkout isle </s> drive to store 0
+paying with a credit card: </s> after total is told to you slide card on credit card machine </s> drive to store 0
+paying with a credit card: </s> answer questions as prompted by machine </s> drive to store 0
+paying with a credit card: </s> receive receipt </s> drive to store 0
+paying with a credit card: </s> drive to store </s> take items 1
+paying with a credit card: </s> drive home </s> drive to store 0
+paying with a credit card: </s> choose items you want to purchase </s> take items to checkout isle 1
+paying with a credit card: </s> choose items you want to purchase </s> after total is told to you slide card on credit card machine 1
+paying with a credit card: </s> answer questions as prompted by machine </s> choose items you want to purchase 0
+paying with a credit card: </s> choose items you want to purchase </s> receive receipt 1
+paying with a credit card: </s> take items </s> choose items you want to purchase 0
+paying with a credit card: </s> choose items you want to purchase </s> drive home 1
+paying with a credit card: </s> after total is told to you slide card on credit card machine </s> take items to checkout isle 0
+paying with a credit card: </s> answer questions as prompted by machine </s> take items to checkout isle 0
+paying with a credit card: </s> receive receipt </s> take items to checkout isle 0
+paying with a credit card: </s> take items to checkout isle </s> take items 1
+paying with a credit card: </s> take items to checkout isle </s> drive home 1
+paying with a credit card: </s> answer questions as prompted by machine </s> after total is told to you slide card on credit card machine 0
+paying with a credit card: </s> receive receipt </s> after total is told to you slide card on credit card machine 0
+paying with a credit card: </s> take items </s> after total is told to you slide card on credit card machine 0
+paying with a credit card: </s> drive home </s> after total is told to you slide card on credit card machine 0
+paying with a credit card: </s> receive receipt </s> answer questions as prompted by machine 0
+paying with a credit card: </s> take items </s> answer questions as prompted by machine 0
+paying with a credit card: </s> drive home </s> answer questions as prompted by machine 0
+paying with a credit card: </s> receive receipt </s> take items 1
+paying with a credit card: </s> drive home </s> receive receipt 0
+paying with a credit card: </s> drive home </s> take items 0
+paying with a credit card: </s> swipe the card </s> take out the credit card 0
+paying with a credit card: </s> wait for the clerk to do things </s> take out the credit card 0
+paying with a credit card: </s> hit the ok button or sign </s> take out the credit card 0
+paying with a credit card: </s> take out the credit card </s> take receipt 1
+paying with a credit card: </s> wait for the clerk to do things </s> swipe the card 0
+paying with a credit card: </s> swipe the card </s> hit the ok button or sign 1
+paying with a credit card: </s> take receipt </s> swipe the card 0
+paying with a credit card: </s> hit the ok button or sign </s> wait for the clerk to do things 0
+paying with a credit card: </s> wait for the clerk to do things </s> take receipt 1
+paying with a credit card: </s> take receipt </s> hit the ok button or sign 0
+paying with a credit card: </s> hand credit card to cashier </s> get credit card out of wallet 0
+paying with a credit card: </s> get credit card out of wallet </s> wait for cashier to give credit card back 1
+paying with a credit card: </s> get credit card out of wallet </s> sign credit card slip given to me by cashier 1
+paying with a credit card: </s> get credit card out of wallet </s> put credit card back in wallet 1
+paying with a credit card: </s> wait for cashier to give credit card back </s> hand credit card to cashier 0
+paying with a credit card: </s> hand credit card to cashier </s> sign credit card slip given to me by cashier 1
+paying with a credit card: </s> put credit card back in wallet </s> hand credit card to cashier 0
+paying with a credit card: </s> wait for cashier to give credit card back </s> sign credit card slip given to me by cashier 1
+paying with a credit card: </s> wait for cashier to give credit card back </s> put credit card back in wallet 1
+paying with a credit card: </s> put credit card back in wallet </s> sign credit card slip given to me by cashier 0
+paying with a credit card: </s> picking out product to buy </s> going to the store 0
+paying with a credit card: </s> going to check out </s> going to the store 0
+paying with a credit card: </s> going to the store </s> handing card to cashier 1
+paying with a credit card: </s> going to the store </s> signing for purchase 1
+paying with a credit card: </s> taking product </s> going to the store 0
+paying with a credit card: </s> going to the store </s> leaving the store 1
+paying with a credit card: </s> picking out product to buy </s> going to check out 1
+paying with a credit card: </s> picking out product to buy </s> handing card to cashier 1
+paying with a credit card: </s> signing for purchase </s> picking out product to buy 0
+paying with a credit card: </s> taking product </s> picking out product to buy 0
+paying with a credit card: </s> leaving the store </s> picking out product to buy 0
+paying with a credit card: </s> going to check out </s> handing card to cashier 1
+paying with a credit card: </s> going to check out </s> signing for purchase 1
+paying with a credit card: </s> taking product </s> going to check out 0
+paying with a credit card: </s> going to check out </s> leaving the store 1
+paying with a credit card: </s> signing for purchase </s> handing card to cashier 0
+paying with a credit card: </s> handing card to cashier </s> taking product 1
+paying with a credit card: </s> leaving the store </s> handing card to cashier 0
+paying with a credit card: </s> signing for purchase </s> taking product 1
+paying with a credit card: </s> signing for purchase </s> leaving the store 1
+paying with a credit card: </s> leaving the store </s> taking product 0
+paying with a credit card: </s> pull out your credit card </s> hand it to the cashier 1
+paying with a credit card: </s> wait for the clerk to swipe it </s> pull out your credit card 0
+paying with a credit card: </s> pull out your credit card </s> sign the slip of paper 1
+paying with a credit card: </s> get the card back from the cashier </s> pull out your credit card 0
+paying with a credit card: </s> pull out your credit card </s> take your item that you bought and leave 1
+paying with a credit card: </s> wait for the clerk to swipe it </s> hand it to the cashier 0
+paying with a credit card: </s> hand it to the cashier </s> sign the slip of paper 1
+paying with a credit card: </s> get the card back from the cashier </s> hand it to the cashier 0
+paying with a credit card: </s> hand it to the cashier </s> take your item that you bought and leave 1
+paying with a credit card: </s> wait for the clerk to swipe it </s> sign the slip of paper 1
+paying with a credit card: </s> wait for the clerk to swipe it </s> get the card back from the cashier 1
+paying with a credit card: </s> take your item that you bought and leave </s> wait for the clerk to swipe it 0
+paying with a credit card: </s> sign the slip of paper </s> get the card back from the cashier 1
+paying with a credit card: </s> take your item that you bought and leave </s> sign the slip of paper 0
+paying with a credit card: </s> take your item that you bought and leave </s> get the card back from the cashier 0
+paying with a credit card: </s> enter store </s> choose a product 1
+paying with a credit card: </s> enter store </s> go to cashier 1
+paying with a credit card: </s> give credit card </s> enter store 0
+paying with a credit card: </s> enter your pin </s> enter store 0
+paying with a credit card: </s> take credit card </s> enter store 0
+paying with a credit card: </s> enter store </s> get bill 1
+paying with a credit card: </s> enter store </s> leave with product 1
+paying with a credit card: </s> go to cashier </s> choose a product 0
+paying with a credit card: </s> give credit card </s> choose a product 0
+paying with a credit card: </s> enter your pin </s> choose a product 0
+paying with a credit card: </s> choose a product </s> take credit card 1
+paying with a credit card: </s> get bill </s> choose a product 0
+paying with a credit card: </s> leave with product </s> choose a product 0
+paying with a credit card: </s> give credit card </s> go to cashier 0
+paying with a credit card: </s> enter your pin </s> go to cashier 0
+paying with a credit card: </s> go to cashier </s> take credit card 1
+paying with a credit card: </s> go to cashier </s> get bill 1
+paying with a credit card: </s> leave with product </s> go to cashier 0
+paying with a credit card: </s> give credit card </s> enter your pin 1
+paying with a credit card: </s> give credit card </s> take credit card 1
+paying with a credit card: </s> get bill </s> give credit card 0
+paying with a credit card: </s> leave with product </s> give credit card 0
+paying with a credit card: </s> enter your pin </s> take credit card 1
+paying with a credit card: </s> get bill </s> enter your pin 0
+paying with a credit card: </s> enter your pin </s> leave with product 1
+paying with a credit card: </s> take credit card </s> get bill 1
+paying with a credit card: </s> take credit card </s> leave with product 1
+paying with a credit card: </s> leave with product </s> get bill 0
+paying with a credit card: </s> give item to cashier </s> bring item up to buy 0
+paying with a credit card: </s> bring item up to buy </s> wait for the cashier to say the total 1
+paying with a credit card: </s> bring item up to buy </s> get credit card out of purse/wallet 1
+paying with a credit card: </s> bring item up to buy </s> give it to the cashier 1
+paying with a credit card: </s> bring item up to buy </s> receive back items and card 1
+paying with a credit card: </s> wait for the cashier to say the total </s> give item to cashier 0
+paying with a credit card: </s> give item to cashier </s> get credit card out of purse/wallet 1
+paying with a credit card: </s> give item to cashier </s> give it to the cashier 1
+paying with a credit card: </s> give item to cashier </s> receive back items and card 1
+paying with a credit card: </s> get credit card out of purse/wallet </s> wait for the cashier to say the total 0
+paying with a credit card: </s> wait for the cashier to say the total </s> give it to the cashier 1
+paying with a credit card: </s> wait for the cashier to say the total </s> receive back items and card 1
+paying with a credit card: </s> get credit card out of purse/wallet </s> give it to the cashier 1
+paying with a credit card: </s> receive back items and card </s> get credit card out of purse/wallet 0
+paying with a credit card: </s> receive back items and card </s> give it to the cashier 0
+paying with a credit card: </s> order an item </s> pull out wallet 1
+paying with a credit card: </s> pull out credit card from wallet </s> order an item 0
+paying with a credit card: </s> swipe on the credit card machine </s> order an item 0
+paying with a credit card: </s> insert the pin number </s> order an item 0
+paying with a credit card: </s> order an item </s> answer if you want cash back or not 1
+paying with a credit card: </s> place credit card back in wallet </s> order an item 0
+paying with a credit card: </s> order an item </s> place wallet back in pocket 1
+paying with a credit card: </s> pull out credit card from wallet </s> pull out wallet 0
+paying with a credit card: </s> pull out wallet </s> swipe on the credit card machine 1
+paying with a credit card: </s> insert the pin number </s> pull out wallet 0
+paying with a credit card: </s> pull out wallet </s> answer if you want cash back or not 1
+paying with a credit card: </s> pull out wallet </s> place credit card back in wallet 1
+paying with a credit card: </s> place wallet back in pocket </s> pull out wallet 0
+paying with a credit card: </s> swipe on the credit card machine </s> pull out credit card from wallet 0
+paying with a credit card: </s> pull out credit card from wallet </s> insert the pin number 1
+paying with a credit card: </s> pull out credit card from wallet </s> answer if you want cash back or not 1
+paying with a credit card: </s> place credit card back in wallet </s> pull out credit card from wallet 0
+paying with a credit card: </s> place wallet back in pocket </s> pull out credit card from wallet 0
+paying with a credit card: </s> swipe on the credit card machine </s> insert the pin number 1
+paying with a credit card: </s> swipe on the credit card machine </s> answer if you want cash back or not 1
+paying with a credit card: </s> swipe on the credit card machine </s> place credit card back in wallet 1
+paying with a credit card: </s> swipe on the credit card machine </s> place wallet back in pocket 1
+paying with a credit card: </s> answer if you want cash back or not </s> insert the pin number 0
+paying with a credit card: </s> insert the pin number </s> place credit card back in wallet 1
+paying with a credit card: </s> place wallet back in pocket </s> insert the pin number 0
+paying with a credit card: </s> place credit card back in wallet </s> answer if you want cash back or not 0
+paying with a credit card: </s> answer if you want cash back or not </s> place wallet back in pocket 1
+paying with a credit card: </s> place credit card back in wallet </s> place wallet back in pocket 1
+paying with a credit card: </s> go to store </s> pick out item you wish to purchase 1
+paying with a credit card: </s> take item to checkout counter </s> go to store 0
+paying with a credit card: </s> go to store </s> give cashier your credit card 1
+paying with a credit card: </s> sign receipt and get card back </s> go to store 0
+paying with a credit card: </s> take item and your copy of receipt </s> go to store 0
+paying with a credit card: </s> leave store </s> go to store 0
+paying with a credit card: </s> take item to checkout counter </s> pick out item you wish to purchase 0
+paying with a credit card: </s> give cashier your credit card </s> pick out item you wish to purchase 0
+paying with a credit card: </s> pick out item you wish to purchase </s> sign receipt and get card back 1
+paying with a credit card: </s> take item and your copy of receipt </s> pick out item you wish to purchase 0
+paying with a credit card: </s> leave store </s> pick out item you wish to purchase 0
+paying with a credit card: </s> give cashier your credit card </s> take item to checkout counter 0
+paying with a credit card: </s> take item to checkout counter </s> sign receipt and get card back 1
+paying with a credit card: </s> take item and your copy of receipt </s> take item to checkout counter 0
+paying with a credit card: </s> leave store </s> take item to checkout counter 0
+paying with a credit card: </s> give cashier your credit card </s> sign receipt and get card back 1
+paying with a credit card: </s> give cashier your credit card </s> take item and your copy of receipt 1
+paying with a credit card: </s> give cashier your credit card </s> leave store 1
+paying with a credit card: </s> sign receipt and get card back </s> take item and your copy of receipt 1
+paying with a credit card: </s> leave store </s> sign receipt and get card back 0
+paying with a credit card: </s> take item and your copy of receipt </s> leave store 1
+paying with a credit card: </s> swipe card in available scanner. </s> remove card from wallet/purse. 0
+paying with a credit card: </s> remove card from wallet/purse. </s> approve the total. 1
+paying with a credit card: </s> hit okay. </s> remove card from wallet/purse. 0
+paying with a credit card: </s> sign receipt. </s> remove card from wallet/purse. 0
+paying with a credit card: </s> grab copy for your records. </s> remove card from wallet/purse. 0
+paying with a credit card: </s> place card back in wallet/purse. </s> remove card from wallet/purse. 0
+paying with a credit card: </s> approve the total. </s> swipe card in available scanner. 0
+paying with a credit card: </s> swipe card in available scanner. </s> hit okay. 1
+paying with a credit card: </s> swipe card in available scanner. </s> sign receipt. 1
+paying with a credit card: </s> swipe card in available scanner. </s> grab copy for your records. 1
+paying with a credit card: </s> swipe card in available scanner. </s> place card back in wallet/purse. 1
+paying with a credit card: </s> approve the total. </s> hit okay. 1
+paying with a credit card: </s> approve the total. </s> sign receipt. 1
+paying with a credit card: </s> grab copy for your records. </s> approve the total. 0
+paying with a credit card: </s> place card back in wallet/purse. </s> approve the total. 0
+paying with a credit card: </s> hit okay. </s> sign receipt. 1
+paying with a credit card: </s> hit okay. </s> grab copy for your records. 1
+paying with a credit card: </s> hit okay. </s> place card back in wallet/purse. 1
+paying with a credit card: </s> sign receipt. </s> grab copy for your records. 1
+paying with a credit card: </s> place card back in wallet/purse. </s> sign receipt. 0
+paying with a credit card: </s> grab copy for your records. </s> place card back in wallet/purse. 1
+paying with a credit card: </s> decide what to purchase </s> get my wallet out 1
+paying with a credit card: </s> decide what to purchase </s> take out my credit card 1
+paying with a credit card: </s> decide what to purchase </s> swipe my credit card 1
+paying with a credit card: </s> put my credit card back in my wallet </s> decide what to purchase 0
+paying with a credit card: </s> put my wallet back in my pants </s> decide what to purchase 0
+paying with a credit card: </s> get my wallet out </s> take out my credit card 1
+paying with a credit card: </s> get my wallet out </s> swipe my credit card 1
+paying with a credit card: </s> get my wallet out </s> put my credit card back in my wallet 1
+paying with a credit card: </s> get my wallet out </s> put my wallet back in my pants 1
+paying with a credit card: </s> swipe my credit card </s> take out my credit card 0
+paying with a credit card: </s> take out my credit card </s> put my credit card back in my wallet 1
+paying with a credit card: </s> put my wallet back in my pants </s> take out my credit card 0
+paying with a credit card: </s> swipe my credit card </s> put my credit card back in my wallet 1
+paying with a credit card: </s> swipe my credit card </s> put my wallet back in my pants 1
+paying with a credit card: </s> put my wallet back in my pants </s> put my credit card back in my wallet 0
+paying with a credit card: </s> select debit or credit </s> run card through machine 0
+paying with a credit card: </s> if debit, enter pin </s> run card through machine 0
+paying with a credit card: </s> sign the machine </s> run card through machine 0
+paying with a credit card: </s> run card through machine </s> press enter 1
+paying with a credit card: </s> run card through machine </s> wait for receipt 1
+paying with a credit card: </s> select debit or credit </s> if debit, enter pin 1
+paying with a credit card: </s> sign the machine </s> select debit or credit 0
+paying with a credit card: </s> select debit or credit </s> press enter 1
+paying with a credit card: </s> wait for receipt </s> select debit or credit 0
+paying with a credit card: </s> sign the machine </s> if debit, enter pin 0
+paying with a credit card: </s> press enter </s> if debit, enter pin 0
+paying with a credit card: </s> if debit, enter pin </s> wait for receipt 1
+paying with a credit card: </s> sign the machine </s> press enter 1
+paying with a credit card: </s> wait for receipt </s> sign the machine 0
+paying with a credit card: </s> wait for receipt </s> press enter 0
+paying with a credit card: </s> take card from wallet. </s> swipe card in the machine. 1
+paying with a credit card: </s> answer any question the machine asks. </s> take card from wallet. 0
+paying with a credit card: </s> press enter to confirm purchase. </s> take card from wallet. 0
+paying with a credit card: </s> take card from wallet. </s> wait for recipt. 1
+paying with a credit card: </s> answer any question the machine asks. </s> swipe card in the machine. 0
+paying with a credit card: </s> press enter to confirm purchase. </s> swipe card in the machine. 0
+paying with a credit card: </s> wait for recipt. </s> swipe card in the machine. 0
+paying with a credit card: </s> answer any question the machine asks. </s> press enter to confirm purchase. 1
+paying with a credit card: </s> wait for recipt. </s> answer any question the machine asks. 0
+paying with a credit card: </s> wait for recipt. </s> press enter to confirm purchase. 0
+paying with a credit card: </s> walk to checkout </s> put items on counter 1
+paying with a credit card: </s> walk to checkout </s> cashier rings up and bags items 1
+paying with a credit card: </s> walk to checkout </s> look at your total on the card machine 1
+paying with a credit card: </s> walk to checkout </s> confirm it is the correct total 1
+paying with a credit card: </s> slide your credit card in the indicated direction </s> walk to checkout 0
+paying with a credit card: </s> sign your name when prompted </s> walk to checkout 0
+paying with a credit card: </s> walk to checkout </s> take items and receipt from cashier 1
+paying with a credit card: </s> leave store </s> walk to checkout 0
+paying with a credit card: </s> cashier rings up and bags items </s> put items on counter 0
+paying with a credit card: </s> look at your total on the card machine </s> put items on counter 0
+paying with a credit card: </s> confirm it is the correct total </s> put items on counter 0
+paying with a credit card: </s> put items on counter </s> slide your credit card in the indicated direction 1
+paying with a credit card: </s> sign your name when prompted </s> put items on counter 0
+paying with a credit card: </s> put items on counter </s> take items and receipt from cashier 1
+paying with a credit card: </s> leave store </s> put items on counter 0
+paying with a credit card: </s> look at your total on the card machine </s> cashier rings up and bags items 0
+paying with a credit card: </s> confirm it is the correct total </s> cashier rings up and bags items 0
+paying with a credit card: </s> cashier rings up and bags items </s> slide your credit card in the indicated direction 1
+paying with a credit card: </s> cashier rings up and bags items </s> sign your name when prompted 1
+paying with a credit card: </s> take items and receipt from cashier </s> cashier rings up and bags items 0
+paying with a credit card: </s> leave store </s> cashier rings up and bags items 0
+paying with a credit card: </s> confirm it is the correct total </s> look at your total on the card machine 0
+paying with a credit card: </s> look at your total on the card machine </s> slide your credit card in the indicated direction 1
+paying with a credit card: </s> look at your total on the card machine </s> sign your name when prompted 1
+paying with a credit card: </s> look at your total on the card machine </s> take items and receipt from cashier 1
+paying with a credit card: </s> leave store </s> look at your total on the card machine 0
+paying with a credit card: </s> slide your credit card in the indicated direction </s> confirm it is the correct total 0
+paying with a credit card: </s> sign your name when prompted </s> confirm it is the correct total 0
+paying with a credit card: </s> take items and receipt from cashier </s> confirm it is the correct total 0
+paying with a credit card: </s> leave store </s> confirm it is the correct total 0
+paying with a credit card: </s> sign your name when prompted </s> slide your credit card in the indicated direction 0
+paying with a credit card: </s> slide your credit card in the indicated direction </s> take items and receipt from cashier 1
+paying with a credit card: </s> leave store </s> slide your credit card in the indicated direction 0
+paying with a credit card: </s> sign your name when prompted </s> take items and receipt from cashier 1
+paying with a credit card: </s> leave store </s> sign your name when prompted 0
+paying with a credit card: </s> leave store </s> take items and receipt from cashier 0
+paying with a credit card: </s> check total </s> grab wallet 1
+paying with a credit card: </s> check total </s> find card 1
+paying with a credit card: </s> check total </s> swipe card 1
+paying with a credit card: </s> check total </s> sign on screen 1
+paying with a credit card: </s> check total </s> get receipt 1
+paying with a credit card: </s> grab wallet </s> find card 1
+paying with a credit card: </s> grab wallet </s> swipe card 1
+paying with a credit card: </s> sign on screen </s> grab wallet 0
+paying with a credit card: </s> grab wallet </s> get receipt 1
+paying with a credit card: </s> swipe card </s> find card 0
+paying with a credit card: </s> sign on screen </s> find card 0
+paying with a credit card: </s> get receipt </s> find card 0
+paying with a credit card: </s> swipe card </s> sign on screen 1
+paying with a credit card: </s> get receipt </s> swipe card 0
+paying with a credit card: </s> sign on screen </s> get receipt 1
+paying with a credit card: </s> find items you want to purchase. </s> take items to cashier. 1
+paying with a credit card: </s> find items you want to purchase. </s> watch total, and remove credit card from wallet. 1
+paying with a credit card: </s> slide credit card through payment machine. </s> find items you want to purchase. 0
+paying with a credit card: </s> follow prompts on machine, hitting yes and no where appropriate. </s> find items you want to purchase. 0
+paying with a credit card: </s> find items you want to purchase. </s> when receipt comes, sign on line at bottom. 1
+paying with a credit card: </s> find items you want to purchase. </s> leave store with items purchased. 1
+paying with a credit card: </s> watch total, and remove credit card from wallet. </s> take items to cashier. 0
+paying with a credit card: </s> slide credit card through payment machine. </s> take items to cashier. 0
+paying with a credit card: </s> take items to cashier. </s> follow prompts on machine, hitting yes and no where appropriate. 1
+paying with a credit card: </s> take items to cashier. </s> when receipt comes, sign on line at bottom. 1
+paying with a credit card: </s> leave store with items purchased. </s> take items to cashier. 0
+paying with a credit card: </s> watch total, and remove credit card from wallet. </s> slide credit card through payment machine. 1
+paying with a credit card: </s> follow prompts on machine, hitting yes and no where appropriate. </s> watch total, and remove credit card from wallet. 0
+paying with a credit card: </s> watch total, and remove credit card from wallet. </s> when receipt comes, sign on line at bottom. 1
+paying with a credit card: </s> watch total, and remove credit card from wallet. </s> leave store with items purchased. 1
+paying with a credit card: </s> slide credit card through payment machine. </s> follow prompts on machine, hitting yes and no where appropriate. 1
+paying with a credit card: </s> when receipt comes, sign on line at bottom. </s> slide credit card through payment machine. 0
+paying with a credit card: </s> slide credit card through payment machine. </s> leave store with items purchased. 1
+paying with a credit card: </s> follow prompts on machine, hitting yes and no where appropriate. </s> when receipt comes, sign on line at bottom. 1
+paying with a credit card: </s> follow prompts on machine, hitting yes and no where appropriate. </s> leave store with items purchased. 1
+paying with a credit card: </s> when receipt comes, sign on line at bottom. </s> leave store with items purchased. 1
+paying with a credit card: </s> give credit card to cashier </s> wait for cashier to ring up purchases 0
+paying with a credit card: </s> if asked show id to cashier </s> wait for cashier to ring up purchases 0
+paying with a credit card: </s> sign credit slip </s> wait for cashier to ring up purchases 0
+paying with a credit card: </s> take back credit card </s> wait for cashier to ring up purchases 0
+paying with a credit card: </s> take purchases and receipt and leave the store </s> wait for cashier to ring up purchases 0
+paying with a credit card: </s> if asked show id to cashier </s> give credit card to cashier 0
+paying with a credit card: </s> sign credit slip </s> give credit card to cashier 0
+paying with a credit card: </s> take back credit card </s> give credit card to cashier 0
+paying with a credit card: </s> take purchases and receipt and leave the store </s> give credit card to cashier 0
+paying with a credit card: </s> if asked show id to cashier </s> sign credit slip 1
+paying with a credit card: </s> take back credit card </s> if asked show id to cashier 0
+paying with a credit card: </s> take purchases and receipt and leave the store </s> if asked show id to cashier 0
+paying with a credit card: </s> sign credit slip </s> take back credit card 1
+paying with a credit card: </s> sign credit slip </s> take purchases and receipt and leave the store 1
+paying with a credit card: </s> take purchases and receipt and leave the store </s> take back credit card 0
+paying with a credit card: </s> select credit card you want to use </s> tell cashier you are paying with credit 1
+paying with a credit card: </s> select credit card you want to use </s> slide card through machine 1
+paying with a credit card: </s> select option for credit </s> select credit card you want to use 0
+paying with a credit card: </s> accept amount charged </s> select credit card you want to use 0
+paying with a credit card: </s> decide if you want cash back </s> select credit card you want to use 0
+paying with a credit card: </s> select credit card you want to use </s> sign appropriate place on screen 1
+paying with a credit card: </s> accept receipt from cashier </s> select credit card you want to use 0
+paying with a credit card: </s> select credit card you want to use </s> take bags and leave store 1
+paying with a credit card: </s> slide card through machine </s> tell cashier you are paying with credit 0
+paying with a credit card: </s> tell cashier you are paying with credit </s> select option for credit 1
+paying with a credit card: </s> tell cashier you are paying with credit </s> accept amount charged 1
+paying with a credit card: </s> tell cashier you are paying with credit </s> decide if you want cash back 1
+paying with a credit card: </s> sign appropriate place on screen </s> tell cashier you are paying with credit 0
+paying with a credit card: </s> tell cashier you are paying with credit </s> accept receipt from cashier 1
+paying with a credit card: </s> take bags and leave store </s> tell cashier you are paying with credit 0
+paying with a credit card: </s> select option for credit </s> slide card through machine 0
+paying with a credit card: </s> accept amount charged </s> slide card through machine 0
+paying with a credit card: </s> decide if you want cash back </s> slide card through machine 0
+paying with a credit card: </s> sign appropriate place on screen </s> slide card through machine 0
+paying with a credit card: </s> slide card through machine </s> accept receipt from cashier 1
+paying with a credit card: </s> take bags and leave store </s> slide card through machine 0
+paying with a credit card: </s> accept amount charged </s> select option for credit 0
+paying with a credit card: </s> decide if you want cash back </s> select option for credit 0
+paying with a credit card: </s> sign appropriate place on screen </s> select option for credit 0
+paying with a credit card: </s> select option for credit </s> accept receipt from cashier 1
+paying with a credit card: </s> take bags and leave store </s> select option for credit 0
+paying with a credit card: </s> accept amount charged </s> decide if you want cash back 1
+paying with a credit card: </s> accept amount charged </s> sign appropriate place on screen 1
+paying with a credit card: </s> accept receipt from cashier </s> accept amount charged 0
+paying with a credit card: </s> take bags and leave store </s> accept amount charged 0
+paying with a credit card: </s> decide if you want cash back </s> sign appropriate place on screen 1
+paying with a credit card: </s> decide if you want cash back </s> accept receipt from cashier 1
+paying with a credit card: </s> decide if you want cash back </s> take bags and leave store 1
+paying with a credit card: </s> accept receipt from cashier </s> sign appropriate place on screen 0
+paying with a credit card: </s> sign appropriate place on screen </s> take bags and leave store 1
+paying with a credit card: </s> accept receipt from cashier </s> take bags and leave store 1
+paying with a credit card: </s> open wallet </s> take wallet out of pocket 0
+paying with a credit card: </s> take wallet out of pocket </s> remove credit card 1
+paying with a credit card: </s> take wallet out of pocket </s> swipe credit card 1
+paying with a credit card: </s> verify amount is correct </s> take wallet out of pocket 0
+paying with a credit card: </s> take wallet out of pocket </s> follow prompts to approve payment 1
+paying with a credit card: </s> take wallet out of pocket </s> return credit card to wallet 1
+paying with a credit card: </s> take wallet out of pocket </s> put wallet back in pocket 1
+paying with a credit card: </s> remove credit card </s> open wallet 0
+paying with a credit card: </s> open wallet </s> swipe credit card 1
+paying with a credit card: </s> open wallet </s> verify amount is correct 1
+paying with a credit card: </s> follow prompts to approve payment </s> open wallet 0
+paying with a credit card: </s> open wallet </s> return credit card to wallet 1
+paying with a credit card: </s> put wallet back in pocket </s> open wallet 0
+paying with a credit card: </s> swipe credit card </s> remove credit card 0
+paying with a credit card: </s> remove credit card </s> verify amount is correct 1
+paying with a credit card: </s> follow prompts to approve payment </s> remove credit card 0
+paying with a credit card: </s> remove credit card </s> return credit card to wallet 1
+paying with a credit card: </s> put wallet back in pocket </s> remove credit card 0
+paying with a credit card: </s> verify amount is correct </s> swipe credit card 0
+paying with a credit card: </s> swipe credit card </s> follow prompts to approve payment 1
+paying with a credit card: </s> swipe credit card </s> return credit card to wallet 1
+paying with a credit card: </s> put wallet back in pocket </s> swipe credit card 0
+paying with a credit card: </s> verify amount is correct </s> follow prompts to approve payment 1
+paying with a credit card: </s> return credit card to wallet </s> verify amount is correct 0
+paying with a credit card: </s> put wallet back in pocket </s> verify amount is correct 0
+paying with a credit card: </s> follow prompts to approve payment </s> return credit card to wallet 1
+paying with a credit card: </s> follow prompts to approve payment </s> put wallet back in pocket 1
+paying with a credit card: </s> put wallet back in pocket </s> return credit card to wallet 0
+paying with a credit card: </s> pick out item </s> take card out of wallet 1
+paying with a credit card: </s> pick out item </s> slide card through scanner 1
+paying with a credit card: </s> pick out item </s> confirm the total 1
+paying with a credit card: </s> sign on the screen </s> pick out item 0
+paying with a credit card: </s> pick out item </s> take item and receipt 1
+paying with a credit card: </s> slide card through scanner </s> take card out of wallet 0
+paying with a credit card: </s> take card out of wallet </s> confirm the total 1
+paying with a credit card: </s> take card out of wallet </s> sign on the screen 1
+paying with a credit card: </s> take item and receipt </s> take card out of wallet 0
+paying with a credit card: </s> confirm the total </s> slide card through scanner 0
+paying with a credit card: </s> slide card through scanner </s> sign on the screen 1
+paying with a credit card: </s> slide card through scanner </s> take item and receipt 1
+paying with a credit card: </s> confirm the total </s> sign on the screen 1
+paying with a credit card: </s> confirm the total </s> take item and receipt 1
+paying with a credit card: </s> sign on the screen </s> take item and receipt 1
+paying with a credit card: </s> enter name on card </s> enter card number 0
+paying with a credit card: </s> enter card number </s> enter exp date 1
+paying with a credit card: </s> enter card number </s> enter verification code on back of card 1
+paying with a credit card: </s> confirm purchase </s> enter card number 0
+paying with a credit card: </s> enter name on card </s> enter exp date 1
+paying with a credit card: </s> enter verification code on back of card </s> enter name on card 0
+paying with a credit card: </s> enter name on card </s> confirm purchase 1
+paying with a credit card: </s> enter exp date </s> enter verification code on back of card 1
+paying with a credit card: </s> enter exp date </s> confirm purchase 1
+paying with a credit card: </s> enter verification code on back of card </s> confirm purchase 1
+paying with a credit card: </s> select credit card from wallet </s> pull out wallet 0
+paying with a credit card: </s> swipe credit card in reader </s> pull out wallet 0
+paying with a credit card: </s> pull out wallet </s> accept the total amount 1
+paying with a credit card: </s> sign your name </s> pull out wallet 0
+paying with a credit card: </s> get receipt from cashier </s> pull out wallet 0
+paying with a credit card: </s> swipe credit card in reader </s> select credit card from wallet 0
+paying with a credit card: </s> select credit card from wallet </s> accept the total amount 1
+paying with a credit card: </s> select credit card from wallet </s> sign your name 1
+paying with a credit card: </s> get receipt from cashier </s> select credit card from wallet 0
+paying with a credit card: </s> swipe credit card in reader </s> accept the total amount 1
+paying with a credit card: </s> swipe credit card in reader </s> sign your name 1
+paying with a credit card: </s> get receipt from cashier </s> swipe credit card in reader 0
+paying with a credit card: </s> accept the total amount </s> sign your name 1
+paying with a credit card: </s> get receipt from cashier </s> accept the total amount 0
+paying with a credit card: </s> sign your name </s> get receipt from cashier 1
+paying with a credit card: </s> purchase items </s> walk to check out 1
+paying with a credit card: </s> get credit card out of wallet </s> purchase items 0
+paying with a credit card: </s> purchase items </s> swipe credit card at register 1
+paying with a credit card: </s> purchase items </s> press appropriate buttons upon swipe 1
+paying with a credit card: </s> receive receipt </s> purchase items 0
+paying with a credit card: </s> walk to check out </s> get credit card out of wallet 1
+paying with a credit card: </s> swipe credit card at register </s> walk to check out 0
+paying with a credit card: </s> walk to check out </s> press appropriate buttons upon swipe 1
+paying with a credit card: </s> walk to check out </s> receive receipt 1
+paying with a credit card: </s> swipe credit card at register </s> get credit card out of wallet 0
+paying with a credit card: </s> press appropriate buttons upon swipe </s> get credit card out of wallet 0
+paying with a credit card: </s> receive receipt </s> get credit card out of wallet 0
+paying with a credit card: </s> swipe credit card at register </s> press appropriate buttons upon swipe 1
+paying with a credit card: </s> swipe credit card at register </s> receive receipt 1
+paying with a credit card: </s> receive receipt </s> press appropriate buttons upon swipe 0
+paying with a credit card: </s> wait in line </s> go to check out 0
+paying with a credit card: </s> go to check out </s> watch cashier ring up stuff 1
+paying with a credit card: </s> go to check out </s> scan card on credit thingy 1
+paying with a credit card: </s> get receipt </s> go to check out 0
+paying with a credit card: </s> wait in line </s> watch cashier ring up stuff 1
+paying with a credit card: </s> scan card on credit thingy </s> wait in line 0
+paying with a credit card: </s> get receipt </s> wait in line 0
+paying with a credit card: </s> scan card on credit thingy </s> watch cashier ring up stuff 0
+paying with a credit card: </s> watch cashier ring up stuff </s> get receipt 1
+paying with a credit card: </s> scan card on credit thingy </s> get receipt 1
+paying with a credit card: </s> tell the cashier you are paying by credit </s> decide what you are going to purchase 0
+paying with a credit card: </s> give the card to the cashier </s> decide what you are going to purchase 0
+paying with a credit card: </s> decide what you are going to purchase </s> the cashier will run it 1
+paying with a credit card: </s> wait for approval </s> decide what you are going to purchase 0
+paying with a credit card: </s> sign for your purchase </s> decide what you are going to purchase 0
+paying with a credit card: </s> decide what you are going to purchase </s> wait for receipt 1
+paying with a credit card: </s> decide what you are going to purchase </s> take receipt 1
+paying with a credit card: </s> tell the cashier you are paying by credit </s> give the card to the cashier 1
+paying with a credit card: </s> tell the cashier you are paying by credit </s> the cashier will run it 1
+paying with a credit card: </s> tell the cashier you are paying by credit </s> wait for approval 1
+paying with a credit card: </s> tell the cashier you are paying by credit </s> sign for your purchase 1
+paying with a credit card: </s> tell the cashier you are paying by credit </s> wait for receipt 1
+paying with a credit card: </s> take receipt </s> tell the cashier you are paying by credit 0
+paying with a credit card: </s> give the card to the cashier </s> the cashier will run it 1
+paying with a credit card: </s> wait for approval </s> give the card to the cashier 0
+paying with a credit card: </s> sign for your purchase </s> give the card to the cashier 0
+paying with a credit card: </s> wait for receipt </s> give the card to the cashier 0
+paying with a credit card: </s> take receipt </s> give the card to the cashier 0
+paying with a credit card: </s> the cashier will run it </s> wait for approval 1
+paying with a credit card: </s> sign for your purchase </s> the cashier will run it 0
+paying with a credit card: </s> wait for receipt </s> the cashier will run it 0
+paying with a credit card: </s> take receipt </s> the cashier will run it 0
+paying with a credit card: </s> sign for your purchase </s> wait for approval 0
+paying with a credit card: </s> wait for approval </s> wait for receipt 1
+paying with a credit card: </s> take receipt </s> wait for approval 0
+paying with a credit card: </s> sign for your purchase </s> wait for receipt 1
+paying with a credit card: </s> take receipt </s> sign for your purchase 0
+paying with a credit card: </s> wait for receipt </s> take receipt 1
+paying with a credit card: </s> have item (s) or meal charged at establishment </s> determine cost 1
+paying with a credit card: </s> get credit card from wallet </s> have item (s) or meal charged at establishment 0
+paying with a credit card: </s> hand credit card to clerk/ server </s> have item (s) or meal charged at establishment 0
+paying with a credit card: </s> produce id if requested </s> have item (s) or meal charged at establishment 0
+paying with a credit card: </s> have item (s) or meal charged at establishment </s> sign receipt to acknowledge charge 1
+paying with a credit card: </s> determine cost </s> get credit card from wallet 1
+paying with a credit card: </s> determine cost </s> hand credit card to clerk/ server 1
+paying with a credit card: </s> determine cost </s> produce id if requested 1
+paying with a credit card: </s> sign receipt to acknowledge charge </s> determine cost 0
+paying with a credit card: </s> get credit card from wallet </s> hand credit card to clerk/ server 1
+paying with a credit card: </s> produce id if requested </s> get credit card from wallet 0
+paying with a credit card: </s> get credit card from wallet </s> sign receipt to acknowledge charge 1
+paying with a credit card: </s> produce id if requested </s> hand credit card to clerk/ server 0
+paying with a credit card: </s> hand credit card to clerk/ server </s> sign receipt to acknowledge charge 1
+paying with a credit card: </s> produce id if requested </s> sign receipt to acknowledge charge 1
+paying with a credit card: </s> after they ring up the items they will give you a total. </s> take the items you would like to purchase to the register. 0
+paying with a credit card: </s> take the items you would like to purchase to the register. </s> let them know you would like to pay with a credit card. 1
+paying with a credit card: </s> take the items you would like to purchase to the register. </s> swipe your card in the machine. 1
+paying with a credit card: </s> select the credit option. </s> take the items you would like to purchase to the register. 0
+paying with a credit card: </s> take the items you would like to purchase to the register. </s> wait for the card to be approved. 1
+paying with a credit card: </s> after it is approved sign your name in the box on the machine. </s> take the items you would like to purchase to the register. 0
+paying with a credit card: </s> wait for the receipt to print out. </s> take the items you would like to purchase to the register. 0
+paying with a credit card: </s> take the items you would like to purchase to the register. </s> take your items. 1
+paying with a credit card: </s> take the items you would like to purchase to the register. </s> thank the cashier. 1
+paying with a credit card: </s> let them know you would like to pay with a credit card. </s> after they ring up the items they will give you a total. 0
+paying with a credit card: </s> swipe your card in the machine. </s> after they ring up the items they will give you a total. 0
+paying with a credit card: </s> after they ring up the items they will give you a total. </s> select the credit option. 1
+paying with a credit card: </s> wait for the card to be approved. </s> after they ring up the items they will give you a total. 0
+paying with a credit card: </s> after it is approved sign your name in the box on the machine. </s> after they ring up the items they will give you a total. 0
+paying with a credit card: </s> after they ring up the items they will give you a total. </s> wait for the receipt to print out. 1
+paying with a credit card: </s> take your items. </s> after they ring up the items they will give you a total. 0
+paying with a credit card: </s> after they ring up the items they will give you a total. </s> thank the cashier. 1
+paying with a credit card: </s> let them know you would like to pay with a credit card. </s> swipe your card in the machine. 1
+paying with a credit card: </s> select the credit option. </s> let them know you would like to pay with a credit card. 0
+paying with a credit card: </s> let them know you would like to pay with a credit card. </s> wait for the card to be approved. 1
+paying with a credit card: </s> let them know you would like to pay with a credit card. </s> after it is approved sign your name in the box on the machine. 1
+paying with a credit card: </s> let them know you would like to pay with a credit card. </s> wait for the receipt to print out. 1
+paying with a credit card: </s> take your items. </s> let them know you would like to pay with a credit card. 0
+paying with a credit card: </s> thank the cashier. </s> let them know you would like to pay with a credit card. 0
+paying with a credit card: </s> swipe your card in the machine. </s> select the credit option. 1
+paying with a credit card: </s> wait for the card to be approved. </s> swipe your card in the machine. 0
+paying with a credit card: </s> after it is approved sign your name in the box on the machine. </s> swipe your card in the machine. 0
+paying with a credit card: </s> wait for the receipt to print out. </s> swipe your card in the machine. 0
+paying with a credit card: </s> swipe your card in the machine. </s> take your items. 1
+paying with a credit card: </s> swipe your card in the machine. </s> thank the cashier. 1
+paying with a credit card: </s> select the credit option. </s> wait for the card to be approved. 1
+paying with a credit card: </s> after it is approved sign your name in the box on the machine. </s> select the credit option. 0
+paying with a credit card: </s> select the credit option. </s> wait for the receipt to print out. 1
+paying with a credit card: </s> select the credit option. </s> take your items. 1
+paying with a credit card: </s> thank the cashier. </s> select the credit option. 0
+paying with a credit card: </s> wait for the card to be approved. </s> after it is approved sign your name in the box on the machine. 1
+paying with a credit card: </s> wait for the card to be approved. </s> wait for the receipt to print out. 1
+paying with a credit card: </s> take your items. </s> wait for the card to be approved. 0
+paying with a credit card: </s> wait for the card to be approved. </s> thank the cashier. 1
+paying with a credit card: </s> wait for the receipt to print out. </s> after it is approved sign your name in the box on the machine. 0
+paying with a credit card: </s> after it is approved sign your name in the box on the machine. </s> take your items. 1
+paying with a credit card: </s> thank the cashier. </s> after it is approved sign your name in the box on the machine. 0
+paying with a credit card: </s> take your items. </s> wait for the receipt to print out. 0
+paying with a credit card: </s> thank the cashier. </s> wait for the receipt to print out. 0
+paying with a credit card: </s> take your items. </s> thank the cashier. 1

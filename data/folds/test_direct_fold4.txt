@@ -1,0 +1,5 @@
+<BOS> washing dishes: 
+<BOS> making a bonfire: 
+<BOS> going to the sauna: 
+<BOS> making coffee: 
+<BOS> going to the swimming pool:

@@ -1,0 +1,298 @@
+baking a cake: </s> put water in pan </s> put butter in pan 0
+baking a cake: </s> put butter in pan </s> add sugar and vanilla to pan 1
+baking a cake: </s> wait for water to boil </s> put butter in pan 0
+baking a cake: </s> put butter in pan </s> stir as needed 1
+baking a cake: </s> add sugar and vanilla to pan </s> put water in pan 0
+baking a cake: </s> wait for water to boil </s> put water in pan 0
+baking a cake: </s> put water in pan </s> stir as needed 1
+baking a cake: </s> add sugar and vanilla to pan </s> wait for water to boil 1
+baking a cake: </s> stir as needed </s> add sugar and vanilla to pan 0
+baking a cake: </s> stir as needed </s> wait for water to boil 0
+baking a cake: </s> grab a cake pan </s> choose a cake shape 0
+baking a cake: </s> choose a cake shape </s> pour the cake mix in the pan 1
+baking a cake: </s> choose a cake shape </s> put the pan on the stove 1
+baking a cake: </s> turn on the stove </s> choose a cake shape 0
+baking a cake: </s> watch the cake take shape and bake </s> choose a cake shape 0
+baking a cake: </s> grab a cake pan </s> pour the cake mix in the pan 1
+baking a cake: </s> put the pan on the stove </s> grab a cake pan 0
+baking a cake: </s> grab a cake pan </s> turn on the stove 1
+baking a cake: </s> grab a cake pan </s> watch the cake take shape and bake 1
+baking a cake: </s> pour the cake mix in the pan </s> put the pan on the stove 1
+baking a cake: </s> pour the cake mix in the pan </s> turn on the stove 1
+baking a cake: </s> pour the cake mix in the pan </s> watch the cake take shape and bake 1
+baking a cake: </s> put the pan on the stove </s> turn on the stove 1
+baking a cake: </s> watch the cake take shape and bake </s> put the pan on the stove 0
+baking a cake: </s> turn on the stove </s> watch the cake take shape and bake 1
+baking a cake: </s> buy the ingredients </s> mix the ingredients in a bowl 1
+baking a cake: </s> pour the batter into the pan </s> buy the ingredients 0
+baking a cake: </s> buy the ingredients </s> cook the cake 1
+baking a cake: </s> serve it </s> buy the ingredients 0
+baking a cake: </s> mix the ingredients in a bowl </s> pour the batter into the pan 1
+baking a cake: </s> cook the cake </s> mix the ingredients in a bowl 0
+baking a cake: </s> serve it </s> mix the ingredients in a bowl 0
+baking a cake: </s> pour the batter into the pan </s> cook the cake 1
+baking a cake: </s> pour the batter into the pan </s> serve it 1
+baking a cake: </s> cook the cake </s> serve it 1
+baking a cake: </s> put on the black gloves </s> get in the car 1
+baking a cake: </s> drive to the bakery </s> put on the black gloves 0
+baking a cake: </s> enter the bakery </s> put on the black gloves 0
+baking a cake: </s> make the cake </s> put on the black gloves 0
+baking a cake: </s> get in the car </s> drive to the bakery 1
+baking a cake: </s> enter the bakery </s> get in the car 0
+baking a cake: </s> get in the car </s> make the cake 1
+baking a cake: </s> drive to the bakery </s> enter the bakery 1
+baking a cake: </s> make the cake </s> drive to the bakery 0
+baking a cake: </s> enter the bakery </s> make the cake 1
+baking a cake: </s> turn on the mixer to medium </s> get a small pan and a mixer 0
+baking a cake: </s> get a small pan and a mixer </s> put the ingredients in the mixer 1
+baking a cake: </s> mix until it's mixed all together </s> get a small pan and a mixer 0
+baking a cake: </s> get a small pan and a mixer </s> place the cake on a plate 1
+baking a cake: </s> put the ingredients in the mixer </s> turn on the mixer to medium 0
+baking a cake: </s> mix until it's mixed all together </s> turn on the mixer to medium 0
+baking a cake: </s> turn on the mixer to medium </s> place the cake on a plate 1
+baking a cake: </s> put the ingredients in the mixer </s> mix until it's mixed all together 1
+baking a cake: </s> place the cake on a plate </s> put the ingredients in the mixer 0
+baking a cake: </s> mix until it's mixed all together </s> place the cake on a plate 1
+borrowing a book from the library: </s> tell the clerk that you want to borrow it </s> give them your card 1
+borrowing a book from the library: </s> tell the clerk that you want to borrow it </s> take your book back 1
+borrowing a book from the library: </s> take your book back </s> give them your card 0
+borrowing a book from the library: </s> check out and return to the library </s> pay for the book 0
+borrowing a book from the library: </s> pay for the book </s> buy new books 1
+borrowing a book from the library: </s> pay for the book </s> sign the books 1
+borrowing a book from the library: </s> leave library </s> pay for the book 0
+borrowing a book from the library: </s> check out and return to the library </s> buy new books 1
+borrowing a book from the library: </s> sign the books </s> check out and return to the library 0
+borrowing a book from the library: </s> check out and return to the library </s> leave library 1
+borrowing a book from the library: </s> buy new books </s> sign the books 1
+borrowing a book from the library: </s> buy new books </s> leave library 1
+borrowing a book from the library: </s> leave library </s> sign the books 0
+borrowing a book from the library: </s> walk to their books. </s> open library's door. 0
+borrowing a book from the library: </s> give books to the staff. </s> open library's door. 0
+borrowing a book from the library: </s> leave. </s> open library's door. 0
+borrowing a book from the library: </s> walk to their books. </s> give books to the staff. 1
+borrowing a book from the library: </s> walk to their books. </s> leave. 1
+borrowing a book from the library: </s> leave. </s> give books to the staff. 0
+borrowing a book from the library: </s> purchase a book from the library </s> read the book with the library book reader 1
+borrowing a book from the library: </s> purchase a book from the library </s> take the book from the library 1
+borrowing a book from the library: </s> return the book to the library </s> purchase a book from the library 0
+borrowing a book from the library: </s> purchase a book from the library </s> get a refund from the library 1
+borrowing a book from the library: </s> read the book with the library book reader </s> take the book from the library 1
+borrowing a book from the library: </s> return the book to the library </s> read the book with the library book reader 0
+borrowing a book from the library: </s> read the book with the library book reader </s> get a refund from the library 1
+borrowing a book from the library: </s> take the book from the library </s> return the book to the library 1
+borrowing a book from the library: </s> take the book from the library </s> get a refund from the library 1
+borrowing a book from the library: </s> get a refund from the library </s> return the book to the library 0
+borrowing a book from the library: </s> check the book </s> open the door 0
+borrowing a book from the library: </s> open the door </s> pay the bookkeeper 1
+borrowing a book from the library: </s> open the door </s> get the book 1
+borrowing a book from the library: </s> check the book </s> pay the bookkeeper 1
+borrowing a book from the library: </s> get the book </s> check the book 0
+borrowing a book from the library: </s> get the book </s> pay the bookkeeper 0
+flying in an airplane: </s> drive to the airport </s> get in the car 0
+flying in an airplane: </s> get in the car </s> take the proper flight ticket 1
+flying in an airplane: </s> get in the car </s> board the airplane 1
+flying in an airplane: </s> drive to the airport </s> take the proper flight ticket 1
+flying in an airplane: </s> drive to the airport </s> board the airplane 1
+flying in an airplane: </s> take the proper flight ticket </s> board the airplane 1
+flying in an airplane: </s> go to terminal </s> drive to airport 0
+flying in an airplane: </s> drive to airport </s> park your car 1
+flying in an airplane: </s> drive to airport </s> check in 1
+flying in an airplane: </s> drive to airport </s> wait in line 1
+flying in an airplane: </s> walk to your gate </s> drive to airport 0
+flying in an airplane: </s> drive to airport </s> go back to gate 1
+flying in an airplane: </s> go home </s> drive to airport 0
+flying in an airplane: </s> park your car </s> go to terminal 0
+flying in an airplane: </s> check in </s> go to terminal 0
+flying in an airplane: </s> wait in line </s> go to terminal 0
+flying in an airplane: </s> walk to your gate </s> go to terminal 0
+flying in an airplane: </s> go to terminal </s> go back to gate 1
+flying in an airplane: </s> go to terminal </s> go home 1
+flying in an airplane: </s> check in </s> park your car 0
+flying in an airplane: </s> wait in line </s> park your car 0
+flying in an airplane: </s> walk to your gate </s> park your car 0
+flying in an airplane: </s> park your car </s> go back to gate 1
+flying in an airplane: </s> park your car </s> go home 1
+flying in an airplane: </s> wait in line </s> check in 0
+flying in an airplane: </s> check in </s> walk to your gate 1
+flying in an airplane: </s> check in </s> go back to gate 1
+flying in an airplane: </s> go home </s> check in 0
+flying in an airplane: </s> walk to your gate </s> wait in line 0
+flying in an airplane: </s> wait in line </s> go back to gate 1
+flying in an airplane: </s> wait in line </s> go home 1
+flying in an airplane: </s> walk to your gate </s> go back to gate 1
+flying in an airplane: </s> go home </s> walk to your gate 0
+flying in an airplane: </s> go home </s> go back to gate 0
+flying in an airplane: </s> park the car. </s> go to the airport. 0
+flying in an airplane: </s> go to the airport. </s> take the ticket. 1
+flying in an airplane: </s> go to the airport. </s> get on the airplane. 1
+flying in an airplane: </s> take the ticket. </s> park the car. 0
+flying in an airplane: </s> park the car. </s> get on the airplane. 1
+flying in an airplane: </s> get on the airplane. </s> take the ticket. 0
+flying in an airplane: </s> drive to airport </s> park car 1
+flying in an airplane: </s> walk up to gate </s> drive to airport 0
+flying in an airplane: </s> drive to airport </s> get boarding pass 1
+flying in an airplane: </s> drive to airport </s> show boarding pass 1
+flying in an airplane: </s> walk up to the counter </s> drive to airport 0
+flying in an airplane: </s> buy ticket and fare </s> drive to airport 0
+flying in an airplane: </s> walk to gate </s> drive to airport 0
+flying in an airplane: </s> walk up to gate </s> park car 0
+flying in an airplane: </s> get boarding pass </s> park car 0
+flying in an airplane: </s> park car </s> show boarding pass 1
+flying in an airplane: </s> walk up to the counter </s> park car 0
+flying in an airplane: </s> buy ticket and fare </s> park car 0
+flying in an airplane: </s> walk to gate </s> park car 0
+flying in an airplane: </s> get boarding pass </s> walk up to gate 0
+flying in an airplane: </s> show boarding pass </s> walk up to gate 0
+flying in an airplane: </s> walk up to gate </s> walk up to the counter 1
+flying in an airplane: </s> buy ticket and fare </s> walk up to gate 0
+flying in an airplane: </s> walk to gate </s> walk up to gate 0
+flying in an airplane: </s> show boarding pass </s> get boarding pass 0
+flying in an airplane: </s> get boarding pass </s> walk up to the counter 1
+flying in an airplane: </s> get boarding pass </s> buy ticket and fare 1
+flying in an airplane: </s> walk to gate </s> get boarding pass 0
+flying in an airplane: </s> walk up to the counter </s> show boarding pass 0
+flying in an airplane: </s> show boarding pass </s> buy ticket and fare 1
+flying in an airplane: </s> show boarding pass </s> walk to gate 1
+flying in an airplane: </s> walk up to the counter </s> buy ticket and fare 1
+flying in an airplane: </s> walk to gate </s> walk up to the counter 0
+flying in an airplane: </s> walk to gate </s> buy ticket and fare 0
+flying in an airplane: </s> enter airport </s> wait for airplane 1
+flying in an airplane: </s> board plane </s> enter airport 0
+flying in an airplane: </s> enter airport </s> start plane 1
+flying in an airplane: </s> wait for airplane </s> board plane 1
+flying in an airplane: </s> wait for airplane </s> start plane 1
+flying in an airplane: </s> start plane </s> board plane 0
+going on a train: </s> get in car </s> wait for train 1
+going on a train: </s> get in car </s> get off at desired stop 1
+going on a train: </s> find seat </s> get in car 0
+going on a train: </s> get in car </s> sit down 1
+going on a train: </s> watch or listen to the story </s> get in car 0
+going on a train: </s> get in car </s> leave 1
+going on a train: </s> get off at desired stop </s> wait for train 0
+going on a train: </s> wait for train </s> find seat 1
+going on a train: </s> wait for train </s> sit down 1
+going on a train: </s> wait for train </s> watch or listen to the story 1
+going on a train: </s> wait for train </s> leave 1
+going on a train: </s> get off at desired stop </s> find seat 1
+going on a train: </s> sit down </s> get off at desired stop 0
+going on a train: </s> watch or listen to the story </s> get off at desired stop 0
+going on a train: </s> get off at desired stop </s> leave 1
+going on a train: </s> find seat </s> sit down 1
+going on a train: </s> find seat </s> watch or listen to the story 1
+going on a train: </s> leave </s> find seat 0
+going on a train: </s> watch or listen to the story </s> sit down 0
+going on a train: </s> sit down </s> leave 1
+going on a train: </s> leave </s> watch or listen to the story 0
+going on a train: </s> wait to get on train </s> board train 1
+going on a train: </s> wait to get on train </s> get off train 1
+going on a train: </s> wait to get on train </s> get in car 1
+going on a train: </s> drive home </s> wait to get on train 0
+going on a train: </s> board train </s> get off train 1
+going on a train: </s> board train </s> get in car 1
+going on a train: </s> board train </s> drive home 1
+going on a train: </s> get in car </s> get off train 0
+going on a train: </s> drive home </s> get off train 0
+going on a train: </s> drive home </s> get in car 0
+going on a train: </s> get on train </s> go down stairs 1
+going on a train: </s> buy a ticket </s> get on train 0
+going on a train: </s> get on train </s> get off at correct stop 1
+going on a train: </s> find the correct seat </s> get on train 0
+going on a train: </s> get on train </s> sit down and enjoy the ride 1
+going on a train: </s> buy a ticket </s> go down stairs 0
+going on a train: </s> go down stairs </s> get off at correct stop 1
+going on a train: </s> find the correct seat </s> go down stairs 0
+going on a train: </s> sit down and enjoy the ride </s> go down stairs 0
+going on a train: </s> get off at correct stop </s> buy a ticket 0
+going on a train: </s> buy a ticket </s> find the correct seat 1
+going on a train: </s> sit down and enjoy the ride </s> buy a ticket 0
+going on a train: </s> find the correct seat </s> get off at correct stop 0
+going on a train: </s> sit down and enjoy the ride </s> get off at correct stop 0
+going on a train: </s> sit down and enjoy the ride </s> find the correct seat 0
+going on a train: </s> pay for tickets </s> wait in train compartment 1
+going on a train: </s> sit down and relax </s> pay for tickets 0
+going on a train: </s> wait in train compartment </s> sit down and relax 1
+going on a train: </s> purchase ticket </s> go to the correct platform 1
+going on a train: </s> purchase ticket </s> wait in line 1
+going on a train: </s> purchase ticket </s> ride the train to destination 1
+going on a train: </s> find a seat </s> purchase ticket 0
+going on a train: </s> purchase ticket </s> eat lunch 1
+going on a train: </s> purchase ticket </s> leave the train 1
+going on a train: </s> go to the correct platform </s> wait in line 1
+going on a train: </s> go to the correct platform </s> ride the train to destination 1
+going on a train: </s> find a seat </s> go to the correct platform 0
+going on a train: </s> eat lunch </s> go to the correct platform 0
+going on a train: </s> go to the correct platform </s> leave the train 1
+going on a train: </s> wait in line </s> ride the train to destination 1
+going on a train: </s> wait in line </s> find a seat 1
+going on a train: </s> eat lunch </s> wait in line 0
+going on a train: </s> leave the train </s> wait in line 0
+going on a train: </s> find a seat </s> ride the train to destination 0
+going on a train: </s> eat lunch </s> ride the train to destination 0
+going on a train: </s> leave the train </s> ride the train to destination 0
+going on a train: </s> find a seat </s> eat lunch 1
+going on a train: </s> leave the train </s> find a seat 0
+going on a train: </s> leave the train </s> eat lunch 0
+riding on a bus: </s> get on bus </s> find seat 1
+riding on a bus: </s> find a seat </s> get on bus 0
+riding on a bus: </s> sit down </s> get on bus 0
+riding on a bus: </s> wait for stop </s> get on bus 0
+riding on a bus: </s> get on bus </s> start listening to music 1
+riding on a bus: </s> get off the bus </s> get on bus 0
+riding on a bus: </s> find seat </s> find a seat 1
+riding on a bus: </s> find seat </s> sit down 1
+riding on a bus: </s> wait for stop </s> find seat 0
+riding on a bus: </s> start listening to music </s> find seat 0
+riding on a bus: </s> get off the bus </s> find seat 0
+riding on a bus: </s> sit down </s> find a seat 0
+riding on a bus: </s> find a seat </s> wait for stop 1
+riding on a bus: </s> start listening to music </s> find a seat 0
+riding on a bus: </s> find a seat </s> get off the bus 1
+riding on a bus: </s> sit down </s> wait for stop 1
+riding on a bus: </s> sit down </s> start listening to music 1
+riding on a bus: </s> sit down </s> get off the bus 1
+riding on a bus: </s> wait for stop </s> start listening to music 1
+riding on a bus: </s> get off the bus </s> wait for stop 0
+riding on a bus: </s> start listening to music </s> get off the bus 1
+riding on a bus: </s> plan route </s> check available buses 1
+riding on a bus: </s> buy tickets </s> plan route 0
+riding on a bus: </s> wait in line </s> plan route 0
+riding on a bus: </s> plan route </s> ride 1
+riding on a bus: </s> check available buses </s> buy tickets 1
+riding on a bus: </s> wait in line </s> check available buses 0
+riding on a bus: </s> check available buses </s> ride 1
+riding on a bus: </s> wait in line </s> buy tickets 0
+riding on a bus: </s> ride </s> buy tickets 0
+riding on a bus: </s> wait in line </s> ride 1
+riding on a bus: </s> get on the bus </s> park your car 0
+riding on a bus: </s> park your car </s> wait for your stop 1
+riding on a bus: </s> get on the bus </s> wait for your stop 1
+riding on a bus: </s> get on bus </s> find a seat 1
+riding on a bus: </s> wait for bus </s> get on bus 0
+riding on a bus: </s> get on bus </s> enter the bus 1
+riding on a bus: </s> ride </s> get on bus 0
+riding on a bus: </s> get on bus </s> get off at stop 1
+riding on a bus: </s> find a seat </s> wait for bus 1
+riding on a bus: </s> enter the bus </s> find a seat 0
+riding on a bus: </s> find a seat </s> ride 1
+riding on a bus: </s> find a seat </s> get off at stop 1
+riding on a bus: </s> enter the bus </s> wait for bus 0
+riding on a bus: </s> ride </s> wait for bus 0
+riding on a bus: </s> get off at stop </s> wait for bus 0
+riding on a bus: </s> enter the bus </s> ride 1
+riding on a bus: </s> get off at stop </s> enter the bus 0
+riding on a bus: </s> get off at stop </s> ride 0
+riding on a bus: </s> wait for bus </s> walk on train 1
+riding on a bus: </s> board bus </s> wait for bus 0
+riding on a bus: </s> wait for bus </s> find seat 1
+riding on a bus: </s> wait for bus </s> eat breakfast 1
+riding on a bus: </s> watch movie </s> wait for bus 0
+riding on a bus: </s> walk on train </s> board bus 1
+riding on a bus: </s> find seat </s> walk on train 0
+riding on a bus: </s> eat breakfast </s> walk on train 0
+riding on a bus: </s> watch movie </s> walk on train 0
+riding on a bus: </s> find seat </s> board bus 0
+riding on a bus: </s> board bus </s> eat breakfast 1
+riding on a bus: </s> board bus </s> watch movie 1
+riding on a bus: </s> eat breakfast </s> find seat 0
+riding on a bus: </s> watch movie </s> find seat 0
+riding on a bus: </s> eat breakfast </s> watch movie 1

@@ -1,0 +1,5 @@
+<BOS> <SCR> having a barbecue <ESCR>: 
+<BOS> <SCR> ordering a pizza <ESCR>: 
+<BOS> <SCR> cleaning up a flat <ESCR>: 
+<BOS> <SCR> making scrambled eggs <ESCR>: 
+<BOS> <SCR> taking the underground <ESCR>: 

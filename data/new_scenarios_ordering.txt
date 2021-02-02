@@ -1,0 +1,496 @@
+order fastfood online;choose the type of food you want;place the order
+order fastfood online;place the order;make sure the food is delivered
+order fastfood online;make sure the food is delivered;choose the delivery service
+order fastfood online;choose the delivery service;pay for the delivery service
+order fastfood online;pay for the delivery service;wait for the order to come
+order fastfood online;wait for the order to come;take the delivery
+order fastfood online;take the delivery;eat the food
+order fastfood online;go online and select the menu that you want;go to the store
+order fastfood online;go to the store;select what you want to order
+order fastfood online;select what you want to order;type your name and address in the box
+order fastfood online;type your name and address in the box;enter your order in the basket
+order fastfood online;enter your order in the basket;pay the total and receive the item at the counter
+order fastfood online;pay the total and receive the item at the counter;leave the store
+order fastfood online;go to website;select what you want
+order fastfood online;select what you want;call the company
+order fastfood online;call the company;tell them what you want
+order fastfood online;tell them what you want;have your credit card or debit card ready
+order fastfood online;have your credit card or debit card ready;wait for them to take your order
+order fastfood online;wait for them to take your order;enjoy the food
+order fastfood online;look at what you want;select from menu
+order fastfood online;select from menu;get phone
+order fastfood online;get phone;call them
+order fastfood online;call them;tell them what you want
+order fastfood online;tell them what you want;go to phone
+order fastfood online;go to phone;pay and then wait for it to take
+order fastfood online;pay and then wait for it to take;eat
+order fastfood online;eat;get your receipt
+order fastfood online;make an order for food;get an order of food from a grocery store
+order fastfood online;get an order of food from a grocery store;enter the internet to order food
+order fastfood online;enter the internet to order food;call the store to order food
+order fastfood online;call the store to order food;pick up food
+order fastfood online;pick up food;pick up phone and call the store to place order
+order fastfood online;pick up phone and call the store to place order;pay the bill
+order fastfood online;pay the bill;pick up the food
+order fastfood online;pick up the food;take food to the drive-through window
+order fastfood online;take food to the drive-through window;have food prepared
+order fastfood online;have food prepared;drive the car to the drive-through window
+order fastfood online;drive the car to the drive-through window;eat the food
+cook in a microwave;get a pot and pan;fill pot with water and salt
+cook in a microwave;fill pot with water and salt;place pan on stove
+cook in a microwave;place pan on stove;turn heat to medium
+cook in a microwave;turn heat to medium;wait until water boils
+cook in a microwave;wait until water boils;place a drop of water into the bowl
+cook in a microwave;place a drop of water into the bowl;add meat in bowl
+cook in a microwave;add meat in bowl;take meat out of pot
+cook in a microwave;take meat out of pot;put meat into strainer
+cook in a microwave;put meat into strainer;put meat in pan
+cook in a microwave;put meat in pan;stir meat until done
+cook in a microwave;stir meat until done;eat the meat
+cook in a microwave;plug in the microwave;turn on the microwave
+cook in a microwave;turn on the microwave;wait for the time it's ready
+cook in a microwave;wait for the time it's ready;plug in the oven
+cook in a microwave;plug in the oven;wait for the time it's ready
+cook in a microwave;wait for the time it's ready;cook the food
+cook in a microwave;cook the food;remove the food from the microwave
+cook in a microwave;remove the food from the microwave;enjoy
+cook in a microwave;plug in and turn on the microwave;place some water in the microwave
+cook in a microwave;place some water in the microwave;place a cup of water on the plate
+cook in a microwave;place a cup of water on the plate;put a spoon in the water
+cook in a microwave;put a spoon in the water;add salt and butter to the water
+cook in a microwave;add salt and butter to the water;stir the butter and salt
+cook in a microwave;stir the butter and salt;take the spatula out of the microwave
+cook in a microwave;take the spatula out of the microwave;pour in the food
+cook in a microwave;pour in the food;turn the stove on to heat
+cook in a microwave;turn the stove on to heat;remove the food from the microwave
+cook in a microwave;remove the food from the microwave;put a plate of the food on a plate
+cook in a microwave;get ready to cook.;open the microwave.
+cook in a microwave;open the microwave.;set the desired time on the machine.
+cook in a microwave;set the desired time on the machine.;wait for the time to be set on the machine.
+cook in a microwave;wait for the time to be set on the machine.;put food into the machine.
+cook in a microwave;put food into the machine.;when it's done put the food into the plate.
+cook in a microwave;when it's done put the food into the plate.;eat.
+cook in a microwave;put water in microwave;put food in water
+cook in a microwave;put food in water;stir slowly
+cook in a microwave;stir slowly;turn on microwave
+cook in a microwave;turn on microwave;wait for food to cook
+cook in a microwave;wait for food to cook;eat
+cook in a microwave;eat;throw away unused water
+cook in a microwave;throw away unused water;turn off microwave
+answer telephone;take the phone;answer the phone
+answer telephone;answer the phone;speak to the receptionist
+answer telephone;speak to the receptionist;let the receptionist know what kind of order you want
+answer telephone;let the receptionist know what kind of order you want;wait for your order to be called
+answer telephone;wait for your order to be called;ask for your order to be called
+answer telephone;ask for your order to be called;get your order
+answer telephone;get your order;hang up the phone
+answer telephone;hang up the phone;leave the store
+answer telephone;get phone;dial number
+answer telephone;dial number;find out phone number
+answer telephone;find out phone number;answer
+answer telephone;answer;hang up
+answer telephone;hang up;call back
+answer telephone;dial the number that is answered;give a name to the person
+answer telephone;give a name to the person;give the person your location
+answer telephone;give the person your location;ask what's the problem
+answer telephone;ask what's the problem;answer the call
+answer telephone;pull phone from pocket;put in answering machine
+answer telephone;put in answering machine;answer
+answer telephone;answer;hang up
+answer telephone;hang up;repeat
+answer telephone;put phone on speaker;tell operator i'm calling
+answer telephone;tell operator i'm calling;listen to operator
+answer telephone;listen to operator;get the right number
+answer telephone;get the right number;wait for the person to call
+answer telephone;wait for the person to call;ask for details
+answer telephone;ask for details;hang up
+buy from a vending machine;walk into store;look at available items
+buy from a vending machine;look at available items;take items to the register
+buy from a vending machine;take items to the register;go buy item
+buy from a vending machine;go buy item;leave store
+buy from a vending machine;drive to the store;go to the counter and ask for order
+buy from a vending machine;go to the counter and ask for order;order food
+buy from a vending machine;order food;get my receipt
+buy from a vending machine;get my receipt;go to the front counter
+buy from a vending machine;go to the front counter;tell the cashier what order I want
+buy from a vending machine;tell the cashier what order I want;hand my card to the cashier
+buy from a vending machine;hand my card to the cashier;pay
+buy from a vending machine;pay;go back to the counter
+buy from a vending machine;drive to store;find the correct amount of merchandise
+buy from a vending machine;find the correct amount of merchandise;buy it from the employee
+buy from a vending machine;buy it from the employee;enter the store
+buy from a vending machine;enter the store;pay for the merchandise
+buy from a vending machine;pay for the merchandise;leave the store
+buy from a vending machine;enter store;wait in line
+buy from a vending machine;wait in line;purchase item
+buy from a vending machine;purchase item;leave
+buy from a vending machine;leave;get receipt
+buy from a vending machine;arrive at the right store;choose the correct product
+buy from a vending machine;choose the correct product;enter information
+buy from a vending machine;enter information;wait for your item to be called back to you
+buy from a vending machine;wait for your item to be called back to you;pay for your item
+buy from a vending machine;pay for your item;wait for your item to be returned
+buy from a vending machine;wait for your item to be returned;take your item back to the counter
+tie shoe laces;find shoes;find your shoes
+tie shoe laces;find your shoes;find laces
+tie shoe laces;find laces;take the laces
+tie shoe laces;take the laces;put them on
+tie shoe laces;put them on;tie them on
+tie shoe laces;put your shoes on;take out shoes and shoe laces
+tie shoe laces;take out shoes and shoe laces;place the laces on your shoe
+tie shoe laces;place the laces on your shoe;knot the laces at one end of the string
+tie shoe laces;knot the laces at one end of the string;tie the laces at the other end of the string
+tie shoe laces;tie the laces at the other end of the string;repeat with all other shoes
+tie shoe laces;find shoe;put shoe on the ground
+tie shoe laces;put shoe on the ground;remove shoes from the ground
+tie shoe laces;remove shoes from the ground;find laces
+tie shoe laces;find laces;place shoes in the correct place
+tie shoe laces;find out a nice shoes that can help you get your shoes on.;put on a nice pair of shoes and shoes.
+tie shoe laces;put on a nice pair of shoes and shoes.;start tying the knot using your nails or a needle and thread.
+tie shoe laces;start tying the knot using your nails or a needle and thread.;make sure you don't loose the knot.
+tie shoe laces;make sure you don't loose the knot.;tie knot and place shoe on ground.
+tie shoe laces;tie knot and place shoe on ground.;put shoe back on.
+tie shoe laces;get shoes;put on shoes
+tie shoe laces;put on shoes;put shoes on the floor
+tie shoe laces;put shoes on the floor;put shoes on the other shoe
+tie shoe laces;put shoes on the other shoe;tie a knot at the end of the laces
+tie shoe laces;tie a knot at the end of the laces;use the shoe laces as a knot
+tie shoe laces;use the shoe laces as a knot;tie more knot's
+tie shoe laces;tie more knot's;tie the end of the laces
+brush teeth;pick up toothbrush;rub the bristles with the toothbrush
+brush teeth;rub the bristles with the toothbrush;pick up the sponge
+brush teeth;pick up the sponge;place the sponge on the toothbrush
+brush teeth;place the sponge on the toothbrush;brush the toothbrush thoroughly to remove any debris
+brush teeth;brush the toothbrush thoroughly to remove any debris;rinse the sponge and place it back on the toothbrush
+brush teeth;rinse the sponge and place it back on the toothbrush;repeat brushing until the toothbrush is no longer wet
+brush teeth;repeat brushing until the toothbrush is no longer wet;rinse the toothbrush and put it back on the toothbrush
+brush teeth;rinse the toothbrush and put it back on the toothbrush;repeat the brushing until the toothbrush is dry
+brush teeth;repeat the brushing until the toothbrush is dry;rinse the toothbrush and place it back on the toothbrush
+brush teeth;turn on water;get the brush
+brush teeth;get the brush;wait for water to warm
+brush teeth;wait for water to warm;get the teeth washed
+brush teeth;get the teeth washed;brush teeth with toothbrush
+brush teeth;brush teeth with toothbrush;rinse out the water
+brush teeth;rinse out the water;get the toothpaste
+brush teeth;get the toothpaste;wash teeth with toothpaste
+brush teeth;wash teeth with toothpaste;rinse out the toothpaste
+brush teeth;rinse out the toothpaste;brush the teeth
+brush teeth;brush the teeth;rinse out the water
+brush teeth;get toothbrush;find toothpaste
+brush teeth;find toothpaste;put toothbrush in mouth
+brush teeth;put toothbrush in mouth;place a little bit of toothpaste on the brush
+brush teeth;place a little bit of toothpaste on the brush;scrub the teeth
+brush teeth;scrub the teeth;rinse the toothpaste out of the mouth
+brush teeth;rinse the toothpaste out of the mouth;repeat this for all teeth
+brush teeth;go into bathroom;turn on water
+brush teeth;turn on water;put toothpaste in mouth
+brush teeth;put toothpaste in mouth;brush with toothbrush
+brush teeth;brush with toothbrush;get toothbrush from bathroom
+brush teeth;get toothbrush from bathroom;use toothbrush to clean teeth
+brush teeth;use toothbrush to clean teeth;put toothpaste back in mouth
+brush teeth;put toothpaste back in mouth;leave bathroom
+brush teeth;get into the car;drive to the dentist
+brush teeth;drive to the dentist;check in
+brush teeth;check in;wait to be called
+brush teeth;wait to be called;walk into the room
+make ginger paste;get some water;put a teaspoon of water into a bowl
+make ginger paste;put a teaspoon of water into a bowl;add some ginger paste to it
+make ginger paste;add some ginger paste to it;whisk the paste with a fork
+make ginger paste;whisk the paste with a fork;mix the ingredients well with a spoon until a paste forms
+make ginger paste;mix the ingredients well with a spoon until a paste forms;put some water on a tray and let it soak for a bit
+make ginger paste;put some water on a tray and let it soak for a bit;turn the tray over
+make ginger paste;turn the tray over;put some oil on the tray to keep it from sticking
+make ginger paste;put some oil on the tray to keep it from sticking;put the tray on a tray to let it get good and hot
+make ginger paste;put the tray on a tray to let it get good and hot;keep stirring till you get a good paste
+make ginger paste;keep stirring till you get a good paste;use the paste to make paste with the ginger and sugar
+make ginger paste;use the paste to make paste with the ginger and sugar;turn the tray over again to cool
+make ginger paste;turn the tray over again to cool;keep using the tray to get more paste until all the water has been taken away
+make ginger paste;get a bunch of ginger.;turn on burner.
+make ginger paste;turn on burner.;put ginger in a bowl.
+make ginger paste;put ginger in a bowl.;put a drop of milk in the bowl.
+make ginger paste;put a drop of milk in the bowl.;stir it up.
+make ginger paste;stir it up.;add a little water.
+make ginger paste;add a little water.;turn burner on low.
+make ginger paste;turn burner on low.;stir a bit.
+make ginger paste;stir a bit.;use your fingers to spread paste on a plate.
+make ginger paste;use your fingers to spread paste on a plate.;eat it.
+make ginger paste;heat water;add oil
+make ginger paste;add oil;add paste to water
+make ginger paste;add paste to water;stir until paste is evenly cooked
+make ginger paste;stir until paste is evenly cooked;add sugar and salt
+make ginger paste;add sugar and salt;pour paste on plate
+make ginger paste;get some sugar and salt.;get a food processor.
+make ginger paste;get a food processor.;add sugar and salt to food processor.
+make ginger paste;add sugar and salt to food processor.;pulse the food processor until you get a thick paste.
+make ginger paste;pulse the food processor until you get a thick paste.;put the food processor away.
+make ginger paste;grab a little pot;fill with water
+make ginger paste;fill with water;put a pinch of salt in water
+make ginger paste;put a pinch of salt in water;pour water into pot
+make ginger paste;pour water into pot;heat water
+make ginger paste;heat water;boil water
+make ginger paste;boil water;put paste in pot
+make ginger paste;put paste in pot;put pot on stove
+make ginger paste;put pot on stove;when water boils, put pot on stove top
+make ginger paste;when water boils, put pot on stove top;stir until paste becomes bubbly
+go for a wedding;decide on a wedding outfit that matches the color of the venue;drive to the venue
+go for a wedding;drive to the venue;look at the dress in the store
+go for a wedding;look at the dress in the store;decide on the shoes
+go for a wedding;decide on the shoes;wait in line
+go for a wedding;wait in line;give name to clerk
+go for a wedding;give name to clerk;wait until the clerk gives your ticket
+go for a wedding;wait until the clerk gives your ticket;give your ticket to the clerk
+go for a wedding;give your ticket to the clerk;go to the reception
+go for a wedding;go to the reception;watch the ceremony
+go for a wedding;watch the ceremony;watch the reception
+go for a wedding;watch the reception;return to your car
+go for a wedding;return to your car;drive home
+go for a wedding;go to reception.;go to the reception area.
+go for a wedding;go to the reception area.;take your guests to your place.
+go for a wedding;take your guests to your place.;give your dress and shoes to the reception.
+go for a wedding;give your dress and shoes to the reception.;sit down and eat.
+go for a wedding;sit down and eat.;leave the reception and go home.
+go for a wedding;leave the reception and go home.;put on your gown and take your guests.
+go for a wedding;put on your gown and take your guests.;walk back to the reception and sit at a table.
+go for a wedding;walk back to the reception and sit at a table.;eat your food and drinks.
+go for a wedding;eat your food and drinks.;sit down and watch a movie.
+go for a wedding;sit down and watch a movie.;walk out of the reception and go home.
+go for a wedding;walk out of the reception and go home.;put on your favorite dress and put shoes on.
+go for a wedding;put on your favorite dress and put shoes on.;leave reception and leave the reception area.
+go for a wedding;make a list of things to do at a wedding;drive to the venue
+go for a wedding;drive to the venue;find a car
+go for a wedding;find a car;arrive at the venue
+go for a wedding;arrive at the venue;enjoy the ceremony and reception
+go for a wedding;find a good wedding dress;make a choice of colors
+go for a wedding;make a choice of colors;call friends and family
+go for a wedding;call friends and family;ask if they would like to go to the wedding
+go for a wedding;ask if they would like to go to the wedding;get in car
+go for a wedding;get in car;drive to the wedding
+go for a wedding;drive to the wedding;arrive
+go for a wedding;take an itinerary;get dress
+go for a wedding;get dress;buy flowers
+go for a wedding;buy flowers;go to the ceremony place
+go for a wedding;go to the ceremony place;have the groom do his work
+go for a wedding;have the groom do his work;greet guests
+go for a wedding;greet guests;talk to guests
+go for a wedding;talk to guests;enjoy the ceremony
+attend a wedding;get dressed in proper attire.;leave the house.
+attend a wedding;leave the house.;drive to church.
+attend a wedding;drive to church.;go in and give them a hug.
+attend a wedding;go in and give them a hug.;sit in pew.
+attend a wedding;go to the store;purchase a dress
+attend a wedding;purchase a dress;go home
+attend a wedding;go home;take off the shoes
+attend a wedding;take off the shoes;put on the dress
+attend a wedding;call friends;invite them to come
+attend a wedding;invite them to come;drive to the venue
+attend a wedding;drive to the venue;get dressed in appropriate attire
+attend a wedding;get dressed in appropriate attire;drive to the reception
+attend a wedding;drive to the reception;go to the reception
+attend a wedding;go to the reception;show up at the reception
+attend a wedding;dress up in a nice outfit;drive to the church
+attend a wedding;drive to the church;go inside
+attend a wedding;go inside;watch the ceremony
+attend a wedding;watch the ceremony;leave the church
+attend a wedding;leave the church;drive to the cemetery
+attend a wedding;drive to the cemetery;go back to church
+attend a wedding;go back to church;sign the guest book
+attend a wedding;sign the guest book;walk into the house
+attend a wedding;walk into the house;give the flowers to the couple
+attend a wedding;give the flowers to the couple;give the cake to the couple
+attend a wedding;give the cake to the couple;say goodnight
+attend a wedding;say goodnight;leave the house
+attend a wedding;find out who your guests are;pack a small outfit for the occasion
+attend a wedding;pack a small outfit for the occasion;drive to the venue
+attend a wedding;drive to the venue;park in the lot
+attend a wedding;park in the lot;wait in line
+attend a wedding;wait in line;enter the ceremony room
+attend a wedding;enter the ceremony room;sit quietly
+attend a wedding;sit quietly;give and accept compliments from the couple
+attend a wedding;give and accept compliments from the couple;speak quietly to friends and family
+wash a car;turn off car;grab towel and bucket of water
+wash a car;grab towel and bucket of water;get car in bucket
+wash a car;get car in bucket;add soap
+wash a car;add soap;wet car
+wash a car;wet car;remove car
+wash a car;remove car;rinse off with water
+wash a car;rinse off with water;dry car
+wash a car;dry car;put away car
+wash a car;put car in washer;turn on washer
+wash a car;turn on washer;wait for washer to finish
+wash a car;wait for washer to finish;remove and wash car
+wash a car;remove and wash car;put away wash cloth
+wash a car;go to the carwash;go in to the carwash
+wash a car;go in to the carwash;change into proper clothing
+wash a car;change into proper clothing;wash car
+wash a car;wash car;rinse out
+wash a car;rinse out;put in the proper vehicle
+wash a car;put in the proper vehicle;leave the carwash
+wash a car;remove any other items from the car;grab towel
+wash a car;grab towel;put cloth over cloth
+wash a car;put cloth over cloth;take clean cloth and get car
+wash a car;take clean cloth and get car;wet car
+wash a car;put the car in the washer.;turn it on.
+wash a car;turn it on.;wait for the washer to finish.
+wash a car;wait for the washer to finish.;pour shampoo into the washer.
+wash a car;pour shampoo into the washer.;remove the car.
+wash a car;remove the car.;clean the car thoroughly.
+wash a car;clean the car thoroughly.;remove the car.
+wash a car;remove the car.;put car back in the washer.
+wash a car;put car back in the washer.;wait for it to finish.
+wash a car;wait for it to finish.;remove the car.
+wash a car;remove the car.;remove the washer.
+wash a car;remove the washer.;put it in the duster.
+wash a car;put it in the duster.;hang up the car.
+take out trash;pick up a piece of trash;pick up trash bags
+take out trash;pick up trash bags;put trash bags in trash can
+take out trash;put trash bags in trash can;put trash cans in trash can
+take out trash;put trash cans in trash can;throw away trash
+take out trash;walk to dumpster;pick up trash
+take out trash;pick up trash;dump trash into recycling
+take out trash;dump trash into recycling;throw away trash
+take out trash;gather trash;take trash bags
+take out trash;take trash bags;dispose of trash
+take out trash;dispose of trash;pick up trash
+take out trash;pick up trash;put trash bags in trash box
+take out trash;put trash bags in trash box;pick up trash
+take out trash;pick up trash;put trash bags away
+take out trash;put trash in trash can;pick up trash when done
+take out trash;pick up trash when done;dump trash
+take out trash;dump trash;put trash into recycling
+take out trash;put trash into recycling;put trash in recycling bin
+take out trash;put trash in recycling bin;throw trash in trash can
+take out trash;put trash into bag;take trash from bag to trash can
+take out trash;take trash from bag to trash can;put garbage into trash can
+take out trash;put garbage into trash can;pour cleaner into trash can
+take out trash;pour cleaner into trash can;remove trash
+take out trash;remove trash;put trash in trash can
+take a taxi;enter the building;approach the driver
+take a taxi;approach the driver;tell the driver where you want to go
+take a taxi;tell the driver where you want to go;put your bag down
+take a taxi;put your bag down;wait for the driver
+take a taxi;wait for the driver;get your payment
+take a taxi;get your payment;wait for the driver
+take a taxi;wait for the driver;get the ride
+take a taxi;call the taxi;get into the car
+take a taxi;get into the car;drive to the street
+take a taxi;drive to the street;find the car
+take a taxi;find the car;wait for the driver
+take a taxi;wait for the driver;pay the driver
+take a taxi;pay the driver;get out the driver
+take a taxi;wait for a cab;wait for the driver to arrive at your destination
+take a taxi;wait for the driver to arrive at your destination;get in the cab
+take a taxi;get in the cab;wait for the driver to get out of the cab
+take a taxi;wait for the driver to get out of the cab;give him your luggage
+take a taxi;give him your luggage;walk to the exit
+take a taxi;walk to the exit;get out of the taxi
+take a taxi;call a taxi;wait for the taxi
+take a taxi;wait for the taxi;park in the spot the taxi is parked
+take a taxi;park in the spot the taxi is parked;wait for the taxi to arrive
+take a taxi;wait for the taxi to arrive;get in the car
+take a taxi;call a taxi;get inside the taxi
+take a taxi;get inside the taxi;wait for the driver
+take a taxi;wait for the driver;drive to where your destination is
+take a taxi;drive to where your destination is;pay for your fare
+surf the internet;find a surfing website;sign up with credit card
+surf the internet;sign up with credit card;purchase internet from the website
+surf the internet;purchase internet from the website;wait for online payment
+surf the internet;wait for online payment;sign out of account
+surf the internet;sign out of account;get out of internet service
+surf the internet;go to the computer;log on to the computer
+surf the internet;log on to the computer;type in your e-mail address
+surf the internet;type in your e-mail address;enter the URL of the website you want to surf
+surf the internet;enter the URL of the website you want to surf;enter the password you used on the computer
+surf the internet;enter the password you used on the computer;click on the appropriate button on the website
+surf the internet;click on the appropriate button on the website;enter your name on the form
+surf the internet;enter your name on the form;click on send this link to a friend
+surf the internet;click on send this link to a friend;enter your password and send it to a friend
+surf the internet;enter your password and send it to a friend;close the browser window
+surf the internet;close the browser window;return the form.
+surf the internet;log onto the internet;type in the address of the website you want to watch
+surf the internet;type in the address of the website you want to watch;go to the website
+surf the internet;go to the website;check the ratings on the website
+surf the internet;check the ratings on the website;choose the appropriate pay-per-view movie
+surf the internet;choose the appropriate pay-per-view movie;go to the page you want to watch
+surf the internet;go to the page you want to watch;sign up for the account
+surf the internet;sign up for the account;choose the video you want to watch
+surf the internet;choose the video you want to watch;go to the website
+surf the internet;go to the website;view the video, if you wish to.
+surf the internet;view the video, if you wish to.;go to the exit of the website
+surf the internet;go to the exit of the website;log off the internet and leave
+surf the internet;choose your favorite web sites;surf the web
+surf the internet;surf the web;decide which website to surf
+surf the internet;decide which website to surf;go to your website to find a link
+surf the internet;go to your website to find a link;read the content
+surf the internet;read the content;enjoy!
+surf the internet;get in a car.;drive to a surf park.
+surf the internet;drive to a surf park.;put on sunglasses.
+surf the internet;put on sunglasses.;go to a website.
+surf the internet;go to a website.;select a surfing spot.
+surf the internet;select a surfing spot.;find a surfboard.
+surf the internet;find a surfboard.;wait for surfers to join you.
+surf the internet;wait for surfers to join you.;surf!
+watch television;turn on the television;adjust the television
+watch television;adjust the television;read the screen
+watch television;read the screen;get ready to watch the television
+watch television;get ready to watch the television;take a piece of paper and a pencil
+watch television;take a piece of paper and a pencil;take out the television and put it in the room
+watch television;take out the television and put it in the room;take a piece of paper and a pencil and take it to the bathroom
+watch television;take a piece of paper and a pencil and take it to the bathroom;open the door of the bathroom and sit down
+watch television;open the door of the bathroom and sit down;watch the television
+watch television;enter room;turn on TV
+watch television;turn on TV;sit down and watch the show
+watch television;sit down and watch the show;enjoy.
+watch television;set up appropriate signal;set up appropriate settings on the TV
+watch television;set up appropriate settings on the TV;set up the cable or satellite
+watch television;set up the cable or satellite;start watching the program
+watch television;start watching the program;when the program ends, switch off the TV
+watch television;enter room.;find a good movie to watch.
+watch television;find a good movie to watch.;get a movie.
+watch television;get a movie.;watch it.
+watch television;watch it.;get up and leave room.
+watch television;get up;get under the covers
+watch television;get under the covers;turn the television off
+watch television;turn the television off;turn it on
+watch television;turn it on;read newspaper
+watch television;read newspaper;listen to some good music
+watch television;listen to some good music;enjoy the show
+go to a club to dance;walk into the club;walk into a dance
+go to a club to dance;walk into a dance;pay to dance
+go to a club to dance;pay to dance;get dancing shoes
+go to a club to dance;get dancing shoes;sit down and dance
+go to a club to dance;choose music to dance to.;drive to club.
+go to a club to dance;drive to club.;purchase drinks.
+go to a club to dance;purchase drinks.;enter club.
+go to a club to dance;enter club.;go to booth.
+go to a club to dance;go to booth.;enter room.
+go to a club to dance;enter room.;find a seat.
+go to a club to dance;find a seat.;dance until finished.
+go to a club to dance;dance until finished.;get dressed.
+go to a club to dance;get dressed.;drive home.
+go to a club to dance;walk in;find a place where you can dance
+go to a club to dance;find a place where you can dance;go up to the bouncer and tell them you're there
+go to a club to dance;go up to the bouncer and tell them you're there;go over the rules of the dance
+go to a club to dance;go over the rules of the dance;give your tickets to the bouncer
+go to a club to dance;give your tickets to the bouncer;ask the bouncer if there is a dance floor
+go to a club to dance;ask the bouncer if there is a dance floor;wait for your turn
+go to a club to dance;go to club;dress in black
+go to a club to dance;dress in black;walk into club
+go to a club to dance;walk into club;buy shoes
+go to a club to dance;buy shoes;go up to bouncers
+go to a club to dance;go up to bouncers;tell bouncers what you want to drink
+go to a club to dance;tell bouncers what you want to drink;give them your number
+go to a club to dance;give them your number;go into booth with your drinks
+go to a club to dance;go into booth with your drinks;go to the back of the club
+go to a club to dance;go to the back of the club;wait for your turn
+go to a club to dance;wait for your turn;go to the front of the club
+go to a club to dance;go to the front of the club;pay for your drink
+go to a club to dance;pay for your drink;get your drinks from the bouncers
+go to a club to dance;get your drinks from the bouncers;leave the club
+go to a club to dance;dress in a dark colored outfit that matches the dance floor;drive to the club
+go to a club to dance;drive to the club;purchase your tickets at the front desk
+go to a club to dance;purchase your tickets at the front desk;check in at the front desk
+go to a club to dance;check in at the front desk;enter the club
+go to a club to dance;enter the club;get to your seat
+go to a club to dance;get to your seat;start dancing to music and dancing up and down the floor
+go to a club to dance;start dancing to music and dancing up and down the floor;exit the club
+go to a club to dance;exit the club;walk home

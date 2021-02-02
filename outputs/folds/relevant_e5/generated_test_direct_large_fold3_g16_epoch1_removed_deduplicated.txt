@@ -1,0 +1,25 @@
+<BOS> eating in a fast food restaurant: 1. wait for your order to be called 2. get on the food delivery menu 3. pay for your meal 4. eat your meal 
+<BOS> eating in a fast food restaurant: 1. get a hamburger 2. pay the bill 3. go to the food counter 4. order food 5. get a fork and knife 6. pick out a piece of food 7. eat the food 8. go home 
+<BOS> eating in a fast food restaurant: 1. enter the fast food restaurant 2. order a food 3. order a snack 4. wait for your meal 5. pay your bill 6. tip the waiter 
+<BOS> eating in a fast food restaurant: 1. call the restaurant and order a meal 2. order food from the menu 3. drive to the restaurant 4. wait for your meal 5. get up to eat food 6. tip the waiter 7. drive home 
+<BOS> eating in a fast food restaurant: 1. order a food. 2. when the waiter comes bring you food. 3. eat your food. 4. put the plate away. 
+<BOS> paying with a credit card: 1. go to the bank 2. deposit the card into the bank 3. get a receipt 4. pay for the card 5. close the account 
+<BOS> paying with a credit card: 1. enter credit card information 2. select card 3. enter card details 4. enter your credit card information 5. scan card 6. pay with credit card 7. leave card details 8. insert back into card reader 9. insert card back into machine 10. exit card reader 
+<BOS> paying with a credit card: 1. get credit card information 2. go to the checkout line 3. give credit card information 
+<BOS> paying with a credit card: 1. find a location that accepts card. 2. take out money and put it in machine. 3. put card in machine and pay with credit. 4. put card in machine again. 5. put card back in card reader. 
+<BOS> paying with a credit card: 1. check out 2. insert card in machine 3. pay for what you want 4. show card when you are ready 5. get money 
+<BOS> playing tennis: 1. get on the ball 2. turn on the tennis racket 3. start hitting the ball 4. return the ball to the racket 5. return to your feet 
+<BOS> playing tennis: 1. put on tennis shoes 2. pick out a ball 3. pick out tennis rack 4. put racket on rack 5. put ball on rack 6. pick up ball 7. put rack back on rack 8. take ball off rack 9. set tennis rack back on rack 
+<BOS> playing tennis: 1. drive to the tennis club. 2. find a match with another person. 3. put on a tennis suit. 4. enter the tennis club. 5. find a game partner. 6. play the game. 7. pay for your game. 8. leave the tennis club. 
+<BOS> playing tennis: 1. get into tennis shoes 2. get in the tennis car 3. drive to the tennis court 4. get on the court 5. play ball with a ball and tennis racket 6. enjoy the game 
+<BOS> playing tennis: 1. get out tennis shoes 2. find a grass tennis court 3. get your tennis ball 4. find the right ball 5. hit the ball 
+<BOS> going to the theater: 1. go to the theater 2. go to the main lobby 3. go through the doors 4. sit down in the theater seat 5. enjoy the show 
+<BOS> going to the theater: 1. go to the theater 2. enter the theater 3. go to the ticket counter 4. buy your ticket 5. wait for your turn to go to the theater 6. when the curtain rises, go to your seat 7. leave the theater 
+<BOS> going to the theater: 1. enter theater 2. seat yourself 3. enjoy the movie 4. get up from your seat when you're done 
+<BOS> going to the theater: 1. find your desired seat 2. get in car and drive to the theater 3. take a seat 4. enter the theater 5. sit down and enjoy the movie 6. leave the theater at your leisure 
+<BOS> going to the theater: 1. go to the theater 2. enter the theater 3. wait for the movie to start 4. get a ticket to the movie 5. sit down 6. take your seat 7. enjoy the movie 
+<BOS> taking a child to bed: 1. get up 2. put on bed 3. get in bed 4. close eyes 5. sleep 
+<BOS> taking a child to bed: 
+<BOS> taking a child to bed: 
+<BOS> taking a child to bed: 1. find a safe place for your child 2. get your child out of the room 3. turn the light on 4. close the door 5. take your child into bed 
+<BOS> taking a child to bed: 1. dress the child 2. put the child in bed 3. shut the door 4. put on some bed clothes 5. turn on the light 6. when the light goes off take the child out 

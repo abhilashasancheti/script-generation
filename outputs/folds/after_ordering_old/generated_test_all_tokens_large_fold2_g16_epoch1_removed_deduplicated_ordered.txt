@@ -1,0 +1,25 @@
+<BOS> <SCR> getting a hair cut <ESCR>: 1. drive to the hair salon 2. go into the salon 3. pay for the services 4. have the hair cut 5. leave the salon 
+<BOS> <SCR> getting a hair cut <ESCR>: 1. get a razor 2. put soap in the sink 3. put on your hair 4. wet the hair 5. remove hair 6. apply the cream 7. enjoy the shave 
+<BOS> <SCR> getting a hair cut <ESCR>: 1. put on your other clothes 2. choose a haircut 3. put your hair in a ponytail 4. wait for the haircut 5. apply cream to the hair 6. shampoo the hair 7. go home 
+<BOS> <SCR> getting a hair cut <ESCR>: 1. choose the hair cut 2. get the scissors 3. apply the cream 4. cut the hair 5. dry the hair 
+<BOS> <SCR> getting a hair cut <ESCR>: 1. drive to salon 2. go into the salon 3. pay for your hair and body routine 4. go into the changing room 5. get hair cut 6. leave the salon 
+<BOS> <SCR> going grocery shopping <ESCR>: 1. walk into the store 2. go to checkout 3. pay for the purchase 4. wait for the clerk to check out your items 5. pay for your goods 6. wait for the clerk to check out your purchases 
+<BOS> <SCR> going grocery shopping <ESCR>: 1. find item you need 2. choose item from shelf 3. get cashier's attention 4. pay for item 5. take items out of grocery store 6. go home
+<BOS> <SCR> going grocery shopping <ESCR>: 1. walk into store 2. walk to checkout counter 3. walk to the counter to buy goods 4. find items to buy 5. purchase goods 6. pay for items 7. pay for purchases 8. go home 
+<BOS> <SCR> going grocery shopping <ESCR>: 1. go to the store 2. pay for the items 3. check out the items 4. leave the store 
+<BOS> <SCR> going grocery shopping <ESCR>: 1. browse the shelves 2. go to checkout 3. choose the items you want to buy 4. hand your items to the cashier 5. cashier hands you the receipt 6. take the items from the cashier 7. take the receipt 8. leave the store 
+<BOS> <SCR> planting a tree <ESCR>: 1. place the tree in the right place 2. plant the tree 3. keep the tree growing 
+<BOS> <SCR> planting a tree <ESCR>: 1. tending it 2. sprouting the roots 3. putting the roots in the soil 4. putting branches in the ground 5. putting the branches in the soil 6. putting the roots in the soil
+<BOS> <SCR> planting a tree <ESCR>: 1. go to the nearest park 2. go to the area where you want to plant 3. gather a bunch of rocks 4. grab a piece of wood 5. throw the wood in 6. wait for the leaves to grow 
+<BOS> <SCR> planting a tree <ESCR>: 1. get a pot with leaves 2. get a large pot 3. get a shovel 4. get a branch 5. get a spade 6. put all the branches in a hole 7. put the soil into the hole 8. add more soil 
+<BOS> <SCR> planting a tree <ESCR>: 1. look up any online tips 2. choose a tree 3. cut off the top of the tree 4. build a board for the tree 5. add branches to the trunk 6. apply the soil 7. lay the tree over the board 8. place the board in the ground 9. apply the drainage to the tree 10. sit back and enjoy
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. put the new tire in the right spot 2. put the new tire on the right side 3. pull the pin to tighten the tire 
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. take a pothole in the road 2. go to the garage and get a tire repair 3. get a new tire 4. drive to the garage 5. get the tire put on 6. put the tire in the car 7. drive the car off the road
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. remove tire from bike 2. find something to replace tire 3. replace tire with something new 4. put bike back on bike 
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. remove old tire 2. replace new tire 3. put on new brake pads 4. replace brake handle and lever 5. put on new brake cover 6. set the correct speed 7. use the pedal to slow down
+<BOS> <SCR> repairing a flat bicycle tire <ESCR>: 1. turn the bicycle on 2. pull the tire off the bicycle 3. remove the tire from the bicycle 4. gather the items necessary to repair the flat tire 5. place the item necessary to repair the flat tire on the handlebars 6. put the item needed to repair the flat tire on the pedals 7. repeat the steps for all the items 8. replace the tire 
+<BOS> <SCR> taking a bath <ESCR>: 1. get undressed 2. turn on water 3. take a shower 4. get in the water 5. dry yourself 
+<BOS> <SCR> taking a bath <ESCR>: 1. lay in the bath 2. step into the shower 3. turn on water 4. wash your hair and body 5. turn off water 
+<BOS> <SCR> taking a bath <ESCR>: 1. fill tub with water 2. turn on hot water 3. wet wet hair 4. put in soap 5. use shampoo to massage hair 6. rinse shampoo out 7. dry hair and get dressed 
+<BOS> <SCR> taking a bath <ESCR>: 1. get in tub. 2. turn on water. 3. step in. 4. adjust temperature if necessary. 5. wash with shampoo if desired. 6. wash body with body wash if desired. 7. rinse off of body. 8. leave water. 9. step out of bath. 10. dry off with towel.
+<BOS> <SCR> taking a bath <ESCR>: 1. turn water to desired temperature. 2. sit in shower. 3. wash hair and body thoroughly with shampoo and body wash. 4. turn water off. 5. rinse off soap. 6. dry off using towel. 

@@ -1,0 +1,5 @@
+<BOS> here is a sequence of events that happen while getting a hair cut: 
+<BOS> here is a sequence of events that happen while going grocery shopping: 
+<BOS> here is a sequence of events that happen while planting a tree: 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: 
+<BOS> here is a sequence of events that happen while taking a bath: 

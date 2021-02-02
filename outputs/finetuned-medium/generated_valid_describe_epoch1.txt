@@ -1,0 +1,55 @@
+=== PROMPT <BOS> describe getting a hair cut in small sequences of short sentences: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> describe getting a hair cut in small sequences of short sentences: 1. choose hair type that you like 2. call the hair shop for services 3. give your name and phone number 4. get your hair cut 5. walk in to the shop with your hair 6. get your scissors 7. get scissors 8. cut your hair 
+=== GENERATED SEQUENCE 2 ===
+<BOS> describe getting a hair cut in small sequences of short sentences: 1. get a shampoo and conditioner 2. get a towel and/or a cloth 3. put hair into your hand 4. turn on shampoo and conditioner 5. gently massage hair 6. start the conditioner with a small amount of water 7. slowly begin to massage the conditioner into your hair 8. use towel to wash off excess conditioner 9. dry off 10. get dressed 
+=== GENERATED SEQUENCE 3 ===
+<BOS> describe getting a hair cut in small sequences of short sentences: 1. walk to the nearest hair salon 2. go to the receptionist and ask for a haircut 3. they give you a new cut 4. you wait for the change 5. when you get the haircut you put on make-up 6. go home 
+=== GENERATED SEQUENCE 4 ===
+<BOS> describe getting a hair cut in small sequences of short sentences: 1. get in the car 2. drive to the hair salon 3. go into the store 4. pick up any desired cut 5. get hair in and out of your hair 6. wait for the cut to end 7. put your hands in your hair 8. get out the scissors 9. trim 
+=== GENERATED SEQUENCE 5 ===
+<BOS> describe getting a hair cut in small sequences of short sentences: 1. buy a hair cut. 2. make a list of the things that you don't want in your hair. 3. buy the proper amount of hair and scalp gel. 4. find the shop that supplies hair color. 5. take a small package to the hair cut area. 6. purchase the proper amount of hair spray to go with the shampoo and conditioner. 7. pay for the product. 8. put the proper amount of hair shampoo in your hair. 9. remove the shampoo. 10. rinse the conditioner off. 11. place the shampoo back in your hair. 12. rinse off the conditioner. 13. put on the proper amount of shampoo in your hair. 14. get the proper amount of conditione
+=== PROMPT <BOS> describe going grocery shopping in small sequences of short sentences: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> describe going grocery shopping in small sequences of short sentences: 1. go to the store. 2. go to cashier. 3. say to cashier, if you have any items that you want, give them your address and name. 4. put item into box with paper. 5. hand paper to cashier. 6. put item in box. 7. put item back in basket. 8. leave store. 
+=== GENERATED SEQUENCE 2 ===
+<BOS> describe going grocery shopping in small sequences of short sentences: 1. decide where you want to buy stuff 2. grab your shopping bags 3. pack the groceries in your bags 4. put them in the car 5. drive to the store 6. go inside and check out 7. take your bags from your car 8. drive home 
+=== GENERATED SEQUENCE 3 ===
+<BOS> describe going grocery shopping in small sequences of short sentences: 1. find groceries 2. pick a food 3. decide what to buy 4. find a store 5. buy groceries 6. give them my credit card 7. get off the car 8. drive to the store 9. take the groceries to the counter 10. pay the cashier 11. open the groceries 12. wait for the package to arrive 13. collect the food 14. give it to the counter 15. take the food to the car 16. drive to your nearest grocery store 16. drive to the checkout 17. find a price of the food 18. hand the clerk the check for the item that you want 19. buy the item in your name 20. return the item in its box with the receipt 
+=== GENERATED SEQUENCE 4 ===
+<BOS> describe going grocery shopping in small sequences of short sentences: 1. buy a basket of groceries. 2. select a grocery store. 3. pick out the items you need. 4. enter the store. 5. leave the store. 
+=== GENERATED SEQUENCE 5 ===
+<BOS> describe going grocery shopping in small sequences of short sentences: 1. drive to store 2. pick out items 3. find a place 4. pay for items 5. take items 6. leave store 
+=== PROMPT <BOS> describe planting a tree in small sequences of short sentences: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> describe planting a tree in small sequences of short sentences: 1. take the ground 2. pick a large piece of ground 3. place tree in proper location 4. move the tree with shovel 5. pick up roots 6. continue planting 
+=== GENERATED SEQUENCE 2 ===
+<BOS> describe planting a tree in small sequences of short sentences: 1. select a suitable tree 2. gather leaves, twigs and branches 3. cut the branches 4. keep the leaves and twigs around the tree 5. spray the trees with water 6. wait for the trees to finish 
+=== GENERATED SEQUENCE 3 ===
+<BOS> describe planting a tree in small sequences of short sentences: 1. go to the store. 2. check to see which type of trees you want to buy. 3. grab a bunch of lumber to use for your tree. 4. buy a couple of twigs for your tree. 5. go pick out your tree. 
+=== GENERATED SEQUENCE 4 ===
+<BOS> describe planting a tree in small sequences of short sentences: 1. place some branches in the ground 2. use wood to build a tree 3. cut and put the branches into the ground 4. light the wood by putting a small amount of light into the ground 5. when the wood turns dark, remove the branches 6. place the wood back into the ground 
+=== GENERATED SEQUENCE 5 ===
+<BOS> describe planting a tree in small sequences of short sentences: 1. cut down small trees 2. place some rocks nearby 3. place some dirt around the tree 4. set a timer on the timer 5. let the tree grow 
+=== PROMPT <BOS> describe repairing a flat bicycle tire in small sequences of short sentences: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> describe repairing a flat bicycle tire in small sequences of short sentences: 1. put in new tires 2. start to move the flat 3. push the new tires on 4. repeat 5. repeat until all new tire cover has been put in 6. set off new brake pad 7. repeat 8. replace the tire cover 9. put out old tire cover 10. remove old tire cover 
+=== GENERATED SEQUENCE 2 ===
+<BOS> describe repairing a flat bicycle tire in small sequences of short sentences: 1. get new bike 2. start new set of wheels 3. get new tire 4. put new tire in the car 5. replace the old set of wheels 6. wait for the tire to fully set 7. take the car to the repair shop 8. get the repair kit and tools 9. put new set of wheels on the bike 10. get back into the car 11. leave the shop 
+=== GENERATED SEQUENCE 3 ===
+<BOS> describe repairing a flat bicycle tire in small sequences of short sentences: 1. remove old flat tires from back of car 2. put flat tires on front 3. replace flat tires on rear 4. replace flat tires on front 6. remove old wheel from back of car 7. put new wheel on back of car 
+=== GENERATED SEQUENCE 4 ===
+<BOS> describe repairing a flat bicycle tire in small sequences of short sentences: 1. turn off bike 2. remove all other wear and tear 3. remove old or non-repairable flat and replace flat with new 4. replace old or non-repairable flat with new flat 5. replace with new tire 6. return new flat 7. replace with new bike 8. replace with new tires 
+=== GENERATED SEQUENCE 5 ===
+<BOS> describe repairing a flat bicycle tire in small sequences of short sentences: 1. get bicycle 2. go to shop 3. look at the size of the tires 4. remove the old tire 5. get replacement. 
+=== PROMPT <BOS> describe taking a bath in small sequences of short sentences: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> describe taking a bath in small sequences of short sentences: 1. find a bathroom 2. turn on water 3. step into shower 4. turn on water 5. remove clothes 6. wet clothes 7. put clothes away 8. get out of shower 9. wash self 10. put hair out 11. dry off 
+=== GENERATED SEQUENCE 2 ===
+<BOS> describe taking a bath in small sequences of short sentences: 1. gather dirty clothes 2. get in car 3. get into shower 4. get undressed 5. sit and wash body with shampoo 6. put on towel 7. wash head with water 8. get towel 9. wash body with shampoo 10. sit with towel 11. dry body 12. get in car 13. drive to desired location 14. wash body with soap 15. get into car 16. wash off body with towel 
+=== GENERATED SEQUENCE 3 ===
+<BOS> describe taking a bath in small sequences of short sentences: 1. enter bathroom 2. fill sink with water 3. turn on water 4. step into shower 5. wet your hair 6. massage your body 7. rinse off with soap 8. step out of shower 9. dry off with towel 
+=== GENERATED SEQUENCE 4 ===
+<BOS> describe taking a bath in small sequences of short sentences: 1. put on bath 2. step into tub 3. put clothes on 4. turn on hot water 5. take off clothes 6. put body in water 7. rinse soap 8. wipe with towel 9. turn off water 10. dry off with towel 
+=== GENERATED SEQUENCE 5 ===
+<BOS> describe taking a bath in small sequences of short sentences: 1. wet the sink 2. step in the water 3. rub shampoo and conditioner on your body 4. turn off water 5. get into bath 6. put on your towel 7. get into shower 8. scrub your body 9. rinse away soap 10. dry off with towel 11. get into shower 12. get in the tub 13. wet your hair 14. put soap on your hair 15. turn off water 16. get out of shower 17. get dressed 

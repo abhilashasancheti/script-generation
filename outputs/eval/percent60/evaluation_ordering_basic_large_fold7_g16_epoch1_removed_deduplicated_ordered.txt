@@ -1,0 +1,21 @@
+having a barbecue;put some salt on the coals;put some water on the coals
+having a barbecue;cook the food;take the pot off the stove
+having a barbecue;place the hot coals on the water pan;wait for the coals to reach the desired temperature
+having a barbecue;put the water in the water pan;place the hot coals on the fire pan
+having a barbecue;wait for the coals to reach the desired temperature;cook the food
+having a barbecue;put some water on the coals;put some mustard on the coals
+ordering a pizza;order the pizza;give the pizza to the waiters
+ordering a pizza;order a pizza;order the pizza
+cleaning up a flat;take things out of the room;take out the hair dryer
+cleaning up a flat;put on a dryer sheet;open the door
+cleaning up a flat;get clothes on;take things out of the room
+cleaning up a flat;open the door;get in the room
+making scrambled eggs;take out the box that you are using;remove the egg from the box
+making scrambled eggs;go inside the box;take out the box that you are using
+making scrambled eggs;put in a small bowl;pour the mixture into the eggs
+making scrambled eggs;mix the ingredients together;put in a small bowl
+making scrambled eggs;find out what ingredients you need;find out what size eggs you need
+taking the underground;put the ticket in your pocket;get your tube
+taking the underground;pay for ticket;put the ticket in your pocket
+taking the underground;go to the ticket booth;go inside
+taking the underground;enter the underground;go to the ticket booth

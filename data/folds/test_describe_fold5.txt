@@ -1,0 +1,5 @@
+<BOS> describe taking a shower in small sequences of short sentences: 
+<BOS> describe ironing laundry in small sequences of short sentences: 
+<BOS> describe taking a driving lesson in small sequences of short sentences: 
+<BOS> describe going to the dentist in small sequences of short sentences: 
+<BOS> describe going to a funeral in small sequences of short sentences: 

@@ -1,0 +1,37 @@
+washing dishes;wash dishes;add soap
+washing dishes;turn on water;wash dishes
+making a bonfire;light the charcoal;set up the fire
+making a bonfire;put fuel in the fire;turn the fire on
+making a bonfire;turn the fire on;enjoy the smoke
+making a bonfire;set up the fire;put fuel in the fire
+making a bonfire;fill the wood with charcoal;light the charcoal
+going to the sauna;sit and change into the appropriate clothes;undress
+going to the sauna;close the door;get out of the sauna
+going to the sauna;make an appointment;drive to the sauna
+going to the sauna;get into the sauna;use the soap
+going to the sauna;drive to the sauna;pay the attendant
+going to the sauna;use the soap;close the door
+going to the sauna;pay the attendant;sit and change into the appropriate clothes
+going to the sauna;undress;get into the sauna
+making coffee;get the water in the pot;turn on the stove
+making coffee;add a pinch of salt;pour some milk in the pot
+making coffee;pour some sugar into the pot;pour the milk into the coffee pot
+making coffee;pour the milk into the coffee pot;pour some milk into the sugar
+making coffee;put the hot water into the pot;pour the hot water into the coffee pot
+making coffee;take the coffee pot;get the water in the pot
+making coffee;pour some milk into the sugar;let it heat
+making coffee;pour some milk in the pot;pour some sugar into the pot
+making coffee;turn on the stove;put the hot water into the pot
+making coffee;boil the water;add a pinch of salt
+making coffee;let it heat;turn off the stove
+making coffee;pour the hot water into the coffee pot;boil the water
+going to the swimming pool;put your swimsuits on;take your swimsuits off
+going to the swimming pool;get in line;register for the pool
+going to the swimming pool;go to the swim pool;put your swimsuits on
+going to the swimming pool;register for the pool;choose your swimsuit
+going to the swimming pool;get in the water;go to the swim pool
+going to the swimming pool;arrive at the swimming pool;get in line
+going to the swimming pool;choose your water temperature;get in the water
+going to the swimming pool;take your swimsuits off;get out of the pool
+going to the swimming pool;choose your swimsuit;choose your water temperature
+going to the swimming pool;get out of the pool;get dressed

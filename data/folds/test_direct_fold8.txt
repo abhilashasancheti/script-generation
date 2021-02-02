@@ -1,0 +1,5 @@
+<BOS> renovating a room: 
+<BOS> cooking pasta: 
+<BOS> sewing a button: 
+<BOS> doing laundry: 
+<BOS> going bowling: 

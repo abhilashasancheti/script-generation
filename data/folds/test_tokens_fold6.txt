@@ -1,0 +1,5 @@
+<BOS> <SCR> washing one's hair <ESCR>: 
+<BOS> <SCR> fueling a car <ESCR>: 
+<BOS> <SCR> sending food back (in a restaurant) <ESCR>: 
+<BOS> <SCR> changing batteries in an alarm clock <ESCR>: 
+<BOS> <SCR> checking in at an airport <ESCR>: 

@@ -1,0 +1,25 @@
+<BOS> <SCR> having a barbecue <ESCR>: 1. gather materials for a pit 2. put some wood in a hole 3. start the fire 4. add more wood or water when needed 5. add some food and water 
+<BOS> <SCR> having a barbecue <ESCR>: 1. get a smoker 2. get some coals 3. get a grill 4. put some wood 5. put a big pile of coals in the center of the grill 6. put some coals in the front of the grill 7. put a small pile of wood in the back of the grill 8. turn on the grill 9. wait for it to heat up 10. when it is done, put the wood in the grills 11. turn off the grills 12. put the grill away
+<BOS> <SCR> having a barbecue <ESCR>: 1. decide on a location for the barbecue 2. gather friends and family 3. get some supplies for the BBQ 4. gather supplies for the barbecue 5. get some food 6. have a picnic 7. bring back the picnic to the location 
+<BOS> <SCR> having a barbecue <ESCR>: 1. get a nice big pit 2. light a match 3. put some wood in it 4. put some food into it 5. close the pit 6. let it burn 7. put a plate on it 
+<BOS> <SCR> having a barbecue <ESCR>: 1. gather a large amount of meat for a big piece of meat. 2. gather all of the food necessary to cook a hot dog. 3. gather a small amount of ground for the small piece of ground that will be used as a bonfire. 4. fill the larger portion of the ground with the large portion of the ground. 5. place the meat in the large piece of ground that was made. 6. keep a small amount of dirt in th 7. pile up the meat until it is about halfway full. 
+<BOS> <SCR> ordering a pizza <ESCR>: 1. go to the restaurant 2. take food to counter 3. wait to be seated 4. when seated, get order 5. pay for order 6. eat order 7. eat food 
+<BOS> <SCR> ordering a pizza <ESCR>: 1. pick toppings 2. choose cheese 3. choose toppings 4. place cheese in bread 5. dig in 6. wait for pizza 7. eat 
+<BOS> <SCR> ordering a pizza <ESCR>: 1. call pizza place 2. have a pizza 3. order 4. pay 5. have pizza delivered 6. enjoy pizza
+<BOS> <SCR> ordering a pizza <ESCR>: 1. pick a pizza 2. go to a restaurant 3. sit down at the table 4. order it 5. get the toppings 6. wait for pizza to arrive 7. eat 
+<BOS> <SCR> ordering a pizza <ESCR>: 1. drive to the restaurant 2. order the food 3. pay for the food 4. get the receipt 5. leave the restaurant 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. get the flat 2. turn on the water 3. remove all of the items that have been removed from the flat 4. use a rag to clean up the items 5. fill the flat with as much water as needed 6. place the items back into the flat 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. place the toilet bowl 2. fill the water with water 3. turn on the water 4. scrub the area with the towel 5. remove the bowl 6. put the bowl in the trash 7. put the dirty bowl away
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. go to the bathroom 2. open all the drain 3. remove all items from the flat 4. put the items into the drain 5. close the drain 6. turn off the water 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. get soap and water 2. turn on the water 3. take things off of the floor 4. scrub up everything 5. rinse off everything 6. dry with a dryer sheet 7. put things away 8. put on a clean towel 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. let water and soap mix 2. add a drop of dish soap 3. scrub with a sponge 4. rinse with clean water 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. turn on the stove 2. get an egg 3. add a pinch of salt 4. fill a baking pan with water 5. mix the eggs 6. add a pinch of oil 7. pour the egg mixture into the baking pan 8. put the baking pan on the stove 9. put the lid on the stove 10. turn the stove on 11. wait for the timer 12. take the eggs out of the oven 13. cut the eggs 14. put the scrambled eggs in a bowl
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. get eggs 2. get pan 3. add eggs 4. add water 5. turn oven on 6. put pan in oven 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. gather eggs 2. boil water 3. add eggs to boiling water 4. wait for eggs to boil 5. stir 6. place on plate 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. find eggs 2. get eggs out of fridge 3. add noodles 4. add sauce 5. put eggs into pan 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. get eggs 2. go to kitchen 3. get eggs in egg carton 4. get eggs in cupboard 5. get sauce 6. put in pan 7. put pan in oven 8. wait for eggs to cook 9. get out of oven 10. place eggs in paper towels 11. drain the eggs 12. put in bowl
+<BOS> <SCR> taking the underground <ESCR>: 1. park 
+<BOS> <SCR> taking the underground <ESCR>: 1. enter the underground 2. go to the bottom 3. enter the tunnel 4. open the door 5. enter the tube 6. take the water 7. put the tube back 8. leave the tube 9. leave the underground
+<BOS> <SCR> taking the underground <ESCR>: 1. drive to underground park 2. walk to the right entrance 
+<BOS> <SCR> taking the underground <ESCR>: 1. find a place to go 2. wait until the water is full 3. take the water up 4. exit 
+<BOS> <SCR> taking the underground <ESCR>: 1. climb the stairs 2. walk to the next floor 3. walk through the door 4. enter the tunnel 5. take a look at the wall 6. enter the storage room

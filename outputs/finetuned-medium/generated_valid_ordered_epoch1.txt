@@ -1,0 +1,55 @@
+=== PROMPT <BOS> here is an ordered sequence of events that occur when you get a hair cut: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: 1. drive to the nearest hair salon 2. pay for the service 3. wait in line 4. get dressed 5. leave the salon 6. drive home 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: 1. go to salon 2. look at the price 3. go to receptionist 4. tell her what you want to do 5. give her the scissors 6. she will cut your hair 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: 1. walk to the salon 2. take the cut 3. enter the room 4. look up hairstyle and decide if it is what you want to cut 5. make sure they have proper scissors 6. find the right scissors to cut through hair 7. cut the hair in small areas 8. take hair and put it in back up and tie off 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: 1. get in your car 2. drive to your local salon 3. go into the store 4. check out 5. get your hair cut 6. take your hair and put it in your mouth 7. wait for it to turn into a hair 8. put it in your back 9. pull your shirt over your head 10. take off your clothes 11. go home 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: 1. walk to the store. 2. check the price. 3. go to the counter and order what you want. 4. receive the cut. 5. wait for the technician to come and cut the hair. 6. when the technician is done, you get your cut. 
+=== PROMPT <BOS> here is an ordered sequence of events that occur when you go grocery shopping: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: 1. go to the store. 2. go to counter. 3. buy some things for my list. 4. put items on list. 5. decide what to buy. 6. buy what I want. 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: 1. decide where you want to buy food 2. grab some clothes 3. walk to the store and buy food 4. put items in the shopping basket 5. select what you want to buy 6. put food in basket 7. buy food 8. return items 9. get bags 10. grab bags 11. put bags in storage 12. leave store 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: 1. find clothes for sale 2. get shopping bag 3. open shopping bag 4. go into store 5. pick up clothes 6. pick up items for shopping 7. put on clothes 8. leave store 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: 1. drive to grocery store 2. get in car 3. buy items 4. drive to store 5. sign in at counter 6. buy items 7. leave store 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: 1. drive to store 2. pick out items 3. find the product 4. pay for the item 5. go through the checkout 6. put items in the basket 7. grab food 8. get rid of garbage 9. leave store 
+=== PROMPT <BOS> here is an ordered sequence of events that occur when you plant a tree: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is an ordered sequence of events that occur when you plant a tree: 1. look at the picture of the tree and pick out the tree that you wish to put up. 2. go to the nearest park and pick out the spot where you wish to put up the tree. 3. drive to the site of the place that you want to place your tree. 4. take out a piece of paper and write a plan for your tree. 5. place the tree onto the tree site in proper order and with proper care. 6. cut branches or leaves in the tree before it is done. 7. hang a good sized flag around the tree to symbolize the love that you are offering to the tree. 8. cut the branches or leaves off and leave the tree 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is an ordered sequence of events that occur when you plant a tree: 1. collect the branches 2. place them in a large area 3. put down some ground cover 4. light a large match 5. wait for the tree to mature 6. put it into the ground 7. dig the roots 8. light the whole area 9. wait for the tree to dry 10. put down a lot of ground cover 11. wait for the tree to dry 12. put out new branches 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is an ordered sequence of events that occur when you plant a tree: 1. go to the store. 2. pick out an orchard. 3. drive to the store. 4. check out the trees. 5. buy some seeds. 6. get your seedling in the sun. 7. place the seeds in the tree. 8. wait for the branches to grow. 9. cut off the branches. 10. take the branch. 11. leave the store. 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is an ordered sequence of events that occur when you plant a tree: 1. put down trash and fill up water with the toilet 2. place one small tree (5-6 cm tall and 3-4 cm wide) on the ground in the designated area 3. use the same hand to cut down the larger branches 4. cut all the loose leaves off and place them back in the pot 5. remove all the old branches from the pot 6. replace the pot and remove the old leaves 7. stack the leaves on top of the small tree 8. leave the pot and leaves till the next day 9. throw away the trash in the garbage pile 10. move to a dry spot with lots of trees 11. plant your tree <BEVENT> om 9-10 cm tall 12. use the toilet 13. eat the foo
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is an ordered sequence of events that occur when you plant a tree: 1. put up some trees 2. put up some bushes 3. put up some rocks 4. place a few things around the tree 5. when the tree is ready, take it down 6. hang up some bushes 7. pick up your new tree 
+=== PROMPT <BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: 1. put on appropriate protective clothing 2. find a flat 3. get out a crutch 4. go inside the flat 5. put on the appropriate protective clothing 6. remove the crutch 7. replace the flat tire 8. remove the crutch 9. put on proper protective clothing 10. wait for replacement 11. replace the crutch 12. wait for replacement 13. put on proper protective clothing 14. wait for replacement 15. remove the old flat and the crutch 16. put new flat on top of old 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: 1. get new shoes 2. use old one. 3. get the old flat tire and put it back in. 4. drive away. 5. get new shoes. 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: 1. remove old flat tires from your flat. 2. turn flat tires over in the right direction. 3. replace flat with new one. 4. replace old flat with new one. 5. wait for new flat to be made. 6. clean and replace flat with new one. 7. wait for new flat to be made. 8. wait for new flat to be made. 9. check for flat on a counter. 10. return new flat to the flat rack. 11. remove old tire from flat and place in the new flat. 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: 1. put new tires on the wheel. 2. take old flat 2. check the inside of the tire of the bicycle 3. go over the tread of the new tires. 4. clean the inside of the tire. 5. put new flat on the wheels of the old bicycle. 6. drive the old bicycle for a while to remove any lacerations and dings. 7. clean up the tire of the old bicycle. 8. place new flat in the hole. 9. drive the old bicycle away. 
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: 1. start tire repair 2. select correct size 3. remove the old flat tire 4. put new flat tire on your bike 5. go to gas station and buy gas 6. take gas tank out 7. put gas tank back in the car 
+=== PROMPT <BOS> here is an ordered sequence of events that occur when you take a bath: ===
+=== GENERATED SEQUENCE 1 ===
+<BOS> here is an ordered sequence of events that occur when you take a bath: 1. find a bathroom 2. turn on water 3. step into shower 4. turn on water 5. remove clothes 6. wet hair 7. clean hands 8. towel off 9. step into shower 10. step into tub 11. wash body 12. rinse body 13. step out of shower 14. dry off with towels 15. dry off with towel 16. step out of bathroom 
+=== GENERATED SEQUENCE 2 ===
+<BOS> here is an ordered sequence of events that occur when you take a bath: 1. gather dirty clothes 2. get in bath tub 3. wet clothes 4. get soap and water 5. wash clothes 6. rinse clothes 7. turn off water 8. get out of bathroom 9. wash hair 10. dry hair 
+=== GENERATED SEQUENCE 3 ===
+<BOS> here is an ordered sequence of events that occur when you take a bath: 1. remove clothes from bathroom 2. sit in bath 3. get soap 4. wet hair 5. put soap in shampoo 6. rinse hair 7. turn off water 8. put on clothes 9. wet towel 10. wet body 11. wash out. 
+=== GENERATED SEQUENCE 4 ===
+<BOS> here is an ordered sequence of events that occur when you take a bath: 1. put on clothes. 2. get in shower. 3. turn on water. 4. begin the warm water. 5. rinse with cold water. 6. rinse thoroughly with warm water. 7. step out. 8. wet hair and body with warm water. 9. massage shampoo over body and hair. 10. lather shampoo until shampoo is thick and leaves behind a soft lather. 11. rinse the shampoo out of body. 12. step out. 13. get towel. 14. get a sponge and sponge wet cloth. 15. rub the sponge into the area to be wet. 16. get a sponge and sponge wet cloth. 17. rub soap into area. 18. rub soap in area until desired amount of soa
+=== GENERATED SEQUENCE 5 ===
+<BOS> here is an ordered sequence of events that occur when you take a bath: 1. wet the tub 2. step in the water 3. rub shampoo and conditioner on the hair 4. turn off water 5. take off clothing 6. put on clean clothes 7. get into shower 8. rinse off shampoo with soap 9. scrub body 10. rinse off conditioner with water 11. dry off with water 12. dry off with towel 13. dry off with towel 14. put on clean clothes 15. get out of shower 16. shower in bathroom 17. get dressed 18. leave the bathroom 

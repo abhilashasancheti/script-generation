@@ -1,0 +1,5 @@
+<BOS> <SCR> washing dishes <ESCR>: 
+<BOS> <SCR> making a bonfire <ESCR>: 
+<BOS> <SCR> going to the sauna <ESCR>: 
+<BOS> <SCR> making coffee <ESCR>: 
+<BOS> <SCR> going to the swimming pool <ESCR>: 

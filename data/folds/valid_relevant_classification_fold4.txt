@@ -1,0 +1,1872 @@
+going grocery shopping: </s> make a list of things that you need to buy 1
+going grocery shopping: </s> figure out which store you need to go to 1
+going grocery shopping: </s> walk to the store 1
+going grocery shopping: </s> find the items that you need in the store 1
+going grocery shopping: </s> bring them to the checkout and pay 1
+going grocery shopping: </s> write a grocery list. 1
+going grocery shopping: </s> get in the car. 1
+going grocery shopping: </s> go to the store. 1
+going grocery shopping: </s> shop for goods. 1
+going grocery shopping: </s> checkout at the cashier. 1
+going grocery shopping: </s> make shopping list 1
+going grocery shopping: </s> get money or form of payment 1
+going grocery shopping: </s> get coupons (if applicable) 1
+going grocery shopping: </s> go to store 1
+going grocery shopping: </s> get cart 1
+going grocery shopping: </s> go to each department/aisle and get items on list 1
+going grocery shopping: </s> (optional 1
+going grocery shopping: </s> write a grocery list 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> get a carriage 1
+going grocery shopping: </s> walk around grocery store 1
+going grocery shopping: </s> pick up items on your list 1
+going grocery shopping: </s> pick up items not on your list if necessary 1
+going grocery shopping: </s> go to register 1
+going grocery shopping: </s> put items on register belt 1
+going grocery shopping: </s> let cashier ring up and bag items 1
+going grocery shopping: </s> pay amount shown 1
+going grocery shopping: </s> bring groceries to car 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> unpack groceries 1
+going grocery shopping: </s> make a list. 1
+going grocery shopping: </s> clip any relevant coupons. 1
+going grocery shopping: </s> get dressed. 1
+going grocery shopping: </s> get in the car. 1
+going grocery shopping: </s> drive to store and park. 1
+going grocery shopping: </s> get a shopping cart. 1
+going grocery shopping: </s> go inside and pick up items. 1
+going grocery shopping: </s> put them in the cart. 1
+going grocery shopping: </s> go to the checkout and pay. 1
+going grocery shopping: </s> go back to the car. 1
+going grocery shopping: </s> put the bags in the car. 1
+going grocery shopping: </s> drive home. 1
+going grocery shopping: </s> take the purchases in the house. 1
+going grocery shopping: </s> put the purchases away. 1
+going grocery shopping: </s> make list of grocery items you need. 1
+going grocery shopping: </s> drive to store. 1
+going grocery shopping: </s> park car. 1
+going grocery shopping: </s> enter store. 1
+going grocery shopping: </s> get cart. 1
+going grocery shopping: </s> go through store and collect items on list. 1
+going grocery shopping: </s> go to check. 1
+going grocery shopping: </s> pay bill. 1
+going grocery shopping: </s> put groceries in car. 1
+going grocery shopping: </s> return home. 1
+going grocery shopping: </s> make a list of needed items 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> enter grocery store 1
+going grocery shopping: </s> get a cart 1
+going grocery shopping: </s> find item on the list 1
+going grocery shopping: </s> place item in cart 1
+going grocery shopping: </s> repeat for each item on list 1
+going grocery shopping: </s> get in check out line 1
+going grocery shopping: </s> place items on conveyor belt 1
+going grocery shopping: </s> wait as cashier scans items 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> collect bags of groceries 1
+going grocery shopping: </s> leave grocery store 1
+going grocery shopping: </s> make a list of groceries needed 1
+going grocery shopping: </s> get in your car 1
+going grocery shopping: </s> drive to store 1
+going grocery shopping: </s> enter store 1
+going grocery shopping: </s> get a cart 1
+going grocery shopping: </s> proceed through the store picking up needed items 1
+going grocery shopping: </s> go through a check out line 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> push cart to your car 1
+going grocery shopping: </s> put groceries in your trunk 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> put groceries away 1
+going grocery shopping: </s> make grocery list 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> get a cart 1
+going grocery shopping: </s> enter the store 1
+going grocery shopping: </s> walk through aisles 1
+going grocery shopping: </s> pick up everything from list and put into your cart 1
+going grocery shopping: </s> go to cashier 1
+going grocery shopping: </s> pay the cashier 1
+going grocery shopping: </s> put groceries in a bag 1
+going grocery shopping: </s> take bags to your car 1
+going grocery shopping: </s> prepare a list of items to purchase. 1
+going grocery shopping: </s> go to the grocery store. 1
+going grocery shopping: </s> get a shopping cart. 1
+going grocery shopping: </s> go up and down the aisles. 1
+going grocery shopping: </s> take food from shelves and put it in the cart. 1
+going grocery shopping: </s> cross the items off your list. 1
+going grocery shopping: </s> go to the register. 1
+going grocery shopping: </s> pay for your items. 1
+going grocery shopping: </s> carry the groceries home. 1
+going grocery shopping: </s> create a shopping list 1
+going grocery shopping: </s> go to the store 1
+going grocery shopping: </s> enter the store 1
+going grocery shopping: </s> grab a buggy from the entrance 1
+going grocery shopping: </s> walk around the store with buggy 1
+going grocery shopping: </s> grab items off your list and put into buggy 1
+going grocery shopping: </s> go to checkout counter once you have all items on list 1
+going grocery shopping: </s> transfer items from buggy to counter 1
+going grocery shopping: </s> wait while cashier scans and bags items 1
+going grocery shopping: </s> pay for the groceries 1
+going grocery shopping: </s> place bags in buggy 1
+going grocery shopping: </s> transfer bags from buggy to car 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> unload bags from car 1
+going grocery shopping: </s> put groceries in according cabinet spots 1
+going grocery shopping: </s> making grocery list 1
+going grocery shopping: </s> get into car 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> go shopping 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> make a shopping list 1
+going grocery shopping: </s> drive to supermarket 1
+going grocery shopping: </s> go inside 1
+going grocery shopping: </s> find everything on your list 1
+going grocery shopping: </s> put items in the shopping cart 1
+going grocery shopping: </s> go to the checkout line 1
+going grocery shopping: </s> get the items rang up 1
+going grocery shopping: </s> pay for the items 1
+going grocery shopping: </s> take the items home 1
+going grocery shopping: </s> put everything away 1
+going grocery shopping: </s> drive to the grocery store 1
+going grocery shopping: </s> park in the lot 1
+going grocery shopping: </s> walk into the store 1
+going grocery shopping: </s> get shopping cart 1
+going grocery shopping: </s> gather grocery items 1
+going grocery shopping: </s> get into check-out line 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> carry bags to vehicle 1
+going grocery shopping: </s> make a shopping list 1
+going grocery shopping: </s> drive to the grocery store 1
+going grocery shopping: </s> enter the store 1
+going grocery shopping: </s> find all of the items on the list 1
+going grocery shopping: </s> check out with the cashier 1
+going grocery shopping: </s> put groceries in bags 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> put groceries away 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> pull out a shopping cart 1
+going grocery shopping: </s> look at the grocery store specials 1
+going grocery shopping: </s> visit aisles and select groceries 1
+going grocery shopping: </s> when finished, go to checkout registers 1
+going grocery shopping: </s> get in a check out line 1
+going grocery shopping: </s> when there is space, put a divider on the conveyer belt 1
+going grocery shopping: </s> take your groceries out of cart and on to conveyer belt 1
+going grocery shopping: </s> wait for cashier to ring up items and bag them 1
+going grocery shopping: </s> put bagged groceries back into cart 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> take bagged groceries with you out of shopping cart 1
+going grocery shopping: </s> leave grocery store 1
+going grocery shopping: </s> enter store. 1
+going grocery shopping: </s> get grocery cart. 1
+going grocery shopping: </s> go down aisles and retrieve items. 1
+going grocery shopping: </s> go to checkout line. 1
+going grocery shopping: </s> pay for groceries. 1
+going grocery shopping: </s> make list of everything you need 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> walk into store 1
+going grocery shopping: </s> grab a cart 1
+going grocery shopping: </s> walk up and down aisles grabbing items on list 1
+going grocery shopping: </s> wait in line to check out 1
+going grocery shopping: </s> have cashier scan items 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> put bags into cart 1
+going grocery shopping: </s> walk cart out to car 1
+going grocery shopping: </s> put items in car 1
+going grocery shopping: </s> return cart 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> make a grocery list 1
+going grocery shopping: </s> drive to a grocery store 1
+going grocery shopping: </s> park car 1
+going grocery shopping: </s> walk into grocery store 1
+going grocery shopping: </s> get a shopping cart 1
+going grocery shopping: </s> gather the items on the grocery list 1
+going grocery shopping: </s> get into a checkout line 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> put groceries in car 1
+going grocery shopping: </s> return the shopping cart 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> make a list. 1
+going grocery shopping: </s> go to the store. 1
+going grocery shopping: </s> gather items from shelves. 1
+going grocery shopping: </s> pay for them at the register. 1
+going grocery shopping: </s> take groceries home. 1
+going grocery shopping: </s> make grocery list 1
+going grocery shopping: </s> get tote bag 1
+going grocery shopping: </s> get coupons 1
+going grocery shopping: </s> get wallet 1
+going grocery shopping: </s> take bus to grocery store 1
+going grocery shopping: </s> shop 1
+going grocery shopping: </s> check out food 1
+going grocery shopping: </s> pay for food 1
+going grocery shopping: </s> bag food 1
+going grocery shopping: </s> get receipt 1
+going grocery shopping: </s> carry food to bus stop 1
+going grocery shopping: </s> take food home 1
+going grocery shopping: </s> put food away in kitchen 1
+going grocery shopping: </s> have a list ready 1
+going grocery shopping: </s> travel to the grocery store 1
+going grocery shopping: </s> grab a cart 1
+going grocery shopping: </s> go through the store, picking up items on the list 1
+going grocery shopping: </s> try to resist temptation 1
+going grocery shopping: </s> after you have everything, wait in line to check out 1
+going grocery shopping: </s> check out and pay 1
+going grocery shopping: </s> take your groceries to your car 1
+going grocery shopping: </s> leave with your groceries 1
+going grocery shopping: </s> identify grocery items needed 1
+going grocery shopping: </s> make a list of the items 1
+going grocery shopping: </s> look at the internet for coupons for the items 1
+going grocery shopping: </s> drive to the grocery store 1
+going grocery shopping: </s> select a shopping cart 1
+going grocery shopping: </s> tour the store selecting the items on the list 1
+going grocery shopping: </s> proceed to check-out 1
+going grocery shopping: </s> present coupons and payment to the checker 1
+going grocery shopping: </s> wait for checking process 1
+going grocery shopping: </s> wait for bagging process 1
+going grocery shopping: </s> leave with cart of groceries 1
+going grocery shopping: </s> return cart to proper location once groceries are in car 1
+going grocery shopping: </s> enter grocery store 1
+going grocery shopping: </s> get grocery cart 1
+going grocery shopping: </s> walk through store and place items you want into cart 1
+going grocery shopping: </s> take cart to cash register 1
+going grocery shopping: </s> place items onto conveyor belt 1
+going grocery shopping: </s> cashier rings up items 1
+going grocery shopping: </s> cashier gives you total 1
+going grocery shopping: </s> pay for items with cash or credit 1
+going grocery shopping: </s> bagger places items into bags 1
+going grocery shopping: </s> place bags of groceries into cart 1
+going grocery shopping: </s> take cart to car 1
+going grocery shopping: </s> take bags out of cart and place into car 1
+going grocery shopping: </s> place cart into cart corral 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> leave grocery store 1
+going grocery shopping: </s> arrive in parking lot 1
+going grocery shopping: </s> get out of car 1
+going grocery shopping: </s> enter store 1
+going grocery shopping: </s> take out shopping list 1
+going grocery shopping: </s> find items on list 1
+going grocery shopping: </s> place item in basket 1
+going grocery shopping: </s> go to checkout 1
+going grocery shopping: </s> wait in line 1
+going grocery shopping: </s> give cashier coupons 1
+going grocery shopping: </s> cashier scans the items and coupons 1
+going grocery shopping: </s> give cashier money 1
+going grocery shopping: </s> cashier bags the groceries 1
+going grocery shopping: </s> take the groceries 1
+going grocery shopping: </s> leave the store 1
+going grocery shopping: </s> make a shopping list 1
+going grocery shopping: </s> go to the grocery store 1
+going grocery shopping: </s> get a basket 1
+going grocery shopping: </s> browse the store 1
+going grocery shopping: </s> purchase what you need 1
+going grocery shopping: </s> make a list of items you wish to purchase 1
+going grocery shopping: </s> gather any coupons you have for groceries 1
+going grocery shopping: </s> go to the store 1
+going grocery shopping: </s> get a shopping cart 1
+going grocery shopping: </s> fill the shopping cart with items on your list 1
+going grocery shopping: </s> go to check out counter 1
+going grocery shopping: </s> place items on conveyor belt 1
+going grocery shopping: </s> pay for your items 1
+going grocery shopping: </s> bagger places items in bags 1
+going grocery shopping: </s> carry your groceries to your car 1
+going grocery shopping: </s> go home and unpack groceries 1
+going grocery shopping: </s> make a grocery list 1
+going grocery shopping: </s> get dressed to go out 1
+going grocery shopping: </s> get inside the car 1
+going grocery shopping: </s> drive the car to the grocery 1
+going grocery shopping: </s> take a shopping cart 1
+going grocery shopping: </s> fill the shopping cart with grocery items 1
+going grocery shopping: </s> pay for the grocery 1
+going grocery shopping: </s> prepare grocery list 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> enter grocery store 1
+going grocery shopping: </s> get a basket 1
+going grocery shopping: </s> find items on the list 1
+going grocery shopping: </s> place items into basket 1
+going grocery shopping: </s> bring items to checkout 1
+going grocery shopping: </s> wait in line 1
+going grocery shopping: </s> pay the cashier for your items 1
+going grocery shopping: </s> bring the groceries home 1
+going grocery shopping: </s> make a grocery list 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> buy items needed on list 1
+going grocery shopping: </s> take items to checkout 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> put groceries in bags 1
+going grocery shopping: </s> leave store 1
+going grocery shopping: </s> make a list of items you need at the grocery 1
+going grocery shopping: </s> find a grocery nearby 1
+going grocery shopping: </s> go to grocery 1
+going grocery shopping: </s> get a shopping cart if needed 1
+going grocery shopping: </s> find items on your list 1
+going grocery shopping: </s> place items in grocery cart 1
+going grocery shopping: </s> go to check out line 1
+going grocery shopping: </s> place items in cart on belt for cashier to scan 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> make shopping list 1
+going grocery shopping: </s> walk into store 1
+going grocery shopping: </s> get shopping cart 1
+going grocery shopping: </s> walk through aisles finding items on shopping list 1
+going grocery shopping: </s> place selected items in shopping cart 1
+going grocery shopping: </s> walk to checkout aisle 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> take items out of store 1
+going grocery shopping: </s> make list 1
+going grocery shopping: </s> put shoes on 1
+going grocery shopping: </s> get into car 1
+going grocery shopping: </s> go to store 1
+going grocery shopping: </s> park 1
+going grocery shopping: </s> get cart or basket 1
+going grocery shopping: </s> find items 1
+going grocery shopping: </s> get in line 1
+going grocery shopping: </s> buy items 1
+going grocery shopping: </s> leave store 1
+going grocery shopping: </s> leave my house 1
+going grocery shopping: </s> get in my car 1
+going grocery shopping: </s> drive to the store 1
+going grocery shopping: </s> get out of the car 1
+going grocery shopping: </s> going to the grocery store 1
+going grocery shopping: </s> grab a cart 1
+going grocery shopping: </s> collect groceries 1
+going grocery shopping: </s> check out 1
+going grocery shopping: </s> review what you have at home and make a list of what you need 1
+going grocery shopping: </s> go to the store 1
+going grocery shopping: </s> take a shopping cart 1
+going grocery shopping: </s> walk through the aisles of the store, add items to your cart 1
+going grocery shopping: </s> check your list at each aisle to ensure you haven't missed anything 1
+going grocery shopping: </s> take the full cart to the checkout lane 1
+going grocery shopping: </s> wait your turn 1
+going grocery shopping: </s> load items from the cart onto the checkout lane's belt 1
+going grocery shopping: </s> as the cashier bags items, place them back into your cart 1
+going grocery shopping: </s> once all items are bagged, pay the cashier 1
+going grocery shopping: </s> take items home in bags 1
+going grocery shopping: </s> put items away 1
+going grocery shopping: </s> create grocery list 1
+going grocery shopping: </s> collect re-usable grocery bags 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> go down each aisle collecting items on grocery list 1
+going grocery shopping: </s> go to check out lane 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> put groceries in car 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> put groceries in pantry/fridge 1
+going grocery shopping: </s> make a grocery list 1
+going grocery shopping: </s> go to the grocery store 1
+going grocery shopping: </s> get a cart 1
+going grocery shopping: </s> find items from list 1
+going grocery shopping: </s> put items from list into cart 1
+going grocery shopping: </s> take cart to checkout line 1
+going grocery shopping: </s> wait in line 1
+going grocery shopping: </s> place items on conveyer belt 1
+going grocery shopping: </s> wait for total 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> get receipt 1
+going grocery shopping: </s> leave grocery store 1
+going grocery shopping: </s> take inventory of items you will need 1
+going grocery shopping: </s> make a list of things you are going to buy 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> get a grocery cart 1
+going grocery shopping: </s> go through store picking items, and checking off of your list 1
+going grocery shopping: </s> go up to check out line 1
+going grocery shopping: </s> present any coupons you may have for items purchased 1
+going grocery shopping: </s> pay for your groceries with either cash, check, or debit or credit 1
+going grocery shopping: </s> take groceries to your car and load them up 1
+going grocery shopping: </s> drive home and put away groceries 1
+going grocery shopping: </s> make a list 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> grab a cart 1
+going grocery shopping: </s> consult list and find products 1
+going grocery shopping: </s> put products in your cart 1
+going grocery shopping: </s> go to checkout 1
+going grocery shopping: </s> remove items from cart 1
+going grocery shopping: </s> pay cashier 1
+going grocery shopping: </s> pick up bags 1
+going grocery shopping: </s> take bags to car 1
+going grocery shopping: </s> get grocery list 1
+going grocery shopping: </s> travel to store 1
+going grocery shopping: </s> find items on list 1
+going grocery shopping: </s> take items to check out 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> load items in car 1
+going grocery shopping: </s> return home 1
+going grocery shopping: </s> unload and put items away 1
+going grocery shopping: </s> make grocery list 1
+going grocery shopping: </s> enter super market 1
+going grocery shopping: </s> take a cart 1
+going grocery shopping: </s> go down aisles 1
+going grocery shopping: </s> find things from list 1
+going grocery shopping: </s> put them in cart 1
+going grocery shopping: </s> bring cart to cashier 1
+going grocery shopping: </s> put items on table 1
+going grocery shopping: </s> wait for them to be scanned 1
+going grocery shopping: </s> cashier gives total 1
+going grocery shopping: </s> pay total 1
+going grocery shopping: </s> bagger bags groceries 1
+going grocery shopping: </s> bagger places in cart 1
+going grocery shopping: </s> wheel cart outside 1
+going grocery shopping: </s> take groceries out 1
+going grocery shopping: </s> get in the car 1
+going grocery shopping: </s> drive to the grocery store. 1
+going grocery shopping: </s> walk in to the store. 1
+going grocery shopping: </s> get a cart. 1
+going grocery shopping: </s> go aisle by aisle putting the items i want in the cart. 1
+going grocery shopping: </s> go up to the cashier. 1
+going grocery shopping: </s> put items on belt. 1
+going grocery shopping: </s> wait for the cashier to ring the order up. 1
+going grocery shopping: </s> pay for the groceries. 1
+going grocery shopping: </s> put the bagged items in the cart. 1
+going grocery shopping: </s> walk out to the car. 1
+going grocery shopping: </s> put the items in the car. 1
+going grocery shopping: </s> drive home. 1
+going grocery shopping: </s> put the groceries away. 1
+going grocery shopping: </s> check existing stock. 1
+going grocery shopping: </s> make a list of needed items. 1
+going grocery shopping: </s> proceed to store. 1
+going grocery shopping: </s> retrieve a cart (if necessary) 1
+going grocery shopping: </s> gather items on list. 1
+going grocery shopping: </s> proceed to checkout. 1
+going grocery shopping: </s> pay for items. 1
+going grocery shopping: </s> bag items. 1
+going grocery shopping: </s> return to home with items 1
+going grocery shopping: </s> unload items. 1
+going grocery shopping: </s> look through recipes 1
+going grocery shopping: </s> make grocery list 1
+going grocery shopping: </s> drive to the grocery store 1
+going grocery shopping: </s> go into grocery store 1
+going grocery shopping: </s> grab a cart 1
+going grocery shopping: </s> get fruits and veggies on list 1
+going grocery shopping: </s> get meat that is on list 1
+going grocery shopping: </s> go through the rest of the store getting everything on list 1
+going grocery shopping: </s> see a nice cake put it in cart 1
+going grocery shopping: </s> go to check out 1
+going grocery shopping: </s> wait in line at checkout 1
+going grocery shopping: </s> put groceries on belt 1
+going grocery shopping: </s> watch prices as the checker scans. 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> walk out of store 1
+going grocery shopping: </s> put groceries in car. 1
+going grocery shopping: </s> list out the things you want to buy 1
+going grocery shopping: </s> get to a shop 1
+going grocery shopping: </s> take the things you want to buy 1
+going grocery shopping: </s> put them on to the trolley 1
+going grocery shopping: </s> get to the counter 1
+going grocery shopping: </s> check out the things 1
+going grocery shopping: </s> pay for the shopping 1
+going grocery shopping: </s> get the bill 1
+going grocery shopping: </s> bring things to the home 1
+going grocery shopping: </s> enter grocery store 1
+going grocery shopping: </s> get cart 1
+going grocery shopping: </s> walk through store 1
+going grocery shopping: </s> take things off shelf 1
+going grocery shopping: </s> walk to check out line 1
+going grocery shopping: </s> put items on belt 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> leave store with items 1
+going grocery shopping: </s> look in the fridge 1
+going grocery shopping: </s> make a list 1
+going grocery shopping: </s> get in the car 1
+going grocery shopping: </s> go to grocery shop 1
+going grocery shopping: </s> buy everything on list 1
+going grocery shopping: </s> pay for grocery 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> fill the fridge 1
+going grocery shopping: </s> check refrigerator and pantry for food deficiencies 1
+going grocery shopping: </s> assemble grocery list 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> take a cart (not a squeaky one) 1
+going grocery shopping: </s> begin choosing groceries 1
+going grocery shopping: </s> continue to choose groceries 1
+going grocery shopping: </s> finish choosing groceries 1
+going grocery shopping: </s> enter check out line or self-checkout 1
+going grocery shopping: </s> pay for purchases 1
+going grocery shopping: </s> bag groceries 1
+going grocery shopping: </s> carry bags to car 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> put groceries away 1
+going grocery shopping: </s> get in car. 1
+going grocery shopping: </s> go to grocery store. 1
+going grocery shopping: </s> enter store. 1
+going grocery shopping: </s> get grocery cart. 1
+going grocery shopping: </s> select items wanted and put into cart. 1
+going grocery shopping: </s> get into check out line. 1
+going grocery shopping: </s> put items on check out belt. 1
+going grocery shopping: </s> pay for items. 1
+going grocery shopping: </s> get receipt from cashier. 1
+going grocery shopping: </s> put items back in cart. 1
+going grocery shopping: </s> leave store. 1
+going grocery shopping: </s> put items from cart into car. 1
+going grocery shopping: </s> put cart away into cart area. 1
+going grocery shopping: </s> get in car. 1
+going grocery shopping: </s> leave store parking lot. 1
+going grocery shopping: </s> make a list of what you need. 1
+going grocery shopping: </s> find a way to the grocery store 1
+going grocery shopping: </s> look for the items on the list 1
+going grocery shopping: </s> pay for the items 1
+going grocery shopping: </s> get back home and store them in the fridge 1
+going grocery shopping: </s> figure out what you need 1
+going grocery shopping: </s> drive to store 1
+going grocery shopping: </s> get shopping cart 1
+going grocery shopping: </s> enter store 1
+going grocery shopping: </s> put items in cart 1
+going grocery shopping: </s> bring items to cashier 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> load items in car 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> put items away 1
+going grocery shopping: </s> eat 1
+going grocery shopping: </s> make a list of needed items 1
+going grocery shopping: </s> check for coupons 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> drive to store 1
+going grocery shopping: </s> go in store 1
+going grocery shopping: </s> grab shopping cart 1
+going grocery shopping: </s> stroll through store and get needed items 1
+going grocery shopping: </s> pay for items at check out 1
+going grocery shopping: </s> take groceries to car 1
+going grocery shopping: </s> drive items home 1
+going grocery shopping: </s> put items away 1
+going grocery shopping: </s> enjoy items 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> drive to grocery store of choice 1
+going grocery shopping: </s> park car 1
+going grocery shopping: </s> walk in store 1
+going grocery shopping: </s> grab a grocery cart 1
+going grocery shopping: </s> put food in cart 1
+going grocery shopping: </s> go to check out line in front of store 1
+going grocery shopping: </s> create list of things to buy 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> drive to nearest grocery store 1
+going grocery shopping: </s> park car 1
+going grocery shopping: </s> enter grocery store 1
+going grocery shopping: </s> grab a shopping cart 1
+going grocery shopping: </s> find groceries 1
+going grocery shopping: </s> go to cash register 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> get ready 1
+going grocery shopping: </s> make a list of grocery required 1
+going grocery shopping: </s> take money 1
+going grocery shopping: </s> go to the favorite grocery shop 1
+going grocery shopping: </s> select grocery items as per the list 1
+going grocery shopping: </s> look closely to exclude any expired items 1
+going grocery shopping: </s> go to the teller with the items 1
+going grocery shopping: </s> pay the total amount 1
+going grocery shopping: </s> take the grocery bags to the car 1
+going grocery shopping: </s> drive back home 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> enter store 1
+going grocery shopping: </s> grab a shopping cart 1
+going grocery shopping: </s> walk down desired aisles 1
+going grocery shopping: </s> put items in cart 1
+going grocery shopping: </s> navigate to checkout 1
+going grocery shopping: </s> put items on belt 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> make a grocery list 1
+going grocery shopping: </s> go to the supermarket 1
+going grocery shopping: </s> pick up items from aisles 1
+going grocery shopping: </s> pile them into shopping trolley/bag 1
+going grocery shopping: </s> go to the billing counter 1
+going grocery shopping: </s> pay for the shopping 1
+going grocery shopping: </s> take the grocery home 1
+going grocery shopping: </s> get in the car 1
+going grocery shopping: </s> drive to the store 1
+going grocery shopping: </s> once at the store, select the groceries you want 1
+going grocery shopping: </s> go to checkout 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> get into my car 1
+going grocery shopping: </s> drive to the grocery store 1
+going grocery shopping: </s> enter the grocery store and grab a shopping cart 1
+going grocery shopping: </s> go up and down the aisles 1
+going grocery shopping: </s> get any non-expiring products first 1
+going grocery shopping: </s> next, go for items like fruit, vegetables, eggs, and bread 1
+going grocery shopping: </s> finally, get any dairy items 1
+going grocery shopping: </s> go to the front of the store to check out 1
+going grocery shopping: </s> wait in line for checkout, perhaps looking at a magazine while doing so 1
+going grocery shopping: </s> scan all my items while somebody bags them 1
+going grocery shopping: </s> walk to the car with my groceries 1
+going grocery shopping: </s> unload the groceries into the backseat of my car 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> get shopping cart 1
+going grocery shopping: </s> walk around aisles 1
+going grocery shopping: </s> select items 1
+going grocery shopping: </s> put items in cart 1
+going grocery shopping: </s> wheel cart to checkout 1
+going grocery shopping: </s> put items on belt 1
+going grocery shopping: </s> bag items 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> take bags 1
+going grocery shopping: </s> leave store 1
+going grocery shopping: </s> make a grocery list 1
+going grocery shopping: </s> take recyclable bags 1
+going grocery shopping: </s> drive to grocery story 1
+going grocery shopping: </s> enter grocery store 1
+going grocery shopping: </s> browse aisles 1
+going grocery shopping: </s> select food items 1
+going grocery shopping: </s> select drink items 1
+going grocery shopping: </s> check sale prices 1
+going grocery shopping: </s> enter checkout lane 1
+going grocery shopping: </s> put groceries on conveyor 1
+going grocery shopping: </s> wait for cashier to scan 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> bag groceries 1
+going grocery shopping: </s> leave grocery store 1
+going grocery shopping: </s> go to the grocery store 1
+going grocery shopping: </s> get a shopping cart 1
+going grocery shopping: </s> pick out food 1
+going grocery shopping: </s> go to the register 1
+going grocery shopping: </s> put food on counter 1
+going grocery shopping: </s> pay for food 1
+going grocery shopping: </s> take bags 1
+going grocery shopping: </s> leave the store 1
+going grocery shopping: </s> put shopping cart back 1
+going grocery shopping: </s> put bags into car 1
+going grocery shopping: </s> leave the lot 1
+going grocery shopping: </s> make a list of what is needed. 1
+going grocery shopping: </s> find a grocery store. 1
+going grocery shopping: </s> drive or walk to the store. 1
+going grocery shopping: </s> enter the store. 1
+going grocery shopping: </s> find the items from the list. 1
+going grocery shopping: </s> go to the check out area. 1
+going grocery shopping: </s> pay for groceries. 1
+going grocery shopping: </s> leave the store. 1
+going grocery shopping: </s> go home. 1
+going grocery shopping: </s> put groceries away. 1
+going grocery shopping: </s> get the reusable shopping bag 1
+going grocery shopping: </s> drive to grocery shop 1
+going grocery shopping: </s> collect a trolley 1
+going grocery shopping: </s> enter the shop 1
+going grocery shopping: </s> select the items and put in the trolley 1
+going grocery shopping: </s> come to the bill counter 1
+going grocery shopping: </s> pay the bill 1
+going grocery shopping: </s> take the trolley to the car parking 1
+going grocery shopping: </s> keep the items in trolley to your car 1
+going grocery shopping: </s> return the trolley to its place 1
+going grocery shopping: </s> leave for home 1
+going grocery shopping: </s> first see that you prepare the entire list for shopping 1
+going grocery shopping: </s> double check with the list you prepared is in low quantity or null in your house. 1
+going grocery shopping: </s> a survey says that without prior list grocery shopping result in excess or double shopping 1
+going grocery shopping: </s> in your favorite store take a trolley if more things to be purchased or a bag for small. 1
+going grocery shopping: </s> first pick up the bottle things so that it goes in bottom of the trolley. 1
+going grocery shopping: </s> then shop for the packet items. 1
+going grocery shopping: </s> now time for oil, milk items so that it won't get crushed by other heavy things. 1
+going grocery shopping: </s> bill it in the counter. 1
+going grocery shopping: </s> pay for it . 1
+going grocery shopping: </s> get neatly packed and take it to home. 1
+going grocery shopping: </s> the last but not least one is you must set right what you purchase in the same day at home 1
+going grocery shopping: </s> inventory your cupboards 1
+going grocery shopping: </s> write a list of meals for the week 1
+going grocery shopping: </s> make a list of what you need. 1
+going grocery shopping: </s> go to the store 1
+going grocery shopping: </s> get what you need from the aisles 1
+going grocery shopping: </s> take your purchase to the front 1
+going grocery shopping: </s> pay the cashier 1
+going grocery shopping: </s> bag the groceries 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> put groceries away 1
+going grocery shopping: </s> make a list of groceries you need 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> get a shopping cart 1
+going grocery shopping: </s> push cart through store, looking for items on your list 1
+going grocery shopping: </s> when you find an item on your list, put it in your cart 1
+going grocery shopping: </s> when all items are found, push cart to checkout 1
+going grocery shopping: </s> take items out of your cart 1
+going grocery shopping: </s> put items on conveyor belt 1
+going grocery shopping: </s> cashier rings up and bags all your items 1
+going grocery shopping: </s> pay your total 1
+going grocery shopping: </s> put bags of groceries into your cart 1
+going grocery shopping: </s> push cart out to your car 1
+going grocery shopping: </s> load bags of groceries into your car 1
+going grocery shopping: </s> return cart to cart corral 1
+going grocery shopping: </s> get to the grocery store 1
+going grocery shopping: </s> buy fruits and vegetables 1
+going grocery shopping: </s> buy breads and meats etc 1
+going grocery shopping: </s> pay the grocer 1
+going grocery shopping: </s> carry your grocery back home 1
+going grocery shopping: </s> plan menu for week. 1
+going grocery shopping: </s> make grocery list based off of menu. 1
+going grocery shopping: </s> drive to store. 1
+going grocery shopping: </s> bring reusable grocery bags. 1
+going grocery shopping: </s> push cart around store, getting items from list. 1
+going grocery shopping: </s> pick up refridgerated and frozen items last. 1
+going grocery shopping: </s> try not to purchase things not on list. 1
+going grocery shopping: </s> bring items to cashier at front of store. 1
+going grocery shopping: </s> pay for your items. 1
+going grocery shopping: </s> put items into car and drive home. 1
+going grocery shopping: </s> put items away at home. 1
+going grocery shopping: </s> make a menu for the coming week 1
+going grocery shopping: </s> make a shopping list based on the menu and items you need 1
+going grocery shopping: </s> take list to store 1
+going grocery shopping: </s> drive to store 1
+going grocery shopping: </s> park and get a cart 1
+going grocery shopping: </s> find the items on your list 1
+going grocery shopping: </s> cross them off your list 1
+going grocery shopping: </s> put them in your cart 1
+going grocery shopping: </s> bring cart to register 1
+going grocery shopping: </s> put items on counter 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> put bags in cart 1
+going grocery shopping: </s> take cart to car 1
+going grocery shopping: </s> put bags in car 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> get into car 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> find parking spot 1
+going grocery shopping: </s> park car 1
+going grocery shopping: </s> get list 1
+going grocery shopping: </s> enter store 1
+going grocery shopping: </s> find items on list 1
+going grocery shopping: </s> proceed to checkout 1
+going grocery shopping: </s> go back to car 1
+going grocery shopping: </s> load groceries in trunk 1
+going grocery shopping: </s> drive back home 1
+going grocery shopping: </s> make a list of things to buy at the grocery store. 1
+going grocery shopping: </s> drive to the grocery store. 1
+going grocery shopping: </s> get a shopping cart. 1
+going grocery shopping: </s> select items and put them in your shopping cart. 1
+going grocery shopping: </s> pay for items at a checkout register. 1
+going grocery shopping: </s> place items in bags. 1
+going grocery shopping: </s> carry items from grocery store to your car. 1
+going grocery shopping: </s> return to home with your groceries. 1
+going grocery shopping: </s> make grocery list 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> park the car 1
+going grocery shopping: </s> walk into store 1
+going grocery shopping: </s> get a shopping cart 1
+going grocery shopping: </s> add groceries from list to cart 1
+going grocery shopping: </s> get in checkout line 1
+going grocery shopping: </s> put groceries on conveyor belt 1
+going grocery shopping: </s> pay for groceries 1
+going grocery shopping: </s> push cart back to car 1
+going grocery shopping: </s> put groceries in trunk 1
+going grocery shopping: </s> return cart to store 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> bring groceries in the house 1
+going grocery shopping: </s> put groceries away 1
+going grocery shopping: </s> drive to store 1
+going grocery shopping: </s> park 1
+going grocery shopping: </s> get a cart 1
+going grocery shopping: </s> go inside 1
+going grocery shopping: </s> get groceries 1
+going grocery shopping: </s> wait in line 1
+going grocery shopping: </s> pay 1
+going grocery shopping: </s> load cart 1
+going grocery shopping: </s> go to car 1
+going grocery shopping: </s> load car 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> get in car. 1
+going grocery shopping: </s> drive to nearest grocery store. 1
+going grocery shopping: </s> browse the store. 1
+going grocery shopping: </s> put items i need in cart. 1
+going grocery shopping: </s> line up to pay. 1
+going grocery shopping: </s> pay for my groceries. 1
+going grocery shopping: </s> drive home. 1
+going grocery shopping: </s> make a grocery list of items to buy 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> drive to store 1
+going grocery shopping: </s> go into store and locate items to buy 1
+going grocery shopping: </s> go to check out stand and pay for items 1
+going grocery shopping: </s> put bought items in car 1
+going grocery shopping: </s> drive home 1
+going grocery shopping: </s> take grocery items into house 1
+going grocery shopping: </s> put groceries away 1
+going grocery shopping: </s> make a list of food you need or want 1
+going grocery shopping: </s> get in the car 1
+going grocery shopping: </s> drive to the store 1
+going grocery shopping: </s> park 1
+going grocery shopping: </s> get a basket 1
+going grocery shopping: </s> go into the store 1
+going grocery shopping: </s> start at the front and work your way back 1
+going grocery shopping: </s> make sure to cross items off your list as you go 1
+going grocery shopping: </s> make sure to get frozen foods last 1
+going grocery shopping: </s> get in check out line 1
+going grocery shopping: </s> pay for food 1
+going grocery shopping: </s> get shopping cart 1
+going grocery shopping: </s> go into grocery store 1
+going grocery shopping: </s> find what aisles you need to go to 1
+going grocery shopping: </s> find the food you need and put in cart 1
+going grocery shopping: </s> after finding everything you need, go to cashier 1
+going grocery shopping: </s> pay for grocery 1
+going grocery shopping: </s> unload grocery into your car 1
+going grocery shopping: </s> make a list of what you need. 1
+going grocery shopping: </s> drive or walk to the store. 1
+going grocery shopping: </s> get a basket if needed. 1
+going grocery shopping: </s> select the items on your list, trying to stay on the perimeter of the store. 1
+going grocery shopping: </s> take your items to the checkout counter. 1
+going grocery shopping: </s> let the cashier ring up your items. 1
+going grocery shopping: </s> pay for your groceries. 1
+going grocery shopping: </s> if necessary, bag your items. 1
+going grocery shopping: </s> leave the store. 1
+going grocery shopping: </s> get a cart 1
+going grocery shopping: </s> go in the door 1
+going grocery shopping: </s> choose which items you want/need 1
+going grocery shopping: </s> go to the checkout counter 1
+going grocery shopping: </s> wait while the cashier rings up your items 1
+going grocery shopping: </s> pay with credit card or cash 1
+going grocery shopping: </s> leave the store with your items in bags 1
+going grocery shopping: </s> drive to store 1
+going grocery shopping: </s> park car and walk inside 1
+going grocery shopping: </s> look for the food you want 1
+going grocery shopping: </s> put food in cart 1
+going grocery shopping: </s> go to checkout lane 1
+going grocery shopping: </s> pay for food 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> make a grocery list. 1
+going grocery shopping: </s> get in car. 1
+going grocery shopping: </s> drive to grocery store. 1
+going grocery shopping: </s> walk in store. 1
+going grocery shopping: </s> get shopping cart. 1
+going grocery shopping: </s> walk around store. 1
+going grocery shopping: </s> put items in basket. 1
+going grocery shopping: </s> walk to cashier. 1
+going grocery shopping: </s> cashier scan items. 1
+going grocery shopping: </s> bagger bags your groceries. 1
+going grocery shopping: </s> put bags in cart. 1
+going grocery shopping: </s> pay cashier. 1
+going grocery shopping: </s> leave store. 1
+going grocery shopping: </s> check for deals 1
+going grocery shopping: </s> make a meal plan 1
+going grocery shopping: </s> make a grocery list 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> get a cart or basket 1
+going grocery shopping: </s> put items on the list into the cart/basket 1
+going grocery shopping: </s> bring to the counter 1
+going grocery shopping: </s> pay for the groceries 1
+going grocery shopping: </s> bag the groceries. 1
+going grocery shopping: </s> get in my car 1
+going grocery shopping: </s> turn the car on 1
+going grocery shopping: </s> go to the store 1
+going grocery shopping: </s> park 1
+going grocery shopping: </s> go inside 1
+going grocery shopping: </s> grab cart 1
+going grocery shopping: </s> find groceries 1
+going grocery shopping: </s> put them in the cart 1
+going grocery shopping: </s> check out 1
+going grocery shopping: </s> put bags in car 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> make a grocery list. 1
+going grocery shopping: </s> drive to grocery store. 1
+going grocery shopping: </s> go into store. 1
+going grocery shopping: </s> get everything on your list. 1
+going grocery shopping: </s> go to checkout counter 1
+going grocery shopping: </s> wait for cashier to finish ringing you up. 1
+going grocery shopping: </s> pay the cashier. 1
+going grocery shopping: </s> take all your groceries. 1
+going grocery shopping: </s> put groceries in your car 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> get in car and drive to grocery store. 1
+going grocery shopping: </s> get out of car and go into grocery store. 1
+going grocery shopping: </s> get a shopping cart from the front store. 1
+going grocery shopping: </s> go down each aisle and put the groceries you would like to purchase in your cart. 1
+going grocery shopping: </s> when you are finished picking out what you want to purchase, go to the check out line. 1
+going grocery shopping: </s> put all of your groceries on the belt for the cashier to ring up and bag. 1
+going grocery shopping: </s> pay for your groceries. 1
+going grocery shopping: </s> take your groceries to your car and place them in the car. 1
+going grocery shopping: </s> drive home. 1
+going grocery shopping: </s> make list of needed items. 1
+going grocery shopping: </s> get into car. 1
+going grocery shopping: </s> drive to store. 1
+going grocery shopping: </s> find cart. 1
+going grocery shopping: </s> walk aisles with cart and fill with items from list. 1
+going grocery shopping: </s> stand in line for register. 1
+going grocery shopping: </s> unload items onto conveyer belt. 1
+going grocery shopping: </s> pay cashier. 1
+going grocery shopping: </s> pick up bags. 1
+going grocery shopping: </s> go to car. 1
+going grocery shopping: </s> go home. 1
+going grocery shopping: </s> make out a list 1
+going grocery shopping: </s> get your money 1
+going grocery shopping: </s> get in car 1
+going grocery shopping: </s> drive to the store 1
+going grocery shopping: </s> get out get a cart 1
+going grocery shopping: </s> enter store and buy what is on your list 1
+going grocery shopping: </s> look at ads 1
+going grocery shopping: </s> make list 1
+going grocery shopping: </s> go to store 1
+going grocery shopping: </s> put items in cart 1
+going grocery shopping: </s> take to check out 1
+going grocery shopping: </s> have cashier check you out 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> unload groceries 1
+going grocery shopping: </s> make a grocery list. 1
+going grocery shopping: </s> start at the non cold side of the store. 1
+going grocery shopping: </s> get the boxed, bagged, jarred food from your list. 1
+going grocery shopping: </s> get the cold, frozen and produce. 1
+going grocery shopping: </s> pay and check out. 1
+going grocery shopping: </s> put bags in car and go home. 1
+going grocery shopping: </s> make a list of things needed before leaving home. 1
+going grocery shopping: </s> make a trip to the store. 1
+going grocery shopping: </s> if several items are needed, grab a basket. 1
+going grocery shopping: </s> check list and find items that you need. 1
+going grocery shopping: </s> when you have completed getting items on your list, head toward the checkout lanes. 1
+going grocery shopping: </s> wait in line for your turn. 1
+going grocery shopping: </s> put your items on the counter or belt to be scanned and rang up. 1
+going grocery shopping: </s> when all items are scanned, the cashier will give you a total. 1
+going grocery shopping: </s> pay for your items. 1
+going grocery shopping: </s> go home. 1
+going grocery shopping: </s> put away your groceries. 1
+going grocery shopping: </s> write list 1
+going grocery shopping: </s> go to grocery store 1
+going grocery shopping: </s> get cart 1
+going grocery shopping: </s> get items on list 1
+going grocery shopping: </s> put in cart 1
+going grocery shopping: </s> take cart to checkout 1
+going grocery shopping: </s> put items on conveyor belt 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> take items 1
+going grocery shopping: </s> leave 1
+going grocery shopping: </s> make a grocery list 1
+going grocery shopping: </s> go to the grocery store 1
+going grocery shopping: </s> go down the aisle and put your items in the cart 1
+going grocery shopping: </s> go through the checkout 1
+going grocery shopping: </s> take the bags to your car 1
+going grocery shopping: </s> go home 1
+going grocery shopping: </s> visit the mall, park the vehicle 1
+going grocery shopping: </s> enter the shopping place and take a trolley 1
+going grocery shopping: </s> just have look around for any discounts and offers 1
+going grocery shopping: </s> refer my list and pick up what is needed from the shelves 1
+going grocery shopping: </s> check for the price and validity 1
+going grocery shopping: </s> place in the trolley properly 1
+going grocery shopping: </s> check whether the list is complete 1
+going grocery shopping: </s> head for the counter 1
+going grocery shopping: </s> take groceries one by one for billing 1
+going grocery shopping: </s> pay by credit card 1
+going grocery shopping: </s> pack the things in my bag and leave the mall 1
+going grocery shopping: </s> open pack of batteries 0
+going grocery shopping: </s> wiping surface areas 0
+going grocery shopping: </s> keep score 0
+going grocery shopping: </s> do the renovation/painting. 0
+going grocery shopping: </s> wash all the dishes 0
+going grocery shopping: </s> let eggs sit for a minute. 0
+going grocery shopping: </s> wait in line to check your luggage 0
+going grocery shopping: </s> replace the tube 0
+going grocery shopping: </s> order the food item 0
+going grocery shopping: </s> check out book 0
+going grocery shopping: </s> wait until pasta is done 0
+going grocery shopping: </s> insert nozzle in tank 0
+going grocery shopping: </s> book appointment 0
+going grocery shopping: </s> board train and sit or stand. 0
+going grocery shopping: </s> sit in chair 0
+going grocery shopping: </s> take alarm clock 0
+going grocery shopping: </s> sit down 0
+going grocery shopping: </s> double check flight information 0
+going grocery shopping: </s> get plate 0
+going grocery shopping: </s> clean the windows 0
+going grocery shopping: </s> taste food 0
+going grocery shopping: </s> drive to the theater at the appropriate time 0
+going grocery shopping: </s> drive to the theater. 0
+going grocery shopping: </s> cover up the child 0
+going grocery shopping: </s> receive total for items 0
+going grocery shopping: </s> select a book. 0
+going grocery shopping: </s> add a small amount of salt or olive oil to boiling water. 0
+going grocery shopping: </s> plug iron in and wait for it to heat up. 0
+going grocery shopping: </s> rinse body. 0
+going grocery shopping: </s> pick up phone 0
+going grocery shopping: </s> show man on train ticket 0
+going grocery shopping: </s> blow the hair with a hair drier. 0
+going grocery shopping: </s> leave service 0
+going grocery shopping: </s> board the train 0
+going grocery shopping: </s> plug in iron 0
+going grocery shopping: </s> open mix and add required ingredients 0
+going grocery shopping: </s> apply to hair 0
+going grocery shopping: </s> wait until the water is the right temperature 0
+going grocery shopping: </s> get in car with driving instructor 0
+going grocery shopping: </s> sepedrate into darks, whites. 0
+going grocery shopping: </s> take a bath 0
+going grocery shopping: </s> purchase food for the barbecue. 0
+going grocery shopping: </s> throw the noodles in there. 0
+going grocery shopping: </s> turn water on in shower 0
+going grocery shopping: </s> walk to correct platform 0
+going grocery shopping: </s> go to library 0
+going grocery shopping: </s> you walk into bowling alley. 0
+going grocery shopping: </s> sit down if possible 0
+going grocery shopping: </s> make appointment at salon 0
+going grocery shopping: </s> go to dentist office for appointment 0
+going grocery shopping: </s> turn on the water 0
+going grocery shopping: </s> remove cake from oven and cool 0
+going grocery shopping: </s> get up from chair when finished 0
+going grocery shopping: </s> when instructed, start the car 0
+going grocery shopping: </s> turn car off 0
+going grocery shopping: </s> take off your clothes. 0
+going grocery shopping: </s> choose correct settings on dryer 0
+going grocery shopping: </s> mix the dry ingredients in another bowl 0
+going grocery shopping: </s> iron collar of shirt. 0
+going grocery shopping: </s> drain tub 0
+going grocery shopping: </s> enter inspection area 0
+going grocery shopping: </s> dress in black or dark clothing. 0
+going grocery shopping: </s> pay for pizza. 0
+going grocery shopping: </s> decide where you want to go. 0
+going grocery shopping: </s> tie off the end of the thread 0
+going grocery shopping: </s> go to the airport 0
+going grocery shopping: </s> plug hole 0
+going grocery shopping: </s> turn on night light 0
+going grocery shopping: </s> put carry on luggage in overhead bin. 0
+going grocery shopping: </s> get into bath tub 0
+going grocery shopping: </s> talk to library attendant 0
+going grocery shopping: </s> use glue on patch 0
+going grocery shopping: </s> get shampoo 0
+going grocery shopping: </s> set up the ironing board 0
+going grocery shopping: </s> step out of tub 0
+going grocery shopping: </s> pay for pizza delivery 0
+going grocery shopping: </s> check water temperature 0
+going grocery shopping: </s> take the ticket 0
+going grocery shopping: </s> collect compensation 0
+going grocery shopping: </s> pour a dab of milk into the bowl 0
+going grocery shopping: </s> get towel dry off. 0
+going grocery shopping: </s> pick out bubble bath 0
+going grocery shopping: </s> pour some water into bowl, depending on your tastes. 0
+going grocery shopping: </s> call waiter 0
+going grocery shopping: </s> drive to the theater 0
+going grocery shopping: </s> carefully pull out of parking spot. 0
+going grocery shopping: </s> sweep floors. 0
+going grocery shopping: </s> check for holes in the tire 0
+going grocery shopping: </s> quickly pick a location to stand or sit 0
+going grocery shopping: </s> slide it in the machine 0
+going grocery shopping: </s> brush your teeth 0
+going grocery shopping: </s> get a washcloth 0
+going grocery shopping: </s> exit underground station 0
+going grocery shopping: </s> tell cashier you are paying with credit 0
+going grocery shopping: </s> dry hair 0
+going grocery shopping: </s> grab new batteries 0
+going grocery shopping: </s> lock garage door 0
+going grocery shopping: </s> get towel 0
+going grocery shopping: </s> select credit card you want to use 0
+going grocery shopping: </s> find a driving lesson company on google 0
+going grocery shopping: </s> wait for them to confirm your details. 0
+going grocery shopping: </s> pay the bus driver 0
+going grocery shopping: </s> continue until button is attached with an x pattern at the back 0
+going grocery shopping: </s> read the instructions 0
+going grocery shopping: </s> dry off 0
+going grocery shopping: </s> learn to drive 0
+going grocery shopping: </s> driving to the bowling alley 0
+going grocery shopping: </s> pour conditioner in hand, if desired. 0
+going grocery shopping: </s> continue game until there's a winner 0
+going grocery shopping: </s> figure out which train you need to board 0
+going grocery shopping: </s> go to station 0
+going grocery shopping: </s> go into the bathroom. 0
+going grocery shopping: </s> make food to go with the meat 0
+going grocery shopping: </s> exit bus 0
+going grocery shopping: </s> rinse entire body 0
+going grocery shopping: </s> pay any fees associated with checked luggage 0
+going grocery shopping: </s> turn on water and adjust to comfort level 0
+going grocery shopping: </s> check to see what type and how many batteries you need. 0
+going grocery shopping: </s> get a drink of water. 0
+going grocery shopping: </s> drive car to gas station. 0
+going grocery shopping: </s> sit down 0
+going grocery shopping: </s> remove with spatula when done. 0
+going grocery shopping: </s> park. 0
+going grocery shopping: </s> dust surfaces 0
+going grocery shopping: </s> get a tennis ball 0
+going grocery shopping: </s> explain the problem to waiter 0
+going grocery shopping: </s> when it is done, take you pizza home. 0
+going grocery shopping: </s> research the book that you want 0
+going grocery shopping: </s> add a bit of water to the hole before planting the tree. 0
+going grocery shopping: </s> let cake cool. 0
+going grocery shopping: </s> step out of shower 0
+going grocery shopping: </s> when the water has boiled, add the pasta to the boiling water. 0
+going grocery shopping: </s> mop floors 0
+going grocery shopping: </s> get out of shower 0
+going grocery shopping: </s> wash. 0
+going grocery shopping: </s> pull back the covers 0
+going grocery shopping: </s> find book 0
+going grocery shopping: </s> you have to pack your bags and go to train station. 0
+going grocery shopping: </s> leave 0
+going grocery shopping: </s> gather clean items. 0
+going grocery shopping: </s> open the battery compartment 0
+going grocery shopping: </s> have child use toilet 0
+going grocery shopping: </s> thank them. 0
+going grocery shopping: </s> remove the previous batteries 0
+going grocery shopping: </s> replace fuel pump in original holder 0
+going grocery shopping: </s> pick up all garbage into a trash bag. 0
+going grocery shopping: </s> find seat 0
+going grocery shopping: </s> put the alarm clock back together 0
+going grocery shopping: </s> place root of tree in hole. 0
+going grocery shopping: </s> make sure you have balls 0
+going grocery shopping: </s> serve pasta 0
+going grocery shopping: </s> put new tire on bicycle. 0
+going grocery shopping: </s> get on train 0
+going grocery shopping: </s> go to barbershop 0
+going grocery shopping: </s> open ironing board 0
+going grocery shopping: </s> walk back to receptionist 0
+going grocery shopping: </s> pay for pizza upon arrival 0
+going grocery shopping: </s> get broom, mop, detergent, bucket and water 0
+going grocery shopping: </s> serve food. 0
+going grocery shopping: </s> find correct train 0
+going grocery shopping: </s> drive to funeral 0
+going grocery shopping: </s> if correct, eat food. 0
+going grocery shopping: </s> start stove. 0
+going grocery shopping: </s> cover up the child 0
+going grocery shopping: </s> drive to location of funeral service 0
+going grocery shopping: </s> bus leaves 0
+going grocery shopping: </s> collect luggage. 0
+going grocery shopping: </s> add bubble bath. 0
+going grocery shopping: </s> place button on fabric and hold with thumb and index finger 0
+going grocery shopping: </s> vaccuum the floor 0
+going grocery shopping: </s> put in new batteries. 0
+going grocery shopping: </s> say you love them 0
+going grocery shopping: </s> remove cake 0
+going grocery shopping: </s> enjoy the company of friends and family. 0
+going grocery shopping: </s> check polarity indicators. 0
+going grocery shopping: </s> get into car 0
+going grocery shopping: </s> tie knot in thread 0
+going grocery shopping: </s> explain to the waiter what you are not happy about. 0
+going grocery shopping: </s> leave with book 0
+going grocery shopping: </s> get two eggs 0
+going grocery shopping: </s> rinse off 0
+going grocery shopping: </s> get in car 0
+going grocery shopping: </s> pray and partake in the religious rituals performed. 0
+going grocery shopping: </s> install trim 0
+going grocery shopping: </s> visit with family and friends 0
+going grocery shopping: </s> wash 0
+going grocery shopping: </s> say goodbye 0
+going grocery shopping: </s> pick out book 0
+going grocery shopping: </s> as each item is ironed, hang it up 0
+going grocery shopping: </s> wait for shower to get to desired temperature 0
+going grocery shopping: </s> add 2nd load of clothes to washer once 1st load has been added to dryer 0
+going grocery shopping: </s> get ironing board 0
+going grocery shopping: </s> carefully paint room 0
+going grocery shopping: </s> park 0
+going grocery shopping: </s> find seat 0
+going grocery shopping: </s> use toilet 0
+going grocery shopping: </s> after she checks them out to you, take the book home 0
+going grocery shopping: </s> wait for the train 0
+going grocery shopping: </s> rinse the soap off with water from the tub 0
+going grocery shopping: </s> give order for food 0
+going grocery shopping: </s> buy paint at store. 0
+going grocery shopping: </s> board the bus 0
+going grocery shopping: </s> wait for the delivery man. 0
+going grocery shopping: </s> get needle and thread 0
+going grocery shopping: </s> sit in the driver's seat 0
+going grocery shopping: </s> undress 0
+going grocery shopping: </s> close mouth when done. 0
+going grocery shopping: </s> rent shoes to wear 0
+going grocery shopping: </s> get off the bus 0
+going grocery shopping: </s> follow the hygienist back into the room. 0
+going grocery shopping: </s> return nozzle to pump 0
+going grocery shopping: </s> bowl down lane 0
+going grocery shopping: </s> pick up the phone 0
+going grocery shopping: </s> open battery cover 0
+going grocery shopping: </s> pack luggage (if necessary) 0
+going grocery shopping: </s> plan your route 0
+going grocery shopping: </s> walk into airport 0
+going grocery shopping: </s> get tire patch kit 0
+going grocery shopping: </s> place order for pizza 0
+going grocery shopping: </s> walk to book shelves 0
+going grocery shopping: </s> take your items. 0
+going grocery shopping: </s> assist child in brushing teeth. 0
+going grocery shopping: </s> get your bowling ball 0
+going grocery shopping: </s> get out the ironing board 0
+going grocery shopping: </s> greet delivery driver 0
+going grocery shopping: </s> add some salt to the water. 0
+going grocery shopping: </s> drive to tennis court 0
+going grocery shopping: </s> grab a towel 0
+going grocery shopping: </s> wash body 0
+going grocery shopping: </s> wash hair. 0
+going grocery shopping: </s> water ground so it is nice and moist 0
+going grocery shopping: </s> stow carry on under seat if it fits 0
+going grocery shopping: </s> go to the fridge. 0
+going grocery shopping: </s> put in key. 0
+going grocery shopping: </s> reassure them of no monsters 0
+going grocery shopping: </s> find needle and thread 0
+going grocery shopping: </s> place credit card back in wallet 0
+going grocery shopping: </s> board train 0
+going grocery shopping: </s> get out sewing kit. 0
+going grocery shopping: </s> sit in chair 0
+going grocery shopping: </s> dress the child in proper sleepwear. 0
+going grocery shopping: </s> thread needle. 0
+going grocery shopping: </s> pay for my hair cut. 0
+going grocery shopping: </s> get dressed 0
+going grocery shopping: </s> close the lid. 0
+going grocery shopping: </s> recycle the old batteries. 0
+going grocery shopping: </s> go to the counter of your airline 0
+going grocery shopping: </s> patch leak 0
+going grocery shopping: </s> go into restaurant 0
+going grocery shopping: </s> hand agent ticket and id 0
+going grocery shopping: </s> announce you will be paying by credit card. 0
+going grocery shopping: </s> walk out of the library 0
+going grocery shopping: </s> register name 0
+going grocery shopping: </s> they will bring your food back. 0
+going grocery shopping: </s> decide which book you would like 0
+going grocery shopping: </s> scrub with shampoo 0
+going grocery shopping: </s> press clutch 0
+going grocery shopping: </s> check if oven is ready 0
+going grocery shopping: </s> ask waiter to come over 0
+going grocery shopping: </s> add frosting 0
+going grocery shopping: </s> take board pass and license 0
+going grocery shopping: </s> roll ball down aisle multiple times 0
+going grocery shopping: </s> replace the cover 0
+going grocery shopping: </s> position needle with thread 0
+going grocery shopping: </s> find table 0
+going grocery shopping: </s> cover 0
+going grocery shopping: </s> decide to borrow the book 0
+going grocery shopping: </s> driving to the church 0
+going grocery shopping: </s> pump the tube back up to full pressure 0
+going grocery shopping: </s> gather around casket 0
+going grocery shopping: </s> give condolences to family of departed 0
+going grocery shopping: </s> set the time 0
+going grocery shopping: </s> find a player to play with 0
+going grocery shopping: </s> return shoes to counter 0
+going grocery shopping: </s> fill bucket 0
+going grocery shopping: </s> put the button up to the garment 0
+going grocery shopping: </s> order what you want off the menu. 0
+going grocery shopping: </s> lay laundry on ironing board 0
+going grocery shopping: </s> rinse dirty dishes and place into dishwasher. 0
+going grocery shopping: </s> remove old batteries 0
+going grocery shopping: </s> mix ingredients together 0
+going grocery shopping: </s> whisk eggs 0
+going grocery shopping: </s> order food 0
+going grocery shopping: </s> take off tire 0
+going grocery shopping: </s> re-inflate the tire. 0
+going grocery shopping: </s> repeat until sewed on. 0
+going grocery shopping: </s> exit the bus. 0
+going grocery shopping: </s> bring book to librarian 0
+going grocery shopping: </s> move on to next item to iron 0
+going grocery shopping: </s> waiting on train platform for train 0
+going grocery shopping: </s> take some practice 0
+going grocery shopping: </s> plane takes off 0
+going grocery shopping: </s> get on train 0
+going grocery shopping: </s> avoid mutant turtles and human waste 0
+going grocery shopping: </s> using threaded needle, sew button on to garment. 0
+going grocery shopping: </s> call the pizza delivery outlet 0
+going grocery shopping: </s> buy cake mix at the store 0
+going grocery shopping: </s> the serving player stands behind the back line right of the center line. 0
+going grocery shopping: </s> put water on stove 0
+going grocery shopping: </s> start heading towards your gate 0
+going grocery shopping: </s> open curtain. 0
+going grocery shopping: </s> grab the bicycle pump. 0
+going grocery shopping: </s> knock down any walls you plan to fix or extend 0
+going grocery shopping: </s> say goodnight 0
+going grocery shopping: </s> hand over the luggage 0
+going grocery shopping: </s> board train. 0
+going grocery shopping: </s> opening up alarm clock 0
+going grocery shopping: </s> call number on menu 0
+going grocery shopping: </s> go to train station 0
+going grocery shopping: </s> install lights 0
+going grocery shopping: </s> supervise the work he is doing 0
+going grocery shopping: </s> let cook. 0
+going grocery shopping: </s> eat and drink. 0
+going grocery shopping: </s> dry off with a towel 0
+going grocery shopping: </s> take a piece of pasta out and allow it to cool 0
+going grocery shopping: </s> when finished thank the stylist 0
+going grocery shopping: </s> arrive airport 0
+going grocery shopping: </s> reduce heat to medium-high. 0
+going grocery shopping: </s> adjust the current time of the alarm clock 0
+going grocery shopping: </s> sign guest book 0
+going grocery shopping: </s> call and make an appointment. 0
+going grocery shopping: </s> replace battery cover 0
+going grocery shopping: </s> rally back and forth to warm up 0
+going grocery shopping: </s> find a mop 0
+going grocery shopping: </s> put new batteries in the alarm clock 0
+going grocery shopping: </s> insert card in wallet 0
+going grocery shopping: </s> turn off lights 0
+going grocery shopping: </s> place laundry soap into washing machine 0
+going grocery shopping: </s> put the new batteries in 0
+going grocery shopping: </s> checking book out 0
+going grocery shopping: </s> turn on water in bath 0
+going grocery shopping: </s> turn on oven 0
+going grocery shopping: </s> get in car 0
+going grocery shopping: </s> put the button up to the garment 0
+going grocery shopping: </s> get dressed into respectable clothes for the funeral 0
+going grocery shopping: </s> put seed in hole 0
+going grocery shopping: </s> buy a ticket 0
+going grocery shopping: </s> take child to bathroom 0
+going grocery shopping: </s> take out old batteries 0
+going grocery shopping: </s> go to the pizza place 0
+going grocery shopping: </s> wait for new food 0
+going grocery shopping: </s> wait for train at the platform 0
+going grocery shopping: </s> get a tree. 0
+going grocery shopping: </s> tell cashier order 0
+going grocery shopping: </s> drive to the fast food restaurant. 0
+going grocery shopping: </s> begin washing a load of laundry in the washer. 0
+going grocery shopping: </s> advise agent on number of bags to check 0
+going grocery shopping: </s> start car. 0
+going grocery shopping: </s> take card back from clerk 0
+going grocery shopping: </s> check into the flight 0
+going grocery shopping: </s> get in stylist's chair when your name is called 0
+going grocery shopping: </s> throw away trash, stow tray on top. 0
+going grocery shopping: </s> sit in the chair 0
+going grocery shopping: </s> dump out excess flour. 0
+going grocery shopping: </s> put on shower 0
+going grocery shopping: </s> board the plane 0
+going grocery shopping: </s> take it to check out counter. 0
+going grocery shopping: </s> enter name on card 0
+going grocery shopping: </s> insert card or select pay inside 0
+going grocery shopping: </s> get on train 0
+going grocery shopping: </s> grease cake pan 0
+going grocery shopping: </s> select food from menu 0
+going grocery shopping: </s> return clothes to room 0
+going grocery shopping: </s> do laundry 0
+going grocery shopping: </s> sit comfortably 0
+going grocery shopping: </s> go to train station. 0
+going grocery shopping: </s> enter the bowling alley. 0
+going grocery shopping: </s> walk out 0
+going grocery shopping: </s> wait for clothes to finish drying. 0
+going grocery shopping: </s> explain how hair should be cut 0
+going grocery shopping: </s> board the bus 0
+going grocery shopping: </s> begin to eat your food. 0
+going grocery shopping: </s> buy a ticket or pay your fare. 0
+going grocery shopping: </s> thread needle. 0
+going grocery shopping: </s> turn on the machine 0
+going grocery shopping: </s> lathering shampoo 0
+going grocery shopping: </s> drive to dentist's office 0
+going grocery shopping: </s> patch up the hole 0
+going grocery shopping: </s> call salon to make an appointment 0
+going grocery shopping: </s> fuel the car 0
+going grocery shopping: </s> assemble cleaning supplies 0
+going grocery shopping: </s> crack the eggs into the bowl 0
+going grocery shopping: </s> fasten your seatbelt. 0
+going grocery shopping: </s> brush teeth 0
+going grocery shopping: </s> enter bus 0
+going grocery shopping: </s> go through security check 0
+going grocery shopping: </s> tell them what you want and then pay the cashier 0
+going grocery shopping: </s> go inside the theater 0
+going grocery shopping: </s> keep receipt from purchase for record-keeping. 0
+going grocery shopping: </s> cover hole with soil. 0
+going grocery shopping: </s> kiss child goodnight 0
+going grocery shopping: </s> remove card from wallet 0
+going grocery shopping: </s> enter in confirmation number. 0
+going grocery shopping: </s> take tree out of container 0
+going grocery shopping: </s> purchase theater tickets 0
+going grocery shopping: </s> leave salon 0
+going grocery shopping: </s> fasten your seat belt 0
+going grocery shopping: </s> get out baking pan 0
+going grocery shopping: </s> get in the car 0
+going grocery shopping: </s> turn off engine 0
+going grocery shopping: </s> remove clothes when completed 0
+going grocery shopping: </s> test the tire 0
+going grocery shopping: </s> wait for our place 0
+going grocery shopping: </s> take card back from clerk 0
+going grocery shopping: </s> enjoy new food 0
+going grocery shopping: </s> answer their questions 0
+going grocery shopping: </s> remove old batteries 0
+going grocery shopping: </s> eat ribs with friends 0
+going grocery shopping: </s> go to airline website and check in electronically. 0
+going grocery shopping: </s> remove clothes 0
+going grocery shopping: </s> tell your partner good game. 0
+going grocery shopping: </s> pay the fee 0
+going grocery shopping: </s> enter shower 0
+going grocery shopping: </s> put frosting on the cake 0
+going grocery shopping: </s> wash hair with shampoo. 0
+going grocery shopping: </s> keep the pan on stove 0
+going grocery shopping: </s> turn water off 0
+going grocery shopping: </s> go to lady who calls your name. 0
+going grocery shopping: </s> set pan or skillet on eye of stove. 0
+going grocery shopping: </s> head for the stadium, enter the court. 0
+going grocery shopping: </s> wash hair with shampoo. 0
+going grocery shopping: </s> request that the server bring food to replace food sent back 0
+going grocery shopping: </s> walk down to the subway. 0
+going grocery shopping: </s> grease baking pan 0
+going grocery shopping: </s> walk to bus stop 0
+going grocery shopping: </s> wait for instructor to tell you to start driving 0
+going grocery shopping: </s> pick up dirty clothes 0
+going grocery shopping: </s> repeat several times, going through a different hole each time. 0
+going grocery shopping: </s> ask the waiter to send the food back 0
+going grocery shopping: </s> get into car with instructor. 0
+going grocery shopping: </s> explain the problem 0
+going grocery shopping: </s> roll ball down the alley towards the pins 0
+going grocery shopping: </s> inspect food for quality 0
+going grocery shopping: </s> go inside. 0
+going grocery shopping: </s> pour shampoo into hand 0
+going grocery shopping: </s> get a washcloth and rub some soap on it 0
+going grocery shopping: </s> your number is called 0
+going grocery shopping: </s> mark the next date to visit your dentist on the calender. 0
+going grocery shopping: </s> at end of appointment, check out with receptionist. 0
+going grocery shopping: </s> enter title of author 0
+going grocery shopping: </s> await for opponent to hit ball back to you 0
+going grocery shopping: </s> dry with towel 0
+going grocery shopping: </s> buy any lumber of carpet that you may need. 0
+going grocery shopping: </s> make sure child has taken bath 0
+going grocery shopping: </s> take your receipt. 0
+going grocery shopping: </s> lay item on the board and press with iron until done 0
+going grocery shopping: </s> wait for water to boil 0
+going grocery shopping: </s> pump tire until full of air 0
+going grocery shopping: </s> spread glue 0
+going grocery shopping: </s> arrive at the station 0
+going grocery shopping: </s> fill in and pack dirt around seedling. 0
+going grocery shopping: </s> return tray 0
+going grocery shopping: </s> look at window if you haven't seen the surroundings 0
+going grocery shopping: </s> show the ticket at the gate 0
+going grocery shopping: </s> select a film 0
+going grocery shopping: </s> serve the chicken on plates 0
+going grocery shopping: </s> cover beds and furniture with unused bedspreads 0
+going grocery shopping: </s> watch theater show 0
+going grocery shopping: </s> go to bus door 0
+going grocery shopping: </s> dentist tells you what is wrong and what needs to be done 0
+going grocery shopping: </s> say i love you and goodnight. 0
+going grocery shopping: </s> understand the reason for sending it back 0
+going grocery shopping: </s> wait at gate for airplane. 0
+going grocery shopping: </s> inflate the tire 0
+going grocery shopping: </s> enter movie theater. 0
+going grocery shopping: </s> tie a tight knot as close to the garment as you can. 0
+going grocery shopping: </s> cook the food during the barbecue 0
+going grocery shopping: </s> go to train station 0
+going grocery shopping: </s> rinse shampoo out of hair 0
+going grocery shopping: </s> pay for order 0
+going grocery shopping: </s> buy a ticket 0
+going grocery shopping: </s> get out of the car 0
+going grocery shopping: </s> call your friends 0
+going grocery shopping: </s> choose seat 0
+going grocery shopping: </s> turn on oven. 0
+going grocery shopping: </s> research where and when the funeral will be. 0
+going grocery shopping: </s> thank the waiter for their help 0
+going grocery shopping: </s> put strainer into sink 0
+going grocery shopping: </s> find things to fix 0
+going grocery shopping: </s> swipe credit card 0
+going grocery shopping: </s> continue with every part of the room you want to change 0
+going grocery shopping: </s> park. 0
+going grocery shopping: </s> get dressed 0
+going grocery shopping: </s> once pasta is done, drain pasta into the strainer in the sink 0
+going grocery shopping: </s> put the aerated tube in a water tub 0
+going grocery shopping: </s> enter plane 0
+going grocery shopping: </s> go to the self-check in desk 0
+going grocery shopping: </s> signal driver of wish to exit 0
+going grocery shopping: </s> show your ticket to the conductor. 0
+going grocery shopping: </s> buy tickets for theater. 0
+going grocery shopping: </s> paint walls and install lighting 0
+going grocery shopping: </s> end with needle at back of clothing item. 0
+going grocery shopping: </s> approach reception counter. 0
+going grocery shopping: </s> if not airtight, repeat from step 5 0
+going grocery shopping: </s> put pan in oven. 0
+going grocery shopping: </s> get in your car or call a cab or friend to drive you to the dentist 0
+going grocery shopping: </s> lay child down 0
+going grocery shopping: </s> show your travel information 0
+going grocery shopping: </s> going through a tunnel 0
+going grocery shopping: </s> thread needle. 0
+going grocery shopping: </s> watch opponent miss ball. 0
+going grocery shopping: </s> lay favorite stuffed animals next to child 0
+going grocery shopping: </s> go back to car 0
+going grocery shopping: </s> buy any sides like coleslaw, chips and dip, and drinks 0
+going grocery shopping: </s> listen to determine if any air is leaking 0
+going grocery shopping: </s> make next appointment 0
+going grocery shopping: </s> return ball 0
+going grocery shopping: </s> take the ball insert fingers in the slots properly 0
+going grocery shopping: </s> remove wheel. 0
+going grocery shopping: </s> arrive at theater before show 0
+going grocery shopping: </s> remove all items from room 0
+going grocery shopping: </s> wait for bus 0
+going grocery shopping: </s> remove old batteries 0
+going grocery shopping: </s> shopkeeper asks for the address 0
+going grocery shopping: </s> set alarm or timer to ring when the cooking time is up 0
+going grocery shopping: </s> place a medium sized pan on a stove burner 0
+going grocery shopping: </s> press start 0
+going grocery shopping: </s> grab towel 0
+going grocery shopping: </s> get in the car. 0
+going grocery shopping: </s> take items 0
+going grocery shopping: </s> close gas tank 0
+going grocery shopping: </s> starting the car 0
+going grocery shopping: </s> wait for fuel to stop running 0
+going grocery shopping: </s> seperate whites and colors. 0
+going grocery shopping: </s> share the good works of the deceased with fellow attendees. 0
+going grocery shopping: </s> add shampoo suds up all your hair 0
+going grocery shopping: </s> attach pump to fuel hole 0
+going grocery shopping: </s> wait near gate 0
+going grocery shopping: </s> get undressed 0
+going grocery shopping: </s> get soap 0
+going grocery shopping: </s> drive until the lesson ends 0
+going grocery shopping: </s> pay for your food 0
+going grocery shopping: </s> place covers over child 0
+going grocery shopping: </s> put charcoal in bottom of grill area. 0
+going grocery shopping: </s> find button 0
+going grocery shopping: </s> drive on the high way 0
+going grocery shopping: </s> enjoy company of friends 0
+going grocery shopping: </s> pull up to the gas pump 0
+going grocery shopping: </s> read a book 0
+going grocery shopping: </s> vacuum the rugs and carpet 0
+going grocery shopping: </s> they get up 0
+going grocery shopping: </s> look up book in catalog 0
+going grocery shopping: </s> go to the station. 0
+going grocery shopping: </s> sit on your seat as per the ticket 0
+going grocery shopping: </s> dig a hole 0
+going grocery shopping: </s> buy topsoil 0
+going grocery shopping: </s> clean counters 0
+going grocery shopping: </s> pay contracto 0
+going grocery shopping: </s> return book to library before due date 0
+going grocery shopping: </s> replace bowling ball on rack 0
+going grocery shopping: </s> take items to cashier. 0
+going grocery shopping: </s> get in car 0
+going grocery shopping: </s> wait for food 0
+going grocery shopping: </s> put all ingredients in bowl 0
+going grocery shopping: </s> dry off with towel. 0
+going grocery shopping: </s> look at food 0
+going grocery shopping: </s> holding button at appropriate location, press needle through first hole on button. 0
+going grocery shopping: </s> wait for train to arrive. 0
+going grocery shopping: </s> check for proper inflation. 0
+going grocery shopping: </s> put shampoo into hand 0
+going grocery shopping: </s> leave library. 0
+going grocery shopping: </s> massage the shampoo into your hair 0
+going grocery shopping: </s> find your designated seat 0
+going grocery shopping: </s> throw away trash 0
+going grocery shopping: </s> use toilet 0
+going grocery shopping: </s> take old furniture out of room 0
+going grocery shopping: </s> go to thrift stores or resale shops to buy items 0
+going grocery shopping: </s> cleaning the dirty clothes 0
+going grocery shopping: </s> grease and flour cake pan 0
+going grocery shopping: </s> rinse shampoo from your hair 0
+going grocery shopping: </s> get pasta out of cabinet 0
+going grocery shopping: </s> serve food to guests 0
+going grocery shopping: </s> rinse well with water. 0
+going grocery shopping: </s> get rebounds from the other player and hit them back. 0
+going grocery shopping: </s> check in with receptionist 0
+going grocery shopping: </s> when presented with your corrected food, inspect it 0
+going grocery shopping: </s> apply for library card at the front desk 0
+going grocery shopping: </s> follow receptionist when they call your name. 0
+going grocery shopping: </s> pay the cashier 0
+going grocery shopping: </s> close the door 0
+going grocery shopping: </s> cross over to perpendicular hole, push needle back through 0
+going grocery shopping: </s> dry body with towel 0
+going grocery shopping: </s> thread needle 0
+going grocery shopping: </s> thank the waiter. 0
+going grocery shopping: </s> put water in pot. 0
+going grocery shopping: </s> add water 0
+going grocery shopping: </s> remove furniture from the room 0
+going grocery shopping: </s> walk down stairs 0
+going grocery shopping: </s> gather ingredients 0
+going grocery shopping: </s> check the train schedules 0
+going grocery shopping: </s> go to register and pay for haircut 0
+going grocery shopping: </s> carefully get out of shower. 0
+going grocery shopping: </s> pay for fare 0
+going grocery shopping: </s> wait for bus to arrive 0
+going grocery shopping: </s> tuck child under covers. 0
+going grocery shopping: </s> dust surfaces in the living room and bedroom 0
+going grocery shopping: </s> level top of hole 0
+going grocery shopping: </s> screw cap back on tire 0
+going grocery shopping: </s> go to the railway station 0
+going grocery shopping: </s> pay for haircut 0
+going grocery shopping: </s> finish filling in hole 0
+going grocery shopping: </s> rinse your body 0
+going grocery shopping: </s> roll again trying to knock them over 0
+going grocery shopping: </s> provide explanation for wanting to send back food 0
+going grocery shopping: </s> step to side to wait for food 0
+going grocery shopping: </s> get off train 0
+going grocery shopping: </s> blow dry hair 0
+going grocery shopping: </s> pour in some milk into bowl, depending on your tastes. 0
+going grocery shopping: </s> order food 0
+going grocery shopping: </s> getting in the car 0
+going grocery shopping: </s> place pan on stove top 0
+going grocery shopping: </s> get undressed 0
+going grocery shopping: </s> find a seat 0
+going grocery shopping: </s> get out of car 0
+going grocery shopping: </s> tell family you are sorry for loss 0
+going grocery shopping: </s> iron out all parts of the clothing 0
+going grocery shopping: </s> open batteries case 0
+going grocery shopping: </s> arrive at station 0
+going grocery shopping: </s> getting a cut 0
+going grocery shopping: </s> take the book home and read it 0
+going grocery shopping: </s> wait for water to boil 0
+going grocery shopping: </s> get the boarding pass 0
+going grocery shopping: </s> put handle in gas area 0
+going grocery shopping: </s> obtain eggs 0
+going grocery shopping: </s> gather clean clothes to wear after you get out of the shower. 0
+going grocery shopping: </s> wait for washing machine to stop 0
+going grocery shopping: </s> repeat until all items are ironed 0
+going grocery shopping: </s> pay 0
+going grocery shopping: </s> select meats and vegetables to cook. 0
+going grocery shopping: </s> have child get into pj's. 0
+going grocery shopping: </s> buy the ticket 0
+going grocery shopping: </s> once done remove and set in dryer 0
+going grocery shopping: </s> tie knot. 0
+going grocery shopping: </s> put the burner to high heat. 0
+going grocery shopping: </s> ride the subway car to my stop 0
+going grocery shopping: </s> turn water in shower on 0
+going grocery shopping: </s> view body 0
+going grocery shopping: </s> board the airplane before its scheduled departure 0
+going grocery shopping: </s> walk up to counter. 0
+going grocery shopping: </s> dry with towel 0
+going grocery shopping: </s> let cool and cut slices 0
+going grocery shopping: </s> go to library 0
+going grocery shopping: </s> look at all the times and pick a destination 0
+going grocery shopping: </s> thread the needle 0
+going grocery shopping: </s> hand bags over to staff 0
+going grocery shopping: </s> wait til done. 0
+going grocery shopping: </s> dress in appropriate clothes for theater. 0
+going grocery shopping: </s> put out snacks and appetizers 0
+going grocery shopping: </s> enter the underground 0
+going grocery shopping: </s> park car next to pump 0
+going grocery shopping: </s> check in with the receptionist 0
+going grocery shopping: </s> get in assigned seat on plane 0
+going grocery shopping: </s> take off tire 0
+going grocery shopping: </s> heat pan. 0
+going grocery shopping: </s> get on train 0
+going grocery shopping: </s> pay for cut 0
+going grocery shopping: </s> read recipe 0
+going grocery shopping: </s> take purchase and leave. 0
+going grocery shopping: </s> put conditioner in 0
+going grocery shopping: </s> turn on vehicle 0
+going grocery shopping: </s> start machine 0
+going grocery shopping: </s> open mouth for exam. 0
+going grocery shopping: </s> sprinkle fresh lemon and have the barbecue chicken with green salad 0
+going grocery shopping: </s> find your seat. 0
+going grocery shopping: </s> repeat steps 6-8 until someone wins the game 0
+going grocery shopping: </s> order food at counter. 0
+going grocery shopping: </s> get new batteries 0
+going grocery shopping: </s> give address of where you want it delivered 0
+going grocery shopping: </s> serve it with bread 0
+going grocery shopping: </s> pull all the way through 0
+going grocery shopping: </s> get off at your stop 0
+going grocery shopping: </s> scan your ticket in the turnstile 0
+going grocery shopping: </s> wet hair and wash it, then use conditioner on hair. 0
+going grocery shopping: </s> turn on faucet and adjust water to correct temperature, 0
+going grocery shopping: </s> empathize with the loved ones of the departed. 0
+going grocery shopping: </s> butter and flour the baking pan 0
+going grocery shopping: </s> take your food to the table 0
+going grocery shopping: </s> set up ironing board. 0
+going grocery shopping: </s> browse the book selection 0
+going grocery shopping: </s> take the seed 0
+going grocery shopping: </s> getting off the bus 0
+going grocery shopping: </s> turn iron on to desired setting 0
+going grocery shopping: </s> turn on burner 0
+going grocery shopping: </s> then the egg mixture with milk, cream, this will make cooked scrambled eggs more tender. 0
+going grocery shopping: </s> if it is the custom, walk up and pay respects to the deceased. 0
+going grocery shopping: </s> put ticket into gate. 0
+going grocery shopping: </s> wait for your destination 0
+going grocery shopping: </s> tell waiter of poor food 0
+going grocery shopping: </s> press hot iron on clothing 0
+going grocery shopping: </s> apply the meat to the grill. 0
+going grocery shopping: </s> stir to combine 0
+going grocery shopping: </s> get to train stop 0
+going grocery shopping: </s> buy ticket. 0
+going grocery shopping: </s> get in. 0
+going grocery shopping: </s> pick up your tray of food. 0
+going grocery shopping: </s> take button and put it on shirt where you want it 0
+going grocery shopping: </s> eat food 0
+going grocery shopping: </s> step into shower 0
+going grocery shopping: </s> watch for desired location 0
+going grocery shopping: </s> fold and put away 0
+going grocery shopping: </s> put my credit card back in my wallet 0
+going grocery shopping: </s> iron clothes until free of wrinkles. 0
+going grocery shopping: </s> check your luggage 0
+going grocery shopping: </s> leave the library 0
+going grocery shopping: </s> put your name in so you can keep score 0
+going grocery shopping: </s> the stylist will tell you a balance. 0
+going grocery shopping: </s> ride train to destination. 0
+going grocery shopping: </s> put patch on leakage 0
+going grocery shopping: </s> pay the driver 0
+going grocery shopping: </s> iron items. 0
+going grocery shopping: </s> walk up to registers 0
+going grocery shopping: </s> get towel 0
+going grocery shopping: </s> place order 0
+going grocery shopping: </s> board the train. 0
+going grocery shopping: </s> wait by counter to pick up food. 0
+going grocery shopping: </s> pay. 0
+going grocery shopping: </s> start washer. 0
+going grocery shopping: </s> leave the hair salon. 0
+going grocery shopping: </s> rub sponge all over body. 0
+going grocery shopping: </s> buy some popcorn . 0
+going grocery shopping: </s> ride your bicycle 0
+going grocery shopping: </s> choose your toppings 0
+going grocery shopping: </s> get into bathtub. 0
+going grocery shopping: </s> pay 0
+going grocery shopping: </s> unbolt tire. 0
+going grocery shopping: </s> get replacement batteries. 0
+going grocery shopping: </s> get into the shower 0
+going grocery shopping: </s> hand over boarding pass 0
+going grocery shopping: </s> always be alert on the road and follow the instructions from the instructor 0
+going grocery shopping: </s> put apparel on the board. 0
+going grocery shopping: </s> put clothes away 0
+going grocery shopping: </s> read the book 0
+going grocery shopping: </s> take out racket and balls 0
+going grocery shopping: </s> depress tub stopper and turn on water to desired temperature. 0
+going grocery shopping: </s> decide what you are going to purchase 0
+going grocery shopping: </s> use a spatula to move the egg around so that the liquid egg mix cooks evenly 0
+going grocery shopping: </s> sign the machine 0
+going grocery shopping: </s> exit the bathroom 0
+going grocery shopping: </s> plug in iron. 0
+going grocery shopping: </s> open battery compartment face-plate 0
+going grocery shopping: </s> your mind is free from tension or stress. 0
+going grocery shopping: </s> drive to the bowling club 0
+going grocery shopping: </s> get tree 0
+going grocery shopping: </s> offer condolences 0
+going grocery shopping: </s> leave restaurant 0
+going grocery shopping: </s> take seat on chair 0
+going grocery shopping: </s> step in shower 0
+going grocery shopping: </s> go over car controls 0
+going grocery shopping: </s> librarian will scan book and card with scanner. 0
+going grocery shopping: </s> sit up and clean self with bodywash 0
+going grocery shopping: </s> wash hair. 0
+going grocery shopping: </s> put child back to bed when child awakes 0
+going grocery shopping: </s> rinse off completely 0
+going grocery shopping: </s> get a library card 0
+going grocery shopping: </s> pour eggs into skillet. 0
+going grocery shopping: </s> press steam button on iron 0
+going grocery shopping: </s> unscrew battery compartment 0
+going grocery shopping: </s> pack luggage 0
+going grocery shopping: </s> give order to cashier. 0
+going grocery shopping: </s> rinse off body. 0
+going grocery shopping: </s> take an item of clothing and put it over the ironing board. 0
+going grocery shopping: </s> massage shampoo into hair 0
+going grocery shopping: </s> put new batteries in 0
+going grocery shopping: </s> get all your identification ready 0
+going grocery shopping: </s> take nozzle out of fuel pump. 0
+going grocery shopping: </s> smooth out wrinkles. 0
+going grocery shopping: </s> take clothes out of washer and into dryer 0
+going grocery shopping: </s> open the shower 0
+going grocery shopping: </s> choose a movie 0
+going grocery shopping: </s> take personal documents 0
+going grocery shopping: </s> begin running the water, ensuring that it is the right temperature for you. 0
+going grocery shopping: </s> order food 0
+going grocery shopping: </s> politely let the waiter know what is wrong with the order 0
+going grocery shopping: </s> iron until garment is completely ironed 0
+going grocery shopping: </s> check wheel tire pressure after test ride. 0
+going grocery shopping: </s> grab racket 0
+going grocery shopping: </s> open the battery lid 0
+going grocery shopping: </s> return bowling shoes to counter. 0
+going grocery shopping: </s> dust the furniture 0
+going grocery shopping: </s> choose the movie that you'd like to watch 0
+going grocery shopping: </s> learn to drive 0
+going grocery shopping: </s> tell the cashier your order 0
+going grocery shopping: </s> hang up phone. 0
+going grocery shopping: </s> debark from bus. 0
+going grocery shopping: </s> wait in line with bags to be checked 0
+going grocery shopping: </s> fly to your destination 0
+going grocery shopping: </s> put clothes in the washer 0
+going grocery shopping: </s> picking an outfit that is all black 0
+going grocery shopping: </s> purchase any necessary tools and supplies. 0
+going grocery shopping: </s> serve 0
+going grocery shopping: </s> find something wrong with the food 0
+going grocery shopping: </s> show ticket to usher. 0
+going grocery shopping: </s> walk into bathroom 0
+going grocery shopping: </s> set the alarm 0
+going grocery shopping: </s> get our of bathtub. 0
+going grocery shopping: </s> call the waiter over 0
+going grocery shopping: </s> towel dry 0
+going grocery shopping: </s> drain off excess water 0
+going grocery shopping: </s> enjoy your clean flat 0
+going grocery shopping: </s> buy the required batteries 0
+going grocery shopping: </s> rub shampoo all the way to the scalp 0
+going grocery shopping: </s> soak in tub 0
+going grocery shopping: </s> when reaching the place get off the bus 0
+going grocery shopping: </s> wait for instructor to get into passenger seat 0
+going grocery shopping: </s> inspect haircut when shown 0
+going grocery shopping: </s> meet pizza at the door 0
+going grocery shopping: </s> wait for 10 to 15 min 0
+going grocery shopping: </s> open mix and add required ingredients 0
+going grocery shopping: </s> go the receptionist 0
+going grocery shopping: </s> heat the patch 0
+going grocery shopping: </s> say goodbye to family of deceased 0
+going grocery shopping: </s> remove washed clothes from washing machine 0
+going grocery shopping: </s> get ingredients out 0
+going grocery shopping: </s> put shampoo in hair 0
+going grocery shopping: </s> when subway arrived get into subway 0
+going grocery shopping: </s> sit on the barbers chair 0
+going grocery shopping: </s> wait for food 0
+going grocery shopping: </s> put water in a pot 0
+going grocery shopping: </s> add items to cart 0
+going grocery shopping: </s> look and see which way the batteries go in 0
+going grocery shopping: </s> put all dirty dishes in sink. 0
+going grocery shopping: </s> make the loosened soil tight by pressing it. 0
+going grocery shopping: </s> throw away the trash 0
+going grocery shopping: </s> wait for train 0
+going grocery shopping: </s> turn off water. 0
+going grocery shopping: </s> place charcoal into barbecue pit 0
+going grocery shopping: </s> walk to tennis court 0
+going grocery shopping: </s> grab a wash cloth 0
+going grocery shopping: </s> wait for clothes to finish drying 0
+going grocery shopping: </s> clean the bathroom 0
+going grocery shopping: </s> squeeze the trigger on the nozzle to begin pumping fuel. 0
+going grocery shopping: </s> place garment flat on board 0
+going grocery shopping: </s> give id to worker 0
+going grocery shopping: </s> find a seat. 0
+going grocery shopping: </s> turn off shower 0
+going grocery shopping: </s> decide what items you would like to buy. 0
+going grocery shopping: </s> sit at a table and eat your lunch 0
+going grocery shopping: </s> point out problem 0
+going grocery shopping: </s> fold clothes ironed 0
+going grocery shopping: </s> board train 0
+going grocery shopping: </s> get on train 0
+going grocery shopping: </s> take off gloves 0
+going grocery shopping: </s> put the tire back on the wheel 0
+going grocery shopping: </s> rinse and repeat 0
+going grocery shopping: </s> hand plate to waiter 0
+going grocery shopping: </s> get ironing board 0
+going grocery shopping: </s> travel to the theater 0
+going grocery shopping: </s> pour the pasta and water into the colander and allow to drain. 0
+going grocery shopping: </s> arrive at theater 0
+going grocery shopping: </s> present library card 0
+going grocery shopping: </s> give librarian library card 0
+going grocery shopping: </s> hand your ticket to the usher. 0
+going grocery shopping: </s> push the needle through the garment into the button 0
+going grocery shopping: </s> gather items to be ironed. 0
+going grocery shopping: </s> when clothes are dry, you're done. 0
+going grocery shopping: </s> put on comfortable shoes 0
+going grocery shopping: </s> train leaves station. 0
+going grocery shopping: </s> boil the water 0
+going grocery shopping: </s> prepare pan according to box directions 0
+going grocery shopping: </s> go to subway station 0
+going grocery shopping: </s> confirm your ticket with an employee. 0
+going grocery shopping: </s> take clothes to room 0
+going grocery shopping: </s> sort clothes by color and how they should be washed 0
+going grocery shopping: </s> get brush 0
+going grocery shopping: </s> slide credit card through card reader. 0
+going grocery shopping: </s> get passed security. 0
+going grocery shopping: </s> arrive at airport for scheduled flight 0
+going grocery shopping: </s> put in padding 0
+going grocery shopping: </s> purchase ticket online as early as possible 0
+going grocery shopping: </s> sit in chair. 0
+going grocery shopping: </s> look straight ahead and sit up straight. 0
+going grocery shopping: </s> turn water faucet on and set water temperature. 0
+going grocery shopping: </s> get a tennis racket 0
+going grocery shopping: </s> rent shoes if necessary 0
+going grocery shopping: </s> get into the bathroom 0
+going grocery shopping: </s> put colander in sink 0
+going grocery shopping: </s> drive to pump 0
+going grocery shopping: </s> remove furniture from room 0
+going grocery shopping: </s> leave theater 0
+going grocery shopping: </s> quietly listen to minister 0
+going grocery shopping: </s> get it food back 0
+going grocery shopping: </s> open the laundry bin 0
+going grocery shopping: </s> prepare food while grill preheats 0
+going grocery shopping: </s> dig a hole in the yard. 0
+going grocery shopping: </s> button is done. 0
+going grocery shopping: </s> wait for the waiter to return with the correct food items 0
+going grocery shopping: </s> let butter melt 0
+going grocery shopping: </s> find the hole using soapy water to see bubbles 0
+going grocery shopping: </s> enter train station 0
+going grocery shopping: </s> buy tickets 0
+going grocery shopping: </s> the other hits it back 0
+going grocery shopping: </s> dress formally 0
+going grocery shopping: </s> turn the water on and adjust the temperature. 0
+going grocery shopping: </s> if just flat but not popped, find air compressor 0
+going grocery shopping: </s> vacuum carpet 0
+going grocery shopping: </s> vacuum the carpet 0
+going grocery shopping: </s> eat the pizza. 0
+going grocery shopping: </s> look at schedule online 0
+going grocery shopping: </s> sit back and relax. 0
+going grocery shopping: </s> land 0
+going grocery shopping: </s> get pump 0
+going grocery shopping: </s> drive to wherever the reception is 0
+going grocery shopping: </s> unplug the drain. 0
+going grocery shopping: </s> purchase airline ticket. 0
+going grocery shopping: </s> get out your pasta 0
+going grocery shopping: </s> wait in line 0
+going grocery shopping: </s> get in car 0
+going grocery shopping: </s> turn on water in tub 0
+going grocery shopping: </s> pack id and luggage 0
+going grocery shopping: </s> stuff the new inner-tube in the tire 0
+going grocery shopping: </s> get out on to rug. 0
+going grocery shopping: </s> vacuum living room 0
+going grocery shopping: </s> wait for librarian to check out book 0
+going grocery shopping: </s> get into tub 0
+going grocery shopping: </s> stow your luggage 0
+going grocery shopping: </s> go to register and pay for haircut 0
+going grocery shopping: </s> go to the platform where the train is expected 0
+going grocery shopping: </s> wait until the water is boiling. 0
+going grocery shopping: </s> show contractor design plan 0
+going grocery shopping: </s> board train and sit or stand. 0
+going grocery shopping: </s> follow the signs to get to your gate 0
+going grocery shopping: </s> enter shower 0
+going grocery shopping: </s> pour some water in a pan 0
+going grocery shopping: </s> wait until you are called back into the office. 0
+going grocery shopping: </s> convey your grievance to the concern people and go home. 0
+going grocery shopping: </s> in your kitchen, get out a mixing bowl. 0
+going grocery shopping: </s> buy bottle of water for flight. 0
+going grocery shopping: </s> buy a ticket or pay your fare. 0
+going grocery shopping: </s> untie the hair 0
+going grocery shopping: </s> iron collar of shirt. 0
+going grocery shopping: </s> swipe card in available scanner. 0
+going grocery shopping: </s> get into the car with your friend or relative. 0
+going grocery shopping: </s> follow the rules 0
+going grocery shopping: </s> open pizza 0
+going grocery shopping: </s> pay your bus fare. 0
+going grocery shopping: </s> make sure its clean 0

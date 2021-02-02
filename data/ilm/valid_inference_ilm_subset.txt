@@ -1,0 +1,10 @@
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BLK> <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BLK> 2. remove wheel. <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BLK> 2. remove wheel. 3. from wheel pull out inner tube. <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BLK> 2. remove wheel. 3. from wheel pull out inner tube. 4. open package with new inner tube. <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BLK> 2. remove wheel. 3. from wheel pull out inner tube. 4. open package with new inner tube. 5. install new inner tube. <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BLK> 2. remove wheel. 3. from wheel pull out inner tube. 4. open package with new inner tube. 5. install new inner tube. 6. use pump to fill with air. <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BLK> 2. remove wheel. 3. from wheel pull out inner tube. 4. open package with new inner tube. 5. install new inner tube. 6. use pump to fill with air. 7. secure wheel on. <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: <BLK> 2. remove wheel. 3. from wheel pull out inner tube. 4. open package with new inner tube. 5. install new inner tube. 6. use pump to fill with air. 7. secure wheel on. 8. test ride bike. <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: 1. prop bike upside down. <BLK> <SEP> 
+<BOS> here is a sequence of events that happen while repairing a flat bicycle tire: 1. prop bike upside down. <BLK> 3. from wheel pull out inner tube. <SEP>

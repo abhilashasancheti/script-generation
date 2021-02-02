@@ -1,0 +1,5 @@
+<BOS> <SCR> baking a cake <ESCR>: 
+<BOS> <SCR> borrowing a book from the library <ESCR>: 
+<BOS> <SCR> flying in an airplane <ESCR>: 
+<BOS> <SCR> going on a train <ESCR>: 
+<BOS> <SCR> riding on a bus <ESCR>: 

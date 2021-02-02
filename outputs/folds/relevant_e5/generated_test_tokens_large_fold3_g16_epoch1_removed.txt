@@ -1,0 +1,25 @@
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. wait for your order to be called 2. drive to the restaurant 3. place your order 4. wait for your food to be delivered 5. pay the waiter 6. tip the waiter 7. eat your meal 8. drive home 
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. get a hamburger 2. place the hamburger on the table 3. eat the burger 
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. enter the fast food restaurant 2. pay for your meal 3. go to the table 4. place your order 5. have the waiter check the menu 6. get your food 7. eat 8. leave the fast food restaurant 
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. call the restaurant and order the food 2. pay for the food 3. eat 4. take the food back home 
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. enter the restaurant. 2. look at the menu. 3. make a selection. 4. eat. 5. leave the restaurant. 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. get out your credit card. 2. go to the check out counter. 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. enter credit card information 2. select card 3. print out credit card information 4. enter into credit card card terminal 5. print out credit card information 6. enter into credit card terminal 7. close credit card terminal 8. enter into payment terminal 9. enter amount of payment 10. swipe credit card 11. give card to person 12. pay person 13. pay person for purchase 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. get credit card 2. go to bank 3. open account 4. pay for a credit card with credit card 5. put money in account 6. leave with card 7. put new credit card in 8. close account 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. find a shop that accepts card. 2. get the card. 3. give the card to the clerk. 4. pay with the card. 5. receive the receipt. 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. pick up the card at the local store 2. go to the store and place the card in the machine 3. swipe the card 4. receive your receipt 
+<BOS> <SCR> playing tennis <ESCR>: 1. drive to the tennis court 2. find your place on the court 3. go to the rack 4. put your racket on the rack 5. play 
+<BOS> <SCR> playing tennis <ESCR>: 1. turn on tennis racket 2. select ball and put it into racket 3. place ball on seat 4. play with racquet 5. put ball back into racket 6. turn off racket 7. turn off computer 
+<BOS> <SCR> playing tennis <ESCR>: 1. play with friends. 2. return home. 3. grab a ball. 4. put on a tennis ball. 5. play some games. 
+<BOS> <SCR> playing tennis <ESCR>: 1. get into tennis shoes 2. put on tennis shoes 3. go outside 4. set up ball 5. play tennis 
+<BOS> <SCR> playing tennis <ESCR>: 1. get out tennis shoes 2. set up tennis racket 3. put ball in rack 4. get your rack set up 5. get your ball out 
+<BOS> <SCR> going to the theater <ESCR>: 1. find a seat 2. find a seat with an open space in front of the seat 3. go inside to find your ticket 4. go into the theater and find your seat 5. wait until your turn to seat 6. enjoy the movie 7. exit the theater 
+<BOS> <SCR> going to the theater <ESCR>: 1. go to the theater 2. enter the theater 3. go to the seat 4. sit down 5. go to the front 6. pay your ticket 7. wait for your turn 8. go to the next seat 9. sit in the seat 10. pay your money 11. leave the theater 
+<BOS> <SCR> going to the theater <ESCR>: 1. drive to the theater 2. show up at the correct theater 3. buy your ticket 4. wait to enter 5. sit in your seat 6. enjoy the show 
+<BOS> <SCR> going to the theater <ESCR>: 1. find your theater 2. enter the theater 3. wait for the movie 4. when the movie ends, go outside 
+<BOS> <SCR> going to the theater <ESCR>: 1. go to the theater 2. enter the theater 3. wait for the movie to start 4. start the movie when it starts 5. leave the theater 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. get into bed 2. close the door 3. get the alarm clock 4. close the door 5. put the alarm clock on the nightstand 6. go to the bedroom 7. put the book in the nightstand 8. get the alarm clock 9. close the door 10. get out of bed 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. enter home 2. go into bedroom 3. get into bed 4. close door 5. go to sleep 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. walk in bedroom 2. close bedroom door 3. get in bed 4. close bedroom door 5. turn on bedroom alarm 6. get in bed and relax 7. wake up in morning 8. open bedroom door 9. get out of bed and go to the bathroom 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. find a nice, clean bed to put your child in 2. turn the bed back up 3. turn the bed back up 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. dress the child 2. put the child in bed 3. lock the door 4. turn off the light 5. wait for the child to wake up 6. take the child to a different room 7. put the child back in bed 

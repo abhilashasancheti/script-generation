@@ -1,0 +1,650 @@
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> turn on the water </s> walk into the bathroom 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk into the bathroom </s> get undressed 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk into the bathroom </s> get in the shower 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk into the bathroom </s> wash all over your body 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk into the bathroom </s> wash your hair 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk into the bathroom </s> get your hair cut 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk into the bathroom </s> leave the bathroom 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> turn on the water </s> get undressed 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get in the shower </s> turn on the water 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> turn on the water </s> wash all over your body 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wash your hair </s> turn on the water 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> turn on the water </s> get your hair cut 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> turn on the water </s> leave the bathroom 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get in the shower </s> get undressed 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get undressed </s> wash all over your body 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get undressed </s> wash your hair 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get your hair cut </s> get undressed 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get undressed </s> leave the bathroom 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get in the shower </s> wash all over your body 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get in the shower </s> wash your hair 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get your hair cut </s> get in the shower 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get in the shower </s> leave the bathroom 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wash all over your body </s> wash your hair 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wash all over your body </s> get your hair cut 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wash all over your body </s> leave the bathroom 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get your hair cut </s> wash your hair 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave the bathroom </s> wash your hair 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get your hair cut </s> leave the bathroom 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to salon </s> get hair cut 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave with a towel </s> go to salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave salon </s> go to salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to salon </s> change into the proper attire 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait for time to get back </s> go to salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to salon </s> get back home 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get dressed </s> go to salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave with a towel </s> get hair cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave salon </s> get hair cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> change into the proper attire </s> get hair cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get hair cut </s> wait for time to get back 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get back home </s> get hair cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get dressed </s> get hair cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave with a towel </s> leave salon 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> change into the proper attire </s> leave with a towel 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait for time to get back </s> leave with a towel 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave with a towel </s> get back home 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get dressed </s> leave with a towel 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave salon </s> change into the proper attire 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave salon </s> wait for time to get back 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave salon </s> get back home 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> leave salon </s> get dressed 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait for time to get back </s> change into the proper attire 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> change into the proper attire </s> get back home 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get dressed </s> change into the proper attire 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get back home </s> wait for time to get back 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get dressed </s> wait for time to get back 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get dressed </s> get back home 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pick out hair product </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go home </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wash hair with shampoo </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut hair </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off hair </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> use hair products </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pick out hair product </s> go home 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pick out hair product </s> wash hair with shampoo 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pick out hair product </s> cut hair 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off hair </s> pick out hair product 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pick out hair product </s> use hair products 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go home </s> wash hair with shampoo 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go home </s> cut hair 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off hair </s> go home 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> use hair products </s> go home 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut hair </s> wash hair with shampoo 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off hair </s> wash hair with shampoo 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wash hair with shampoo </s> use hair products 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut hair </s> rinse off hair 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut hair </s> use hair products 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off hair </s> use hair products 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to the front desk </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> tell them what your needs are </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get in the car </s> wait to be called 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pay for the cut </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get in the car </s> sit in the chair and wait 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> get in the car </s> apply shampoo and conditioner 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit back and relax while the cut is being made </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off shampoo </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut off the hair and towel dry </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply other things </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wear a clean outfit </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> go to the front desk 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> tell them what your needs are 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> wait to be called 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> drive to the salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> pay for the cut 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit in the chair and wait </s> drive to the salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply shampoo and conditioner </s> drive to the salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> sit back and relax while the cut is being made 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off shampoo </s> drive to the salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> drive to the salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> cut off the hair and towel dry 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> apply other things 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> drive to the salon </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> tell them what your needs are </s> go to the front desk 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to the front desk </s> wait to be called 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to the front desk </s> when they call you go to the hair salon 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pay for the cut </s> go to the front desk 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to the front desk </s> sit in the chair and wait 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to the front desk </s> apply shampoo and conditioner 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to the front desk </s> sit back and relax while the cut is being made 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off shampoo </s> go to the front desk 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> go to the front desk 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut off the hair and towel dry </s> go to the front desk 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply other things </s> go to the front desk 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go to the front desk </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait to be called </s> tell them what your needs are 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> tell them what your needs are 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> tell them what your needs are </s> pay for the cut 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> tell them what your needs are </s> sit in the chair and wait 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> tell them what your needs are </s> apply shampoo and conditioner 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit back and relax while the cut is being made </s> tell them what your needs are 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off shampoo </s> tell them what your needs are 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> tell them what your needs are 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> tell them what your needs are </s> cut off the hair and towel dry 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> tell them what your needs are </s> apply other things 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wear a clean outfit </s> tell them what your needs are 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait to be called </s> when they call you go to the hair salon 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait to be called </s> pay for the cut 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait to be called </s> sit in the chair and wait 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply shampoo and conditioner </s> wait to be called 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait to be called </s> sit back and relax while the cut is being made 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait to be called </s> rinse off shampoo 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> wait to be called 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut off the hair and towel dry </s> wait to be called 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait to be called </s> apply other things 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait to be called </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pay for the cut </s> when they call you go to the hair salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit in the chair and wait </s> when they call you go to the hair salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> apply shampoo and conditioner 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> sit back and relax while the cut is being made 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> rinse off shampoo 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> apply conditioner and leave for about 15-20 minutes 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut off the hair and towel dry </s> when they call you go to the hair salon 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> apply other things 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> when they call you go to the hair salon </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit in the chair and wait </s> pay for the cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pay for the cut </s> apply shampoo and conditioner 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit back and relax while the cut is being made </s> pay for the cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pay for the cut </s> rinse off shampoo 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pay for the cut </s> apply conditioner and leave for about 15-20 minutes 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut off the hair and towel dry </s> pay for the cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply other things </s> pay for the cut 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pay for the cut </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit in the chair and wait </s> apply shampoo and conditioner 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit in the chair and wait </s> sit back and relax while the cut is being made 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off shampoo </s> sit in the chair and wait 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit in the chair and wait </s> apply conditioner and leave for about 15-20 minutes 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut off the hair and towel dry </s> sit in the chair and wait 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply other things </s> sit in the chair and wait 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit in the chair and wait </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit back and relax while the cut is being made </s> apply shampoo and conditioner 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply shampoo and conditioner </s> rinse off shampoo 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply shampoo and conditioner </s> apply conditioner and leave for about 15-20 minutes 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply shampoo and conditioner </s> cut off the hair and towel dry 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply shampoo and conditioner </s> apply other things 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply shampoo and conditioner </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off shampoo </s> sit back and relax while the cut is being made 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> sit back and relax while the cut is being made 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit back and relax while the cut is being made </s> cut off the hair and towel dry 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> sit back and relax while the cut is being made </s> apply other things 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wear a clean outfit </s> sit back and relax while the cut is being made 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> rinse off shampoo 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut off the hair and towel dry </s> rinse off shampoo 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply other things </s> rinse off shampoo 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> rinse off shampoo </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> cut off the hair and towel dry 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply other things </s> apply conditioner and leave for about 15-20 minutes 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply conditioner and leave for about 15-20 minutes </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> apply other things </s> cut off the hair and towel dry 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> cut off the hair and towel dry </s> wear a clean outfit 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wear a clean outfit </s> apply other things 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> put on clean clothes. </s> walk to the salon. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go inside. </s> put on clean clothes. 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait in line. </s> put on clean clothes. 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> put on clean clothes. </s> pay the bill. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk out to the waiting room. </s> put on clean clothes. 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> put on clean clothes. </s> go get your hair cut. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk to the salon. </s> go inside. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait in line. </s> walk to the salon. 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk to the salon. </s> pay the bill. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk to the salon. </s> walk out to the waiting room. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk to the salon. </s> go get your hair cut. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go inside. </s> wait in line. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go inside. </s> pay the bill. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk out to the waiting room. </s> go inside. 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go inside. </s> go get your hair cut. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait in line. </s> pay the bill. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait in line. </s> walk out to the waiting room. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> wait in line. </s> go get your hair cut. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> pay the bill. </s> walk out to the waiting room. 1
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> go get your hair cut. </s> pay the bill. 0
+<BOS> here is an ordered sequence of events that occur when you get a hair cut: </s> walk out to the waiting room. </s> go get your hair cut. 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> purchase the items needed </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> go back to the store </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up the items </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> return them to the shop </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> go to the store </s> buy the items in store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> leave the store </s> go to the store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> go back to the store </s> purchase the items needed 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> purchase the items needed </s> pick up the items 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> purchase the items needed </s> return them to the shop 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> purchase the items needed </s> buy the items in store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> leave the store </s> purchase the items needed 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> go back to the store </s> pick up the items 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> go back to the store </s> return them to the shop 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> buy the items in store </s> go back to the store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> go back to the store </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up the items </s> return them to the shop 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up the items </s> buy the items in store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up the items </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> buy the items in store </s> return them to the shop 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> return them to the shop </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> buy the items in store </s> leave the store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pull up to store </s> choose groceries 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> choose groceries </s> pick up groceries 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to checkout </s> choose groceries 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> choose groceries </s> pay for groceries 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to register </s> choose groceries 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> give receipt </s> choose groceries 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> leave store </s> choose groceries 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up groceries </s> pull up to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pull up to store </s> walk to checkout 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for groceries </s> pull up to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pull up to store </s> walk to register 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> give receipt </s> pull up to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> leave store </s> pull up to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to checkout </s> pick up groceries 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up groceries </s> pay for groceries 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to register </s> pick up groceries 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up groceries </s> give receipt 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up groceries </s> leave store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to checkout </s> pay for groceries 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to checkout </s> walk to register 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to checkout </s> give receipt 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to checkout </s> leave store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for groceries </s> walk to register 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for groceries </s> give receipt 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for groceries </s> leave store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> give receipt </s> walk to register 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> leave store </s> walk to register 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> leave store </s> give receipt 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> pick items 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> purchase items </s> pick items 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick items </s> walk out of store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick items </s> go home 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> purchase items 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> walk out of store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> go home 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> purchase items </s> walk out of store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> purchase items </s> go home 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> go home </s> walk out of store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> look for items to purchase </s> drive to grocery store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to store </s> drive to grocery store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> buy items from store </s> drive to grocery store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to grocery store </s> walk inside 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to grocery store </s> pay for purchases 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to grocery store </s> enter into the store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> get items from store </s> drive to grocery store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to grocery store </s> drive home 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> look for items to purchase </s> drive to store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> look for items to purchase </s> buy items from store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk inside </s> look for items to purchase 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> look for items to purchase </s> pay for purchases 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> enter into the store </s> look for items to purchase 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> get items from store </s> look for items to purchase 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive home </s> look for items to purchase 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> buy items from store </s> drive to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to store </s> walk inside 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for purchases </s> drive to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> enter into the store </s> drive to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to store </s> get items from store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to store </s> drive home 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk inside </s> buy items from store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> buy items from store </s> pay for purchases 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> enter into the store </s> buy items from store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> get items from store </s> buy items from store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive home </s> buy items from store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for purchases </s> walk inside 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk inside </s> enter into the store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> get items from store </s> walk inside 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk inside </s> drive home 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for purchases </s> enter into the store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for purchases </s> get items from store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for purchases </s> drive home 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> get items from store </s> enter into the store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> enter into the store </s> drive home 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive home </s> get items from store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to store </s> walk to counter 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to store </s> pay for items 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> take item </s> drive to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> drive to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up items </s> drive to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> drive to store </s> exit store 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to counter </s> pay for items 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> take item </s> walk to counter 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> walk to counter 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up items </s> walk to counter 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> exit store </s> walk to counter 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pay for items </s> take item 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> pay for items 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> pick up items </s> pay for items 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> exit store </s> pay for items 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> take item 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> take item </s> pick up items 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> exit store </s> take item 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> walk to store </s> pick up items 1
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> exit store </s> walk to store 0
+<BOS> here is an ordered sequence of events that occur when you go grocery shopping: </s> exit store </s> pick up items 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> get a large box </s> take the tree out of its box 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> start the tree </s> get a large box 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> get a large box </s> put a small amount of soil in the soil 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> get a large box </s> cut the branches 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put the tree in the soil </s> get a large box 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> take the tree out of its box </s> start the tree 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> take the tree out of its box </s> put a small amount of soil in the soil 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> take the tree out of its box </s> cut the branches 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> take the tree out of its box </s> put the tree in the soil 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> start the tree </s> put a small amount of soil in the soil 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> start the tree </s> cut the branches 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> start the tree </s> put the tree in the soil 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put a small amount of soil in the soil </s> cut the branches 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put the tree in the soil </s> put a small amount of soil in the soil 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put the tree in the soil </s> cut the branches 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> buy a tree </s> put some soil in a pot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some trees in that pot </s> buy a tree 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> buy a tree </s> make sure they all have roots 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> buy a tree </s> put some fertilizer in that pot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some rocks in the ground </s> buy a tree 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some soil in a pot </s> put some trees in that pot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some soil in a pot </s> make sure they all have roots 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some soil in a pot </s> put some fertilizer in that pot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some soil in a pot </s> put some rocks in the ground 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> make sure they all have roots </s> put some trees in that pot 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some trees in that pot </s> put some fertilizer in that pot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some trees in that pot </s> put some rocks in the ground 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> make sure they all have roots </s> put some fertilizer in that pot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some rocks in the ground </s> make sure they all have roots 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put some fertilizer in that pot </s> put some rocks in the ground 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> bring the tree to the store. </s> buy the tree. 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put the tree back in the tree bag. </s> buy the tree. 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> buy the tree. </s> go home. 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> bring the tree to the store. </s> put the tree back in the tree bag. 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> go home. </s> bring the tree to the store. 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> put the tree back in the tree bag. </s> go home. 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole in the ground </s> find the trees that can grow in the area where you want to plant 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> build a tree </s> find the trees that can grow in the area where you want to plant 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> find the trees that can grow in the area where you want to plant </s> cut off the top of the tree 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> find the trees that can grow in the area where you want to plant </s> set it in a spot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole </s> find the trees that can grow in the area where you want to plant 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place the tree in the hole </s> find the trees that can grow in the area where you want to plant 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> build a tree </s> dig a hole in the ground 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> cut off the top of the tree </s> dig a hole in the ground 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole in the ground </s> set it in a spot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole in the ground </s> dig a hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole in the ground </s> place the tree in the hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> build a tree </s> cut off the top of the tree 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> build a tree </s> set it in a spot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole </s> build a tree 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> build a tree </s> place the tree in the hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> cut off the top of the tree </s> set it in a spot 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> cut off the top of the tree </s> dig a hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> cut off the top of the tree </s> place the tree in the hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> set it in a spot </s> dig a hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place the tree in the hole </s> set it in a spot 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place the tree in the hole </s> dig a hole 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole </s> find a tree 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> find a tree </s> build a platform with stones 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place the wood in the hole </s> find a tree 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place some kindling in the hole </s> find a tree 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> find a tree </s> place some leaves in the hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole </s> build a platform with stones 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> dig a hole </s> place the wood in the hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place some kindling in the hole </s> dig a hole 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place some leaves in the hole </s> dig a hole 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> build a platform with stones </s> place the wood in the hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> build a platform with stones </s> place some kindling in the hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place some leaves in the hole </s> build a platform with stones 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place some kindling in the hole </s> place the wood in the hole 0
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place the wood in the hole </s> place some leaves in the hole 1
+<BOS> here is an ordered sequence of events that occur when you plant a tree: </s> place some kindling in the hole </s> place some leaves in the hole 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> take out old tire </s> turn on flat tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> turn on flat tire </s> get new tire 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put new tire into flat </s> turn on flat tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> replace old tire with new tire </s> turn on flat tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> get new tire </s> take out old tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put new tire into flat </s> take out old tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> take out old tire </s> replace old tire with new tire 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> get new tire </s> put new tire into flat 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> replace old tire with new tire </s> get new tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> replace old tire with new tire </s> put new tire into flat 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put a new tire on the old one </s> get some replacement tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put the new tire on the old one </s> get some replacement tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> start the car </s> get some replacement tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> get some replacement tire </s> drive the car to the garage 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put a new tire on the old one </s> put the new tire on the old one 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put a new tire on the old one </s> start the car 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put a new tire on the old one </s> drive the car to the garage 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> start the car </s> put the new tire on the old one 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> drive the car to the garage </s> put the new tire on the old one 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> drive the car to the garage </s> start the car 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> pull out new tire from bicycle. </s> remove old tire from bicycle. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> replace old tire. </s> remove old tire from bicycle. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> remove old tire from bicycle. </s> put new tire on bicycle. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> wait for new tire to dry. </s> remove old tire from bicycle. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> remove old tire from bicycle. </s> put new tire on. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> remove old tire from bicycle. </s> repeat if needed. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> pull out new tire from bicycle. </s> replace old tire. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> pull out new tire from bicycle. </s> put new tire on bicycle. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> wait for new tire to dry. </s> pull out new tire from bicycle. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> pull out new tire from bicycle. </s> put new tire on. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> pull out new tire from bicycle. </s> repeat if needed. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> replace old tire. </s> put new tire on bicycle. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> wait for new tire to dry. </s> replace old tire. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put new tire on. </s> replace old tire. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> repeat if needed. </s> replace old tire. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put new tire on bicycle. </s> wait for new tire to dry. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put new tire on bicycle. </s> put new tire on. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> repeat if needed. </s> put new tire on bicycle. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> wait for new tire to dry. </s> put new tire on. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> repeat if needed. </s> wait for new tire to dry. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> repeat if needed. </s> put new tire on. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> find flat tire </s> remove old tire 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> find flat tire </s> replace with new tire 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> find flat tire </s> put in correct tire 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> find flat tire </s> tighten screws with a socket or wrench 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put back in correct place </s> find flat tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> replace with new tire </s> remove old tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put in correct tire </s> remove old tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> tighten screws with a socket or wrench </s> remove old tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put back in correct place </s> remove old tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> replace with new tire </s> put in correct tire 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> tighten screws with a socket or wrench </s> replace with new tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put back in correct place </s> replace with new tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> tighten screws with a socket or wrench </s> put in correct tire 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put in correct tire </s> put back in correct place 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> tighten screws with a socket or wrench </s> put back in correct place 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put out the tire. </s> fix it. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> put out the tire. </s> take it back. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> replace. </s> put out the tire. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> take it back. </s> fix it. 0
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> fix it. </s> replace. 1
+<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: </s> take it back. </s> replace. 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on towel </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take off clothes </s> take a bath 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take off clothes </s> wash off shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take off clothes </s> rinse shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take off clothes </s> dry shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse soap </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry soap </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take off clothes </s> put soap in clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take off clothes </s> put on body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wear clothes </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take a bath </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash off shampoo </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on towel </s> rinse shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry shampoo </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse soap </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry soap </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in clothes </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on body </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wear clothes </s> put on towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> take a bath 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> wash off shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> rinse shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> dry shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> sit in tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> rinse soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> dry soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in clothes </s> sit in tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on body </s> sit in tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> sit in tub </s> wear clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take a bath </s> wash off shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse shampoo </s> take a bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take a bath </s> dry shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> take a bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse soap </s> take a bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry soap </s> take a bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in clothes </s> take a bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take a bath </s> put on body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wear clothes </s> take a bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse shampoo </s> wash off shampoo 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash off shampoo </s> dry shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> wash off shampoo 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash off shampoo </s> rinse soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash off shampoo </s> dry soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash off shampoo </s> put soap in clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on body </s> wash off shampoo 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash off shampoo </s> wear clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse shampoo </s> dry shampoo 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> rinse shampoo 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse shampoo </s> rinse soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse shampoo </s> dry soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse shampoo </s> put soap in clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse shampoo </s> put on body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse shampoo </s> wear clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> dry shampoo 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry shampoo </s> rinse soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry shampoo </s> dry soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in clothes </s> dry shampoo 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on body </s> dry shampoo 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wear clothes </s> dry shampoo 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> rinse soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry soap </s> use soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> put soap in clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> use soap </s> put on body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wear clothes </s> use soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry soap </s> rinse soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse soap </s> put soap in clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on body </s> rinse soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse soap </s> wear clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in clothes </s> dry soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on body </s> dry soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wear clothes </s> dry soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in clothes </s> put on body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wear clothes </s> put soap in clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on body </s> wear clothes 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> grab towel </s> step out of shower 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> grab towel </s> get undressed 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> grab towel </s> get into the bathtub 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash body and hair </s> grab towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> grab towel </s> rub body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> grab towel </s> wash hair and body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> scrub and rinse </s> grab towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> grab towel </s> dry off with towel 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put clothes on </s> grab towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of shower </s> get undressed 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into the bathtub </s> step out of shower 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of shower </s> wash body and hair 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rub body </s> step out of shower 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of shower </s> wash hair and body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of shower </s> scrub and rinse 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off with towel </s> step out of shower 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put clothes on </s> step out of shower 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into the bathtub </s> get undressed 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash body and hair </s> get undressed 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get undressed </s> rub body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get undressed </s> wash hair and body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> scrub and rinse </s> get undressed 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get undressed </s> dry off with towel 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put clothes on </s> get undressed 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash body and hair </s> get into the bathtub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into the bathtub </s> rub body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into the bathtub </s> wash hair and body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into the bathtub </s> scrub and rinse 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into the bathtub </s> dry off with towel 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into the bathtub </s> put clothes on 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash body and hair </s> rub body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash body and hair </s> wash hair and body 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> scrub and rinse </s> wash body and hair 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off with towel </s> wash body and hair 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put clothes on </s> wash body and hair 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash hair and body </s> rub body 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> scrub and rinse </s> rub body 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rub body </s> dry off with towel 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put clothes on </s> rub body 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> scrub and rinse </s> wash hair and body 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off with towel </s> wash hair and body 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put clothes on </s> wash hair and body 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off with towel </s> scrub and rinse 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put clothes on </s> scrub and rinse 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put clothes on </s> dry off with towel 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> enter bathroom </s> remove clothing 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> enter bathroom </s> turn on water 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wait for water to warm </s> enter bathroom 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> enter bathroom </s> enter water 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> remove clothing </s> turn on water 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> remove clothing </s> wait for water to warm 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> remove clothing </s> enter water 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wait for water to warm </s> turn on water 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> turn on water </s> enter water 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wait for water to warm </s> enter water 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take off clothes </s> open tub 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step into tub </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take bath </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse off </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in sponge </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> soak sponge in soap </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of bath </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> take off clothes 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> open tub </s> step into tub 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> open tub </s> take bath 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> open tub </s> rinse off 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in sponge </s> open tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> soak sponge in soap </s> open tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of bath </s> open tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> open tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take bath </s> step into tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step into tub </s> rinse off 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step into tub </s> put soap in sponge 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> soak sponge in soap </s> step into tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of bath </s> step into tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> step into tub 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse off </s> take bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take bath </s> put soap in sponge 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> soak sponge in soap </s> take bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of bath </s> take bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> take bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in sponge </s> rinse off 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> rinse off </s> soak sponge in soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of bath </s> rinse off 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> rinse off 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in sponge </s> soak sponge in soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in sponge </s> step out of bath 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put soap in sponge </s> dry off 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of bath </s> soak sponge in soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> soak sponge in soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> step out of bath </s> dry off 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dress in swimsuit </s> go to the bathroom 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dress in swimsuit </s> wash and dry body with soap 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dress in swimsuit </s> put on bathing suit 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dress in swimsuit </s> get into bathroom 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dress in swimsuit </s> take a bath 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get out of shower </s> dress in swimsuit 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> dress in swimsuit 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash and dry body with soap </s> go to the bathroom 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> go to the bathroom </s> put on bathing suit 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> go to the bathroom </s> get into bathroom 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> go to the bathroom </s> take a bath 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> go to the bathroom </s> get out of shower 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> go to the bathroom </s> dry off 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash and dry body with soap </s> put on bathing suit 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into bathroom </s> wash and dry body with soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take a bath </s> wash and dry body with soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> wash and dry body with soap </s> get out of shower 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> wash and dry body with soap 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on bathing suit </s> get into bathroom 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take a bath </s> put on bathing suit 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on bathing suit </s> get out of shower 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> put on bathing suit </s> dry off 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take a bath </s> get into bathroom 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get out of shower </s> get into bathroom 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> get into bathroom </s> dry off 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> take a bath </s> get out of shower 1
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> take a bath 0
+<BOS> here is an ordered sequence of events that occur when you take a bath: </s> dry off </s> get out of shower 0

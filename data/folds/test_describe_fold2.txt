@@ -1,0 +1,5 @@
+<BOS> describe getting a hair cut in small sequences of short sentences: 
+<BOS> describe going grocery shopping in small sequences of short sentences: 
+<BOS> describe planting a tree in small sequences of short sentences: 
+<BOS> describe repairing a flat bicycle tire in small sequences of short sentences: 
+<BOS> describe taking a bath in small sequences of short sentences: 

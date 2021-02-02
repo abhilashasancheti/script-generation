@@ -1,0 +1,178 @@
+having a barbecue: </s> get a smoker </s> get a grill 1
+having a barbecue: </s> get a smoker </s> put a big pile of coals in the center of the grill 1
+having a barbecue: </s> put some coals in the front of the grill </s> get a smoker 0
+having a barbecue: </s> turn on the grill </s> get a smoker 0
+having a barbecue: </s> get a smoker </s> turn off the grills 1
+having a barbecue: </s> put the grill away </s> get a smoker 0
+having a barbecue: </s> get a grill </s> put a big pile of coals in the center of the grill 1
+having a barbecue: </s> get a grill </s> put some coals in the front of the grill 1
+having a barbecue: </s> get a grill </s> turn on the grill 1
+having a barbecue: </s> get a grill </s> turn off the grills 1
+having a barbecue: </s> get a grill </s> put the grill away 1
+having a barbecue: </s> put a big pile of coals in the center of the grill </s> put some coals in the front of the grill 1
+having a barbecue: </s> turn on the grill </s> put a big pile of coals in the center of the grill 0
+having a barbecue: </s> turn off the grills </s> put a big pile of coals in the center of the grill 0
+having a barbecue: </s> put a big pile of coals in the center of the grill </s> put the grill away 1
+having a barbecue: </s> put some coals in the front of the grill </s> turn on the grill 1
+having a barbecue: </s> turn off the grills </s> put some coals in the front of the grill 0
+having a barbecue: </s> put the grill away </s> put some coals in the front of the grill 0
+having a barbecue: </s> turn on the grill </s> turn off the grills 1
+having a barbecue: </s> turn on the grill </s> put the grill away 1
+having a barbecue: </s> put the grill away </s> turn off the grills 0
+having a barbecue: </s> decide on a location for the barbecue </s> get some supplies for the BBQ 1
+having a barbecue: </s> gather supplies for the barbecue </s> decide on a location for the barbecue 0
+having a barbecue: </s> get some supplies for the BBQ </s> gather supplies for the barbecue 1
+having a barbecue: </s> close the pit </s> get a nice big pit 0
+having a barbecue: </s> get a nice big pit </s> let it burn 1
+having a barbecue: </s> close the pit </s> let it burn 1
+ordering a pizza: </s> choose toppings </s> choose cheese 1
+ordering a pizza: </s> wait for pizza </s> choose toppings 0
+ordering a pizza: </s> choose toppings </s> pick toppings 1
+ordering a pizza: </s> eat </s> choose toppings 0
+ordering a pizza: </s> wait for pizza </s> choose cheese 0
+ordering a pizza: </s> pick toppings </s> choose cheese 0
+ordering a pizza: </s> eat </s> choose cheese 0
+ordering a pizza: </s> wait for pizza </s> pick toppings 1
+ordering a pizza: </s> wait for pizza </s> eat 1
+ordering a pizza: </s> pick toppings </s> eat 1
+ordering a pizza: </s> have a pizza </s> call pizza place 0
+ordering a pizza: </s> call pizza place </s> order 1
+ordering a pizza: </s> have pizza delivered </s> call pizza place 0
+ordering a pizza: </s> enjoy pizza </s> call pizza place 0
+ordering a pizza: </s> order </s> have a pizza 0
+ordering a pizza: </s> have a pizza </s> have pizza delivered 1
+ordering a pizza: </s> enjoy pizza </s> have a pizza 0
+ordering a pizza: </s> order </s> have pizza delivered 1
+ordering a pizza: </s> order </s> enjoy pizza 1
+ordering a pizza: </s> have pizza delivered </s> enjoy pizza 1
+ordering a pizza: </s> order it </s> pick a pizza 0
+ordering a pizza: </s> pick a pizza </s> wait for pizza to arrive 1
+ordering a pizza: </s> get the toppings </s> pick a pizza 0
+ordering a pizza: </s> eat </s> pick a pizza 0
+ordering a pizza: </s> wait for pizza to arrive </s> order it 0
+ordering a pizza: </s> get the toppings </s> order it 0
+ordering a pizza: </s> order it </s> eat 1
+ordering a pizza: </s> wait for pizza to arrive </s> get the toppings 1
+ordering a pizza: </s> wait for pizza to arrive </s> eat 1
+ordering a pizza: </s> get the toppings </s> eat 1
+cleaning up a flat: </s> use a rag to clean up the items </s> turn on the water 0
+cleaning up a flat: </s> turn off the water </s> open all the drain 0
+cleaning up a flat: </s> close the drain </s> open all the drain 0
+cleaning up a flat: </s> close the drain </s> turn off the water 0
+cleaning up a flat: </s> take things off of the floor </s> turn on the water 1
+cleaning up a flat: </s> take things off of the floor </s> scrub up everything 1
+cleaning up a flat: </s> put on a clean towel </s> take things off of the floor 0
+cleaning up a flat: </s> dry with a dryer sheet </s> take things off of the floor 0
+cleaning up a flat: </s> put things away </s> take things off of the floor 0
+cleaning up a flat: </s> scrub up everything </s> turn on the water 0
+cleaning up a flat: </s> turn on the water </s> put on a clean towel 1
+cleaning up a flat: </s> dry with a dryer sheet </s> turn on the water 0
+cleaning up a flat: </s> turn on the water </s> put things away 1
+cleaning up a flat: </s> scrub up everything </s> put on a clean towel 1
+cleaning up a flat: </s> dry with a dryer sheet </s> scrub up everything 0
+cleaning up a flat: </s> put things away </s> scrub up everything 0
+cleaning up a flat: </s> put on a clean towel </s> dry with a dryer sheet 1
+cleaning up a flat: </s> put on a clean towel </s> put things away 1
+cleaning up a flat: </s> put things away </s> dry with a dryer sheet 0
+making scrambled eggs: </s> turn on the stove </s> get an egg 1
+making scrambled eggs: </s> add a pinch of salt </s> turn on the stove 0
+making scrambled eggs: </s> mix the eggs </s> turn on the stove 0
+making scrambled eggs: </s> turn on the stove </s> add a pinch of oil 1
+making scrambled eggs: </s> turn on the stove </s> put the lid on the stove 1
+making scrambled eggs: </s> turn the stove on </s> turn on the stove 0
+making scrambled eggs: </s> wait for the timer </s> turn on the stove 0
+making scrambled eggs: </s> turn on the stove </s> cut the eggs 1
+making scrambled eggs: </s> turn on the stove </s> put the scrambled eggs in a bowl 1
+making scrambled eggs: </s> get an egg </s> add a pinch of salt 1
+making scrambled eggs: </s> get an egg </s> mix the eggs 1
+making scrambled eggs: </s> add a pinch of oil </s> get an egg 0
+making scrambled eggs: </s> put the lid on the stove </s> get an egg 0
+making scrambled eggs: </s> turn the stove on </s> get an egg 0
+making scrambled eggs: </s> get an egg </s> wait for the timer 1
+making scrambled eggs: </s> get an egg </s> cut the eggs 1
+making scrambled eggs: </s> put the scrambled eggs in a bowl </s> get an egg 0
+making scrambled eggs: </s> add a pinch of salt </s> mix the eggs 1
+making scrambled eggs: </s> add a pinch of salt </s> add a pinch of oil 1
+making scrambled eggs: </s> add a pinch of salt </s> put the lid on the stove 1
+making scrambled eggs: </s> add a pinch of salt </s> turn the stove on 1
+making scrambled eggs: </s> add a pinch of salt </s> wait for the timer 1
+making scrambled eggs: </s> add a pinch of salt </s> cut the eggs 1
+making scrambled eggs: </s> put the scrambled eggs in a bowl </s> add a pinch of salt 0
+making scrambled eggs: </s> add a pinch of oil </s> mix the eggs 0
+making scrambled eggs: </s> put the lid on the stove </s> mix the eggs 0
+making scrambled eggs: </s> turn the stove on </s> mix the eggs 0
+making scrambled eggs: </s> mix the eggs </s> wait for the timer 1
+making scrambled eggs: </s> cut the eggs </s> mix the eggs 0
+making scrambled eggs: </s> put the scrambled eggs in a bowl </s> mix the eggs 0
+making scrambled eggs: </s> put the lid on the stove </s> add a pinch of oil 0
+making scrambled eggs: </s> turn the stove on </s> add a pinch of oil 0
+making scrambled eggs: </s> add a pinch of oil </s> wait for the timer 1
+making scrambled eggs: </s> add a pinch of oil </s> cut the eggs 1
+making scrambled eggs: </s> put the scrambled eggs in a bowl </s> add a pinch of oil 0
+making scrambled eggs: </s> turn the stove on </s> put the lid on the stove 0
+making scrambled eggs: </s> put the lid on the stove </s> wait for the timer 1
+making scrambled eggs: </s> put the lid on the stove </s> cut the eggs 1
+making scrambled eggs: </s> put the scrambled eggs in a bowl </s> put the lid on the stove 0
+making scrambled eggs: </s> turn the stove on </s> wait for the timer 1
+making scrambled eggs: </s> turn the stove on </s> cut the eggs 1
+making scrambled eggs: </s> put the scrambled eggs in a bowl </s> turn the stove on 0
+making scrambled eggs: </s> wait for the timer </s> cut the eggs 1
+making scrambled eggs: </s> put the scrambled eggs in a bowl </s> wait for the timer 0
+making scrambled eggs: </s> put the scrambled eggs in a bowl </s> cut the eggs 0
+making scrambled eggs: </s> get eggs </s> add water 1
+making scrambled eggs: </s> get eggs </s> get pan 1
+making scrambled eggs: </s> get eggs </s> add eggs 1
+making scrambled eggs: </s> add water </s> get pan 1
+making scrambled eggs: </s> add water </s> add eggs 1
+making scrambled eggs: </s> get pan </s> add eggs 1
+making scrambled eggs: </s> boil water </s> gather eggs 0
+making scrambled eggs: </s> gather eggs </s> add eggs to boiling water 1
+making scrambled eggs: </s> wait for eggs to boil </s> gather eggs 0
+making scrambled eggs: </s> gather eggs </s> stir 1
+making scrambled eggs: </s> boil water </s> add eggs to boiling water 1
+making scrambled eggs: </s> boil water </s> wait for eggs to boil 1
+making scrambled eggs: </s> boil water </s> stir 1
+making scrambled eggs: </s> add eggs to boiling water </s> wait for eggs to boil 1
+making scrambled eggs: </s> stir </s> add eggs to boiling water 0
+making scrambled eggs: </s> stir </s> wait for eggs to boil 0
+making scrambled eggs: </s> get eggs out of fridge </s> find eggs 0
+making scrambled eggs: </s> find eggs </s> put eggs into pan 1
+making scrambled eggs: </s> find eggs </s> add noodles 1
+making scrambled eggs: </s> get eggs out of fridge </s> put eggs into pan 1
+making scrambled eggs: </s> add noodles </s> get eggs out of fridge 0
+making scrambled eggs: </s> add noodles </s> put eggs into pan 0
+making scrambled eggs: </s> get eggs </s> get eggs in egg carton 1
+making scrambled eggs: </s> get eggs in cupboard </s> get eggs 0
+making scrambled eggs: </s> get eggs </s> put in pan 1
+making scrambled eggs: </s> get eggs </s> wait for eggs to cook 1
+making scrambled eggs: </s> place eggs in paper towels </s> get eggs 0
+making scrambled eggs: </s> drain the eggs </s> get eggs 0
+making scrambled eggs: </s> get eggs in cupboard </s> get eggs in egg carton 0
+making scrambled eggs: </s> put in pan </s> get eggs in egg carton 0
+making scrambled eggs: </s> get eggs in egg carton </s> wait for eggs to cook 1
+making scrambled eggs: </s> get eggs in egg carton </s> place eggs in paper towels 1
+making scrambled eggs: </s> drain the eggs </s> get eggs in egg carton 0
+making scrambled eggs: </s> put in pan </s> get eggs in cupboard 0
+making scrambled eggs: </s> wait for eggs to cook </s> get eggs in cupboard 0
+making scrambled eggs: </s> place eggs in paper towels </s> get eggs in cupboard 0
+making scrambled eggs: </s> get eggs in cupboard </s> drain the eggs 1
+making scrambled eggs: </s> put in pan </s> wait for eggs to cook 1
+making scrambled eggs: </s> put in pan </s> place eggs in paper towels 1
+making scrambled eggs: </s> put in pan </s> drain the eggs 1
+making scrambled eggs: </s> wait for eggs to cook </s> place eggs in paper towels 1
+making scrambled eggs: </s> wait for eggs to cook </s> drain the eggs 1
+making scrambled eggs: </s> place eggs in paper towels </s> drain the eggs 1
+taking the underground: </s> go to the bottom </s> enter the underground 0
+taking the underground: </s> enter the underground </s> enter the tunnel 1
+taking the underground: </s> open the door </s> enter the underground 0
+taking the underground: </s> leave the underground </s> enter the underground 0
+taking the underground: </s> enter the tunnel </s> go to the bottom 0
+taking the underground: </s> go to the bottom </s> open the door 1
+taking the underground: </s> go to the bottom </s> leave the underground 1
+taking the underground: </s> enter the tunnel </s> open the door 1
+taking the underground: </s> enter the tunnel </s> leave the underground 1
+taking the underground: </s> leave the underground </s> open the door 0
+taking the underground: </s> drive to underground park </s> walk to the right entrance 1
+taking the underground: </s> walk through the door </s> climb the stairs 0
+taking the underground: </s> climb the stairs </s> enter the tunnel 1
+taking the underground: </s> walk through the door </s> enter the tunnel 1

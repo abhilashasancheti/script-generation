@@ -1,0 +1,5 @@
+<BOS> describe renovating a room in small sequences of short sentences: 
+<BOS> describe cooking pasta in small sequences of short sentences: 
+<BOS> describe sewing a button in small sequences of short sentences: 
+<BOS> describe doing laundry in small sequences of short sentences: 
+<BOS> describe going bowling in small sequences of short sentences: 

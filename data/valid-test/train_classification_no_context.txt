@@ -1,0 +1,2930 @@
+separate laundry into different types </s> gather dirty laundry 0
+throw tennis ball high into the air </s> go to a tennis court at a park or other location 0
+check bags with attendant. </s> go sit down. 1
+remove from stove </s> use spatula to break up eggs 0
+check in at register </s> pay at register 1
+take out racket and balls </s> pick up friend 0
+make appointment </s> follow instructions from hygienist and dentist 1
+drive home </s> flouride treatment 0
+take ticket to check point </s> go to bag drop off 0
+slide ticket through machine and enter station. </s> board train and sit or stand. 1
+listen and learn from the instructor's evaluations of your driving. </s> get into driver's side of the car you will be using. 0
+keep the chicken pieces on grill </s> start eating 1
+rinse body </s> turn on shower 0
+kiss them goodnight </s> tuck child in sheets 0
+fill your car until the pump stops automatically </s> return the hose and drive away 1
+fill water to the half </s> store the washed dishes in a dry bowl 1
+mop kitchen floor </s> wipe off kitchen counters 0
+wait in the reception area until a technician calls you back. </s> once at the office, sign in with the receptionist. 0
+receive receipt </s> choose items you want to purchase 0
+cook meat </s> invite friends 0
+get out sewing kit </s> starting on inside of garment, push through with needle. 1
+get a tennis ball </s> get a racket 0
+measure coffee and place it in filter </s> fill brewer with water 1
+as the ball descends, he or she strikes the ball with a tennis racket </s> the serving player stands behind the back line right of the center line. 0
+grab a racket. </s> throw ball in air. 1
+sit through the church service </s> leave church to where the reception is held 1
+at the end of lesson, stop car </s> follow directions of instructor 0
+helping them change into pjs </s> leave the room 1
+turn off iron </s> adjust iron temperature 0
+glance at menu before stepping in line </s> stack the tray 1
+when dishes are dry put them away </s> gather all dishes 0
+make plans </s> carry out plans 1
+enter the sauna </s> sit on one of the benches and inhale the moist air 1
+underground is meant for hiding. </s> nowadays ready made underground also available which comes with some important things. 1
+grab some napkins and ketchup, if desired. </s> take your food tray from the counter and take a seat. 1
+pay instructor fee. </s> park car. 1
+go to the deceased house one hour before funeral time </s> when funeral is finished, convey condolences to the relatives of deceased 1
+get batteries </s> put the new ones in 1
+get frying pan out. </s> heat pan. 1
+go to the dentist office </s> schedule an appointment 0
+dry hair. </s> rinse shampoo. 0
+exit theater after movie is over </s> enter your specific theater 0
+wait for car to stop </s> ride until you reach destination 1
+carry to washing machine </s> empty dryer 1
+get a piece of clothing. </s> take button. 0
+wear swimming attire </s> dive or climb into the pool 1
+drive to the dentist </s> go with dentist 1
+get in the shower </s> put shampoo on your head 1
+give cashier your credit card </s> leave store 1
+select appropriate wash cycle for type of clothing. </s> put in dryer sheet with clothes. 1
+meet bowling partner at bowling alley. </s> return ball to where you got it. 1
+gather wood. </s> throw match into wood. 1
+enter dentist office </s> pay for your appointment 1
+go to counter </s> order food 1
+find seating </s> tell the waiter you don't want this food 1
+keep nozzle in tank with lever held down until you reach your desired level of fuel </s> pay inside gas station or at the pump using a credit card 1
+wash face </s> gather towel and toiletries 0
+pull old carpet out </s> paint room 0
+find ball that's the correct size. </s> pay for game and shoes. 0
+remove or cover the furniture and carpets if re-painting. </s> workers come in and do renovations according to your wants. 1
+create a budget for your renovation project </s> start the process of shopping for things you need 1
+fill sink with water </s> dry off finished dishes 1
+walk to shoe rental counter </s> take off shoes 1
+find something wrong with it </s> tell him what is wrong with your food 1
+put the new batteries in </s> discard of them 0
+turn the stove on </s> boil a pan of water 1
+if ball is returned back in play, return a volley. </s> keep score if ball drops on the ground or goes out of play. 1
+pour coffee into a cup </s> add cream and sugar. 1
+put shampoo on hair </s> work conditioner throughout hair 1
+listen to priest. </s> sit down 0
+run to hit the ball </s> hit the ball to your partner 0
+cashier rings up items </s> give the receipt to cashier 1
+replace towel. </s> put on towel. 0
+enjoy! </s> open box of pasta 0
+get the attention of the server. </s> tell the server how you would like them to take care of it. 1
+choose a bowling ball to play with. </s> rent bowling shoes that are your size. 0
+find the phone number for the pizza place </s> eat 1
+put down alarm clock </s> put new batteries in alarm clock 0
+stir eggs periodically to avoid burning. </s> whisk eggs and milk together. 0
+turn on barbecue </s> greet guests as they arrive 1
+watch opponent miss ball. </s> find a person to play with. 0
+put frying pan on stove </s> use spatula to flip and cut apart eggs as they cook 1
+walk to lane. </s> take turns with bowling teammates until end of game. 1
+pick up ball </s> take off shoes 1
+enter and walk down the steps </s> walk up the stairs 1
+deal with child's unhappiness </s> tuck the child in 1
+say prayers </s> say goodbye 1
+walk to the swimming pool. </s> buy a soda and drink it. 1
+figure out what's wrong with it </s> put the things in the room 1
+rinse dishes </s> dry dishes 1
+stir gently and allow to settle </s> eat scrambled eggs 1
+place laundry in basket. </s> set up ironing board 1
+sit down </s> be seated 0
+place pot in coffee machine </s> dump water into coffee machine 0
+fill the milk in saucer </s> drink coffee 1
+put nozzle in gas tank </s> get out of car 0
+get strainer </s> put pot on stove 0
+confirm flight. </s> take boarding pass, ticket, and id. 1
+buy food </s> light grill 1
+serve ball to opponent </s> change into comfortable clothing/ shoes 0
+get some dry wood </s> ball up kindling into a small cup 1
+wait </s> tell the waiter what the issues 0
+fold ironing table and put away </s> wait for iron to cool 0
+insert your ticket into the ticket collector. </s> go down the escalator into the underground area. 0
+turn on the water </s> wash hair with shampoo 1
+get in car </s> swim 1
+put on bikini </s> secure house 1
+put fuel pump back into holder </s> unlatch gas tank cover (usually button on driver side door) 0
+find a seat </s> pay bill 0
+enter pin if asked </s> pull out credit card and swipe in pos machine 0
+open fuel door </s> replace fuel cap 1
+walk up to check in counter for airline </s> collect boarding passes 1
+buy tickets </s> go to seats 1
+take nozzle out of fuel pump. </s> get out of car. 0
+change into your swimsuit </s> dry off 1
+spread out each laundered item. </s> get laundry. 0
+dry yourself with towel </s> prepare swimming suit and towel 0
+pay for gas </s> pump gas 1
+wait </s> hang up the phone 0
+tie off thread </s> insert needle through one side of button 0
+buy the batteries you are in need of </s> put the alarm clock back together 1
+pay for your pizza at the counter </s> decide what kind of pizza you want to eat 0
+enter once the doors are open </s> check the map 0
+rinse lather out of hair with water </s> lather shampoo into hair 0
+broom the flat </s> clean ceiling 0
+turn occasionally until meat is cooked </s> place in bowl with sauce if desired 0
+grab each article of clothing separately and put into washer </s> select settings 1
+make an appointment to see  the dentist. </s> find a good dentist for you, talking to friends and family member. 0
+go thru security </s> check in 0
+drive to the airport </s> find a parking spot 1
+rinse </s> read in waiting room 0
+boil the water. </s> put the pot on the stove. 0
+pay bill. </s> call dentist's office. 0
+swim </s> drive to swimming pool 0
+lather </s> put shampoo in hair 0
+serve with sauce </s> put water in a pot 0
+get a filter </s> get coffee out 0
+choose airplane seats </s> choose if checking luggage 1
+drain the pasta. </s> add pasta to the boiling water. 0
+leave </s> find seat 0
+get instant coffee </s> get mug 0
+adjust mirrors </s> unbuckle seat belt 1
+pick up food and drink cup </s> walk in 0
+go to movie theater </s> buy popcorn 1
+stay for the time allotted for the funeral. </s> get in the car and drive away. 1
+take turns rolling ball down lane to knock over pins </s> repeat until all frames are completed 1
+replace pump </s> pump gas into car 0
+exit the theater </s> go to the bathroom before the show begins 0
+go to concession stand and order food if desired </s> go into the movie theater 1
+put paper, kindling and wood in stack </s> gather larger wood 0
+return home after lesson </s> get in car when driving instructor arrives 0
+insert the filter </s> add the coffee inside the filter 1
+turn on the shower </s> go to the bathroom 0
+leave dentist </s> brush teeth before leaving house 0
+enjoy. </s> get a lighter. 0
+go to lane and put on shoes </s> walk in door 0
+empty bowl contents into pan </s> crack eggs 0
+measure the pasta - a single serving is roughly 2 ounces of dry pasta per person. </s> add the pasta to the boiling water and stir gently to prevent sticking. 1
+knock down any walls you plan to fix or extend </s> paint walls if desired 1
+open batteries case </s> toss out old batteries 1
+leave </s> wear black suit 0
+walk to security </s> walk to counter with ticket 0
+walk to security check point </s> hand attendant your luggage 0
+have a great game </s> gather equipment such as tennis racquet and balls 0
+play! </s> call friends 0
+paint the walls </s> buy paint 0
+walk out of location </s> listen to eulogy 0
+wait for receipts to print. </s> hand over id upon request. 0
+start the washer </s> add fabric softener 0
+put pot with water on stove </s> serve 1
+remove pot after 10 minutes </s> drain pasta 1
+have a shower and leave the house </s> arrive at the gym or spa 1
+put bowling shoes on </s> pick out ball 1
+get two eggs </s> transfer eggs to plate 1
+ask for another plate of food </s> find food unacceptable 0
+shut off the engine. </s> choose the gas 1
+when the grill is hot enough, throw the food onto it. </s> place cooked meat on plates and serve. 1
+order the pizza online </s> eat the pizza 1
+start the shower. </s> put on clean clothes. 1
+order two pizzas </s> call the waiter 0
+add oil or butter </s> empty contents of bowl into frying pan 1
+rinse the hair again </s> take shampoo bottle 0
+turn the pot on. </s> fill the reservoir with water. 0
+change back into your clothes in the locker room </s> exit the sauna 1
+pick out goods. </s> go shopping. 0
+flip clock upside down. </s> place new batteries in battery case according directions on battery case. 1
+scan card in machine </s> get in car and go home 1
+paying for a lane and a number of games' </s> roll the bowling ball at some pins 1
+have child get her pajamas on </s> turn out the light 1
+prepare other side dishes </s> enjoy 1
+reset time if necessary. </s> remove old batteries. 0
+fuel up the car </s> place the nozzle inside the car's tank 0
+choose fuel type. </s> place nozzle in tank opening. 1
+put on sun screen </s> pack extra sunscreen 1
+pay for delivery </s> place order 0
+fill sink with warm water. </s> take wash cloth and wash each dish. 1
+decide what toppings and crust to order </s> request toppings and crust for pizza 1
+leave the theater when the movie ends </s> go to the theater 0
+say if you want it delivered or to pick it up </s> get the number for the pizza place 0
+say final farewells </s> go to the church 0
+give phone number </s> dial papa johns 0
+get out of sauna. </s> drive to sauna location. 0
+watch the movie </s> drive to the theater 0
+vacuum the carpet. </s> pick up any items that aren't where they belong. 0
+sit and wait for dental assistant to call me </s> park car 0
+clean up. </s> start the water. 0
+after you are finished relaxing in the sauna, take a shower. </s> go to the sauna. 0
+organize the rooms </s> sweep the floor 1
+insert the nozzle into the car. </s> hold the lever until the tank is filled. 1
+change out of rented shoes. </s> take rental shoes from attendant. 0
+spark a fire </s> wait for nightfall 0
+get in the car </s> drive to the dentist office 1
+hit accept button. </s> swipe credit card. 0
+hand ticket to ticket taker </s> leave theater 1
+buy your subway ticket </s> find a seat 1
+go to the tennis court </s> continue steps two through four 1
+put water in pitcher. </s> get out coffee. 0
+click yes that you accept the charges </s> slide your card through credit card console 0
+prepare to roll </s> roll a strike 1
+position car to gas pump relative to your gas cap location </s> pump gas to desired amount/price 1
+leave gas station. </s> return nozzle to original location. 0
+watch the movie. </s> keep your ticket stubs in case you need to re-enter. 0
+plug in iron. </s> place clothes on board. 1
+buy some snacks at interval . </s> finally leave the theater 1
+pour shampoo into hand </s> rinse shampoo out with water 1
+bounce the ball three times on the ground. </s> repeat until one person has won. 1
+get into car </s> make a date with a friend to play tennis 0
+open area where batteries area. </s> go to the store and get batteries. 0
+present your id to the check in agent. </s> locate line for your class of service. 0
+find a seat </s> drive to movie theater 0
+place over high heat </s> taste it to see if it is cooked 1
+doing the painting and stuff </s> picking out the design 0
+scan your card in </s> get off of the train 1
+put clothes away </s> add clothes 0
+enter into the fast food restaurant </s> leave the restaurant 1
+bowl. </s> go to alley 0
+stop following instructions from dentist </s> pay for treatment 0
+turn on the washing machine </s> let the washing machine clean the cloths. 1
+enjoy sauna </s> call sauna to see if they are open 0
+position everything the way you want to </s> plan out what you want the room to look like 0
+arrive at sauna </s> go to locker room 1
+put wood into hole. </s> put up gas. 1
+sit down </s> when order is called, stand up and go get food 1
+take food. </s> get condiments, silverware, and napkins. 1
+give condolences to family </s> watch casket be lowered 0
+tie knot in thread. </s> cut thread. 1
+put things in their proper place </s> pick up the trash and throw it away 0
+enjoy your clean flat </s> pick up dirty clothes 0
+get kindling </s> get newspaper 1
+turn on machine. </s> place dishes on a rack. 0
+buy token or card to purchase ticket </s> get off train 1
+entering the underground when arrives </s> walking on the street 0
+take out trash </s> clean off table 1
+leave restaurant </s> order your food items and drinks 0
+plug in and turn on iron. </s> iron other clothes. 1
+purchase movie tickets. </s> go online. 0
+take change if any </s> give the money to the attendant 0
+wait in line </s> get driven to the airport 0
+enjoying the ride </s> getting on the right train 0
+place pasta in water on stove </s> turn on stove 0
+at bedtime, tell child it's time for bed </s> tell child to get into bed 1
+place the ball in gaps properly to beat the player </s> dress properly with tennis shirt and pant 0
+purchase paint </s> replace furniture in room 1
+add dryer sheet </s> once finished, move clothes to dryer 0
+crack eggs into pan </s> use spatula to scramble eggs 1
+roll bowling ball </s> watch tally 1
+get your card out </s> put your card away 1
+remove nozzle from car </s> remove gas cap 0
+rinse shampoo out of hair. </s> scrub shampoo into hair. 0
+scramble eggs with fork or spoon </s> get a skillet 0
+go home </s> go to cashier 0
+drain the water from the pasta. </s> place the pot on a burner. 0
+make plans for how room will look at completion of renovation </s> look over room to make sure job is done well and correctly 1
+call to dentists booking contact and take an appointment </s> explain the dentist about the problems 1
+get off at desired stop </s> board train 0
+sort dirty clothes </s> put in dryer 1
+stand in line to counter. </s> hand over luggage and check it. 1
+tell waiter of poor food </s> receive food 0
+measure water and set into coffee maker. </s> put filter into coffee maker. 0
+walk back to car </s> replace pump nozzle 1
+wait for her to bring you something new </s> start eating new food 1
+put new batteries in alarm clock. </s> safely dispose of old batteries. 1
+get a lane </s> go to lane 1
+go to hardware store to buy all items needed </s> close off room so that dust doesn't get into other rooms 1
+select 'pay with credit' option </s> swipe credit card 1
+go to the tennis court </s> throw some balls in the air and hit them with your racket, otherwise known as serving 1
+close door </s> open door 0
+when cycle is finished, remove clothes </s> turn on. 1
+add to basket </s> choose the pizza you want 0
+turn on the shower faucet </s> wash your hair 1
+place rinsed dishes in dish rack </s> place washed dishes in separate clean sink 0
+pick what you want. </s> go to make an order page. 1
+call waiter </s> tell him i don't like it 1
+decide what company to order pizza from </s> wait for knock at the door 1
+get a point everything the ball touches the other persons court </s> use the racket to hit the ball back over the net 0
+drain the pasta into a colander </s> add a pinch of salt to the water 0
+dry off with towel </s> rinse soap 0
+pick up nozzle </s> replace nozzle. 1
+come out of sauna </s> wipe yourself dry 1
+put one group of clothes into the washer </s> select drying cycle 1
+wait for pizza. </s> sit down at table and eat pizza. 1
+add the whipped eggs to the skillet. </s> whip the eggs while they are in the bowl. 0
+enter movie theater </s> find your specific theater and enter 1
+rinse soap off dishes </s> place rinsed dishes in drying rack 1
+admire the work </s> decide on what renovations are needed 0
+make an appointment with the receptionist </s> pay directly or via insurance with the receptionist after work is completed. 1
+hit the ball back to them </s> wait for them to return the ball to you 0
+select temperature </s> put 1 cup of powder in machine 0
+wear your swimming costume </s> take a shower 1
+go up to the counter. </s> take your ticket from the agent. 1
+unload new furniture </s> enjoy 1
+turn washer on </s> remove clothes when washer finishes 1
+remove pasta from water. </s> put pan on stove. 0
+pump fuel </s> pull into gas station 0
+begin pumping gas </s> find a gas station 0
+spray pan. </s> take out eggs. 0
+after the cycle is done put into dryer </s> put the clothes inside the washer 0
+change your shoes </s> go to the bowling alley 0
+pull back lever and fill car with gas. </s> put cap back on. 1
+insert pump nozzle into gas tank slot. </s> screw gas cap on fuel tank. 1
+hand the plate to waiter </s> show waiter the item on menu 0
+put up laundry. </s> wait for iron to get the correct temperature. 0
+set up the outside for eating </s> buy food from store 0
+start washer </s> sort whites from colored clothes 0
+figure out how to renovate your room </s> place in old decorations 1
+drive safely and perform the tasks as requested </s> have your trainer get in the car with you 0
+gather dry wood. </s> pour lighter fluid on wood. 1
+get servers attention </s> ask for a different food item 1
+look at the marquee </s> drive home 1
+put on shower </s> step in shower 0
+take a few bites </s> realize it's not what you wanted or cooked to your liking 1
+dig a pit. </s> find material to use to start the fire, such as newspaper or grass. 1
+go to court </s> get dressed. 0
+dry hair </s> get hair washing product 0
+paint </s> move in new decorations. 1
+apply soap or body wash to washcloth </s> go into bathroom 0
+answer their questions </s> leave the counter area and proceed to gate. 1
+get in my car </s> leave my house 0
+take off your clothes </s> put on a robe 1
+heat pan on stove </s> get egg out of refrigerator 0
+get directions </s> dress to go out 1
+wait for response. </s> explain to them the issue with order. 0
+take clothes off in locker room </s> sit on bench in sauna room 1
+decide that you do not want the food. </s> explain to the waiter what is wrong with your food and that it needs to go back 1
+listen to the service. </s> express condolences to the family. 1
+move items </s> make sure it's somewhere you want it 0
+toss ball into air and hit it with racket over net </s> pick up racket 0
+leave the funeral home </s> pay your dues 0
+set up ironing board </s> hang up ironed clothes 1
+get out vacuum cleaner </s> take hamper to washing machine 1
+find a seat </s> buy ticket 0
+insert new batteries in place of old batteries. </s> remove battery cover from the alarm clock. 0
+descend deeper and deeper, using rope and caution </s> gather necessary equipment, such as flashlights, ropes, and weapons 0
+step out of shower </s> wash body and hair 0
+rinse shampoo </s> repeat process with conditioner 1
+let shampoo sit for a minute. </s> dry hair. 1
+pick preferred pizza. </s> eat in or take home. 1
+decide that something is not right about the food. </s> indicate to the waiter or manager that you would like to send the food back. 1
+pay for lanes </s> rent shoes 1
+put everything into a locker </s> get together a bag with clothes, towel, shower items, shoes for the sauna 0
+threading the needle </s> getting out thread 0
+remove old batteries </s> put in new batteries 1
+order food </s> get food 1
+shut off the light </s> say good night 1
+wait for new food to come back to you. </s> look at menu. 0
+wear appropriate tennis clothing and shoes. </s> keep score to see who wins. 1
+drive and learn from your driving instructor </s> get in car 0
+put them in bed </s> take child to their room 0
+figure out if i can do it on my own. </s> make a checklist of what needs to be fixed. 0
+place in the washer machine. </s> add soap. 1
+swing the racquet </s> serve the ball 0
+call phone number </s> drive to pizza place 1
+wait for the pizza to arrive </s> tip the driver 1
+eat your food </s> order your food 0
+get child to go to bedroom </s> tuck child in. 1
+get to the place with sauna </s> leave from your home 0
+rinse with clean water </s> add dishes to dish rack to dry 1
+walk through gate. </s> enter underground station. 0
+driving to the church </s> sitting in a pew and listening to the speakers 1
+turn off the bedroom light </s> wish the child good night 1
+either hand you card to the merchant to be swiped, or swipe the card yourself </s> make sure your price is right 0
+take spatula and break up eggs </s> enjoy 1
+fill up your beverage at drink station. </s> take food to table and eat. 1
+ask them to get into bed. </s> kiss goodnight. 1
+insert new fresh batteries. </s> replace the battery compartment cover. 1
+put dishes in the sink </s> get dirty dishes 0
+get in line </s> eat and drink 1
+remove battery panel from clock </s> remove old batteries 1
+select flavor of coffee </s> close lid 1
+surround the pit with bricks or stones </s> get a cooler 1
+heat iron on ironing board </s> hang up ironed clothing 1
+close and lock locker </s> walk to the pool 1
+go to cashier and place order. </s> look over the menu. 0
+tell them you will read a story after they are in bed. </s> read a story to the child. 1
+turn on the stove to heat up a frying pan </s> use a spatula to move the egg around so that the liquid egg mix cooks evenly 1
+fill pot with water </s> add pasta 1
+drive to restaurant </s> dispose of trash in trash receptacle 1
+remove pot from machine </s> wait for coffee to drip 0
+entering sauna </s> getting into the car 0
+going to the store </s> going to check out 1
+get lighter </s> put some newspaper in the pile, near the bottom 0
+run water over oneself. </s> turn on shower. 0
+bowl </s> set up computer with names of all players 0
+put towel over bare body </s> get naked 0
+hire a driving instructor </s> listen to instructor 1
+scoop out some </s> open coffee 0
+put off the stove </s> add required amount of coffee powder 0
+after getting in search for your seat number sit comfortably. </s> first choose a cinema which you prefer to see. 0
+public line </s> working the metro 0
+pack sauna wear </s> sit in sauna room for fixed amount of time 1
+tear out existing </s> go to home improvement store 1
+put away the supplies and clean up. </s> purchase needed materials. 0
+take off clothes </s> go to pool 0
+go to the dentist office </s> sign in 1
+get bicycle from rack </s> get clothing and shoes from locker 0
+pay for pizza. </s> tell the worker what you'd like to order. 0
+get trash bag </s> pick up all trash 1
+fill fire pit with kindling and logs </s> dig fire pit 0
+get phone </s> call pizza place 1
+see that food is not cooked as specified </s> ask waiter to return the food to be cooked properly 1
+discard old batteries </s> remove old batteries 0
+grab a screw driver </s> put in new batteries 1
+tidy up the shelves and coffee table. </s> relax. 1
+wait for pasta to soften </s> put pasta in a bowl 1
+gather fire wood </s> sit back and enjoy the bonfire 1
+pick up child </s> turn light off 1
+clean surfaces with a sponge </s> scrub sinks, toilets, shower 1
+get right temperature </s> wash 1
+go to the sink </s> wash the dish 1
+watch the fire spread up to the rest of the wood </s> gather any logs or kindling that will be used for the fire 0
+pick a seat </s> enjoy the movie 1
+walk to pool </s> put on bathing suit 0
+dry hair </s> get into shower 0
+fill pot with water </s> pour water into coffee maker 1
+turn on clock </s> screw battery compartment back on 0
+clean all bedrooms and living room with a vacuum cleaner </s> wear old casual clothes 0
+call your friends </s> enjoy the game 1
+wait for delivery driver </s> eat pizza 1
+wait until ceremony is over </s> drive to cemetery 0
+pop open gas cap </s> put pump into car 1
+clear old furniture </s> patch holes and cracks 1
+lower heat </s> fill with water 0
+hit the ball back and forth </s> when done rest 1
+place in the batteries. </s> grab the alarm clock. 0
+close dryer. </s> turn on washing machine and wait for it to end. 0
+wisk milk and eggs together </s> turn pan on medium low 0
+remove fuel cap </s> replace fuel cap 1
+get in car </s> sit for the services 0
+when it's your turn, tell cashier what you want to see and how many people in your party </s> line up at counter 0
+leave cemetery </s> enter church 0
+lay clothing on board </s> plug in iron 0
+place button where you want it. </s> stick needle through hole and secure with thread 1
+dry off with towel </s> take a shower 1
+clean the sinks and toilets </s> pick up all the trash from the floor and put it in the waste basket 0
+go to the bowling arena </s> get in the car 0
+rinse dirty dishes and place into dishwasher. </s> vacuum floor in entire flat. 1
+place them into bed </s> put them in pjs 0
+turn off iron and allow to cool </s> place on ironing board 0
+take out the old batteries </s> find the alarm clock 0
+undress </s> get dressed 1
+call driving instructor </s> make appointment 1
+pour eggs into pan </s> crack eggs into bowl 0
+clean bathroom with supplies. </s> sweep floors. 1
+order food from waiter </s> order drink 1
+take off clothes and put on a towel. </s> sit in the sauna. 1
+check in with attendant </s> drive to public swimming pool 0
+add a dryer sheet and turn on the dryer </s> fold the color clothes 1
+pull the covers to their neck </s> pull down the sheets 0
+serve the ball </s> defend the return volley 1
+pack sunscreen, books. </s> change into swimsuit. 0
+put foot on the pedal </s> put seat belt on 0
+replace with new batteries. </s> replace battery cover. 1
+allow contractor time to renovate room to your liking </s> buy necessary materials 0
+enjoy </s> find a pizza restaurant 0
+take a seat </s> go to church 0
+pick the product you wish to buy </s> take out your wallet 1
+put clothes away. </s> take clothes out of dryer. 0
+get shampoo and conditioner </s> bend over and soak hair 1
+replace the pot </s> put filter in coffee maker 0
+get in pool </s> start swimming 1
+put on track suit on top </s> put on swimming suit 0
+drain pasta </s> put colander in sink 0
+tell waiter what you would order to get instead </s> hand your plate to the waiter 1
+go up to counter </s> order food 1
+retrieve iron </s> turn it on 1
+leave the pool </s> walk to edge of pool 0
+give receipt and pen back to person. </s> person will hand you a copy of the receipt for you to keep. 1
+drive to the bowling alley. </s> set computer with names playing. 1
+get into car </s> listen to instructor 1
+sit in chair </s> call office to make an appointment 0
+if there is a problem, get the waiter's attention </s> let the waiter return the food to the kitchen 1
+put on some cloths that you don't mind messing up </s> clean the windows 1
+move furniture back in </s> remove furniture 0
+get hair wet </s> get shampoo 1
+get water </s> fill coffee pot with coffee grounds 1
+walk into restaurant </s> choose a restaurant 0
+put detergent into the washing machine </s> take colors out of the dryer 1
+place the twigs in the fire pit </s> gather fallen wood and twigs 0
+turn on burner </s> whisk eggs 1
+put new batteries in one by one as you remove old ones. </s> take alarm clock to an area with good lighting. 0
+light your wood. </s> place your firewood into the hole. 0
+pulling into a gas station </s> getting out of car 1
+pay for bowling </s> put names into the score board 1
+help fire catch on </s> light wood on fire 0
+call to dentist's office </s> get the registration 1
+jump into pool </s> make sure there is a life guard 0
+tell them what you want </s> go to or call pizza place in your area 0
+boil the water, </s> put the water on the stove. 0
+find a table </s> look at the menu 0
+keep mouth open for xrays </s> schedule next appointment to take care of problem. 1
+fill 3/4 water in a cooking bowl </s> keep the flame in high level, add pasta and keep stirring 1
+plug in iron </s> spread on iron board 0
+light a match. </s> put some dry weeds in wood. 0
+go to the dead person's house </s> stand with the funeral party 1
+read book if decided to </s> follow child to room. 0
+board train. </s> descend the stairs. 0
+if the car is an automatic, press the accelerator gently. </s> put the car into reverse or first gear, as appropriate. 0
+go to the check in counter </s> get your boarding pass 1
+show ticket to usher </s> when show ends, leave theater 1
+roll ball down lane and knock pins down </s> walk in 0
+take credit card out of wallet </s> pick correct options on machine 1
+rub shampoo vigorously into hair. </s> task complete. 1
+prepay at pump or in store. </s> fill car until full. 1
+scrub hair with shampoo </s> later shampoo into hair 0
+gather small brush </s> put logs and sticks into pile 1
+go to pool </s> change into swim suit in locker room 1
+talk to clerk </s> arrive at airport 0
+add soap to water </s> wet sponge 1
+leave train </s> stand up 0
+place hair wash in hand from container </s> obtain hair wash/shampoo 0
+tie knot in end of thread </s> get thread 0
+add bigger and bigger pieces of wood </s> get small pieces of wood and leaves burning good 0
+put new batteries in </s> close battery compartment 1
+eat the food </s> find a clean table to eat the food at 0
+play tennis with friends </s> call friends ask if they can play 0
+enter sauna </s> pay for pass at gym 0
+hand it to the cashier </s> sign the slip of paper 1
+continue with each dish </s> turn on warm water in kitchen sink 0
+gather your gear </s> pick your court 1
+eat and enjoy the food and company </s> have a date, or invite friends or family 0
+grab charcoal </s> cook food on grill 1
+get some needle and thread </s> tie a knot in the end of the thread so the button doesn't come off 1
+get dressed to go bowling </s> 10. drive home from bowling lane 1
+when waiter comes to table tell him what is wrong with your food </s> wait patiently until he returns with your corrected food item 1
+remove 2 or 3 eggs from carton. </s> once eggs are cooked remove pan from heat 1
+set up pump digitally </s> place nozzle back on base 1
+wipe dishes with sponge </s> put dirty dishes into sink 0
+install trim and new fixtures </s> install new flooring 0
+check in your luggage if you have it </s> show your travel information 1
+open the new batteries </s> take the alarm clock 0
+place charcoal in grill </s> light charcoal and wait for a while 1
+buy ticket </s> ride until you reach your destination 1
+rinse </s> turn on faucet 0
+call the waiter </s> leave the restaurant 1
+walk to the underground station </s> purchase ticket 1
+get needle </s> place button onto item of clothing 1
+remove all furniture </s> paint and make necessary repairs 1
+put the bowling ball in the holder. </s> rent ball and shoes at the front desk. 0
+get out a pot </s> put the pot on the stove 1
+place mug under receptacle </s> wait for coffee maker to heat up 1
+take dish washer </s> put the oiled dishes in the sink 0
+choose setting </s> close door 0
+gather your belongings from the chair. </s> choose a chair near the pool. 0
+place item of clothing flat on iron board. </s> prepare ironing board 0
+walk through turnstile </s> go to ticket booth 0
+grab a bowling ball </s> aim at the target 1
+put your garbage away </s> eat your food 0
+take meat out of marinade </s> drink a beer 1
+sew needle through other holes in an x formation </s> grab button 0
+clean out furniture. </s> buy any new furnishings needed. 1
+run for ball when opponent returns it </s> serve tennis ball 0
+check in luggage bags </s> give identification 0
+scrub dishes with a sponge </s> grab dirty dishes 0
+sweep the floor </s> clean the bathroom 0
+get dressed in black </s> give condolences to the family 1
+contact waiter </s> make a determination that you are not happy with the food 0
+buy food if desired </s> go to local bowling alley with friends or whomever 0
+find what room your movie is playing in. </s> enter the theater and find seats. 1
+clean the house </s> prepare meats 0
+get out of the pool and sit on the chair </s> get a chair and put your things nearby 0
+keep going, as the fire gets bigger you can start using bigger branches </s> light the kindling 0
+put some dish soap on the sponge </s> put all of the dirty dishes in the sink 0
+go to the shoe rental and get bowling shoes </s> find a bowling alley 0
+turn shower on </s> go to bathroom 0
+pick him up. </s> put him on bed. 1
+get coat hangers to hang up freshly ironed laundry. </s> get iron out. 0
+stitching the button on </s> moving the needle in and out of the button holes 0
+lather up </s> turn on water 0
+go to front desk pay for a lane and rent a pair of shoes. </s> go to your lane. 1
+get tickets </s> turn in checked luggage 1
+rinse under running water </s> add dish soap 0
+get in car </s> hit gas tank cover release button 0
+do this through all holes of button </s> get thread and needle 0
+decide if you want cash back </s> accept amount charged 0
+tell waiter that you do not wish to eat the food that you have </s> express desire to have different food brought out 0
+thank waitress again. </s> wait patiently. 0
+add soap to the load of wash </s> place one load of laundry into washer 0
+get shampoo. </s> rinse hair in water. 1
+drive to bowling alley </s> bowl 1
+get into your car with items </s> get out of car with items 1
+get in car </s> present ticket and identification 1
+scrub each dish thoroughly </s> put on your rubber gloves 0
+wait for the paint to dry </s> paint the room 0
+return back home </s> take your allotted seat 0
+order a pizza </s> cut a call 1
+catch rays and suntan </s> remove shirt and shoes 0
+put on bathing suit, shirt, shoes </s> enter the pool 1
+listen to driving instructor </s> start up the vehicle 0
+put the k cup inside the machine </s> watch the coffee cup fill with coffee 1
+arrive at church or synagogue </s> offer condolences to the family 1
+eat food </s> grill up food and serve to guests 0
+bring water to boil </s> add sauce to pasta 1
+get in car to go to dentist office. </s> be seen by the dentist. 1
+when clothes are done washing and washing machine has stopped open lid </s> fill washer loosely with clothes 0
+read them a story </s> walk with the child up the stairs 0
+then push needle through material </s> push needle under material to next hole 1
+give name and flight </s> walk to gate 1
+put laundry in hamper </s> iron the other side 1
+go home </s> when the show is over, leave the theatre 0
+wait for complete run of washing machine. </s> placed al dirty clothes in washing machine. 0
+sign your name using the stylus </s> sign your name on the recite if required 1
+disrobe. </s> close the shower curtain or door. 1
+tie a towel around your waist </s> sit and enjoy the sauna 1
+sing a lullaby </s> take child to bathroom 0
+swipe credit card </s> wait for cashier to approve transaction 1
+rinse soap off with water. </s> let dish air dry. 1
+pay respects to the deceased </s> leave the cemetery 1
+watch the movie. </s> drive to theater. 0
+thank them. </s> check to make sure it is correct. 1
+drive to church </s> sit 1
+massage for one minute </s> dry your hair with a towel 1
+if there is a ceremony, take a seat. </s> go to funeral home, place of worship, or cemetery, as directed. 0
+spray windows with cleaner and wipe with newspaper. </s> sponge down counters. 0
+give id to worker </s> give luggage to worker 1
+arrive at the location of the driving lesson. </s> buckle your safety belt. 1
+continue with every part of the room you want to change </s> put in new parts, such as cabinets 0
+invite someone to join you for tennis </s> get dressed in athletic clothing and tennis shoes 1
+find a local sauna at google </s> drink water 1
+make smores </s> collect scrap wood and sticks 0
+put pot of water on to the stove's hot burner </s> enjoy pasta 1
+find wood </s> build pile of wood 1
+get changed into swimming costume </s> swim 1
+use a lighter or match to light the charcoal </s> put charcoal into the grill 0
+pay for your order </s> eat food 1
+remove clean clothes </s> run washer 0
+show ticket to attendant </s> check in 0
+put on swimming suit </s> wrap up wet items 1
+open filter tray, remove old filter and replace. </s> fill coffee pot with water. 0
+install new flooring </s> take out carpet or other flooring 0
+add a spoonful of salt </s> get colander 1
+turn on coffee pot </s> get water 1
+add smaller pieces around the larger pieces </s> gather wood to be burned in the fire 0
+get naked </s> put on bathing suit 1
+on the day of the barbecue, invite your friends and family over. </s> determine how many people will be attending the barbecue. 0
+add pepper and other seasonings to the egg. </s> turn on the stove. 1
+walk to bathroom </s> turn off water 1
+put sugar </s> place the bowl in stove 0
+order kind of pizza (crust, toppings) </s> state paying with card or cash 1
+light the kindling. </s> put leaves or paper under the biggest pieces of wood. 0
+dust all the surfaces </s> sit down when done 1
+hit tennis ball back and forth over the net </s> get tennis racquet 0
+go the receptionist </s> close your mouth 1
+close the cone </s> put water in the coffee machine 1
+vacuum the carpet if applicable </s> dust all furniture and spot check for stains and spots that need to be wiped up 0
+brush their teeth </s> turn off lights 1
+find a seat </s> walk into theater 0
+turn on washer </s> once washer is down remove clothes 1
+tell them thanks </s> call your waiter over 0
+set up ironing board. </s> plug in iron and let it heat up. 1
+walk inside the restaurant doors </s> take your food 1
+close dishwasher door and set time/cycle </s> wait until dishwasher's cycle is finished 1
+gather friends and family for bowling night </s> list names on bowling scorecard 1
+brush teeth. </s> get in bed. 1
+leave sauna </s> walk into sauna 0
+prepare items to be grilled </s> enjoy 1
+obtain deep sized sauce pan </s> saute pasta with sauce or olive oil, if desired 1
+make a pot of coffee </s> brew coffee 0
+go to the kitchen </s> pour pasta in 1
+retrieve card </s> leave store 1
+waiting for my turn </s> going to the waiting room 0
+iron item </s> set up the board 0
+replace by following the diagram of positive negative sides </s> check what the batteries are 0
+let pan get hot </s> add garlic salt 1
+use scissors to cut thread </s> tie knot in thread 0
+put dishes in place </s> wait for ten minutes 0
+get in pool </s> open the gate to the pool 0
+leave the office </s> show your insurance card or pay for your visit 0
+take off my clothes. </s> get wet. 1
+throw match into pile </s> watch fire grow 1
+get your money ready </s> call a pizza place 0
+wait till your meal is ready. </s> sit down and eat your meal. 1
+put the iron away </s> plug in the iron 0
+turn the sauna on to desired temperature. </s> hydrate properly afterwards. 1
+dry your body with a towel </s> go to the bathroom 0
+lather hair </s> rinse hair 1
+switch on the plug of the cleaner </s> put the unwanted things into the dustbin 1
+wait for your items to arrive </s> join the queue 0
+put the filter into the basket of the coffee maker. </s> when the coffee is done, pour the coffee into cups. 1
+grab the shampoo bottle. </s> wet your hair. 0
+enter train </s> pay for a subway token 0
+wash glasses </s> add detergent 0
+play tennis with friend </s> find a friend to play tennis 0
+fill bowl with washing up liquid and hot water </s> rinse suds off clean dishes 1
+take the mobile </s> cut the call 1
+put bathing suit on </s> find seating area around pool 1
+going fast </s> awareness 1
+locate where batteries are </s> check time 1
+get eggs from fridge </s> turn on the stove 1
+drive to health club. </s> relax and let steam do its work. 1
+call costco food court at dinnertime and place order </s> return home 0
+plug in and turn on iron, </s> allow iron to cool. 1
+set on stove and turn heat on high </s> eat 1
+rub all over your head and into your scalp </s> add a small amount of shampoo to your hands 0
+sit and wait </s> board flight 1
+remove from water </s> rinse dish 0
+pour the dish-washing liquid into the scouring pad </s> get the dish-washing liquid 0
+squirt dollop into hand </s> rinse 1
+wet hair thoroughly </s> remove clothing (optional) 0
+pick up anything out of place </s> set up a plan 0
+go through the menu </s> place the order 1
+swipe or hand card over as required </s> obtain receipt from business for payment 1
+food is returned to kitchen for improvement </s> wait for food 0
+telling him that you do not want the food </s> handing the plate over to him 1
+heat pan </s> remove from pan when done 1
+drive to sauna. </s> get out of the car. 1
+examine menu and make choices. </s> enjoy food. 1
+make a chore list. </s> do laundry. 1
+select eggs </s> get a frying pan 0
+put dirty clothes in washer </s> set the washer 1
+pull battery cover off. </s> screw screws back in. 1
+turning off water </s> washing your body with soap 0
+pay for order </s> submit order 1
+get in car </s> fill out applicable forms 1
+lather well </s> let sit in hair 1
+test noodles taste </s> add pasta 0
+leave the sauna </s> change into a towel 0
+tie knot at end of thread </s> make sure you end up in back of item 1
+get out of vehicle. </s> follow instructions of instructor. 0
+turn off lights </s> place the child in the bed 0
+turn off water. </s> run shower faucet. 0
+set clock down. </s> pick up clock. 0
+rinse out conditioner. </s> turn on the water in the shower. 0
+accompany coffin to graveyard </s> return home 1
+buying food for the grill </s> inviting people over 1
+put eggs in a bowl or dish to serve from. </s> crack eggs into a bowl. 0
+do laundry </s> do dirty dishes 0
+get pasta, water, fork, colander and pot out. </s> turn heat to high. 1
+purchase ticket </s> board train 1
+go to a gas station. </s> depress handle on nozzle. 1
+turn off shower </s> put on shampoo 0
+add wet laundry to inside of dryer and close door </s> put clothes inside and close door 0
+have mouth checked </s> make payment 1
+when finished, get back to car </s> go to the theater gate 0
+swim around </s> enter the pool 0
+enjoy new meal </s> when food arrives, continue to be polite 0
+place dishes back in cupboard </s> wait for dish washer to finish 0
+get coffee maker </s> place filter in coffee maker 1
+walk to the tennis court </s> play until one of you wins 1
+add salt and pepper </s> whisk eggs together till they are light and fluffy 0
+take of clothes </s> wash body 1
+prepare side dishes such as cole slaw or potato salad. </s> sit back and enjoy. 1
+find the room said movie is playing in. </s> pay for ticket(s). 0
+pour them into a heated and oiled pan </s> take eggs from the container 0
+schedule an appointment </s> choose what treatment you want 1
+retrieve tennis rackets from same bag </s> call a friend and invite to play 0
+play some games </s> invite family 0
+view photos and or videos about persons life </s> go to funeral home 0
+run the garbage disposal while the water runs. </s> rinse the dishes to remove large morsels of food. 0
+say your goodbyes </s> drive to funeral 0
+get racket and ball </s> when game is over retrieve tennis balls 1
+put on bowling shoes </s> repeat until you are finished bowling 1
+start car. </s> watch road and mirrors. 1
+turn the meat over when one side is appropriately cooked. </s> apply the meat to the grill. 0
+wait in the hall viewing magazines </s> enter the bowling alley 0
+get behind the wheel </s> put the car in drive 1
+flag down the waiter. </s> ask for another dish. 1
+take a shirt out of the laundry basket </s> for it to heat up 1
+lightly fan the flames until the larger pieces of wood catch fire </s> find an open area of ground. 0
+eat pasta. </s> get a plate. 0
+bring the wood </s> take the match box. 1
+enter cleaning room </s> sit in the waiting room 0
+after your session return back home </s> wait for your turn 0
+get in dentist chair </s> use mouthwash 0
+drive to pool. </s> find a place to put towel. 1
+pick up child </s> cover child up with blankets 1
+enjoy bonfire </s> fire up wood 0
+place button on item </s> sew button onto item 1
+wipe down table and counters </s> clean sinks 0
+park </s> get my boarding pass 1
+research where and when the funeral will be. </s> leave the flowers in the designated area. 1
+cook for 7 minutes. </s> pasta is ready to eat. 1
+vacuum </s> put dirty dishes in sink 0
+fill drink cup </s> decide what you want to eat 0
+swim in pool </s> drive to swimming pool 0
+replace battery. </s> put battery cover back on alarm clock. 1
+put pan on stove at medium heat </s> put pan, butter, eggs and spatula away 1
+wait for fire to get big </s> put it in a spot that has no grass 0
+swipe the card </s> after the cashier rings up your items, pull your card out 0
+take a shovel </s> put back the soil 1
+wait for food </s> order food at counter 0
+leave my house </s> follow the procession to the cemetery 1
+go to changing rooms </s> drive to the sauna 0
+receive food </s> be patient 1
+stop pumping when desired amount of gas has been pumped. </s> select payment method for purchasing fuel. 0
+put pot under the dripper </s> pour water into reservoir of coffee maker 0
+serve. </s> throw pasta in boiling water. 0
+remove things off the walls </s> put things back on the walls 1
+invite over friends and family </s> cook food on grill while socializing with guests 1
+relax and enjoy </s> find a good seat 0
+pay for the number of rounds you wish to play </s> start game 1
+get appointment </s> enter the hospital 10 minutes before the appointment time 1
+rinse </s> adjust the water 0
+they will direct you to the lane you are assigned. </s> walk out of the bowling alley. 1
+open the shower. </s> put on clothes. 1
+put child in his bed. </s> tuck child in for the night. 1
+open alarm clock </s> put in new batteries 1
+get as much wood as you can </s> spread coals and pour water on them to stop a wildfire 1
+find some thread </s> tie off finishing knot 1
+enter the office </s> pay the bill 1
+go to pool </s> get out of pool 1
+put dishes in the water. </s> add soap to the water. 0
+get off of train </s> enter subway station 0
+put pan on stove </s> add cheese if desired 1
+decorate with other items such as glasswear, knick-knacks, etc </s> decorate with pictures 0
+enjoy pizza </s> place an order of desired pizza 0
+find phone number for pizza place </s> dial number into phone 1
+wrap body in towel to blot off water </s> turn off water 0
+drive to pool </s> get in car 0
+take out coffee </s> pour coffee into cup 1
+throw away empty food containers. </s> find seats. 0
+get the piece of apparel that needs to sew the button on. </s> get the button. 0
+get into the car and drive home. </s> decide which sauna you would like to go to. 0
+get dressed. </s> go in bathroom. 0
+dry hair </s> rinse hair with water 0
+prepare required documents. </s> schedule an appointment. 0
+grab towel </s> pour shampoo into hand 0
+find seat </s> exit on correct stop 1
+doors open </s> travel to destination 1
+wear your seat-belt </s> enter the car with the instructor 0
+iron your clothing </s> get an ironing board 0
+leave courts </s> defeat opponent by any means necessary 0
+get back in car </s> push button for desired gas type 0
+apply to tips of hair. </s> get hair very wet. 0
+go home </s> set up grill and tables 1
+greet the family of the deceased and give them condolences </s> go home after service 1
+give clerk name when asked. </s> exit car. 0
+scan pass. </s> walk over to stop where my train will be. 1
+wait thirty minutes </s> call pizza company 0
+enter store. </s> pay for the food. 1
+get laundry to car </s> drive to laundry mat 1
+scramble with spoon or fork </s> add one tablespoon of milk to bowl per egg 0
+playing tennis is not only one of the out door game but also keeps fit and healthy. </s> it is a great way of keeping you fit. 1
+waiter go to the supervisor </s> i wait for replacement and eat 1
+turn the water to the hottest your hands can handle. </s> wash a dish. 1
+show tickets at the counter </s> get seated in your seats 1
+get new batteries </s> place in clock 1
+watch movie until it is over. </s> choose a movie to watch. 0
+take your purchase </s> take out credit card from wallet 0
+swipe card </s> check total 0
+exit movie theater establishment </s> wait for movie to start 0
+rinse hair </s> wet hair and body 0
+bring water to a boil </s> put into strainer 1
+get in the car. </s> grab my license. 0
+move iron over clothes </s> pour water into iron 0
+mop floors. </s> ensure everything is in its proper place. 0
+open a browser. </s> eat delicious pizza. 1
+gather fire wood. </s> grab kindling. 0
+wash and dry clothing </s> repeat with all clothing 1
+watch fire grow </s> pour gasoline over wood 0
+wait for paint to dry </s> sand rough spots 0
+serve ball to opponent. </s> take out racket. 0
+additionally, if it's a combo spa/sauna, you can get massages too. </s> order the package you want, whether it be deluxe, regular, etc. 0
+add it to stove </s> add pasta sauce 1
+get bowl. </s> eat breakfast. 1
+place your credit card back into your wallet. </s> remove your credit card from your wallet. 0
+decide what pizza to order </s> pull up menu 0
+take a  coffee liner and place in coffee maker </s> scoop out coffee and place in coffee maker 1
+purchase new batteries </s> replace old batteries with new batteries 1
+gather dishes to be washed </s> rinse dishes in clear water 1
+allow waitress to take food away. </s> show waitress the problem with your food. 0
+mark your calendar </s> on the day of the appointment -go 1
+show id to attendant </s> wait in line 0
+understand the reason for sending it back </s> order for another food 1
+put down new flooring </s> open can of paint 0
+check any luggage or, if preferred, carry your luggage with you. </s> follow the instructions for your clothing and bags to be scanned and checked. 1
+choose what you want to order </s> place order online 1
+enjoying the show </s> buying tickets 0
+pay for pizza </s> give worker name 0
+wait for machine to finish brewing </s> select beans you wish to brew from 0
+decide on which pizza restaurant to order from. </s> answer the door when the deliveryman arrives. 1
+when your order is called, collect it </s> choose items from menu 0
+ordering drink </s> ordering food 0
+find suitable bowling ball </s> get shoes 0
+eat the food with family and friends. </s> purchase the coal and food for the barbecue 0
+wait for cashier to give you a receipt to sign </s> get your credit card out of wallet 0
+put information into a machine. </s> get back in line. 1
+follow your instructors commands on beginning your lesson. </s> park the car. 1
+pile firewood outdoors </s> provide oxygen to the fire until the embers are hot enough to consume the wood 1
+change into swimsuit </s> enter changing room 0
+get into your car </s> leave the pool 1
+understand the bowling pins </s> make sure to get some bowling shoes 1
+find keys. </s> start car 1
+heat up the grill </s> call friends to come over 0
+turn out lights. </s> make him wash and brush teeth 0
+watch fire and contain if needed </s> find a flat land area 0
+light with a match. </s> place small wood in a fire. 0
+say last goodbye to deceased </s> listen to service 0
+cover the carpets </s> clear the room 0
+go to the store and buy necessary equipment </s> proceed to work. 1
+let him start working </s> pay the carpenter 1
+put chimney on grill until charcoal is hot enough </s> when one side is done, turn food over 1
+sign receipt. </s> press the button for credit card. 0
+park </s> go inside and purchase a ticket 1
+get thread </s> put needle and thread back in drawer 1
+put clothes away </s> take laundry from clothes hamper 0
+clean kitchen with sponge and spray cleaner </s> dust furniture in flat 0
+wait for butter to melt. </s> place frying pan on burner on oven. 0
+acquire new button </s> tie the end of the string 1
+rinse the shampoo out </s> get the shampoo and conditioner 0
+swipe your card in the machine. </s> let them know you would like to pay with a credit card. 0
+give identifying information </s> call pizza restaurant 0
+take the back off the alarm clock </s> put the back of the alarm clock back on 1
+register for a course </s> wait for instructor to come pick you up 1
+give item to cashier </s> get credit card out of purse/wallet 1
+paying for the pizza </s> go to the pizza place 0
+eat food. </s> walk up to register. 0
+set up the required equipment </s> serve and enjoy 1
+drive to tennis court </s> find tennis court 0
+put card back in my wallet </s> pull credit card out 0
+pay for foot gear </s> knock down pins with ball 1
+get a good sized towel </s> get into the water 1
+turn grill off </s> purchase barbecue food items 0
+practice serving </s> exit tennis court 1
+decided which train you need to take </s> take a seat 1
+step into water </s> turn water to desired temperature 0
+salt the water </s> put pasta in boiling water 1
+swipe card through reader. </s> authorize purchase by signing. 1
+pay for tickets </s> give the usher your tickets 1
+read a book to the child. </s> tuck child under covers. 0
+eat with everybody and enjoy the company of friends </s> serve the food 0
+enter through turnstile </s> ride to destination 1
+get in the car </s> put on some appropriate clothes 0
+leave locker room </s> change into street clothes 0
+walk into the bowling alley </s> go to your lane 1
+kiss him goodnight </s> read him a story 0
+go to station </s> board the train 1
+decide which side goes first </s> prepare for the ball to return to your side of court 1
+put frying pan on the stove burner. </s> get frying pan. 0
+drive up to a pump on the same side as gas tank. </s> remove fuel nozzle from fuel station gas tank 1
+put needle away </s> put thread away 1
+turn on stove </s> pour into pot 0
+remove thread and needle from kit </s> push needle through fabric and button hole 1
+child will soon be asleep. </s> have child get into bed. 0
+put clothes into washer. </s> set the wash length. 1
+prefer a seat in the corner </s> refer the menu and decide what to eat 0
+order food. </s> throw away trash. 1
+perform some words and offer a hug to whole family </s> go to the church 0
+add water to coffee pot </s> put coffee in cup 1
+enjoy food </s> choose delivery or pick up 0
+bring item to counter </s> slide card in reader 1
+ask for checking up </s> arrive to airport 0
+wait until your name is called </s> pay for the doctor's visit 1
+get pan </s> pour in pan 1
+pull needle and thread </s> pull needle and thread 1
+turn on nightlight or lamp. </s> help the child into bed. 0
+put out lights </s> carry the child 0
+mop floors </s> fill bucket with water 0
+health energy </s> running play 0
+get dressed. </s> get in the receiving line to greet the family of the deceased 1
+wait for the family to view the body </s> attend the graveside service 1
+turn stove on. </s> wait for water to boil. 1
+when finished, douse thoroughly with water </s> add progressively larger wood to the stack 0
+when done put car in park </s> buckle seat belt 0
+go to your lane. </s> pay for shoe rentals and a lane. 0
+put clothes in machine </s> when done put clothes in dryer 1
+when you are told to drive, go with your instructor and get in a car. </s> go to the counter after waiting in line and ask about driving lessons. 0
+get waiters attention </s> tell waiter your food isn't right 1
+crack in a bowl </s> put eggs in pan and stir often 1
+rinse with water </s> rinse with water 1
+close lid. </s> when clothes are clean, put clothes in dryer. 1
+get boarding pass </s> present id and tickets 0
+leave locker room </s> put on towel 0
+walk into the theater. </s> after the show is over leave the theater. 1
+take iron </s> fold clothing 1
+purchase all the materials necessary for the process </s> clean up all the scraps produced from the renovation 1
+remove your clothing. </s> wash your hair and body. 1
+set dish in dishrack </s> wash dish with water and sponge 0
+dry hair with towel, squeezing out the remaining water </s> exit shower 0
+look up the phone number for the place you want </s> wait for the delivery driver 1
+get coffee out of cupboard </s> pour water into coffee maker 1
+continue hitting ball back and forth </s> purchase tennis balls 0
+wait two minutes </s> rinse the soap off of each part of the body. 0
+plate the pasta </s> buy pasta 0
+put on clothes </s> walk out of changing room 0
+remove nozzle from fuel tank. </s> place nozzle back on pump. 1
+rinse the hair </s> dry the hair 1
+put away random items in their correct spot </s> vacuum or sweep and mop the floors 1
+put the food on the grill </s> open the food packages 0
+pull out credit card from wallet </s> answer if you want cash back or not 1
+take three eggs per person for a good-sized serving. </s> then the egg mixture with milk, cream, this will make cooked scrambled eggs more tender. 1
+ask instructor for directions </s> stop driving 1
+stand on opposite sides of the court </s> serve the ball 1
+put seat belts on. </s> say goodbye to lady. 1
+turn on shower and adjust water to desired temperature </s> rinse body 1
+get in car </s> pay respects to family 1
+use shampoo </s> take clothes off 0
+rinse well with water. </s> open conditioner bottle. 1
+wipe with dry mop </s> get broom, mop, detergent, bucket and water 0
+pick up everything from the floor </s> wash laundry 1
+get out </s> listen to sermon 1
+whisk eggs </s> toss eggs into hot pan 1
+find child </s> put child in bed 1
+take baskets to basement </s> wait for an hour 1
+leave room </s> wrap towel around body 0
+opening battery compartment </s> picking up the alarm clock 0
+put coffee in coffee filter. </s> add milk and sugar. 1
+grab ironing board </s> turn iron on and let it heat-up 1
+take a seat in the pulpit </s> drive to funeral home location 0
+remove dead batteries </s> notice dead alarm clock 0
+decide what size pizza you want </s> pay the delivery person 1
+put the desired amount of pasta in the pot when water is boiling. </s> open package of pasta. 0
+swipe all surfaces clean with a mop </s> mop the floor 0
+take plenty of water breaks </s> put on gym shorts, shirt, and tennis shoes 0
+after wash shake clothes out </s> choose which drying level you want 1
+fill sink with soapy water </s> soak dishes 1
+get in sauna </s> drive to the sauna 0
+rinse shampoo from hair </s> put shampoo in hair 0
+locate and navigate to the proper train platform. </s> exit the train at your destination. 1
+let iron cool before putting it away </s> make sure not to set the iron on the clothing or it will burn 0
+open tank cover on car </s> pump gas 1
+prepare paint to be put on walls. </s> apply the paint from the roller to to the wall. 1
+hang the cloth </s> iron the cloth 0
+take out gas cartridge </s> leave 1
+wetting hair </s> apply conditioner 1
+give desired pizza size and toppings </s> listen to them confirm order and correct it if need be 1
+find a menu for a restaurant. </s> choose what pizza you would like. 1
+invite friends </s> clean up 1
+sit in waiting room </s> enter dentist office 0
+get dressed </s> sweat more 0
+marinate the meat </s> test the temperature 1
+drive away </s> take out the fuel pipe 0
+turn alarm clock right side up </s> remove from packaging 0
+get dressed. </s> turn water faucet on and set water temperature. 0
+find some thread and needle </s> thread the needle 1
+enter shower </s> rinse with warm water 1
+buy popcorn and soda. </s> pay and then print out tickets. 0
+rinse conditioner </s> get dressed 1
+sit down </s> wear bathing suit or towel 0
+ask server to take plate of food to get it fixed. </s> tell server what is wrong with food. 0
+pour onto plate </s> mix it all around 0
+put clothes on. done. </s> grab soap and lather it up all over all parts of your body. 0
+go the store </s> plan a date and time for the barbecue 0
+obtain bowling shoes </s> purchase desired amount of games to play 0
+pick up child. </s> close door. 1
+drive home. </s> walk into sauna wearing a towel. 0
+find a button </s> pull thread through and secure button 1
+turn on machine </s> put coffee grinds in machine 0
+use an air freshener to create a pleasant scent. </s> wash the windows and mirrors. 0
+after receiving food check for desired temperature and taste </s> find server and notify of unhappiness with food 1
+sit for the movie. </s> look up movies online. 0
+place batteries into clock </s> get batteries 0
+look up pizza. </s> call pizza place. 1
+pass iron over clothing </s> pass iron over clothing 1
+get button </s> tie knot in thread 1
+turn water on in shower </s> dry hair with towel or hair dryer 1
+go to the changing room </s> drive to the pool 0
+dress in appropriate clothes for theater. </s> give ticket to ticket taker. 1
+bring the and marinated chicken drumsticks </s> take woods, matchbox, newspaper to the bbq stand 0
+place the button in the right spot </s> sew the button in place with the needle and thread 1
+use the needle to guide the thread </s> grab a needle and thread 0
+find a good instructor </s> start the car 1
+change the dress and wear swimming trunk and accessories </s> enter the swimming pool and swim 1
+get a pan </s> what to cook 1
+rack the wet dish on drying rack </s> retrieve dirty dish 0
+drive to location of funeral service </s> follow funeral procession to cemetery 1
+wait for iron to warm-up. </s> set up iron board. 0
+hand card to cashier to swipe </s> see what brands the merchant accepts 0
+picking up with dustpan </s> getting vacuum 1
+drive to the ymca. </s> find a towel. 0
+begin renovation </s> pay for materials for renovation 0
+present ticket and identification at counter </s> arrive at airport 0
+go through to dentist </s> go to the dentist office 0
+purchase food items needed. </s> bring out all the food. 1
+take a seat and wait until called. </s> approach reception counter. 0
+walk through metal detector </s> get ticket for flight 0
+hit ball to other player </s> hit ball to other player 1
+put shoes on. </s> pay fees. 0
+watch the counter </s> pay the bill 1
+drive to dentistry </s> write name on check in list 1
+pick everything up off the floor </s> take out trash 1
+wash hair </s> rinse off the soap 1
+turn light off and close door. </s> have child get into the pajamas. 0
+start renovating the room </s> buy the equipment and furniture needed 0
+drain pasta. </s> serve the food. 1
+first fix a dentist of your convenience with an appointment to avoid delay / inconvenience </s> go to the medical store buy it use regularly. 1
+get out cleaning supplies </s> put dishes in hot soapy water 1
+on rinse cycle, pour fabric softener in </s> when finished, fold clothes 1
+allow your hair to get wet. </s> repeat lathering and rinsing if desired. 1
+close can. </s> open paint can. 0
+wet hair </s> get clothes to wear 0
+rinse over the whole body </s> use towel to dry 1
+collect clothing </s> turn knob to desired setting 1
+use drop cloths or drapes to protect the floors and windows. </s> do the renovation work. 1
+enter bathroom </s> get dressed 1
+tape areas where no new paint is wanted. </s> apply paint to the baseboards. 1
+wipe counters </s> assess the area 0
+walk to the pool through the park </s> get in the car and drive 0
+select food from menu </s> eat food 1
+go inside gas station and pay </s> choose which type of gas you need 0
+walk to child's room </s> lay child in bed 1
+leave when it ends </s> find time and place of funeral 0
+rinse dishes with clean water </s> fill sink with hot water and dish detergent 0
+wait for food. </s> find a table and sit. 0
+wait for 10 min </s> heat water 0
+input credit card type (visa, mastercard, etc) if asked. </s> keep receipt from purchase for record-keeping. 1
+vacuum the floor </s> turn it on 0
+enter into the hospital </s> show the teeth to the dentist 1
+gather a large amount of dry firewood. </s> put wood in a safe venue for a fire. 1
+go to the respective gate </s> go to the airline counter 1
+discard of old batteries in proper receptacle </s> install proper size and amount of batteries, making sure they are in correctly 0
+say good night </s> tell the child to brush their teeth 0
+apply shampoo on hair </s> get the shampoo bottle 0
+have your proper id and ticket ready </s> give the attendant your ticket and id 1
+pour them into a pan. </s> put a pan on the stove. 0
+take shower </s> put clothes in locker 0
+pay for food. </s> go home. 1
+dry dishes. </s> put dirty dishes in water. 0
+pick up the phone </s> speak to the employee 1
+make an appointment </s> answer all questions asked 1
+when finished complete put out fire </s> tend to fire by adding more wood as necessary 0
+be examined by dentist </s> sit in chair 0
+pay your respects </s> get a suit 0
+carry your child to the bedroom </s> place the child in their bed 1
+discover something is wrong with food </s> ask waiter for something new 1
+dispose of old filter if necessary </s> replace filter holder cup 1
+tell them what you want and then pay the cashier </s> wait nearby until your food is ready 1
+turn on water </s> apply conditioner throughout your hair 1
+picking out a show to see </s> driving to the theater 1
+folding clothes </s> plug in the ironing machine 0
+measure window frames. </s> paint walls. 1
+get appropriately dressed </s> tell them you are there 0
+eat pizza! </s> order your pizza 0
+place pot on stove </s> put butter or oil in pot 1
+order take out </s> wipe down heavily used items and surfaces with cleaning product and rag 0
+choose bowling alley </s> try to hit as many pins as possible 1
+eat </s> wait for delivery 0
+discard old wallpaper </s> discard old furniture 0
+ask for food to be returned </s> get correct order 1
+collect fire wood small twigs and leaves </s> place some twigs in between 1
+eat! </s> stir the egg around in the pan as it cooks 0
+fill coolers with ice and drinks </s> set picnic tables 0
+wait in line </s> watch movie while eating snacks 1
+find the seat </s> select order from menu 0
+walk out of the back door of your house. </s> take off street clothes. 0
+set machine to whites and add bleach and detergent </s> start machine 1
+buy paint. </s> paint. 1
+open the tank lid </s> place pump inside the cap 1
+get in shower </s> lather hair 1
+press lever on fuel pump </s> close gas cap 1
+wait for time of driving lesson. </s> listen to instructors instructions. 1
+put soap into dishwasher dispenser. </s> turn on dishwasher. 1
+paint ceiling and walls. </s> refinish floors if necessary. 0
+walk back to table with food. </s> walk up to counter. 0
+set up ironing board </s> preheat iron 1
+check in at reception desk </s> check out at reception desk 1
+marinate meats. </s> welcome guests. 1
+receive boarding pass and back check receipt. </s> give employee your ticket and photo id 0
+put furniture back in room </s> choose new flooring 0
+locate a station </s> board train 1
+eat and drink </s> clean up when the barbecue is over 1
+wait until dishwasher is finished. </s> add dishwasher detergent to soap receptacle. 0
+when done, take nozzle out of gas tank </s> remove nozzle and handle from pump. 0
+close dishwasher </s> place bowls in dishwasher 0
+wipe and dry further with dish towel. </s> rub sponge with the detergent on the plate to remove all residue. 0
+wash the dishes </s> throw away trash 1
+ask for the waiter to come to your table </s> enjoy your meal 1
+take old batteries out </s> put new batteries in 1
+get transportation to the lesson </s> return to parking lot. 1
+wash dishes </s> fill sink with warm water 0
+get changed </s> enter pool 1
+go have refreshments </s> talk to people 0
+close battery case </s> check that alarm clock is working properly 1
+serve yourself </s> start grill 0
+leave the theater </s> pay for ticket 0
+wait outside the bathroom while the child goes to the bathroom. </s> kiss the child on the forehead. 1
+going back to the school </s> going inside 0
+tend to fire to ensure that it does not get out of control and cause unwanted fire. </s> gather dry and/or dead wood for bonfire. 0
+put on somber black clothing </s> go home 1
+pay the amount </s> close the tap 1
+pack bag with sunscreen and towel </s> take bag to pool 1
+break the eggs carefully with a spoon </s> put some salt in it 1
+optional - add salt and pepper to taste. </s> whisk eggs briskly with fork or whisk until the whites are no longer visible. 1
+rub shampoo </s> rinse your hair 1
+turn steaks over. </s> eat steaks. 1
+drink some coffee </s> wait 10 minutes 0
+pick up and put away items that aren't where they should be. </s> clean counters and stove in kitchen. 1
+get tennis racket and balls </s> change into sports clothes 0
+return clothes to room </s> do other things while waiting 0
+get off the train </s> go down the stairs 0
+arrive </s> pay for baggage or extras 1
+take eggs from fridge </s> scramble eggs 1
+plug in coffee pot </s> turn on coffee pot 1
+go to bowling alley and rent a bowling lane and shoes </s> find location of bowling alley 0
+go home </s> go to the dentist office 0
+clean up. </s> find placement for new button. 0
+add some peas </s> add salt and spices as per taste 0
+wait in line </s> leave luggage 1
+get naked </s> wash hair 1
+buy popcorn </s> go to the bathroom 1
+put water on stove </s> drain water from pasta 1
+pick up the clock. </s> put down clock. 1
+dry off </s> put on swimming trunks 0
+leave home </s> close gate behind you 1
+when finished, come out and remove the swim suit </s> while in swim suit relax on declining chair next to pool 0
+gently squeeze water from hair with dry towel </s> lightly massage scalp with fingertips 0
+gather dirty dishes. </s> rinse dished one by one. 1
+get credit card out of wallet </s> wait for cashier to give credit card back 1
+listen to the instructor </s> follow the rules 1
+wipe any surfaces with cleaning cloths. </s> obtain cleaning supplies. 0
+get dressed into respectable clothes for the funeral </s> sit through a church service 1
+remove nozzle from pump </s> replace nozzle back into pump rest 1
+start washing </s> collect all dirty clothes 0
+buy theater tickets in advance. </s> watch the play. 1
+sit in the driver's seat of the car </s> follow the instructions of the instructor 1
+drive home </s> leave bowling ally 0
+add pasta to boiling water </s> stir occasionally 1
+go downstairs. </s> get on train. 1
+walk up to computer </s> scan ticket 1
+take your receipt </s> wait for cashier to ring up item 0
+say goodnight </s> ask if they want a bed time story 0
+whisk the eggs until yolk and whites combined </s> mix every few seconds until scrambled 1
+find shirt with missing button </s> tie knot on thread 1
+arrive at destination </s> buy ticket 0
+get out of car </s> shut the door to your gas cap 1
+clean up </s> fire up the grill 0
+drink </s> get coffee 0
+walk up to the counter </s> take it to table 1
+set up tables </s> grill meat until desired 0
+play bowling. </s> walk up to front desk. 0
+go to a furniture store and buy any new furniture </s> go to hardware store and buy favorite color of paint 0
+sprinkle fresh lemon and have the barbecue chicken with green salad </s> place the barbecue grill at a proper place in the backyard 0
+get button, thread, needle and scissors </s> get item that needs a button 0
+rinse in cool water </s> add shampoo suds up all your hair 0
+pick up trash and miscellaneous items from floor </s> organize items that are out of place (ie 1
+sow the thread through the button holes quite a few times </s> thread a needle 0
+rinse body </s> wash body with soap 0
+check in with the receptionist. </s> check out with receptionist. 1
+give kisses </s> go through child's bedtime routine 0
+retrieve your food when it is ready </s> pay for your order 0
+exit building </s> exit sauna when finished 0
+watch meat cook </s> take meat off of grill when cooked 1
+place items back in room </s> paint walls 0
+enter setting on washing machine. </s> add laundry detergent. 0
+call the pizza place </s> take the pizza 1
+invite guests. </s> get drinks for guests. 1
+read a magazine while you are waiting. </s> give your name to the receptionist. 0
+hang the clothing </s> turn off the iron, being careful not to let it touch anything it could damage 1
+sign when prompted. </s> swipe card at register. 0
+put dryer sheet into dryer </s> put dirty laundry in basket 0
+cover and tape as needed </s> start renovating the room 1
+bounce ball a couple of times </s> get tennis ball 0
+place wood in fire pit </s> carefully light fire 1
+wash hair </s> go to bathroom 0
+put grounds in filter </s> turn off coffee maker 1
+drive to sauna </s> outside of sauna assure that it is on and at desired temperature 1
+fill pot with water </s> dump pasta into strainer over sink 1
+watch total, and remove credit card from wallet. </s> follow prompts on machine, hitting yes and no where appropriate. 1
+get soap </s> wash all of the dishes 1
+go home </s> go into sauna 0
+turn on dryer </s> put in soap 0
+give order to cashier </s> collect food 1
+drive to favorite pool. </s> put on bathing suit under clothes. 0
+enter railcar </s> purchase fare for subway 0
+spray self with cold water </s> leave 1
+plan what you want to change. </s> plan which renovations to start in efficient order. 1
+test for approval </s> signal waiter 0
+swipe through machine </s> grab credit card 0
+spray a pan with cooking spray </s> crack eggs in pan 1
+clean the hair </s> let it for some time 0
+fry eggs until cooked through </s> heat frying pan 0
+after finishing, put the ball and racquet back. </s> obtain a racquet and ball. 0
+they hit bowling pins </s> they get up 0
+casket is lowered into ground </s> hug family of deceased 0
+select an appropriate outfit </s> switch off the phone 1
+get under it </s> open the shower 0
+listening to eulogy </s> greeting people 0
+go back to the dental exam room </s> call the dentist 0
+sign screen </s> make purchase 0
+transfer eggs from pan to plate </s> wash pan 1
+wait for cash payment to be registered. </s> get out of the car and make note of pump number. 0
+taste the food </s> politely tell waiter that the food is not up to standard 1
+make sure to dress and prepare before hand. </s> wait until the ceremony is over, and give a proper goodbye for now. 1
+putting the wood in a pile </s> gathering wood 0
+pay for fuel </s> drive to service station and park at fuel pump 0
+turn off water </s> enter shower 0
+see what time the train comes </s> enter the underground 0
+add dirty dishes </s> put plug in drain 0
+get the child a small glass of water. </s> tell them good night and leave the room. 1
+start washing machine </s> remove wet clothes from washing machine 1
+get button </s> sew on 1
+find something wrong with the food </s> enjoy food 1
+get tennis balls. </s> keep score. 1
+taste pasta </s> turn burner on 0
+pour a cup of coffee </s> set pot on burner 0
+call a friend or find someone to play with. </s> bring more than one tennis ball so you don't have to chase them every time. 1
+whip with fork </s> turn off gas 1
+use clothes iron to remove wrinkles </s> gather ironing board 0
+arrange it in a pile. </s> ignite it with a flame. 1
+pour pasta onto dish </s> boil water 0
+sit down </s> wait for family to go 1
+have fun </s> pay for lanes 0
+turn wood on fire </s> turn fire off after done 1
+put the cloth in shower </s> scrub with soap and rinse 1
+set food at table </s> season food 0
+arrive back to where you started to drive </s> hop on vehicle with assigned personal 0
+pay respects to the deceased </s> socialize and console family members and friends 0
+purchase thread </s> continue until button is attached with an x pattern at the back 1
+transfer back all the contents of the room </s> keep them safely in another place 0
+wait in line </s> watch cashier ring up stuff 1
+look at showtimes. </s> get into car. 1
+find the button </s> thread the needle 1
+look at menu </s> decide what to eat 1
+walk to the area to board the train. </s> wait with other passengers for my train. 1
+get into passenger seat </s> follow instructor's instructions for driving lesson 1
+start ironing clothes </s> find iron 0
+place dish soap on sponge </s> rinse dish with clean water 1
+get out and go to pump. </s> open fuel cap. 1
+strain pasta </s> add pasta 0
+wait for coffee to make </s> pour water into coffee maker 0
+find a button </s> tie a knot in the thread 1
+first familiarize yourself with your machines. </s> to avoid cluster sort your clothes according to variety ex 1
+enter dentist office </s> sit in lobby 1
+enter swimming pool - jump if brave, otherwise walk in slowly </s> towel dry 1
+dispose of old batteries </s> get batteries from drawer 0
+browse the menu </s> place order for pizza 1
+continue to loop the needle and thread through the button holes. </s> cut off any loose threads with a scissors. 1
+dust other surfaces </s> sweep non-tile, non-carpeted floors 1
+skim debris off surface of pool </s> enter water 1
+enter the sauna room </s> enter the spa 0
+cook for however long the instructions call for </s> still and serve quickly 1
+put burgers and dogs into buns </s> put meat on the grill 0
+move wet clothes to dryer. </s> get dirty hamper. 0
+buy supplies </s> lay down tarp on floor 1
+tie knot on needle. </s> collect thread and needle. 0
+get on court </s> win game 1
+be reverent </s> find a seat 0
+wait for food </s> pay for food 0
+open washer </s> set washer cycle knob to desired cycle 1
+iron the clothes one by one </s> fold the clothes nicely 1
+assist child in brushing teeth. </s> give child kiss and hug. 1
+walk down sidewalk to entrance point. </s> wait for train without crossing the line. 1
+go to bowling alley </s> go to counter 1
+buy the ticket </s> check travel information 0
+drive to the theater </s> find your seats 1
+enroll in driving lessons </s> follow instructions given by instructor 1
+fill pot with water </s> wait for water to boil 1
+follow on-screen instructions </s> receive receipt for payment. 1
+walk through security check point. </s> check luggage at departures desk. 0
+hand receipt to cashier </s> when receipt printed sign it 0
+take to laundry room. </s> when dryer is done, take clothes out. 1
+wash soap off </s> get undresses 0
+note the gas pump number (if paying for gas inside the store) </s> park car 0
+wait for food </s> order food from waiter 0
+rub shampoo in hair </s> turn on shower 0
+gently dry the dishes with a dish cloth. </s> rinse the dishes under water to clean off the soap and any other food particles. 0
+board the underground </s> exit the underground 1
+find your way to your seat. </s> have your tickets ready or be prepared to buy them at the door. 0
+turn on alarm clock and set desired time </s> grab alarm clock 0
+take a shower after the swimming. </s> change into swimsuit in the changing room. 0
+pull out of your spot and onto the ride while watching all directions </s> check your wipers and turn signals to make sure they work 0
+push the needle through one button hole and back out another hole </s> find matching thread 0
+turn on heat on oven burner </s> pour mixed eggs into frying pan 1
+find alley </s> paying for a string 0
+don't cross over the line when you roll the ball. </s> go to the counter and rent shoes. 0
+put painter's tape around edges of windows and fixtures. </s> install pictures, decorations, and curtains. 1
+find things to fix </s> return back 1
+get on subway </s> pay fare 0
+get out of the car. </s> listen to the instructor. 0
+select quality of fuel </s> pull lever to begin fueling your car 1
+go to the store </s> purchase the batteries 1
+clean out pot </s> fill coffee maker with that water in pot 1
+insulate walls </s> put in subfloor 0
+drive to the theater </s> go to ticket booth and purchase tickets 1
+being called for my turn </s> getting up 0
+wash yourself </s> step into shower 0
+proceed to the theater seating. </s> enter the theater 0
+tuck child in. </s> tell child it is time for bed. 0
+get out of car when done </s> follow teacher's word 0
+buy refreshments if you'd like them. </s> drive to the theater if you are not already there. 0
+check the train schedules </s> enter the station 0
+walk to the front </s> get in car. 0
+cover the child with bed sheets </s> go to the bed room 0
+pay the amount requested. </s> replace the tray near the trash can. 1
+buy a ticket </s> wait for the train 1
+relax </s> remove tennis clothes 0
+suds the shampoo between your hands </s> squeeze shampoo into you hand 0
+clear the room </s> cut wood 1
+arrive at sauna. </s> bring towel into sauna. 1
+take tennis racket and ball </s> return service of partner by hitting ball with racket 1
+use steam when necessary. </s> when cool put away. 1
+repair any walls and fix drywall as necessary. </s> return decorations to room. 1
+patiently wait as nurse cleans teeth </s> schedule an appointment 0
+stick into gas hole </s> pick grade 1
+close door of washing machine </s> select washing style and length of time to wash 1
+let dish dry on dish rack </s> pile dirty dishes into water-filled sink 0
+locate washer and dryer </s> make selection on dryer 1
+set any alarms you had before </s> set the time on the alarm clock 0
+clean flooring. </s> assess where things need to go. 0
+unload clothes into dryer </s> load clothes into washing machine 0
+pull into parking spot when finished. </s> put on seatbelt. 0
+speak to receptionist </s> walk back to dentist chair when called 1
+politely describe the problem to the waiter. </s> enjoy meal. 1
+walk through tunnel to avoid traffic </s> walk back up ramp to outside 1
+open coffee grounds </s> grab a mug from the cupboard 1
+talk to dentist </s> walk into the waiting room 0
+read out credit card number and expiry date </s> wait for pizza delivery 1
+removing old batteries </s> reset time on clock 1
+go through security </s> wait in line 0
+update the time </s> take back off of alarm clock 0
+get in your car or call a cab or friend to drive you to the dentist </s> call the dentist and make an appointment 0
+put iron on ironing board </s> turn iron on 0
+switch on the flame </s> prepare pasta sauce 1
+double check the time. </s> attend the funeral. 1
+call the child </s> take the child to bed room 1
+check mirrors and adjust seat </s> exit vehicle 1
+take a shower </s> turn heat to 70-90 0
+rinse and food off dishes </s> rinse in cold water 1
+wait for your clothes to finish </s> put one load into a washer 0
+change into swimsuits </s> swim in the pool 1
+make sure you are at the correct terminal. </s> print boarding pass. 1
+arrive at funeral home. </s> give condolences to family. 1
+drive to swimming pool </s> enter the swimming pool 1
+search for nearby pizza restaurants with home delivery service </s> take mobile phone 1
+get meal from cashier </s> leave spot 1
+drain the pasta in a colander </s> turn the burner on to medium high 0
+add a little water to the bowl. </s> pour eggs into pan. 1
+buy meat to put on grill. </s> cook it at low temperature for long time. 1
+travel to the pool </s> get a locker 1
+strip clothes off </s> walk into sauna 1
+ring out the excess water </s> put away the mop 1
+turn on water at sink </s> rinse shampoo from hair 1
+dentist cleans your teeth </s> dentist fastens a paper bib around your neck 0
+find thread and needle. </s> get a replacement button. 0
+practice my serve. </s> find an outfit to play in. 0
+opponent hits ball </s> player serves ball 0
+get dressed in proper attire </s> drive to location of funeral 1
+wash body </s> wash hair 0
+dusting the tables and such </s> vacuuming the floor 0
+put shampoo in hair </s> make hair wet 0
+select order </s> delivery man brings pizza 1
+pay the fare. </s> get on bus. 0
+allow to cook slowly for a minute </s> add a small amount of milk, and salt and pepper to taste 0
+take out the batteries </s> add new batteries to the alarm clock 1
+put ribs on grill </s> organize a barbecue 0
+let it stay in for two minutes </s> find the conditioner 0
+find seats </s> buy tickets 0
+rent a lane </s> start bowling 1
+answer door and pay driver </s> find the phone number to the pizza place 0
+grab some towels </s> go swimming 1
+add some washing powder </s> put the cloth in washing machine 0
+put water into machine jar </s> put coffee ground into machine 0
+rent some bowling shoes. </s> drive home. 1
+listen to pastor. </s> stand up and give people hugs. 1
+board train </s> buy your ticket 0
+wet hair </s> rinse hair until free of shampoo 1
+place the dishes in try to dry </s> soap up the water 0
+take a towel </s> walk to pool 1
+put my credit card back in my wallet </s> take out my credit card 0
+plan out the changes that are desired. </s> decide whether to do the work yourself or hire a contractor. 1
+find a table to sit at. </s> pay for food. 0
+enter the dentist office </s> after the dentist is finished, clear your mouth with water 1
+go to ticket line </s> sit down 1
+start playing tennis on the court </s> drive to tennis court 0
+get clean clothes from closet </s> turn off water 0
+plug in iron. </s> open ironing board. 0
+grab coffee mug </s> mix and enjoy 1
+tell them the food issue. </s> decide the food is bad. 0
+crack eggs into mixing bowl </s> whisk eggs 1
+pour contents in a colander </s> stir 0
+measure and pour ground coffee into machine </s> put in machine 0
+slide thread through hole </s> grab a needle 0
+put water in coffee maker </s> gather coffee and coffee filter 0
+replace battery cover. </s> dispose of old batteries properly. 0
+cut off the extra thread </s> make a knot 0
+open lid of coffee machine. </s> put empty coffee cup under spout. 1
+hang ironed clothes in closet </s> turn on iron 0
+exit funeral home </s> talk with others about fond memories of deceased 0
+slowly and gently press the iron onto the clothing and rub back and forth </s> lay clothing flat on ironing board 0
+pour in hot water </s> pour in some milk 0
+take to laundry room </s> close lid of washing machine 1
+serve the food </s> open sauce and pour into pot 0
+clean the windows </s> discard trash 1
+remove the nozzle </s> fill the tank 0
+putting water on stove </s> grinding beans 0
+take clothes off in dressing room. </s> wrap self in towel 1
+then wipe his/her foot </s> let him/her take his own time to sleep listening to stories. 1
+listen to instructor. </s> put key in ignition. 0
+place article of clothing flat on the ironing board </s> get iron 0
+put skewers and salads on table </s> light grill 0
+throw garbage into trash </s> go into restaurant 0
+add soap. </s> put dirty dishes in water. 0
+take off clothes </s> turn on water 0
+get new batteries. </s> recycle the old batteries. 1
+show him the bad food </s> ask him to take it back 1
+take ball to lane </s> find ball 0
+put barbeque sauce on meat </s> get barbeque coals 0
+squeeze shampoo into hand </s> dress 1
+throw away trash </s> exit theater room 0
+put away laundry basket </s> hang up the laundry after it is ironed 0
+start the driving lesson </s> show identification 0
+apply soap to body </s> enter the shower 0
+buy your tickets at the window </s> leave once the movie is over 1
+release clutch slowly </s> put right foot on brake 0
+wait for train </s> exit train 1
+pack sunscreen and towels </s> put on bathing suit 1
+leave </s> tuck them in 0
+fold clothes </s> get detergent 0
+explain to waiter the issue </s> try food 0
+insert gas nozzle </s> return nozzle to pump when tank is full 1
+they take it back to kitchen </s> when it doesn't taste right, call over waiter 0
+turn off water </s> rub shampoo into hair 0
+place the flowers on the box. </s> go to the shop and pay. 0
+chop veggies. </s> place meats and veggies on grill. 1
+plug in and turn on iron. </s> take clothes out of dryer. 0
+make sure you have your proper tickets. </s> make sure you have proper identification. 1
+listen to any directions </s> get printout from attendant 0
+get spray starch </s> plug in iron 0
+buy meat </s> get charcoal 0
+turn off car </s> get out of car 1
+view where the plus and minus are. </s> put the cover back on. 1
+clean the windows </s> run the vacuum 1
+when it is done, take you pizza home. </s> decide what type of crust you want. 0
+wait for further instruction </s> walk to check in desk 0
+wait for the waiter to return with new food </s> ensure the food is correct 1
+find something wrong with food </s> give old dish to waiter 1
+rub hands together </s> repeat if necessary 1
+light charcoal using starter fluid. </s> wait for flame to die down. 1
+cut the thread </s> do this several times until the button is secure 0
+thread the needle </s> secure the button with a knot 1
+plug in iron and turn it on </s> set iron to desired temperature 1
+go inside </s> sit down and eat 1
+enter station </s> find correct station 0
+pull up to gas pump </s> pump desired amount of gas 1
+put some paper in the sticks </s> buy some logs from a store 0
+find a seat </s> select order from fast food 1
+throw away the dust. </s> vacuum the carpet. 1
+step inside dentist's office </s> wait for name to be called 1
+after examination check out with receptionist </s> drive home 1
+leave theater at end of movie </s> put water and candy into purse 0
+go inside the sauna </s> put on your sauna attire 0
+remove used batteries </s> dispose off the old batteries in safe place 1
+bring the water to a boil. </s> fill a large pot with water. 0
+put new furniture in room. </s> take furniture out of room. 0
+pour pasta into the water and stir. </s> fill a large stock pot with water. 0
+get food </s> look at food 1
+sign up for lessons </s> make appointment 1
+push start button </s> put dirty items in washing machine 0
+sweep the hard floors </s> mop the hard floors 1
+please switch on the water motor and the washing machine </s> make it clean 1
+wet the dish. </s> wet the dish again to remove the soap. 1
+wait for new food </s> thank waiter 1
+relax </s> enter the sauna 0
+put on child's pajamas </s> read a bedtime story 1
+iron the clothes from top to bottom </s> take washed clothes 0
+close coffee reservoir lid </s> turn on 1
+rent shoes and a lane </s> get out of car 0
+purchase any snacks or beverages you'd like from the snack counter </s> watch the movie 1
+return home </s> make an appointment 0
+win </s> hit ball to the opposite side of the court 0
+go to tennis court </s> wear loose, comfortable clothes 0
+put plate covering back on clock </s> reset clock to the right time 1
+set up the ironing board </s> iron the cloth(s) 1
+set the time </s> remove old batteries 0
+find your lane. </s> go to the bowling alley. 0
+get towel dry off. </s> rinse off. 0
+invite friends over </s> fire up the barbecue pit by lighting charcoal and wood 1
+throw away garbage from renovation </s> wear an air mask 0
+rinse hair </s> wash hair with fingers 0
+pour kerosine over the firewood </s> surround it with sand 0
+pass security </s> check bags 0
+leave restaurant </s> grab straws and condiments 0
+buy food </s> start up the barbecue 1
+put in dryer sheet </s> take out dry clothes 1
+rinse off soap </s> get a container large enough for dishes of hot water 0
+stay calm and listening for duration of lesson </s> drive back home 1
+put away the vacuum </s> take out the vacuum 0
+pour shampoo into hand </s> lather shampoo into hair 1
+lean back in chair and open mouth </s> dentist comes in and checks teeth 1
+turn off water </s> wash shampoo out of hair 0
+attend the primary theory class with all attention </s> start the vehicle and drive under the guidance of the instructor 1
+light wood and kindling. </s> collect wood and kindling. 0
+pick out paint for walls </s> pick out new carpet 1
+get on train </s> swipe card out 1
+locate the grill </s> place food on a plate 1
+drive to funeral home </s> pay attention to funeral service 1
+change </s> enter pool area 0
+find a booth </s> order food 1
+crack the egg on the pan. </s> push the egg side to side with a spatula. 1
+put furniture back in room </s> choose a paint color for walls 0
+dig a hole </s> walk outside 0
+get out of the car. </s> sit and eat. 1
+turn down heat </s> crack eggs in bowl 0
+sit through sermon </s> say goodbye 1
+begin to clean dirty dishes with sponge </s> put dish soap onto sponge 0
+bring in any new furniture </s> clear/remove current furniture and/or wall paper from room 0
+get in the car and go to the funeral venue </s> sit on a seat for the duration of the funeral 1
+stick the head through the needle eye </s> tie the knot on that end 1
+close the dishwasher </s> put the detergent into the dishwasher 0
+dust knick knacks and wall hangings. </s> pick up and put away things. 0
+insert nozzle into car </s> push buttons on the pump regarding payment 0
+begin bowling </s> return shoes and bowling ball 1
+use faucet to rinse dishes </s> put dishes in dryer rack 1
+leave dentist office. </s> travel to dentist office. 0
+get some matches </s> feed fire till it catches the rest of the wood 1
+put laundry in </s> turn dryer on 1
+kiss on forehead. </s> reassure him there are no monsters under bed. 0
+put your clothes back on </s> go to the gym 0
+put everything on the table </s> set up a picnic table 0
+going to the airport </s> find my airline check-in 1
+add sugar and milk </s> pour and serve 1
+beat eggs </s> stir the mixture 1
+walk into the airport </s> hand ticket to the person at the counter 1
+buy tickets for theater </s> arrive at theater before show 1
+call over waiter </s> find something wrong with taste 0
+clean the dishes thoroughly </s> use dish-washing liquid on a scrub 0
+change the filter. </s> measure coffee. 1
+go outside </s> gather wood 1
+light the fire </s> collect pieces of dry wood 0
+relax your whole body, doing so helps to keep you afloat more. </s> using goggles can be very useful. 0
+tell the child again </s> kiss child goodnight 1
+wait for clerk to tell you total </s> bring items you want to buy to register 0
+cook meat </s> clean up 1
+watch movie </s> find theater 0
+leave tennis court </s> keep score 0
+wait 1-2 minutes. </s> rinse the conditioner til hair is clean. 1
+climb up the stairs and arrive at your destination </s> find the line that you need to take 0
+talk with everyone there </s> drive to the funeral 0
+on account of the dishes to be cleaned take enough liquid. </s> wipe the dishes for dry with a dry cloth. 1
+pick up phone </s> place order with pizza place 1
+kneel by the bed </s> walk out their door 1
+strip down and put towel around waist </s> go to locker room 0
+plug in iron. </s> unfold ironing board. 0
+turn on the washer </s> put a load in the washer of one color 1
+undress. </s> apply shampoo. 1
+pick out item </s> take card out of wallet 1
+get vacuum cleaner </s> dust surfaces 0
+view what time the sauna closes </s> wear your swim trunks 1
+add grated cheese and garnishes as desired </s> check the package for suggested cooking time 0
+leave gas station. </s> pull up to the gas pump. 0
+put in washing machine </s> fold them 1
+continue until end of game. </s> get racket and ball. 0
+create a fire pit or use a ready made one available in stores. </s> stack wood in a log cabin fashion inside of the pit, building upwards. 1
+add water </s> add pasta to the water 1
+drive or walk to the theater </s> find seating 1
+turn on washing machine </s> put fabric softener into dryer 1
+have snuggle time with child </s> turn off lights 1
+order the meal </s> wait for the meal to be cooked 1
+stir pasta </s> adding pasta to boiling water 0
+get all your identification ready </s> go to front desk 1
+get in the car. </s> drive to the funeral location. 1
+get dressed in loose clothes and tennis shoes </s> play tennis 1
+get receipt </s> put payment in the gas pump 0
+walk to the diving board. </s> drive to the pool. 0
+figure out which train you need to board </s> figure out which stop you need to get off at 1
+give address of where you want it delivered </s> call a pizza place 0
+get pan out of cabinet </s> turn off stove 1
+place order by telling them what kind of pizza and toppings you desire </s> confirm order 1
+grill food on barbecue </s> get the ingredients 0
+leave sauna after 20 minutes. </s> drive to sauna. 0
+add cream and sugar if desired </s> open coffee maker basket 0
+enjoy renovated room </s> mix new paint 0
+book the ticket </s> leave the theater 1
+set light to kindling or paper </s> gather logs and kindling 0
+you and partner each take one side of the court </s> find a tennis partner 0
+wet sponge </s> rinse soapy dishes until no longer soapy 1
+take the shower for 5 minutes </s> pack up swimming dress and leave home 0
+tuck child in </s> bring child to bedroom 0
+pay the driver. </s> decide what you want. 0
+enter the theatre </s> find a seat 1
+place dish in drying rack </s> dry dish 0
+continue to put wood on the fire as it dies down </s> add smaller twigs or paper near the bottom 0
+put away any other stray items. </s> put the laundry in the dryer. 0
+add tomato sauce </s> get a pot 0
+leave the room </s> tell the child to use the bathroom and brush his/her teeth 0
+get seated. </s> wait in line. 0
+warming up the grill </s> eating food 1
+take credit card </s> enter your pin 0
+get dressed </s> dry hair and body with towel 0
+play the match </s> learn playing techniques 0
+decide where you want to go. </s> get to the station. 1
+insert the thread into the needle hole </s> cut the thread. 1
+pull lever to open gas tank cover </s> remove nozzle 1
+test pasta for doneness </s> wait for water to boil 0
+turn it on. </s> sit down and drink coffee. 1
+set up ironing board </s> put board and iron away 1
+thoroughly wet hair with water </s> thoroughly rinse conditioner from your hair with water 1
+when your instructor arrives introduce yourself </s> make sure you are comfortable in the car 1
+check in at the front desk </s> arrive at sauna of your choice 0
+get ironing board. </s> plug in iron. 1
+put coffee carafe back in position </s> grab coffee filter and place in the machine 0
+put pot on coffee maker </s> empty coffee grounds 1
+put away when dry. </s> run hot water in sink. 0
+rinse hair </s> use hands to scrub hair 1
+move clothes to dryer, except clothes that can't go in the dryer </s> collect all dirty laundry 0
+get coffee mug </s> put mug under dispenser 1
+get baggage claim ticket and id </s> give id to front desk 0
+change clothes </s> sit and relax for desired amount of time 1
+take out as many eggs as you want </s> whisk eggs in bowl 1
+remove covers from bed </s> leave room 1
+drive to the dentist's office </s> get whatever work needs to be done, done 1
+leave sauna </s> enter sauna 0
+open the battery compartment. </s> set the time. 1
+leave the restaurant </s> wait for your food to arrive 0
+decide what kind of pizza to buy. </s> input information for pizza order. 1
+heat up iron. </s> gather wrinkled laundry. 0
+put on appropriate clothing. </s> speak with quiet voice. 1
+put milk, sugar, and coffee in respective compartments </s> go to kitchen 0
+pull covers over child </s> go into bedroom and make sure bed is made 0
+rinse out </s> massage scalp good to loosen dirt 0
+follow the signs to the exit. </s> play a game on your phone to pass the time on your journey. 0
+rinse pasta with cold water </s> after water boils, add pasta 0
+take out old one old battery </s> replace with new battery' 1
+wait for plane. </s> arrive at the airport. 0
+keep the bonfire going by adding more wood or leaves. </s> pile these items in a pile. 0
+look up a good dentist online. </s> sit in the dentist's chair. 1
+face your opponent. </s> go to tennis courts. 0
+open the fuel tank </s> get near to the car 0
+clear any clutter off floor </s> dust lamps and shelves 1
+make an appointment for a certain date for renovation </s> make a list of items required 1
+put new furniture in </s> move out old furniture 0
+view funeral </s> visit with family and friends 1
+grab towel </s> drive to sauna 1
+walk to the pool </s> jump in the water 1
+drive to dentist </s> talk to dentist 1
+thank the waiter. </s> call waiter to table. 0
+listen to music, relax and have the coconut water </s> go to the room remove all clothes 0
+fill pot with water </s> get box of pasta 1
+borrow a car </s> wait for instructions 1
+fill sink with hot water </s> get sponge 1
+add salt to the water. </s> purchase pasta from store. 0
+take off clothes </s> step in shower 1
+complete the exam </s> confirm the appointment 0
+dust </s> vacuum/sweep 0
+register with the receptionist </s> drive to the dentist 0
+tuck child in bed </s> turn on night light 1
+talk with dental assistant and dentist about any problems you have with your teeth or mouth </s> schedule follow up appointment or next appointment 1
+slowly move eggs around in till a pretty yellow </s> place pan on stove top 0
+provide the credit card to the seller </s> collect the bill for money transfer 1
+go to designated bowling lane </s> insert name into the score list 1
+go inside theater </s> drive to the theater 0
+pay with credit card </s> select goods and merchandise 0
+open coffee can. </s> stir the cup with spoon. 1
+get receipt </s> turn off engine 0
+walk to theater </s> choose seat 1
+get out of the shower </s> get soap 0
+eat your pizza </s> tip delivery person 0
+stir the eggs with a spatula </s> get three eggs 0
+mixed it well </s> pour cup of water in a bowl 0
+put pump in car. </s> arrive at gas station. 0
+kiss child goodnight. </s> put child in bed. 0
+gather up dirty clothes </s> close the door 1
+head towards your assigned room by following the appropriate signs </s> find a comfortable seat and enjoy the movie 1
+check in with receptionist. </s> wait in waiting room. 1
+get my keys </s> turn the car on 1
+give condolences to family </s> get in car and drive to funeral 0
+put dish soap on rag </s> wait for dishes to dry 1
+replace the new batteries </s> remove the previous batteries 0
+decide what pizza i want </s> look at menu 0
+get phone </s> call order in 1
+wait for food to get done </s> enjoy your food 1
+gather all your ingredients </s> invite your friends and family 1
+go to the station </s> appear from beneath the sidewalk 1
+walk up to counter. </s> find gate and wait for boarding announcement. 1
+go to the bathroom </s> come out from the bathroom 1
+enter pool. </s> swim. 1
+wait for the turn </s> open the garage 0
+watch movie </s> get some popcorn or other snack 0
+vacuum floors </s> take out vacuum 0
+turn on water to desired temperature </s> choose shower tub or large sink 0
+heat up iron </s> obtain laundry that needs to be ironed 0
+attempt to knock the pins down with the ball </s> begin game 0
+tell child it's bedtime </s> kiss child's head 1
+run iron over laundry </s> place laundry on board 0
+turn off the water. </s> get your body wet. 0
+discuss ideas </s> get new flooring 1
+wait in waiting room to be called back to the dentist's office </s> call dentist to make appointment 0
+place wrinkled laundry on ironing board </s> plug in iron 1
+play sets until someone wins the match </s> to rally, let ball bounce once in front of you, and hit over the net 0
+put up new walls </s> tear up old floor 0
+remove furniture </s> arrange furniture 1
+exit the theater </s> buy tickets at the box office 0
+take shampoo and wash your hair. </s> take body wash and wash all over your body. 1
+swim </s> get a towel 0
+tell waiter to come here. </s> you wait. 1
+have the worker ring them up </s> get the receipt 1
+get a needle </s> repeat the inserting as above for about 10 times 1
+sit down </s> look at the menu 0
+crack eggs into pan </s> let it cool down and enjoy 1
+stand in line at counter </s> sign name 1
+buy and bring home new batteries from store </s> remove old batteries 1
+driving (going) to the funeral </s> leaving the event 1
+remove pasta </s> place water in pot 0
+taste food or look at food </s> enter restaurant 0
+you put it in your purse. </s> you take your bags and leave. 1
+walk inside office </s> get in car 0
+receive food from waiter </s> hand waiter dish to return 1
+set dials to appropriate settings </s> remove clothes when completed 1
+get buns. </s> cook hot dogs and hamburgers. 1
+pull in front of pump </s> remove seat belt, get out of car 1
+present id </s> collect receipt 1
+go to your lane </s> go to the bowling alley 0
+remove old batteries. </s> check number and size of batteries required. 0
+put the apparels into the washer. </s> start the washer. 1
+wait for bonfire to activate it up </s> gather wood 0
+leave my house </s> get in my car 1
+fill the sink with hot water and add dish detergent. </s> rinse the soap off and place the dishes in the dish drainer. 1
+go to funeral location. </s> leave funeral home. 1
+serve on the plate </s> take out carefully after well cooked 0
+tuck the child in. </s> bathe the child. 0
+scrub dishes with pot scrubber or washcloth </s> rinse soap and bleach from dishes 1
+tip the driver </s> call and place the order 0
+find sewing kit. </s> find a piece of clothing. 1
+dive into the pool </s> change the dress 1
+wait until train arrives at my stop. </s> look up map of underground to see where i need to go. 0
+take credit card out of wallet </s> sign your name 1
+set up ironing board </s> hang up item 1
+put away clean dishes </s> putting dishes into dishwasher 0
+call friend to set a date to play tennis. </s> play a few sets of tennis with friend. 1
+go to car </s> pay cashier for gas 0
+go up to the desk when your flight is called </s> get on the plane 1
+replace back cover </s> inspect the housing unit to ensure no corrosion 0
+put the clothing on the board </s> get iron 0
+put away card </s> get out your card 0
+wait </s> tell attendant how much gas to put in 1
+when finished eating, take your trash to a trash can </s> pay for your order 0
+turn on washing machine </s> when dry, remove clothes from dryer 1
+make your way to the airline's gate </s> check in to your flight 1
+ask for new food </s> explain the problem to the waiter 0
+have contractor complete renovations </s> have a design plan 0
+grab alarm </s> throw old ones away 1
+locate departing gate. </s> approach ticket counter line. 0
+end game </s> get tennis racket and ball 0
+comb hair </s> get conditioner 0
+determine the types of furnishings you want inside the room </s> compare the pre-existing design with how the room looks 1
+call the pizza restaurant </s> tell them address for pizza to be delivered to 1
+rinse the condition from the hair. </s> undress and enter the shower. 0
+add dish soap </s> put on a counter to dry 1
+explain to the waiter your problem with the food </s> ask yourself what is wrong with the food. 0
+stick a small sticker in side mentioning the date of changed for future use. </s> open the box where the batteries are fixed. 0
+place iron on top of clothes moving it back and forth until no wrinkles </s> plug it in 0
+hang clothing </s> set up ironing board 0
+crack the eggs into the bowl </s> cook over medium heat until all eggs are done 1
+step out of shower. </s> dry off using towel. 0
+rinse </s> wash body 0
+follow his directions </s> drive safely 1
+scramble. </s> pull out a bowl. 0
+return to starting point </s> drive carefully 0
+take item to register </s> sign for purchase 1
+find a suitable button </s> find needle and thread 1
+put water on stove </s> put beans in grinder 1
+put gas cap on and close door of gas </s> place back in holder 0
+go to bathroom to change into swimming attire </s> put together backpack with swimming clothes. 0
+order food from restaurant </s> politely call over waiter to table 1
+make an appointment </s> pay copay 1
+dry off with a towel </s> rinse off the body wash 0
+give your address and phone number </s> ask for prompt delivery 1
+sit in dentist chair </s> dentist takes x-ray 1
+place empty coffee pot in coffee maker </s> turn on coffee maker 1
+enter bathroom </s> dip up water 1
+have child brush teeth. </s> turn off light. 1
+buy any lumber of carpet that you may need. </s> work slowly with a goal every day. 1
+leave conditioner on for several minutes </s> apply generous amount of shampoo 0
+consume barbecue and drinks </s> open the drinks 0
+wait 5 minutes </s> put coffee in press 0
+leave house </s> drive car 1
+enjoy! </s> boil hot water on stove 0
+set up ironing board </s> hang them on hangers 1
+turn off grill </s> marinate/season meats 0
+you get up and look for a ball. </s> you walk into bowling alley. 0
+pick a lane </s> have fun 1
+get in line at terminal desk </s> check in luggage 1
+turn pot on. </s> add water to coffee pot. 0
+check food for contamination </s> get waiter's attention 0
+dry off with towel. </s> gather clean clothes to wear after you get out of the shower. 0
+hit some pins </s> go to lane 0
+go to the locker room and get changed </s> enjoy the sauna 1
+purchase new rug to match paint </s> purchase new paint 0
+get a partner </s> play game 1
+turn out light </s> brush her teeth 0
+get a pan </s> apply oil on the pan 1
+press the steam button on iron </s> get iron from the closet 0
+test button for strength. </s> thread needle. 0
+get on it </s> look at the map of where i'm going 0
+choose option that i want </s> open gas lid on car 1
+present your ticket and luggage at the counter </s> receive your boarding pass 1
+thank the waiter </s> politely tell waiter what is wrong with food ordered 0
+go to tennis court </s> stretch and warm up 1
+get your bowling shoes at the counter, and ask the person working to assign you to a lane. </s> return your shoes to the counter and pay for your game. 1
+go to ticket counter </s> give agent your id. 1
+stir eggs constantly </s> pour eggs into pan 0
+go to store and get a large amount of meat, buns, beer, and barbeque sauce </s> tell your friends that you will have a barbeque 0
+separating whites and colors </s> add soap 1
+thank waiter/waitress </s> determine what is wrong with the food 0
+cut excess thread </s> thread button onto clothing 1
+get into your car with items </s> change into bathing suit 1
+arrange the new stuff in the room. </s> set a budget. 0
+get the tennis racket and balls </s> play the game 1
+close the water </s> take shampoo bottle 0
+choose bowling ball </s> receive bowling shoes 0
+get into the car </s> register name 1
+present id and a credit card to attendant. </s> find the right counter for airline you are flying. 0
+enter the theater and enjoy the film </s> go to the theater 0
+get tennis balls </s> return ball hit by opponent 1
+walk to pool </s> put on swimsuit 0
+find button to be sewn </s> proceed to insert needle into button holes and through clothing/ item until securely sewn 1
+cook meat until done </s> place meat on grill 0
+wait in line. </s> go to the restaurant. 0
+deposit your luggage </s> collect your boarding pass 1
+invite friends </s> serve beer 1
+put new batteries in compartment </s> test alarm clock 1
+politely tell him what is wrong with the food. </s> ask him if he could please bring it back to the kitchen. 1
+hit ball back and forth </s> keep score of who misses 1
+wait for pasta to soften </s> add pasta 0
+step into sauna. </s> drive to the sauna. 0
+replace walls and windows as desired </s> remove fixtures and carpet from the room 0
+go the the gym dressing room. </s> undress 1
+enter dentist office </s> sit in chair 1
+pay. </s> open fuel tank. 0
+put away </s> gather dirty laundry 0
+check timetable if necessary </s> step onto train 1
+put paper around and under the twigs/sticks </s> light the paper on fire 1
+put wood in pit </s> throw match on wood 1
+put charcoal in grill </s> remove from grill 1
+operate car according to manual </s> follow laws and regulations of driving 1
+exit the vehicle </s> start driving lesson for certain amount of time 0
+invite friends </s> enjoy company of friends 1
+sign the funeral book </s> arrive at the funeral place calmly 0
+swipe the card or allow the cashier to swipe. </s> take your receipt. 1
+find the number of the pizza place you want to order from. </s> call the pizza place. 1
+walk to the ticket counter for the airline </s> approach the agent 1
+go through security </s> go to gate 1
+drive to bowling alley. </s> pick a ball. 1
+close the washing machine </s> take clothes out that need to be washed 0
+tell waiter food is raw </s> send back to kitchen 1
+get in a car </s> drive to the funeral home 1
+put grounds in coffee press </s> put boiling water in coffee press 1
+rinse hair. </s> apply shampoo to hair. 0
+dry them off </s> give them a bath 0
+finding the others who have done so </s> doing my best to obtain the underground 1
+rinse soap and water off cleaned dishes. </s> pour a small amount of dish liquid over dishes. 0
+open washer door </s> open small compartment for detergent 1
+tie knot in end of thread </s> get button 0
+sitting down </s> eating 1
+view the deceased in the casket </s> offer condolences to the family and friends of the deceased 0
+get to the airport before your flight </s> get printed boarding pass 1
+explain to the waiter that you do not like the food. </s> ask for the waiter/waitress. 0
+pay the card fee </s> when called go inside 1
+change into your swim suit </s> enter the pool 1
+decide what size pizza you want. </s> tell the operator how you plan to pay for the order. 1
+hang new curtains. </s> research design options online. 0
+go into theater and present ticket to attendant </s> drive or walk to theater 0
+add spices </s> put off flame when ready 1
+place in soapy water. </s> pick up a dirty dish. 0
+enjoy pasta </s> throw water out of pan 0
+drive to theater </s> park your car 1
+decide what kind of pizza you want </s> call the local pizza place that delivers 1
+hand them credit card </s> bring item to clerk 0
+go to the place where the service is being held </s> put on a sad face 0
+open shampoo bottle. </s> work into hair. 1
+follow the directions they give you. </s> sign your name at the reception desk. 0
+look for delicate items that can't go into the dryer and hang them. </s> add laundry detergent. 0
+return the needle through the fabric and through a different button hole </s> push needle through the button hole into the fabric 0
+go to kitchen </s> turn it on 1
+enter the sauna </s> take another shower 1
+light kindling </s> play guitar 1
+driving to the theater </s> getting in the car 0
+go home </s> have teeth xrayed 0
+explain what was wrong with the dish and ask to send it back </s> wait for waiter/waitress to return to table or flag him or her down 0
+get in the car </s> give condolences 1
+collect receipt </s> drive car to gas station 0
+drive to funeral home </s> pay respects to the family 1
+put clothing on the ironing board. </s> get out iron. 0
+iron them </s> get wrinkled clothes 0
+undress </s> rinse 1
+put in coffee maker </s> run the coffee maker 1
+get in the pool </s> get out of pool 1
+walk into restaurant </s> eat the food 1
+follow instructions </s> turning car on 0
+give condolences </s> walk to reception 0
+change clothes </s> attend ceremony 0
+greet family of the deceased. </s> cry. 1
+stir eggs until cooked </s> pour beaten eggs into pan 0
+go to the woods </s> stack wood, tinder and kindling 1
+collect other copy </s> sign one copy of the receipt 0
+unplug alarm clock if it's plugged in (if available) </s> open the cover to the battery (if available) 1
+lay other items down </s> go to the pool 0
+gather dirty clothes. </s> when complete, move to dryer. 1
+explain what is unsatisfactory </s> explain what would be acceptable 1
+fill grill with charcoal and wood chips </s> eat with friends 1
+tell them what kind of pizza you want </s> give them your credit card information for payment 1
+remove old batteries from alarm clock </s> dispose of old batteries properly 1
+verify hygienist's work and diagnoses with dentist. </s> rinse with fluoride. 1
+find seat </s> pay for bus with change 0
+go down the stairs. </s> go up the stairs and exit the station. 1
+install new batteries properly </s> adjust the time to make it accurate 1
+get on train </s> walk to subway station 0
+wait for the correct train to arrive </s> go to the train station 0
+dump into pan. </s> place on plate. 1
+turn on coffee maker </s> make sure the maker has enough water. 0
+pour water into reservoir. </s> drink coffee. 1
+iron once iron is to temperature </s> add water to iron for steam 0
+pay. </s> eat meal. 1
+going to the driving school </s> getting in the car 1
+turn burner on high </s> take pot and pour pasta into strainer 1
+put thread through needle </s> use needle and thread to sew button onto shirt 1
+go into the restaurant. </s> leave the restaurant. 1
+get thread. </s> get needle. 1
+sign the book </s> enter 0
+explain the problem with the food </s> let waiter know if food has been corrected when it comes 1
+grab balls </s> grab racket 0
+put on flip flops </s> drive to pool 1
+serving the ball </s> swinging the racket 1
+change into costume </s> drive to the pool 0
+get the filter </s> place the filter in the basket 1
+prepare for your trip </s> check travel information at station 1
+flag down waiter. </s> notice it's not what i ordered. 0
+drive, walk, or take public transport to the theater </s> buy ticket upon arriving 1
+go to the forest </s> light the fire on another side 1
+light match </s> gather some kindling into a pile 0
+go to the pizza store's web site </s> select delivery instead of pick-up 1
+enjoy food with friends and family </s> buy food and supplies 0
+change towels. </s> pick up any trash. 0
+tell him the wrong about food </s> call the waiter or supervisor 0
+clean the room. </s> choose a design. 0
+call friends </s> roll ball down aisle multiple times 1
+go to grocery store </s> cook food 1
+gather as much wood as possible </s> light match 1
+begin driving </s> learn to park 1
+swipe credit card </s> remove the stopper 0
+set desire temperature of water </s> turn on shower water 0
+wait for approval </s> wait for receipt 1
+insert credit card </s> approach security checkpoint 1
+stake out lounge chair </s> grab bag with pool accessories 0
+step out of shower. </s> shave, groom, etc. 0
+gather wood for fire </s> set fire to the wood 1
+put away iron and ironing board </s> plug in iron and put on ironing board 0
+add water to coffee maker </s> turn on 1
+get in line </s> ask for condiments 1
+go over car controls </s> go over basic driving laws 0
+reset time </s> take batteries out of alarm clock 0
+continue cleaning with steps 3-7 as needed </s> pick up clutter 0
+gather kindling </s> add larger pieces of wood to fire 1
+find out when the show you want starts </s> get snacks 1
+make sure you have supplies like food and drink </s> invite friends to come over 0
+wait until it's done. </s> turn it to the correct settings. 0
+go swimming. </s> get a towel. 0
+push button to start machine </s> put one of the piles of laundry in the washing machine 0
+wait </s> call waiter 0
+go to pool. </s> put on bathing suit. 0
+express your condolences to family </s> leave flowers 1
+get all the stuff off the floor. </s> put laundry away. 1
+pay at the pump. </s> go to the gas station. 0
+go to my yard. </s> begin digging. 1
+decide where to order pizza from. </s> eat the pizza. 1
+light newspaper with lighter. </s> clear space for bonfire. 0
+set clock </s> remove batteries 0
+get in car. </s> put on seat belt. 1
+wash hair with shampoo </s> wash body with body soap and washcloth 1
+take old batteries out of alarm clock </s> set time on alarm clock 1
+turn your clock over </s> put in the rest of your batteries making sure pluses are with pluses 1
+walk them to their bed </s> take your child 0
+enter expiration date (if online) </s> swipe card in machine 0
+clean up trash </s> vacuum carpets 1
+bring pizza inside </s> dial phone 0
+leave it for some times </s> take the laundry clothes 0
+swim </s> go shower 1
+place dishes into dish washer </s> put soap in dish washer 1
+start coffee maker </s> get a coffee cup 1
+eat your pizza </s> call pizza place 0
+collect bowling balls </s> reserve a lane 0
+star washing machine </s> add dirty laundry to washing machine 1
+apply a small amount of shampoo into your hair </s> scrub it into a lather and continue scrubbing for a few seconds 1
+remove any hair accessories </s> exit shower 1
+find and go to a local bowling ally </s> start game 1
+take turns throwing the bowling ball down the lane to hit the pins </s> set up scoring computer with everyone's names 0
+go to tennis court </s> eventually someone scores points and wins 1
+wear tennis rig </s> enter the court 1
+pull til it stops at the knot, push through fabric and another button hole </s> cut loose ends 1
+put off the stove </s> add a pinch of salt and 2 pinches of  pepper 0
+get into the car </s> follow your instructors instructions 1
+put a quarter amount of shampoo in hand </s> rinse hair with water 1
+set clock down. </s> replace battery cover on clock. 0
+close battery compartment </s> remove old batteries 0
+sit down </s> pick up food 0
+when dishwasher is done, remove dishes and put them away </s> use the sink to rinse excess food off of any dishes 0
+get food </s> go outside 1
+present the ticket to the officer </s> go to the boarding counter 0
+squeeze the trigger lever on the gas nozzle </s> open car's fuel tank by twisting open the cap 0
+locate the theater you want to go to </s> give ticket to the checker 1
+ask for a total at the end </s> tell the worker on the phone what you would like 0
+arrive for appointment </s> go to hygienist for cleaning 1
+return to counter </s> get shoes from counter 0
+get credit card out of wallet/purse </s> ask for receipt 1
+leave house </s> play with friends 1
+put over heat on the stove. </s> remove pasta from cooking water. 1
+put on swim trunks </s> go to pool 1
+turn off the iron. </s> set up ironing board. 0
+carry meat and utensils outside to the grill </s> season meat and put on a plate 0
+pay cashier </s> pick up order from counter 1
+find similar button </s> find a thread 1
+fold clothes ironed </s> turn iron on 0
+get in mode of transportation and to go pool </s> get a towel 0
+place filter in coffee pot. </s> once cycle is complete, pour your coffee 1
+enjoy your meal </s> wait for the deliverer to show up 0
+get a thread and a needle </s> fix the thread in the needle 1
+drive to a gym or where there is a sauna </s> step into sauna 1
+close the door. </s> get in bed with him/her. 0
+drive home </s> exit when ready 0
+spritz the shirt and iron. </s> heat up the iron. 0
+go online to look for coupons and search menu. </s> call everyone down to eat. 1
+continue until the button is on tight </s> pick a needle 0
+sit down in seat of your choice </s> drive to theater 0
+enjoy the bonfire. </s> search for large, dead branches. 0
+place end of fuel nozzle into gas tank </s> take receipt 1
+get a bag which carry waterproof dress and all the needy things. </s> before entering to swim pool do some warm up exercise. 1
+adjust water to desired temperature. </s> dry hair with a towel. 1
+put lid down. </s> add coffee grinds. 0
+select the spot </s> set up some chairs 1
+get to the underground station </s> wait for the train 1
+take each dish and dry it with a towel. </s> continue to wash all of the dishes. 0
+pay for the services </s> begin driving course 0
+pay respects to family </s> sit in pew 0
+tidy furniture </s> organize furniture 1
+show cashier identification and credit card </s> swipe credit card 0
+help them brush teeth. </s> tell child it's time for bed. 0
+make sure to remove wrinkles from clothing </s> heat up iron 0
+put on gloves if desired </s> wipe dirty dish with soapy sponge until clean 1
+change them into night clothes </s> put them under blankets 1
+select a ball </s> arrive at bowling place 0
+allow child to get into bed </s> pull the blanket and covers back 0
+brush child's teeth </s> turn off light 1
+get out meet your instructor </s> get in car 1
+keep repeating the sewing to reinforce the strength </s> cut the thread near the needle to finish 1
+buy snack at concession stand </s> watch show 1
+decide what you want for lunch </s> drive to the fast food restaurant 1
+eat the barbecue </s> marinate the chicken 0
+arrive at pool and enter </s> decide who will go to the pool 0
+tell them you do not want dish </s> say if you want replacement or new dish 1
+drain water </s> add ingredients 1
+get in the water. </s> make sure you get all the soap and conditioner off. 1
+depart sauna </s> put hair up in pony tail 0
+sew button through second hole </s> find a button that matches 0
+spread out clothing so that it is flat on the board </s> check to make sure iron is hot 1
+pull through </s> push needle through button hole 0
+go into room </s> make sure to have proper ventilation 1
+rub soap in </s> wash soap off 1
+throw the ball </s> reach the line 0
+thread the needle and tie a knot at end of thread. </s> cut off any excess thread. 1
+go back into locker room </s> place shoes and other personal items in locker 0
+drive to the sauna </s> relax 1
+put button where other button was located </s> locate needle and thread 0
+sit in chair and allow bib to be put on </s> schedule appointment 0
+plug in iron. </s> add water to iron. 0
+decide which fast food restaurant to go to. </s> eat your food. 1
+go to laundry mat </s> pull laundry out of washer 1
+remove old battery </s> take alarm clock 0
+leave the funeral </s> enter your car 0
+drive to funeral </s> get in car 0
+get coffee </s> turn on coffee pot 1
+whisk </s> add egg mix to pan 1
+if asked show id to cashier </s> take back credit card 1
+plug in iron </s> collect clean clothes 0
+dry the clothes </s> wash the clothes with water and detergent 0
+pay </s> park with the gas tank lid towards the tank 0
+apply button by driving needle through button </s> find button 0
+turn dryer on. </s> close the lid of the washer. 0
+going through a tunnel </s> purchasing a subway ticket 1
+pour a cup of coffee. </s> wait for coffee maker to finish brewing. 0
+rinse any grease or sticky stuff </s> put dishes in dishwasher 1
+leave tennis court </s> drive to tennis court 0
+throw away bad batteries. </s> take out bad batteries. 0
+grind the coffee beans. </s> fill the coffee maker up with water. 1
+decide what you want </s> clean up when done 1
+kiss and hug them goodnight </s> leave on nightlight or hall light for them 1
+turn on washer. </s> close lid. 0
+flag down waiter </s> inform them what is wrong with your food 1
+help child into bed </s> read story 1
+brush hair </s> apply shampoo 1
+arrive at the cemetery </s> drive to the church 0
+add butter to fry pan </s> add teaspoon of butter 0
+have dentist check teeth </s> get called back to the cleaning room 0
+turn dryer on and let run until clothes are dry </s> add laundry detergent 0
+vacuum the flat </s> organize desks and tables 0
+obtain a ticket </s> wait for the train 1
+turn off car </s> park car next to gas pump 0
+set up items </s> clean entire room 0
+decide on the pizza place you want to order from. </s> decide on the items you want to order before calling. 1
+pack id and luggage </s> go through security check-in 1
+drape towel(s) over body for modesty. </s> remove clothes in changing room (naked or to underwear/swimwear). 0
+listen to the instructor for directions </s> insert key 1
+choose the room to be renovated </s> figure out a budget 1
+place your order </s> wait in line for your food to be done 1
+place dishes in hot water </s> use towels to clean dishes 1
+arrive at airport </s> have ticket information ready 1
+soap up </s> rinse off soap 1
+dust furniture </s> put cleaning supplies away 1
+call contractors and get prices </s> get prices from stores for items to buy myself 1
+add pasta. </s> boil water. 0
+get coffee grounds and coffee maker (and filter if necessary) </s> turn off coffee maker 1
+take out the trash </s> organize loose papers 0
+watch burial </s> follow procession to cemetery 0
+purchase new color of paint and paintbrushes </s> remove all furniture from room 0
+get good shoes and take rackets to the nearest tennis court. </s> practice and warm-up by self-serving and hitting balls yourself. 1
+arrange dishes in dish washer </s> add dish washing liquid 1
+open laundry detergent. </s> pour detergent into proper reciprocal. 1
+wet hair </s> pour some shampoo into palm 1
+filter the coffee to a mug </s> take coffee kettle 0
+drive to favorite fast food restaurant </s> find table 1
+pour eggs into pan </s> clean up 1
+wait for clerk to scan purchases. </s> get receipt from clerk. 1
+put it aside. </s> scrub myself. 1
+take food off once ready </s> let food cook 0
+send it back </s> call waiter 0
+scrub the body </s> take off clothes 0
+tell server what is wrong with the food </s> check that new order of food is proper and prepared correctly 1
+pick up a dish and clean with sponge </s> then rinse dish with water 1
+have dentist out chair back </s> leave dentist office 1
+find the latch where the batteries are. </s> take out the old batteries. 1
+heat up frying pan on stove </s> crack eggs into a bowl 0
+turn off water </s> get into the shower 0
+get into the car </s> wait for the instructor to get into the car 1
+find a tennis partner </s> each go to opposite sides of the net 1
+leave house in car. </s> purchase tickets. 1
+tuck blankets around child </s> pull back covers and put them in bed 0
+depart station </s> when train stops, get off 0
+fill it with water </s> start the machine 1
+keep score </s> serve tennis ball to other person 0
+place needle through clothing. </s> find replacement button. 0
+swipe your card through the card machine </s> enter your pin 1
+dress child in pajamas </s> lay in bed and tell stories 1
+wait until it is a few minutes before the time of your appointment. </s> walk to the dental chair when invited by the nurse. 1
+move in new furniture </s> lay down tarps 0
+once the food is returned, eat if satisfactory. </s> receive food 0
+get new batteries </s> replace compartment face-plate 1
+insert new batteries in the alarm clock maintaining the correct polarity </s> keep the alarm clock on its place 1
+buy funeral clothes </s> open door 1
+find a swimming pool that's open </s> find a place to sit 1
+remove the pump from the car. </s> put the pump in the hole. 0
+tuck stuffed animal or favorite toy into bed with child </s> help child change into pajamas 0
+check in your luggage </s> find your terminal 0
+walk out the subway gate </s> if there's a seat on the car, sit down,  if no seats available, find a spot to stand 0
+put the pump into the tank </s> put pump back 1
+wait for another dish to come </s> get the attention of the waitstaff 0
+get new batteries </s> put back cover on alarm clock 1
+serve the ball to the other player over the net </s> buy a racket and some balls 0
+get in drivers seat. </s> perform the task given by passenger. 1
+remove pot from stove </s> get pot out of cabinet 0
+call them </s> eat pizza! 1
+put away dishes </s> add dishwashing soap to water 0
+put new batteries in </s> close battery compartment 1
+park car </s> start car 0
+drink the coffee. </s> pour the coffee into a cup. 0
+clerk tallies up the amount </s> leave store 1
+put on the ironing board </s> get laundry out of dryer. 0
+put on somber clothing </s> give hugs to everybody affected by the death 1
+set the iron someplace to cool </s> plug in the iron 0
+drive to the place of funeral </s> attend the funeral activities 1
+choose new carpeting or hardwood flooring </s> purchase materials 1
+pour more water to clean all the dishes </s> we clean all the dirtier items 0
+put new batteries in alarm clock </s> remove batteries 0
+put towel down on seat </s> change into bathing suit 0
+hand the employee your drivers license. </s> wait for them to confirm your details. 1
+purchase food and drinks </s> invite friends and family 0
+prepare all surfaces for renovation </s> decide what room should look like. 0
+find a seat inside theater </s> enjoy movie 1
+cook eight mins or until tender </s> fill about half full with water 0
+getting your child's attention </s> giving them a kiss 1
+turn off shower </s> scrub for two minutes 0
+when you see the waiter you call for them. </s> decide that you do not want the food. 0
+walk into sauna </s> go to the locker room 0
+put things away </s> clean the kitchen counters,sink and appliances 1
+get in line to order </s> walk into restaurant 0
+wait for the food </s> eat food 1
+order food from a restaurant </s> pay and leave tip 1
+choose a what size you want. </s> choose toppings. 1
+put one pile into washing machine </s> wait to finish 1
+turn on </s> open up alarm clock 0
+align button </s> thread needle 1
+pour eggs in </s> put oil or butter into the pan 0
+politely greet the family and friends of the deceased </s> enter the funeral home or church 0
+scrub your body with soap or body wash, as desired. </s> turn on the faucet so that the water can warm up. 0
+if i have ticket, put it through the machine </s> go to destination 1
+line the button up in the place where the old one would have been </s> thread one hole with the needle 1
+tuck them back in. </s> help them change into their pajamas 0
+pour oil into the pan </s> mix the ingredients with the eggs 0
+open alarm clock </s> find battery size 1
+taste food </s> wait for them to come back with the fixed food 0
+make sure to apply sunscreen. </s> enter the pool. 1
+give attendant your name and identification </s> go to security line 1
+turn on light </s> turn off light 1
+plug in iron. </s> press item with iron. 1
+check in at desk </s> enter sauna 0
+play the tennis </s> put on your shoes 0
+have sauces available </s> add extra sauces if needed 1
+enter movie theater </s> get food 1
+replace old items with new ones </s> analyse the present room 0
+hand ticket the attendant </s> wait in line for a ticket 0
+remove washed laundry </s> add detergent 0
+select credit card from wallet </s> accept the total amount 1
+get out sewing kit. </s> thread needle. 1
+check to see what size battery you need </s> remove the old battery 1
+turn off the iron </s> remove the ironed laundry from the board 0
+put kindling in a pit surrounded by rocks </s> once fire is big enough start to add logs 1
+get in car </s> buy ticket 1
+pick out ball from racks </s> change shoes 1
+greet crying friends and family. </s> listen to stories of the lost person. 1
+when coals have turned gray, add food </s> cook food on grill 1
+fix walls </s> fix underlying problems 0
+sit down in chair </s> call doctor to get a script for xanax 0
+make next appointment </s> wait for operation to finish 0
+take food to the table </s> enter restaurant 0
+taking eggs out of fridge </s> stir egg and milk together 1
+press enter </s> run card through machine 0
+switch on computer </s> wait for pizza delivery boy 1
+place larger logs on fire </s> place small sticks on fire 0
+tie the thread at the bottom of the button </s> get back the needle through the third button hole 0
+wait for your food. </s> when your number is called, get your tray of food. 1
+give tickets to the next usher. </s> go to the section that your tickets says. 0
+put your card in to pay </s> leave 1
+call friends to see who is available to play tennis </s> set up the net 1
+cover them up. </s> tell child it's time for bed. 0
+turn water on to desired temperature </s> rinse shampoo out of hair 1
+pay the driver when he arrives. </s> order a pizza online. 0
+go to assigned gate </s> wait in line 0
+set time and alarm </s> remove battery cover 0
+find a pizza restaurant that offers take-out. </s> don't forget to tip! 1
+plan your route </s> check the schedule 1
+exit restaurant </s> pull into parking lot 0
+bring water to a boil </s> fill pot half full of water 0
+wait </s> drive to dentist 0
+tell the worker that you wish to pay with credit </s> hand over your card or swipe it yourself 1
+put clothes away </s> turn iron off 0
+pay for game </s> look at score 1
+stretch out </s> find a partner 0
+after finding out something is wrong with your order, single the waiter </s> eat 1
+put conditioner in hair. </s> get hair wet. 0
+find a clean sauna </s> sit in the sauna 1
+turn off cooking element </s> plate eggs 1
+go to bathroom </s> put the shower on 1
+disrobe </s> drive to the gym 0
+turn on hot water </s> get into shower 1
+use lighter or match to light paper on fire </s> sit in front of bonfire 1
+find thread </s> stitch the button on 1
+get laundry </s> run iron on clothes one at a time 1
+select bowling balls </s> wait for pins to set 1
+get off at the stop near the pool </s> pay driver 0
+swipe credit card </s> verify amount is correct 1
+gather small, dry wood pieces </s> gather larger wood 1
+painting the walls </s> replacing light fixtures 0
+close lid and press start </s> close lid and press start 0
+wash the windows </s> place dishes into dishwasher and start it 0
+bring the needle up through another hole on button. </s> loop thread to create knot in thread. 1
+hand credit card to clerk/ server </s> get credit card from wallet 0
+flip over </s> take food off grill and baste it with sauce 1
+drive around </s> meet driving teacher 0
+using threaded needle, sew button on to garment. </s> get garment which you would like to sew button on to. 0
+put bowling shoes on </s> choose your bowling balls 1
+when serving, toss ball up and swing with racket. </s> make sure you are wearing proper clothing and tennis shoes. 0
+buy refreshments </s> watch theater show 1
+play competitive match with another person or two </s> reserve a tennis court 0
+brush the tooth properly to avoid bad odour </s> go to the clinic 1
+paint and fix damages </s> buy the equipment and materials 0
+wait for pizza </s> call the pizza store 0
+get out of the car </s> go to driving school 0
+put some conditioner in your hair </s> leave in for a few minutes 1
+return the car </s> follow road rules 0
+notice child is getting sleepy </s> place cover over them 1
+savoir in the mediocre goodness. </s> wait in line. 0
+leave a night light on for the child if you want to </s> make sure child has favorite doll / stuffed toy to sleep with' 0
+try to hit tennis ball over net </s> find partner 0
+give ticket to clerk </s> go to check-in station 0
+arrive at dentist office. </s> tell receptionist that you are here. 1
+wait for water to turn warm or hot. </s> turn water on. 0
+learn from the instructor </s> enter the car 0
+get in car </s> leave the dentist 0
+collect tinder (leaves, dry grass, small twigs, paper, etc.) </s> light bonfire from tinder 1
+turn off light </s> tuck child in bed 0
+slow down speed when in tunnel </s> exit tunnel 1
+throw away trash, stow tray on top. </s> leave. 1
+get coffee. </s> turn coffee pot on. 1
+put batteries in the alarm clock. </s> take out the batteries. 0
+go into gas station and pay for gas </s> stop pumping and remove nozzle when completed 1
+attach tags to bags </s> go to assigned boarding gate 1
+purchase your new materials. </s> draw up a plan. 0
+pay for a lane. </s> go bowling. 1
+dial pizza place </s> tell them your order 1
+bring pizza home </s> pick up pizza 0
+get a sponge </s> add the dishes 0
+put supplies away. </s> spray cleaner on walls. 0
+make dentist appointment </s> talk to dentist about issues 1
+get the proper colored thread </s> sew the button on the cloth using the needle 1
+listen to the service </s> go talk to the family of the one who passed away 0
+wash dishes. </s> sweep any un-carpeted floors. 1
+go home </s> arrive at the theater 0
+place phone call to pizza shop/ </s> eat and enjoy. 1
+set up ironing board </s> repeat until all clothes are done 1
+sit down </s> go inside 0
+now grind the roasted beans into powder and store it in a dry air tight container. </s> now enjoy the sip of coffee. 1
+find a bowling ball </s> walk up to lane line 1
+enter lobby </s> find room for movie 1
+setting up computer for bowling match </s> renting bowling shoes 0
+cry </s> take off black dress 1
+play tennis by hitting the ball back and forth </s> get your gear together, racket and balls 0
+drive to the funeral </s> talk to friends and relatives about the person who passed away 1
+dust tables and stands </s> pick up all items lying loose on floor 0
+wear your swimsuit </s> what are your sandals 1
+rinse yourself </s> get a washcloth and rub some soap on it 0
+hand over the food if necessary </s> respond to any more questions politely 0
+dial for a pizza </s> state whether you want a veg / non-veg pizza 1
+enjoy your pizza. </s> wait the estimated delivery time. 0
+fold up and put ironing board away </s> plug in and turn on iron 0
+practice driving with your instructor </s> go to the location where you are learning to drive 0
+go into sauna and close door </s> go back into changing area 1
+go to the funeral parlor. </s> leave before or after the burial. 1
+don't get excited </s> drive until you're done learning 1
+buckle seatbelt. </s> start car. 1
+put the nozzle back on the pump. </s> get out of car and pop the gas cover. 0
+get in pool </s> drive to pool 0
+travel to correct stop </s> get off train 1
+dig a pit if needed </s> pick a spot 0
+order food from menu </s> request waiter 1
+light newspaper and use it to light tinder. </s> stack up firewood. 0
+sit down and wait to be called. </s> leave dentist office. 1
+pay clerk to rent bowling shoes. </s> pick a bowling alley. 0
+put on stove </s> get a fork 0
+wait for train to arrive </s> head to correct terminal 0
+take luggage and belongings onto my plane. </s> sit and wait until plane arrives at my gate. 0
+put dish soap on dish sponge. </s> put dish on drying rack. 1
+take items to the counter </s> sign the receipt 1
+get eggs out </s> remove from heat 1
+purchase paint and supplies </s> cover flooring with drop cloth or plastic 1
+when iron is ready, select one item of clothing for ironing </s> repeat as needed 1
+fill it halfway with water. </s> wait for water to boil. 1
+kiss child </s> put child in bed 0
+wet the hair </s> step into the shower 0
+fill carafe with water </s> turn on coffee maker 1
+remain seated until destination </s> wait for correct train/car 0
+check tags </s> fill iron 1
+enter name on card </s> enter verification code on back of card 1
+exit subway </s> purchase ticket for destination 0
+get on the train </s> head the the underground entrance 0
+schedule next appointment </s> get teeth cleaned 0
+leave church/funeral home </s> go back to your vehicle 1
+place coffee filter inside coffee maker </s> scoop coffee into coffee filter 1
+go to treatment room. </s> drive to dentist office. 0
+repeat for next room. </s> clean windows. 0
+get towel </s> lather on body wash 1
+sweat </s> arrive sauna 0
+light with match or lighter </s> make sure the wood catches 1
+let the water get hot </s> rinse the soap off dishes 1
+present boarding pass and id </s> arrive at airport 0
+put in dishwashing basin </s> scrub dish with sponge 1
+add clothes to machine </s> add soap to machine 1
+hope child falls asleep </s> take child to brush teeth 0
+sit down </s> listen to eulogy and sing music 1
+if you decide you don't like the food, get the attention of the waiter or waitress. </s> wait for your server to return with your new meal. 1
+conduct renovations </s> analyze and brainstorm the plans for renovation 0
+go home </s> return the car to the school 0
+drive as instructed </s> start car 0
+grab towels from the reception desk </s> go to the sauna 1
+pay for your food </s> study the menu 0
+pay </s> leave 1
+wash body with soap </s> dry off with towel 1
+get in the pool </s> drive to the pool 0
+see that it is served hygienically. </s> for all the above reason if you feel the answer doesn't satisfy you then send food back. 1
+add a coffee filter </s> fill carafe with water 0
+wash each dish </s> put dishes away when dry 1
+serve meat. </s> take meat off grill. 0
+getting on the subway </s> taking a train 0
+figure out what you want to do to room </s> add decoration 1
+hand over the luggage </s> stand in queue 0
+wait as patiently as possibly </s> explain order and delivery information 0
+get a needle. </s> insert the thread into the eye of the needle and tie a knot so it's attached. 1
+go to back room and sit in reclining chair </s> call and make an appointment 0
+put dirty dishes in soapy water </s> scrub dishes with sponge 1
+sort the loads into colors, whites and delicates </s> move clothes from washer into dryer. 1
+remove old batteries </s> place alarm clock back in useful position 1
+get some news papers </s> gather a bunch of dry wood 0
+take turns hitting the ball back and forth across the net. </s> find a tennis partner or partners to play with. 0
+book appointment </s> find a sauna to go to 0
+vacuum the carpet </s> straighten the cushions on the couch 1
+tell receptionist you are there </s> go into dentist room 1
+get on the subway. </s> purchase a ticket. 0
+open/unlock the gas tank on the car </s> replace the nozzle 1
+cashier swipes the card </s> enter the pin 1
+drive back home </s> turn car on when instructed 0
+kiss on forehead </s> turn lights off 1
+beat eggs, milk, salt and pepper in bowl until blended </s> as eggs begin to set, gently pull the eggs across the pan with an inverted turner. 1
+rinse shampoo out </s> massage shampoo into your scalp and hair 0
+scramble eggs until done </s> crack eggs in a separate bowl 0
+rinse it off with warm water </s> wash the hair using conditioner 1
+put child in bed. </s> kiss child and say goodnight. 1
+enjoy </s> remove eggs from pan 0
+check in baggage </s> go through security scan 1
+enter shower carefully </s> go into the bathroom 0
+take iron in hand </s> run iron up and down other parts of garment 1
+ask if you could have it properly prepared or have it substited. </s> your server will most probably be happy to honor your wishes. 1
+pull out pump </s> pump desired amount 1
+place frying pan on stove top </s> obtain frying pan 0
+throw charcoal in the grill and light up with lighter fluid. </s> when barbecue is ready, apply foods on the grill and cover. 1
+play match </s> leave tennis courtm 1
+get dish soap </s> let dishes soak 1
+go home. </s> follow crowd to cemetery. 0
+wait for water to boil. </s> add pasta. 1
+purchase snacks and drinks </s> tell ticket person which you want a ticket for 0
+add salt and pepper as desired. </s> beat together three eggs and a little cream. 0
+buy necessary supplies for renovation, such as </s> decide which room of your home or apartment you would like to remodel 0
+when it arrives, board underground train </s> swipe your oyster card or buy ticket 0
+slowly rub iron over clothing pressing out any wrinkles </s> fold or hang up ironed clothing 1
+go to funeral service </s> find and wear appropriate clothing 0
+allow instructor to sit in the passenger seat </s> open the car door 0
+light a match </s> stack larger branches 0
+wait for number to be called </s> when number called, pick up food items 1
+hitting ball when returned to you </s> serving ball with racket 0
+rearrange the furniture </s> redo the ceiling 0
+undress. </s> use shampoo on your hair. 1
+fire up pan with oil </s> grab after two minutes 1
+start driving </s> turn car on 0
+put wood in hole </s> dig a pit 0
+get a new button </s> put items away when done 1
+go to dentist office </s> leave the dentist 1
+turn on burner </s> enjoy 1
+crack eggs </s> put eggs in pan and scamble and fry 1
+wait for coffee to finish brewing. </s> turn on coffee maker. 0
+collect towel and other swimming necessities (ie </s> put on bathing suit 0
+add whole eggs in a bowl </s> scramble the mixture as it begins to cook 1
+get dressed and drive to funeral home </s> pray with the mourners 1
+board the underground </s> wait on ramp 0
+change out of swim suit and take a shower </s> jump in the water 0
+drive to gas station. </s> select grade of gas 1
+ask the waiter to send the food back </s> determine that the food was not made to your liking 0
+walk to the station </s> get off the underground at destination 1
+replace furniture </s> paint wall 0
+get towel </s> enter pool 1
+rinse out </s> turn water off 1
+turn on the shower </s> wash the hair using the water 1
+take batteries off </s> go to convenience store 1
+rinse hair thoroughly with water. </s> dry hair with towel. 1
+pour water and pasta into a strainer to strain water. </s> empty pasta from strainer into serving dish. 1
+find designated airplane </s> get out the airport ticket 1
+add up your score </s> go to bowling alley 0
+drive to bowling alley </s> pay for bowling shoes and bowling ball 1
+close nozzle and return pump </s> drive up to gas station pump 0
+exit restaurant </s> pay for purchase 0
+wait for the movie to start. </s> find specific movie theater listed on ticket. 0
+lightly oil skillet. </s> crack 2 eggs into a bowl. 0
+get eggs from refrigerator. </s> melt a small amount of butter in pan. 1
+obtain permit if required </s> identify location 0
+eat new dish </s> wait eagerly 0
+wait for payment to happen </s> give card info by slideing or entering it online 0
+take tray to trash and throw away trash </s> order food from employee 0
+vacuum carpets </s> pick up clutter, put it in proper places 0
+go to the grocery store </s> place the meat on the grill 1
+record the score </s> repeat for all rounds 1
+comfort other mourners. </s> go to meal with other mourners. 1
+wait for the clerk to load your luggage on conveyor </s> put your luggage on the scale 0
+watch movie </s> find seat 0
+wait until the drying cycle is done. </s> start the dryer. 0
+get in the car. </s> adjust mirrors according to your need. 1
+wait for your next dish </s> give them the plate. 0
+get hair wet. </s> rinse shampoo out of hair. 1
+open pasta </s> add water 0
+light wood pile with a lighter </s> gather wood in a location outside 0
+get the statements </s> swipe your credit card for paying 0
+throw towel aside </s> get everyone around the pool wet 1
+put pasta in the water </s> wait for pasta to cook 1
+take clothes off. </s> put shampoo on hand and lather hair. 1
+keep going until there are no wrinkles </s> fold clothes 1
+remove old batteries </s> grab alarm clock 0
+go to bathroom </s> put towel on floor 1
+cut the thread when finished </s> gather garment for buttoning 0
+prepare venue with tables and chairs. </s> once guests arrive prepare food over barbecue. 1
+pay to get into the pool if there is a charge. </s> change into your swimming clothes. 1
+drive back to the driving school </s> put on the seat belt 0
+replace the walls and drywall </s> pull up any carpet and flooring 0
+with fork, whisk egg/milk mixture </s> lower heat on pan 1
+place an order. </s> call the pizza place. 0
+receive food </s> order food 0
+dry the hair. </s> first take luke warm water with your recommended cosmetic to bathroom 0
+cover child with blanket </s> help child into bed 0
+let the person on the phone know what you would like to order and how you will pay. </s> thank the person and hang up once the order is submitted. 1
+fill sink with warm water. </s> bring dirty dishes to sink. 0
+pass the needle in and out of holes on button </s> cut thread string to how much is needed 0
+find a safe location to make a bonfire </s> stack large pieces of wood together 1
+greet people you know </s> comfort those that have lost someone 1
+give items to cashier </s> get bags from cashier 1
+pick out new furniture </s> put up new wallpaper 0
+excuse yourself. </s> ask for a manager. 0
+place laundry on board </s> unfold ironing board 0
+wait for doors to open </s> find entrance 0
+ask waiter to speak to the manager </s> ask the waiter to come over. 0
+put meat on bbq </s> flip over meat with spatula 1
+dust </s> disinfect 1
+get out of taxi </s> pass through metal detector 1
+repeat several times until button is attached solidly to the fabric. </s> put thread end through eye of needle 0
+enjoy the show </s> come out when finish 1
+take the milk </s> make fire 0
+watch burial of body </s> leave service 1
+invite people to barbecue </s> shop for ingredients 1
+leave the bowling alley. </s> put on shoes and pick a lane. 0
+drive to cemetery </s> listen to another sermon 1
+get a friend to play with. if no friend, get a ball machine. </s> throw ball in the air and prepare to swing racket. 1
+place call to pizza place. </s> read the menu. 0
+check out </s> enter debit card info 0
+hand them your id </s> go to the gate and wait for the flight to board. 1
+taking laundry to basement </s> hanging up clothes to dry 1
+light the paper and blow until the twigs catch </s> stuff some rolled paper inside your pyramid 0
+wring out excess water </s> rinse out shampoo 0
+place in new batteries </s> set time on alarm clock 1
+take a seat </s> wait for the car to arrive 0
+get paper </s> light paper on fire 1
+tie knot in other end of thread </s> pass needle through needle hole in button 1
+turn up heat in sauna </s> strip in locker room 0
+check in with the receptionist </s> drive to the dentist office 0
+walk away. </s> remove paper receipt from printer 0
+crack eggs bowl </s> pour eggs into skillet 1
+pull out the grill and set it up with charcoal. </s> flip the food over halfway through cooking. 1
+cancel the order </s> waiter brings your order 0
+get iron </s> lay item to iron on ironing board 1
+turn off the lights </s> pull the covers over them 0
+input pin number </s> take out credit card 0
+take off clothes </s> build up sweat 1
+get used to the temp </s> walk into the water 0
+rinse your hair and body. </s> go into the bathroom and gather a towel and washcloth. 0
+find sunscreen. </s> turn on pool pump. 1
+drive to dentist </s> go to the lady at desk 1
+open the fuel tank lid </s> pay the amount 1
+open dishwasher </s> load smaller items on the top rock of washer 1
+go into sauna </s> sit and breathe 1
+get naked </s> get in 1
+drive to theater. </s> leave theater. 1
+get in shower </s> turn on shower 0
+take meat off the grill </s> eat food with company 1
+get into the car </s> drive to the funeral location 1
+sort the types of clothes </s> put the clothes inside and press the start button 1
+cut thread from button </s> tie thread at the end 0
+swipe credit card at register </s> purchase items 0
+straighten the clothes out on the board. </s> turn on the iron. 0
+pizza driver at door </s> go to desired pizza website 0
+open coffee maker lid. </s> wait for coffee to finish brewing. 1
+turning on water </s> going into bathroom 0
+replace bowling ball on rack </s> go to bowling alley 0
+try to be reasonably prompt </s> agree on the desired pizzeria 0
+gather needle and thread </s> thread the needle 1
+wait for your pizza to arrive. </s> place your order specifying size and ingredients. 0
+pickup child </s> kiss child goodnight 1
+plug in iron </s> hang items to keep them pressed 1
+discard old batteries </s> take out old batteries 0
+pray and partake in the religious rituals performed. </s> empathize with the loved ones of the departed. 0
+when boiling add salt </s> drop pasta into boiling water 1
+when instructed, start the car </s> fasten seat belt and wait for instructor to fasten his or hers. 0
+get your ticket from the workers </s> get on the plane 1
+according to your plan, remove any old carpeting, paint, etc. </s> if you plan on painting, cover everything in painter's plastic and use the appropriate number of coats. 1
+turn griddle off </s> add cheese to cooking eggs 0
+get the needle </s> get the button 0
+head to movie </s> get dressed 0
+enter shower </s> rinse hair 1
+pour coffee from jug into cup </s> measure out coffee beans and put in grinder 0
+wash with sponge </s> rinse sink 1
+visit the dentist's office at the right time </s> call the dentist 0
+wash each dish with sponge </s> put dirty dishes into water 0
+if other player returns the ball, hit the ball as it comes to you with the same intent </s> switch, allowing your opponent to serve 1
+pour eggs into the pan. </s> put pan on the stove. 0
+put eggs on plate </s> scramble eggs while they cook 0
+start the wash cycle. </s> separate laundry by type. 0
+turn on car </s> test what the instructor says 0
+explain discontent with food </s> receive new order 1
+serve cooked pasta </s> take out a big pot 0
+remember what stop is yours. </s> get off at the correct stop. 1
+add laundry detergent and fabric softener </s> turn dial so it fills with water 0
+turn on hot and cold water faucets to preferred temperature </s> dry off with towel 1
+washing your hair </s> rinsing your hair 1
+tell them to take the food back </s> call your waiter over 0
+watch it grow </s> watch the fire start to grow 0
+get scrub pad. </s> put dishes in dish drainer. 1
+watch burial ceremony </s> watch service 0
+if the family is available before the funeral, offer condolences </s> leave 1
+spray carpet cleaner </s> grab towel 1
+warm up. </s> wear proper shoes and socks. 0
+open sauna door. </s> put up hair. 0
+leave the station </s> wait for your stop 0
+open up battery compartment. </s> set alarm. 1
+get in car with driving instructor </s> familiarize oneself with all dials, levers , knobs, etc in car 1
+check the showings to see what is playing </s> pick out a movie to watch 1
+pay for food. </s> eat and drink food. 1
+throw away battery packaging </s> put them in clock 0
+waiter comes to table </s> waiter brings food back 1
+it is great in taking a shower. </s> now dry yourself with bath towel from head to toe smoothly. 1
+dry off child </s> have child brush teeth 1
+open the fuel tank lid </s> tell the fuel type and quantity to fill 1
+buy some popcorn . </s> decide what movie to watch. 0
+squirt dish soap on sponge </s> scrub dishes 1
+board train and take it to destination </s> go down and buy a ticket 0
+thread needle </s> knot thread 1
+gather materials for renovation </s> gather tools for renovation 1
+add pasta </s> wait for water to boil 0
+dress in comfortable clothing </s> go to bowling alley 1
+sew through the diagonal hole of the button and the garment. </s> continue sewing in an x pattern until the button is secure. 1
+enter train. </s> buy tickets at machine or with teller. 0
+listen to the eulogy </s> drive home 1
+pay the turnpike </s> go to the station 0
+drink </s> add water 0
+put water in a pot. </s> run cool water over pasta to stop pasta from cooking. 1
+turn the stove on high. </s> place a strainer in the sink. 1
+turn on iron - wait to heat up </s> get out all wrinkles 1
+boil about half a soup pot full of water. </s> add a small amount of salt or olive oil to boiling water. 1
+check appointment time </s> sit in the dentist's chair 1
+prepare a bag. </s> take a shower. 0
+serve once cooked </s> open then egg carton 0
+add oil to the pasta </s> go to the kitchen 0
+purify the underground of evil and vanquish the enemy </s> dig a hole or find a cave/portal 0
+drive to the theater </s> get car keys 0
+spoon some coffee into the cup </s> drink the coffee 1
+remove clean laundry from the dryer </s> put dirty clothes in the washing machine 0
+go to self check-in terminal </s> enter all information required 1
+clear a circular area to make the fire </s> protect fire so it does not burn out 1
+put clothes away </s> add detergent 0
+wipe </s> dust 0
+make an appointment with dentist </s> get called by dental assistant 1
+put some newspaper in the wood </s> light the match stick 0
+gather wood </s> ignite the wood 1
+answer questions </s> put password in 0
+go to the sales counter. </s> go to the bowling alley. 0
+place coffee on coffee filter </s> turn on coffee pot 1
+remove belongings from locker. </s> remove your shoes and clothing. 0
+go out to pool deck and find lounger. </s> tan. 1
+board the underground </s> get off at designated stop 1
+stir </s> drink coffee 1
+get the ticket from the worker </s> approach the ticket counter 0
+get new batteries </s> open battery cover 0
+turn off water </s> step into shower 0
+take clean dishes out of dishwasher </s> close door of dishwasher 1
+plug sink </s> rinse the dishes 1
+get out and dry off. </s> rinse off. 0
+take food </s> leave restaurant 1
+rinse out conditioner </s> take off clothes 0
+bring the vehicle you are going to use for the lesson to the appropriate place. </s> return to the origin location and make your payment. 1
+take towel with you. </s> go into changing area and change into swimming suit. 0
+start driving and follow all instructions from instructor </s> buckle up 0
+press enter to confirm purchase. </s> take card from wallet. 0
+insert nozzle into fuel tank opening. </s> flip the lever. 0
+walk to security </s> hand ticket to person 0
+call the pizza delivery outlet </s> eat your pizza 1
+spread shampoo from your hand onto your head </s> put shampoo bottle back 0
+return ball as many times as possible. </s> keep score. 1
+place filter </s> add the grounds 1
+open up gas cap </s> pull up to pump 0
+put dishes in dishwasher </s> get dishwasher pack 1
+pay for food </s> order food 0
+tell the child a bedtime story. </s> turn the light out. 1
+walk from home </s> see the doctor 1
+find correct counter or kiosk </s> arrive at the correct terminal 0
+pick food up at the cashier </s> walk up to cashier 0
+get coffee filter </s> turn on the coffee machine with pot in holster 1
+brush teeth </s> turn off light when exiting room 1
+begin bowling </s> put on bowling shoes 0
+place trash in trash can </s> put furniture back in place 1
+find price-appropriate gas station </s> put nozzle in 1
+run warm water into sink </s> place clean dishes in rack to air dry 1
+clean off dishes </s> place clean dishes in dry rack 1
+get food </s> eat fast food 1
+fill pot with approximately 2 quarts of water </s> drain pasta in a colander and serve 1
+enjoy bonfire. </s> wait for flames to grow and take large pieces of wood. 0
+add more wood as needed </s> add kindling to firestarter 0
+eat the pizza </s> call pizza place on phone 0
+get a button to match </s> cut off excess thread 1
+remove dust from all services </s> mop all the rooms 0
+get out of car </s> get back into car 1
+lay out your towel. </s> put items in locker. 0
+practice a u-turn </s> get out of car 1
+light the fire </s> place a ring of stones around the edge 0
+pay bill and leave restaurant. </s> explain to waiter the problem with the food. 0
+run water </s> scrub yourself 1
+undress in locker room </s> relax 1
+turn off water. </s> turn on the water. 0
+wear swimming dress </s> get up from the swimming pool 1
+exit the underground </s> get on the train 0
+wait for doors to open </s> wait for doors to open 1
+put aluminum foil onto grill part. </s> pour lighter fluid onto charcoal. 0
+test to assure function. </s> obtain replacement batteries. 0
+turn eye of stove on. </s> allow pan to heat while continuing to prepare eggs. 1
+place child in the bed </s> read story book 1
+add fabric softener to dryer </s> get detergent 0
+push button to start percolating </s> add water to pot 0
+hit the ok button or sign </s> wait for the clerk to do things 0
+pour egg mixture into pan </s> place frying pan on stove 0
+get in mode of transportation to get to theater </s> go to ticket booth and buy ticket 1
+laugh when ball goes into gutter. </s> pay for use of lanes. 0
+drive off </s> start car 0
+pay for your dental treatment. </s> sign in at the registration desk. 0
+put set of clothes on over bathing suit </s> leave clothes and towel on a chair 1
+leave the restaurant </s> decide what you would like to eat and drink 0
+wait in waiting room </s> get teeth cleaned 1
+leave swimming pool. </s> enter swimming pool using ladder. 0
+add water to the coffee maker </s> measure 4 coffee scoops of whole coffee beans into a grinder. 0
+buy enough food/beverages. </s> invite people over. 0
+remove food from the grill </s> light the grill 0
+buy eggs </s> wait a few minutes to let it cook 1
+get out of car and switch seats with instructor </s> put hands on steering wheel 1
+exit car </s> park car 0
+use a towel to wipe sweat </s> make sure to hydrate 0
+turn on shower </s> enter shower to bathe 1
+grind coffee beans. </s> put the filter in the coffee maker. 1
+close fuel door </s> drive away 1
+read the book </s> call the child 0
+close the battery compartment. </s> determine the battery size that is used by the alarm clock. 0
+drive to the pool </s> go to car 0
+select my pizza toppings </s> log into my account 0
+get loofah </s> put body wash on loofah 1
+get dressed </s> turn shower off 0
+approve fee </s> enter password 0
+open the can of pasta sauce. </s> throw the noodles in there. 0
+picking up article of clothing </s> placing clothing on ironing board 1
+mix eggs up with spatula </s> put oil into frying pan 0
+leave the room and quietly sit elsewhere until child falls asleep. </s> tell child goodnight and turn out the lights. 0
+set up chairs </s> clean up 1
+set up the iron board. </s> iron the apparel when the hot iron is hot. 1
+pump gas until full or to desired cost point. </s> park next to pump on same side as gas tank door. 0
+swipe credit card </s> take purchases 1
+spray the clothes with starch </s> moving the irons over the clothes 1
+set clock on dresser </s> put in replacement batteries 0
+close lid </s> put one load of laundry in washing machine 0
+replace furniture </s> replace what ever needs to replace 0
+remove with spatula when done. </s> crack eggs into bowl. 0
+spit </s> enter dentist's office 0
+when food is ready, take food and go to a table </s> eat food 1
+arrive at theater early enough to wait in line. </s> wait in line and purchase tickets to show. 1
+make sure the child goes to the potty 1st. </s> the child will go to sleep. 1
+enjoy </s> take old stuff out 0
+greet people there </s> put on black dress 0
+pay for food </s> throw trash away 1
+get offf </s> go down the stairs to the underground 0
+order your food. </s> pick up your tray of food. 1
+wet hair thoroughly. </s> lather shampoo into hair. 1
+put needle in other button hole. </s> thread needle. 0
+select the location for your fire </s> soak kindling in lighter fluid 1
+add more wood once the fire is getting bigger </s> continue to add wood as it burns out 1
+wait until pasta is cooked </s> throw pasta into boiling water 0
+hit the ball with the racquet </s> get a tennis ball 0
+align clothes on top of board </s> plug in iron 1
+get off at desired destination </s> find a destination 0
+flip it over </s> remove the old batteries 1
+watch ball roll toward pins. </s> hold ball and look down the lane. 0
+wait for the temperature of the water to get hot </s> get in the shower 1
+brush the child's teeth </s> tuck the child in 1
+wash the full body thoroughly </s> wash the body completely and close the shower 1
+arrive at pool </s> jump in 1
+light a match </s> gather firewood 0
+relax </s> get out of sauna 1
+dispose of charcoal ash. </s> purchase food for the barbecue. 0
+pump gas until full </s> put fuel pump in gas tank 0
+buy subway card </s> exit train at appropriate stop 1
+work shampoo through hair. </s> pour shampoo into hand. 0
+stay far back to avoid getting burned </s> use a safe flammable 0
+place button where you want it to go </s> sit comfortably 0
+ignite flames </s> sit next to fire 1
+turn shower water on </s> condition hair 1
+perform demolition on the room as needed. </s> move furniture out of room. 0
+wet hair </s> put soap on body or washcloth 0
+cut thread </s> place button where it belongs on garment 0
+go to the bowling alley. </s> go home. 1
+pull out matches. </s> lay small pieces of wood down. 0
+wait </s> rinse shampoo out of hair 1
+wash body with soap </s> take of clothing 0
+ignite the wood </s> find location to start the bonfire 0
+put the nozzle into the car. </s> drive a car to the gas station. 0
+get your sewing kit </s> tie a knot in thread 1
+cleaning the dishes. </s> dusting the furniture. 0
+go to locker room </s> turn off sauna 1
+pay to swim </s> get in the pool 1
+clean decorative items in the house </s> use a mop to clean the floors 0
+enter chapel. </s> view body. 1
+put the laundry in the machine </s> go to the laundry hamper 0
+pick a ball </s> go to the bowling alley 0
+remove gas cap </s> put fueling pump handle back 1
+drive on the high way </s> ask someone to drive with you 0
+slide your credit card in the indicated direction </s> take items and receipt from cashier 1
+get under the water. </s> turn on shower. 0
+set up ironing board </s> find clothing in need of ironing 0
+bend my head in the wash basin and rinse with water </s> dry the hair with a bath towel 1
+call a friend </s> wear tennis shoes 1
+get dressed. </s> undress. 0
+get eggs, milk, and butter from fridge </s> melt butter in pan 1
+put my card back in wallet. </s> swipe the card. 0
+purchasing a ticket </s> walking through the subway doors 1
+when done tie the end properly </s> attach string to needle 0
+remove the clothes </s> place clothes in the dry 0
+swipe card in available scanner. </s> sign receipt. 1
+grab a seat </s> take off shirt 0
+close battery compartment </s> remove old batteries 0
+play and have fun in the pool. </s> gather your pool toys and sunscreen and towel. 0
+tell the cashier you are paying by credit </s> decide what you are going to purchase 0
+turn on hot water </s> get hair wet 1
+find your card </s> present or swipe your card 1
+drive to tennis court </s> continue steps 5-6 until someone hits ball out of bounds 1
+select an appropriate outfit to wear to the funeral. </s> consider sending a gift and/or card to the family of the deceased person. 1
+leave dentist office </s> brush and floss your teeth 0
+add more wood as needed </s> get wood 0
+open gas tank </s> put nozzle into gas tank hole 1
+sign authorization. </s> swipe card in machine. 0
+choose a side to play on, while you opponent takes the other side </s> open the can of tennis balls 0
+return to car </s> choose octane 0
+get out of car </s> pay for lesson 0
+repeat steps 5 - 8 until game is over </s> mark score 0
+get pot. </s> start stove. 1
+get a pot </s> fill pot with water 1
+get thread and needle </s> repeat 5 times 1
+go home. </s> open mouth for exam. 0
+cleaning the dirty clothes </s> washing clothes at the laundry 1
+drive to the gas station </s> insert the gas pump 1
+rinse and spit. </s> brush well before visit. 0
+go outside </s> tell friends about barbecue 0
+consult map </s> walk to underground entrance 1
+select food from menu </s> order food from waiter 1
+boil the noodles until well done </s> cook the sauce 1
+find playing partner </s> charge into tennis attire 0
+let dentist do their work </s> dial the dentist's office 0
+take rackets and balls. </s> drive to tennis court. 0
+enter the airport </s> hand the checked luggage 1
+dry off. </s> get out of pool. 0

@@ -1,0 +1,5 @@
+<BOS> washing one's hair: 
+<BOS> fueling a car: 
+<BOS> sending food back (in a restaurant): 
+<BOS> changing batteries in an alarm clock: 
+<BOS> checking in at an airport: 

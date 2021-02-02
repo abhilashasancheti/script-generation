@@ -1,0 +1,19 @@
+washing dishes;place dish into the dishwasher;wait until full
+washing dishes;wait until full;pour water over the soap
+washing dishes;add soap and other cleaning products;place dishwasher settings down
+washing dishes;pour water over the soap;add soap and other cleaning products
+making a bonfire;light the fire;wait until it is done
+making a bonfire;put all of your materials in a large area;light the fire
+making a bonfire;gather wood;put all of your materials in a large area
+going to the sauna;get dressed;get in the car
+going to the sauna;drive to the sauna;set up a towel
+going to the sauna;turn off the sauna;leave the sauna
+going to the sauna;set up a towel;take off clothes
+going to the sauna;leave the sauna;get dressed
+going to the sauna;turn on the sauna;get into the sauna
+making coffee;place drink in mouth;drink to your desired strength
+making coffee;get your drink;place drink in mouth
+making coffee;go to coffee shop;buy a cup of coffee
+making coffee;drink to your desired strength;exit booth
+going to the swimming pool;change into comfortable clothing;go inside
+going to the swimming pool;go inside;enter the swimming pool

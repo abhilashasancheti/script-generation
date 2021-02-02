@@ -1,0 +1,1376 @@
+planting a tree: </s> dig a hole 1
+planting a tree: </s> loosen soil around hole 1
+planting a tree: </s> remove tree from container 1
+planting a tree: </s> place tree in hole 1
+planting a tree: </s> cover with dirt 1
+planting a tree: </s> go outside 1
+planting a tree: </s> find a suitable area 1
+planting a tree: </s> measure depth of required hole 1
+planting a tree: </s> use shovel to dig hole 1
+planting a tree: </s> place sapling into the hole 1
+planting a tree: </s> refill hole with remaining dirt 1
+planting a tree: </s> pat gently to secure sapling 1
+planting a tree: </s> put tools away 1
+planting a tree: </s> selecting the site to plant tree 1
+planting a tree: </s> dig hole for tree 1
+planting a tree: </s> put a small amount of water in hole 1
+planting a tree: </s> score roots to ensure good root growth 1
+planting a tree: </s> place tree in hole 1
+planting a tree: </s> cover hole with soil 1
+planting a tree: </s> acquire sapling 1
+planting a tree: </s> get shovel and watering can 1
+planting a tree: </s> fill watering can 1
+planting a tree: </s> go outside 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> place sapling in hole 1
+planting a tree: </s> fill hole with dirt 1
+planting a tree: </s> tamp down dirt 1
+planting a tree: </s> water sapling 1
+planting a tree: </s> put away shovel and watering can 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> water the hole 1
+planting a tree: </s> put the tree in hole 1
+planting a tree: </s> cover the tree with dirt 1
+planting a tree: </s> fertilize 1
+planting a tree: </s> water again 1
+planting a tree: </s> go to nursery to pick out a tree. 1
+planting a tree: </s> take tree home. 1
+planting a tree: </s> look for the best place for the tree 1
+planting a tree: </s> dig a deep hole. 1
+planting a tree: </s> place tree in hole. 1
+planting a tree: </s> fill the hole 1
+planting a tree: </s> water as needed 1
+planting a tree: </s> take tree seed outside. 1
+planting a tree: </s> with small shovel dig hole. 1
+planting a tree: </s> place seed in hole. 1
+planting a tree: </s> cover with soil. 1
+planting a tree: </s> water. 1
+planting a tree: </s> wait patiently. 1
+planting a tree: </s> purchase a tree to plant 1
+planting a tree: </s> find a location to plant tree 1
+planting a tree: </s> dig hole in ground about 16 inches deep 1
+planting a tree: </s> place tree in hole 1
+planting a tree: </s> fill hole back in with dirt 1
+planting a tree: </s> water tree 1
+planting a tree: </s> dig whole 1
+planting a tree: </s> water ground so it is nice and moist 1
+planting a tree: </s> put tree in roots down 1
+planting a tree: </s> shovel soil back around tree 1
+planting a tree: </s> pat down the soil 1
+planting a tree: </s> water the soil again 1
+planting a tree: </s> find place in ground with enough space for tree. 1
+planting a tree: </s> dig hole in the ground. 1
+planting a tree: </s> put tree seedling into hole. 1
+planting a tree: </s> fill hole with dirt and fertilizer. 1
+planting a tree: </s> water tree daily. 1
+planting a tree: </s> dig a small hole 1
+planting a tree: </s> place seed in hole 1
+planting a tree: </s> cover hole with dirt 1
+planting a tree: </s> water seed 1
+planting a tree: </s> keep watch to make sure it grows 1
+planting a tree: </s> get shovel 1
+planting a tree: </s> dig hole at least 5 inches bigger then the root ball of tree 1
+planting a tree: </s> start digging 1
+planting a tree: </s> put water and fertilizer in hole 1
+planting a tree: </s> put tree in hole 1
+planting a tree: </s> cover back up with dirt 1
+planting a tree: </s> get tree and shovel 1
+planting a tree: </s> dig an appropriate sized hole for the tree 1
+planting a tree: </s> place the tree in the hole 1
+planting a tree: </s> hold the tree upright while filling the hole back up 1
+planting a tree: </s> place a stabilizing stick if need 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> get tree seeds. 1
+planting a tree: </s> dig a hole in the ground. 1
+planting a tree: </s> plant seed in ground. 1
+planting a tree: </s> fill hole up with soil that you used to dig the hole. 1
+planting a tree: </s> water it. 1
+planting a tree: </s> wait and watch as it blossoms. 1
+planting a tree: </s> get a sapling 1
+planting a tree: </s> dig hole, larger than root ball of sapling 1
+planting a tree: </s> add some topsoil and compost into bottom of hole 1
+planting a tree: </s> put tree into hole 1
+planting a tree: </s> fill the rest of hole with topsoil 1
+planting a tree: </s> add some fertilizer into topsoil 1
+planting a tree: </s> put mulch over base of tree 1
+planting a tree: </s> water tree deeply 1
+planting a tree: </s> buy a seedling 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put fertilizer in the hole 1
+planting a tree: </s> plant the seedling 1
+planting a tree: </s> put dirt back around hole 1
+planting a tree: </s> water the seedling 1
+planting a tree: </s> buy a baby tree 1
+planting a tree: </s> buy soil 1
+planting a tree: </s> find a plot to plant it 1
+planting a tree: </s> dig up hole for tree 1
+planting a tree: </s> place tree in hole, making sure trunk is above ground 1
+planting a tree: </s> fill hole with soil 1
+planting a tree: </s> water tree 1
+planting a tree: </s> pick out the tree 1
+planting a tree: </s> find the right spot 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> unbind the roots 1
+planting a tree: </s> place tree into hole 1
+planting a tree: </s> cover roots with dirt 1
+planting a tree: </s> water tree 1
+planting a tree: </s> buy seeds 1
+planting a tree: </s> go to garden 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> put seed in hole 1
+planting a tree: </s> water the seed 1
+planting a tree: </s> cover hole 1
+planting a tree: </s> get shovel 1
+planting a tree: </s> dig hole in the ground 1
+planting a tree: </s> get suitable tree for planting 1
+planting a tree: </s> place tree in hole securely 1
+planting a tree: </s> put dirt back in hole around tree roots 1
+planting a tree: </s> water tree 1
+planting a tree: </s> purchase a tree 1
+planting a tree: </s> dig a hole where you want the tree planted 1
+planting a tree: </s> put some water in the hole 1
+planting a tree: </s> take tree out of container 1
+planting a tree: </s> put in the ground 1
+planting a tree: </s> cover the tree with the dirt you took out of the hole 1
+planting a tree: </s> water again 1
+planting a tree: </s> get gloves 1
+planting a tree: </s> get sunglasses 1
+planting a tree: </s> put on hat 1
+planting a tree: </s> get garden supplies 1
+planting a tree: </s> put on gloves and sunglasses 1
+planting a tree: </s> walk outside 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> put tree in hole 1
+planting a tree: </s> pack dirt back in 1
+planting a tree: </s> water 1
+planting a tree: </s> watch grow 1
+planting a tree: </s> find empty grass field 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put a seed in the hole 1
+planting a tree: </s> cover hole 1
+planting a tree: </s> wait 20 years 1
+planting a tree: </s> visit tree 1
+planting a tree: </s> get a tree 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> place tree in hole 1
+planting a tree: </s> fill hole with dirt 1
+planting a tree: </s> water tree 1
+planting a tree: </s> buy the tree of your choice. 1
+planting a tree: </s> find a good spot that gets plenty of sun. 1
+planting a tree: </s> dig a hole to accommodate the size you need. 1
+planting a tree: </s> take tree out with roots exposed. 1
+planting a tree: </s> put tree into hole. 1
+planting a tree: </s> softly put dirt into hole. 1
+planting a tree: </s> pat dirt down slightly. 1
+planting a tree: </s> water tree. 1
+planting a tree: </s> go to a nursery. 1
+planting a tree: </s> purchase a young seedling. 1
+planting a tree: </s> return home or wherever you will be planting. 1
+planting a tree: </s> find a shovel. 1
+planting a tree: </s> dig a hole deep enough for the plant. 1
+planting a tree: </s> gently place the young tree into the hole. 1
+planting a tree: </s> cover the hole with dirt. 1
+planting a tree: </s> you may wish to use ropes to tie down the tree for extra support while young. 1
+planting a tree: </s> keep plant watered and watch tree grow. 1
+planting a tree: </s> dig a hole in the ground. 1
+planting a tree: </s> put the roots of the tree in the ground. 1
+planting a tree: </s> fill rest of hole back up with dirt. 1
+planting a tree: </s> pat dirt in. 1
+planting a tree: </s> water the dirt and tree. 1
+planting a tree: </s> go outside 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put a nerd in it, i mean the tree 1
+planting a tree: </s> cover the roots with dirt 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> get soil 1
+planting a tree: </s> get tree in pot 1
+planting a tree: </s> find a spot to plant tree 1
+planting a tree: </s> dig a hole with shovel 1
+planting a tree: </s> place tree in hole 1
+planting a tree: </s> fill hole with soil 1
+planting a tree: </s> flatten soil with shovel 1
+planting a tree: </s> admire tree 1
+planting a tree: </s> select location for the tree 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> dig a hole bigger than the ball on the tree 1
+planting a tree: </s> fill part of the hole with good soil 1
+planting a tree: </s> unwrap the ball of the tree 1
+planting a tree: </s> place the ball of the tree into the hole 1
+planting a tree: </s> fill in the hole with the removed dirt 1
+planting a tree: </s> assure that the trunk is vertical 1
+planting a tree: </s> pack the dirt to affirm the position of the trunk 1
+planting a tree: </s> lightly apply some fertilizer on the surface near the tree 1
+planting a tree: </s> water the area 1
+planting a tree: </s> choose type of tree. 1
+planting a tree: </s> purchase tree. 1
+planting a tree: </s> pick location. 1
+planting a tree: </s> dig a very deep hole with a shovel. 1
+planting a tree: </s> place tree in hole. 1
+planting a tree: </s> cover with dirt. 1
+planting a tree: </s> if you like you can add a fertilizer. 1
+planting a tree: </s> water well. 1
+planting a tree: </s> wait patiently for tree to grow. 1
+planting a tree: </s> dig a hole in a reasonable area 1
+planting a tree: </s> get your tree ready 1
+planting a tree: </s> insert tree root-first into the hole 1
+planting a tree: </s> cover hole up with dirt and pat it down 1
+planting a tree: </s> water plant 1
+planting a tree: </s> wait for it to grow 1
+planting a tree: </s> go to garden center and buy small tree. 1
+planting a tree: </s> find area to plant tree. 1
+planting a tree: </s> use shovel to dig hole large enough for entire root of tree. 1
+planting a tree: </s> save dirt to fill hole. 1
+planting a tree: </s> water hole with hose. 1
+planting a tree: </s> place root of tree in hole. 1
+planting a tree: </s> cover roots completely with saved dirt. 1
+planting a tree: </s> use hose to water planted tree. 1
+planting a tree: </s> water tree as needed to prevent dirt from drying out. 1
+planting a tree: </s> watch tree grow. 1
+planting a tree: </s> buy a sapling from nursery 1
+planting a tree: </s> select a correct place in my backyard 1
+planting a tree: </s> dig a hole according to the size of the sapling 1
+planting a tree: </s> ensure the hole is not too deep and not too narrow 1
+planting a tree: </s> place the tree sapling into the hole 1
+planting a tree: </s> hold it with one hand firmly and refill the soil 1
+planting a tree: </s> water the plant 1
+planting a tree: </s> refill some more soil to fill the gap if any 1
+planting a tree: </s> buy some seeds of desired tree 1
+planting a tree: </s> select a spot where to plant a tree preferably in good exposure to sunlight 1
+planting a tree: </s> take a shovel 1
+planting a tree: </s> dig about 6 inches deep or as desired 1
+planting a tree: </s> dig in a circle all around the spot 1
+planting a tree: </s> secure the boundary of the circle with fence of rounded river stones 1
+planting a tree: </s> take the seed 1
+planting a tree: </s> gently insert it under the soil about 6 inches deep 1
+planting a tree: </s> cover with soil 1
+planting a tree: </s> water it lightly 1
+planting a tree: </s> water it daily 2 times 1
+planting a tree: </s> the plant will come out in some days 1
+planting a tree: </s> find a packet of seeds. 1
+planting a tree: </s> go outside. 1
+planting a tree: </s> scope for a good spot. 1
+planting a tree: </s> dig a hole. 1
+planting a tree: </s> place seeds. 1
+planting a tree: </s> bury the seeds. 1
+planting a tree: </s> go to garden center 1
+planting a tree: </s> pick out a sapling that you like 1
+planting a tree: </s> go home and pick out a nice place to plant your tree 1
+planting a tree: </s> make sure your spot is not too close to your house, allowing roots plenty of room 1
+planting a tree: </s> dig a hole deep and wide enough to accommodate the roots 1
+planting a tree: </s> place sapling into hole 1
+planting a tree: </s> fill in space around the roots with dirt or potting soil 1
+planting a tree: </s> firmly but gently pack down around roots 1
+planting a tree: </s> place mulch around bottom of sapling 1
+planting a tree: </s> water your tree 1
+planting a tree: </s> watch it grow through the years 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> dig a small hole in the ground 1
+planting a tree: </s> get a tree seedling 1
+planting a tree: </s> put tree seedling in hole 1
+planting a tree: </s> bury seedling roots with removed dirt 1
+planting a tree: </s> water seedling 1
+planting a tree: </s> grab shovel 1
+planting a tree: </s> dig hole in ground 1
+planting a tree: </s> put tree into hole in ground 1
+planting a tree: </s> add shoveled dirt back into hole 1
+planting a tree: </s> water tree 1
+planting a tree: </s> buy a tree. 1
+planting a tree: </s> find the shovel. 1
+planting a tree: </s> dig a hole in the yard. 1
+planting a tree: </s> take the tree out of its container. 1
+planting a tree: </s> put it in the hole. 1
+planting a tree: </s> cover the roots with dirt. 1
+planting a tree: </s> get the hose. 1
+planting a tree: </s> water the tree. 1
+planting a tree: </s> select the right time of a year to plant a tree 1
+planting a tree: </s> check any local requirement before digging hole 1
+planting a tree: </s> select suitable tree for climate and region 1
+planting a tree: </s> prepare the hole 1
+planting a tree: </s> prepare the tree for planting 1
+planting a tree: </s> use a seed for planting 1
+planting a tree: </s> place the tree in the hole gently 1
+planting a tree: </s> use some composted manure 1
+planting a tree: </s> water the newly planted tree 1
+planting a tree: </s> stake the tree for some years 1
+planting a tree: </s> enjoy the tree as it grows over the years 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> plant seed 1
+planting a tree: </s> fill hole back up 1
+planting a tree: </s> water the spot every day. 1
+planting a tree: </s> wait for the tree to grow 1
+planting a tree: </s> get seeds 1
+planting a tree: </s> find a place to plant the tree 1
+planting a tree: </s> dig up soil 1
+planting a tree: </s> place seeds in hole 1
+planting a tree: </s> cover the hole 1
+planting a tree: </s> water the top 1
+planting a tree: </s> go to nursery 1
+planting a tree: </s> buy tree sapling 1
+planting a tree: </s> take tree sapling to place you want to plant it 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put sapling in hole 1
+planting a tree: </s> fill in the hole with the shovel 1
+planting a tree: </s> get a water hose 1
+planting a tree: </s> turn water on 1
+planting a tree: </s> water tree 1
+planting a tree: </s> wait for tree to grow 1
+planting a tree: </s> find shovel 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> get tree 1
+planting a tree: </s> put tree roots into hole 1
+planting a tree: </s> put loose dirt around roots 1
+planting a tree: </s> fill hole so that only top of tree is above ground 1
+planting a tree: </s> make sure tree is standing straight and secure 1
+planting a tree: </s> add additional dirt if necessary 1
+planting a tree: </s> add small amount of water to base of tree 1
+planting a tree: </s> water tree daily and wait to grow 1
+planting a tree: </s> choose tree and spot to plant 1
+planting a tree: </s> dig hole big enough for tree to grow 1
+planting a tree: </s> place tree in hole 1
+planting a tree: </s> replace the dirt 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> wait for the tree to grow 1
+planting a tree: </s> locate the spot to plant the tree 1
+planting a tree: </s> dig the soil about two fingers deep 1
+planting a tree: </s> plant the seed in the soil 1
+planting a tree: </s> cover the seed loosely with soil 1
+planting a tree: </s> pour some water over the covered seed 1
+planting a tree: </s> get shovel and tree sapling 1
+planting a tree: </s> dig a hole into the ground 1
+planting a tree: </s> place tree sapling into hole 1
+planting a tree: </s> put dirt back into hole 1
+planting a tree: </s> press dirt firmly around root ball as hole is filled in 1
+planting a tree: </s> water the tree generously 1
+planting a tree: </s> prepare soil. 1
+planting a tree: </s> dig the hole for the tree. 1
+planting a tree: </s> place tree in hole. 1
+planting a tree: </s> cover hole with soil. 1
+planting a tree: </s> water it. 1
+planting a tree: </s> stake the tree. 1
+planting a tree: </s> decide where the tree will be planted. 1
+planting a tree: </s> using a shovel, dig a hole deep enough to place the tree roots. 1
+planting a tree: </s> water the hole well. 1
+planting a tree: </s> place the tree roots in the hole. 1
+planting a tree: </s> pack loose soil firmly around the base of the tree and top of the hole. 1
+planting a tree: </s> water the newly planted tree well. 1
+planting a tree: </s> add fertilizer if needed. 1
+planting a tree: </s> get tiny tree from a store 1
+planting a tree: </s> go to area where you're planting 1
+planting a tree: </s> dig a whole big enough and deep enough to fit tree 1
+planting a tree: </s> take tree out of pot 1
+planting a tree: </s> put the tree into the hole 1
+planting a tree: </s> fill the hole back up 1
+planting a tree: </s> pat down the soil 1
+planting a tree: </s> buy tree seed 1
+planting a tree: </s> dig small hole in dirt 1
+planting a tree: </s> place seed in hole 1
+planting a tree: </s> cover hole 1
+planting a tree: </s> water seed every day 1
+planting a tree: </s> get the tree and take it out into the yard. 1
+planting a tree: </s> choose a spot to plant the tree. 1
+planting a tree: </s> get a shovel and dig a hole where you want to plant the tree. 1
+planting a tree: </s> place the roots of the tree into the hole you have dug. 1
+planting a tree: </s> cover the roots with surrounding dirt. 1
+planting a tree: </s> water the tree. 1
+planting a tree: </s> get a tree. 1
+planting a tree: </s> dig a hole big enough to cover the tree's roots and the base of the tree. 1
+planting a tree: </s> remove the tree from any pot or container that it is in. 1
+planting a tree: </s> place the tree in the hole. 1
+planting a tree: </s> replace the soil that was removed from the hole. 1
+planting a tree: </s> water the tree so that its roots can take hold and begin to grow. 1
+planting a tree: </s> fertilize and water again as needed or desired. 1
+planting a tree: </s> find a sapling 1
+planting a tree: </s> find a place to plant it 1
+planting a tree: </s> dig a small hole in ground 1
+planting a tree: </s> remove sapling from old pot 1
+planting a tree: </s> set sapling in the ground 1
+planting a tree: </s> fill the dirt in around it 1
+planting a tree: </s> pack the dirt tightly 1
+planting a tree: </s> water the sapling 1
+planting a tree: </s> buy a tree. 1
+planting a tree: </s> get shovel out of garage. 1
+planting a tree: </s> dig a hole. 1
+planting a tree: </s> put tree in hole. 1
+planting a tree: </s> fill hole with dirt. 1
+planting a tree: </s> put shovel away. 1
+planting a tree: </s> get the water hose. 1
+planting a tree: </s> turn water on. 1
+planting a tree: </s> water the tree. 1
+planting a tree: </s> turn water off. 1
+planting a tree: </s> buy a tree 1
+planting a tree: </s> find a place for it 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put the tree in the hole 1
+planting a tree: </s> cover the hole 1
+planting a tree: </s> water 1
+planting a tree: </s> take a sapling 1
+planting a tree: </s> dig hole in the ground 1
+planting a tree: </s> place the sapling 1
+planting a tree: </s> place it in the hole 1
+planting a tree: </s> cover with soil 1
+planting a tree: </s> water regularly 1
+planting a tree: </s> get baby tree to plant or seed 1
+planting a tree: </s> find spot to plant tree 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> place tree or seed in hole 1
+planting a tree: </s> put soil back in hole around tree 1
+planting a tree: </s> pat lightly 1
+planting a tree: </s> watch tree grow (years) 1
+planting a tree: </s> find a shovel. 1
+planting a tree: </s> dig a hole the same size as the container holding the tree. 1
+planting a tree: </s> take the tree out of the container. 1
+planting a tree: </s> place the tree in the hole. 1
+planting a tree: </s> fill in any gaps in the hole with soil. 1
+planting a tree: </s> watch your tree grow over the years. 1
+planting a tree: </s> acquire sapling 1
+planting a tree: </s> determine where to plant it 1
+planting a tree: </s> dig a small hole, keep the displaced dirt accessible 1
+planting a tree: </s> place sapling in hole, roots down 1
+planting a tree: </s> replace displaced dirt 1
+planting a tree: </s> pack dirt around tree 1
+planting a tree: </s> add water 1
+planting a tree: </s> buy a tree 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> find a place to plant the tree 1
+planting a tree: </s> dig the hole 1
+planting a tree: </s> sit the tree inside the whole 1
+planting a tree: </s> fill the hole with the shovel 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> buy a tree 1
+planting a tree: </s> transport it home 1
+planting a tree: </s> make a hole 1
+planting a tree: </s> plant the tree 1
+planting a tree: </s> make sure it is stable 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> find a spot for the tree 1
+planting a tree: </s> dig a spot in the ground 1
+planting a tree: </s> place tree in it 1
+planting a tree: </s> fill the hole with dirt 1
+planting a tree: </s> add water 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> when hole is deep enough, put tree in hole 1
+planting a tree: </s> make sure tree is upright 1
+planting a tree: </s> start filling in hole with dirt 1
+planting a tree: </s> add compost 1
+planting a tree: </s> finish filling in hole 1
+planting a tree: </s> level top of hole 1
+planting a tree: </s> water tree 1
+planting a tree: </s> buy seedling. 1
+planting a tree: </s> pick spot in yard. 1
+planting a tree: </s> get shovel. 1
+planting a tree: </s> dig hole. 1
+planting a tree: </s> place seedling in whole. 1
+planting a tree: </s> bury with dirt. 1
+planting a tree: </s> wait for tree to slowly grow. 1
+planting a tree: </s> water tree. 1
+planting a tree: </s> buy the tree 1
+planting a tree: </s> select a site to plant the tree 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> dig a hole three times the save as the root ball 1
+planting a tree: </s> place the tree at the top of the hole 1
+planting a tree: </s> fill in dirt around the tree gently 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> choose a tree that you want to grow 1
+planting a tree: </s> purchase the tree 1
+planting a tree: </s> use a shovel to dig a hole into the ground 1
+planting a tree: </s> put fertilizer in the hole 1
+planting a tree: </s> place the tree inside the whole 1
+planting a tree: </s> cover the hole with topsoil 1
+planting a tree: </s> go to nursery 1
+planting a tree: </s> buy sapling 1
+planting a tree: </s> go outside 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> put sapling in hole 1
+planting a tree: </s> cover hole 1
+planting a tree: </s> water sapling 1
+planting a tree: </s> wait for growth 1
+planting a tree: </s> get a spade 1
+planting a tree: </s> take the tree 1
+planting a tree: </s> go to the location planned for the plant 1
+planting a tree: </s> dig a small pit 1
+planting a tree: </s> put a small quantity of organic fertilizer in the pit 1
+planting a tree: </s> put some water in the pit 1
+planting a tree: </s> place the tree in the pit while keeping the orientation centered 1
+planting a tree: </s> fill the pit with soil 1
+planting a tree: </s> make the loosened soil tight by pressing it. 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> place a guard net around the newly planted tree 1
+planting a tree: </s> choose location for the tree 1
+planting a tree: </s> dig up the soil where the tree should go 1
+planting a tree: </s> plant the tree or the seeds 1
+planting a tree: </s> cover back over with soil 1
+planting a tree: </s> water the patch of land to help it grow. 1
+planting a tree: </s> take a sapling 1
+planting a tree: </s> dig hole in the ground 1
+planting a tree: </s> place the sapling 1
+planting a tree: </s> place it in the hole 1
+planting a tree: </s> cover with soil 1
+planting a tree: </s> water regularly 1
+planting a tree: </s> buy some tree seeds or purchase a small tree. 1
+planting a tree: </s> use a shovel to dig a hole 1
+planting a tree: </s> place tree into hole carefully. 1
+planting a tree: </s> add some compost 1
+planting a tree: </s> water tree 1
+planting a tree: </s> add stakes to tree if necessary over the years. 1
+planting a tree: </s> tree will continue to grow over the years. 1
+planting a tree: </s> get your tree 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> find the right spot in your garden or park 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> remove tree from pot 1
+planting a tree: </s> place tree in hole 1
+planting a tree: </s> refill the hole with dirt 1
+planting a tree: </s> select a tree 1
+planting a tree: </s> select a location 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put tree in hole 1
+planting a tree: </s> cover hole 1
+planting a tree: </s> water tree 1
+planting a tree: </s> buy a tree to plant from a flower supply company 1
+planting a tree: </s> buy topsoil 1
+planting a tree: </s> buy mulch 1
+planting a tree: </s> buy fertilizer 1
+planting a tree: </s> dig a hole for the tree 1
+planting a tree: </s> hold the tree upright as you shovel topsoil into the hole 1
+planting a tree: </s> tamp the topsoil down 1
+planting a tree: </s> straighten the tree 1
+planting a tree: </s> pour a layer of fertilizer around the tree 1
+planting a tree: </s> pour chipped-wood mulch around tree 1
+planting a tree: </s> straighten tree 1
+planting a tree: </s> water tree 1
+planting a tree: </s> continue to water tree regularly 1
+planting a tree: </s> tree will grow 1
+planting a tree: </s> pick a spot in the yard for the tree. 1
+planting a tree: </s> buy or get a seed. 1
+planting a tree: </s> plant tree seed about 4 inches in the dirt. 1
+planting a tree: </s> water the area daily. 1
+planting a tree: </s> as the tree grows, remove any weeds that may grow from the area. 1
+planting a tree: </s> go to store 1
+planting a tree: </s> buy sapling 1
+planting a tree: </s> go home 1
+planting a tree: </s> get shovel 1
+planting a tree: </s> select location 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> put sapling in hole 1
+planting a tree: </s> cover sapling with dirt 1
+planting a tree: </s> water new sapling 1
+planting a tree: </s> obtain seedling. 1
+planting a tree: </s> choose spot for planting. 1
+planting a tree: </s> dig hole big enough for seedling. 1
+planting a tree: </s> place seedling into hole. 1
+planting a tree: </s> cover roots with dirt. 1
+planting a tree: </s> water regularly. 1
+planting a tree: </s> go buy a tree 1
+planting a tree: </s> dig a hole twice as wide as the pot 1
+planting a tree: </s> dig hole deep enough for the roots 1
+planting a tree: </s> fill in with dirt 1
+planting a tree: </s> water very well 1
+planting a tree: </s> digging in the ground 1
+planting a tree: </s> preparing the dirt 1
+planting a tree: </s> placing the seeds in the ground 1
+planting a tree: </s> putting dirt over the seeds 1
+planting a tree: </s> watering the dirt 1
+planting a tree: </s> get seeds 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> insert some seeds 1
+planting a tree: </s> cover up hole 1
+planting a tree: </s> water the soil 1
+planting a tree: </s> purchase seeds. 1
+planting a tree: </s> get shovel and water ready. 1
+planting a tree: </s> go outside to find spot for tree. 1
+planting a tree: </s> dig hole for tree with shovel. 1
+planting a tree: </s> place seeds in hole. 1
+planting a tree: </s> cover seeds over with soil. 1
+planting a tree: </s> water soil. 1
+planting a tree: </s> select tree seedling. 1
+planting a tree: </s> find perfect spot to grow. 1
+planting a tree: </s> dig hole. 1
+planting a tree: </s> remove seedling from container. 1
+planting a tree: </s> place in hole. 1
+planting a tree: </s> fill in and pack dirt around seedling. 1
+planting a tree: </s> water thoroughly. 1
+planting a tree: </s> find a good spot to plant tree 1
+planting a tree: </s> dig a hole deep enough and wide enough 1
+planting a tree: </s> place tree roots in hole 1
+planting a tree: </s> fill in dirt 1
+planting a tree: </s> water tree 1
+planting a tree: </s> get seeds, seedling, or bush 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> plant seed, seedling, or bush 1
+planting a tree: </s> fill hole with dirt around the tree 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> grab a shovel 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put tree in hole 1
+planting a tree: </s> cover up hole 1
+planting a tree: </s> water tree 1
+planting a tree: </s> wait 1
+planting a tree: </s> find place for tree 1
+planting a tree: </s> get shovel 1
+planting a tree: </s> dig hole 1
+planting a tree: </s> place tree in hole 1
+planting a tree: </s> fill hole with dirt 1
+planting a tree: </s> water tree 1
+planting a tree: </s> buy a tree 1
+planting a tree: </s> pick a spot to plant it 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put the tree in 1
+planting a tree: </s> fill around it with dirt 1
+planting a tree: </s> water it 1
+planting a tree: </s> buy seeds 1
+planting a tree: </s> dig a hole into the ground 1
+planting a tree: </s> place seed into hole 1
+planting a tree: </s> cover hole back up 1
+planting a tree: </s> take some water 1
+planting a tree: </s> water the seed everyday 1
+planting a tree: </s> make sure it gets sunlight 1
+planting a tree: </s> get a sapling, shovel and garden gloves. 1
+planting a tree: </s> put on gloves 1
+planting a tree: </s> dig hole for tree 1
+planting a tree: </s> put sapling in hole 1
+planting a tree: </s> cover with dirt 1
+planting a tree: </s> take off gloves and put away with shovel 1
+planting a tree: </s> come back regularly to water sapling 1
+planting a tree: </s> watch tree grow 1
+planting a tree: </s> visit a plant nursery and choose a tree. 1
+planting a tree: </s> transport the tree to where you will plant it. 1
+planting a tree: </s> dig a hole in the ground large enough to accommodate the root ball of the tree. 1
+planting a tree: </s> add a bit of water to the hole before planting the tree. 1
+planting a tree: </s> put the roots of the tree into the hole. 1
+planting a tree: </s> replace the dirt, ensuring that roots are well covered. 1
+planting a tree: </s> water the tree again. 1
+planting a tree: </s> watch it grow. 1
+planting a tree: </s> pick a spot for the tree 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> put root ball into the hole 1
+planting a tree: </s> fill in the rest of the hole with dirt 1
+planting a tree: </s> remove left over dirt 1
+planting a tree: </s> water the tree 1
+planting a tree: </s> get a tree 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> go to a field or a yard 1
+planting a tree: </s> dig a hole deep enough to plant the tree roots 1
+planting a tree: </s> put the tree in the hole 1
+planting a tree: </s> fill up the rest of the hole with dirt 1
+planting a tree: </s> pat the dirt down with the shovel 1
+planting a tree: </s> buy a small tree at a nursery 1
+planting a tree: </s> get a shovel 1
+planting a tree: </s> dig a hole large enough to place the tree into 1
+planting a tree: </s> put tree into hole 1
+planting a tree: </s> cover tree roots with dirt 1
+planting a tree: </s> pack down the dirt around the tree 1
+planting a tree: </s> water tree 1
+planting a tree: </s> buy a tree sapling 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> place sapling in hole 1
+planting a tree: </s> fill hole with dirt 1
+planting a tree: </s> water the tree every day 1
+planting a tree: </s> buy a young tree. 1
+planting a tree: </s> take it home. 1
+planting a tree: </s> dig a hole where you want to plant tree. 1
+planting a tree: </s> put the tree in the hole. 1
+planting a tree: </s> fill the hole back with dirt. 1
+planting a tree: </s> watch tree grow. 1
+planting a tree: </s> get tree seed 1
+planting a tree: </s> dig a hole 1
+planting a tree: </s> place seed in hole 1
+planting a tree: </s> cover hole with dirt 1
+planting a tree: </s> water and care for tree 1
+planting a tree: </s> buy mature tree at nursery 1
+planting a tree: </s> have tree delivered to house 1
+planting a tree: </s> choose location of where tree will be planted 1
+planting a tree: </s> dig hole at location 1
+planting a tree: </s> place root of tree in hole 1
+planting a tree: </s> cover up hole with soil 1
+planting a tree: </s> water tree 1
+planting a tree: </s> order food from menu 0
+planting a tree: </s> open fridge 0
+planting a tree: </s> if you'd like anything changed, tell the stylist 0
+planting a tree: </s> finish game 0
+planting a tree: </s> mix 0
+planting a tree: </s> remove gas cap 0
+planting a tree: </s> enter train 0
+planting a tree: </s> drive to funeral home 0
+planting a tree: </s> fill bucket with water 0
+planting a tree: </s> put coffee filter into coffee machine 0
+planting a tree: </s> set up ironing board 0
+planting a tree: </s> place your order. 0
+planting a tree: </s> take your ticket from the agent. 0
+planting a tree: </s> get pan out of cupboard 0
+planting a tree: </s> close door to laundry machine tightly. 0
+planting a tree: </s> do everything the instructor says 0
+planting a tree: </s> have a drink and snack 0
+planting a tree: </s> eat 0
+planting a tree: </s> open pack of batteries 0
+planting a tree: </s> wait till my stop is approaching 0
+planting a tree: </s> proceed to airport. 0
+planting a tree: </s> put detergent in wash 0
+planting a tree: </s> hand bags over to staff 0
+planting a tree: </s> get in car and drive away 0
+planting a tree: </s> get a locker 0
+planting a tree: </s> rinse conditioner out. 0
+planting a tree: </s> walk to middle of bus 0
+planting a tree: </s> dry yourself off. 0
+planting a tree: </s> buy necessary supplies for renovation, such as 0
+planting a tree: </s> wait for pizza. 0
+planting a tree: </s> patch puncture 0
+planting a tree: </s> wait for attendant to help you 0
+planting a tree: </s> turn on hot and cold faucets to preferred water temperature 0
+planting a tree: </s> close the gas cap and pump door. 0
+planting a tree: </s> add flavor (for example vanilla) 0
+planting a tree: </s> place pasta in boiling water 0
+planting a tree: </s> you eat. 0
+planting a tree: </s> find where to check in 0
+planting a tree: </s> wait until the water boils 0
+planting a tree: </s> find where to check in 0
+planting a tree: </s> pay for ticket 0
+planting a tree: </s> be polite and considerate of others 0
+planting a tree: </s> get a frying pan 0
+planting a tree: </s> turn off iron 0
+planting a tree: </s> take meat off the grill 0
+planting a tree: </s> put away the iron once it has cooled 0
+planting a tree: </s> reduce heat to medium-high. 0
+planting a tree: </s> pay for your haircut. 0
+planting a tree: </s> advise the librarian that you want to check the book out. 0
+planting a tree: </s> check in with the desk or via phone. 0
+planting a tree: </s> pour in detergent and softener 0
+planting a tree: </s> pick up bar of soap 0
+planting a tree: </s> spritz water onto clothing from the water section on iron. 0
+planting a tree: </s> hand over bags to be checked 0
+planting a tree: </s> buckle seatbelt. 0
+planting a tree: </s> find a seat 0
+planting a tree: </s> dry off body with towel. 0
+planting a tree: </s> put on bathing suit 0
+planting a tree: </s> put pan into oven 0
+planting a tree: </s> get a cart 0
+planting a tree: </s> fold and put away 0
+planting a tree: </s> sort items that constitute laundry from other items 0
+planting a tree: </s> get out of car 0
+planting a tree: </s> reach the exit point 0
+planting a tree: </s> walk toward you departure gate 0
+planting a tree: </s> show the ticket when the conductor requests it. 0
+planting a tree: </s> make a list of items required 0
+planting a tree: </s> provide insurance if applicable. 0
+planting a tree: </s> put on bowling shoes 0
+planting a tree: </s> let dry 0
+planting a tree: </s> buy hamburger and hotdogs 0
+planting a tree: </s> obtain pasta 0
+planting a tree: </s> put leaves underneath the wood to serve as the initial firestarter 0
+planting a tree: </s> get in car 0
+planting a tree: </s> dry off 0
+planting a tree: </s> remove clothes from dryer 0
+planting a tree: </s> wait for the delivery man. 0
+planting a tree: </s> on barbecue day, heat up grill. 0
+planting a tree: </s> pick up anything else on the floor 0
+planting a tree: </s> take off clothes. 0
+planting a tree: </s> tell barber how you would like your hair cut. 0
+planting a tree: </s> pull out and drive 0
+planting a tree: </s> put pan in oven 0
+planting a tree: </s> go to bus stop at designated time. 0
+planting a tree: </s> put fuel in gas 0
+planting a tree: </s> put oil or butter into the pan 0
+planting a tree: </s> rinse off soap 0
+planting a tree: </s> set up ironing board 0
+planting a tree: </s> drive to swimming pool 0
+planting a tree: </s> pay respects to family 0
+planting a tree: </s> turn off the shower. 0
+planting a tree: </s> get bowl 0
+planting a tree: </s> look at food 0
+planting a tree: </s> wash those glass 0
+planting a tree: </s> get vacuum cleaner 0
+planting a tree: </s> put the back on the clock 0
+planting a tree: </s> open dryer. 0
+planting a tree: </s> massage the shampoo into your scalp. 0
+planting a tree: </s> enjoying the ride 0
+planting a tree: </s> choose your ball 0
+planting a tree: </s> make appointment. 0
+planting a tree: </s> go online and purchase plane tickets. 0
+planting a tree: </s> find a dry space 0
+planting a tree: </s> take your seat 0
+planting a tree: </s> return to school. 0
+planting a tree: </s> start shower 0
+planting a tree: </s> enjoy your train trip 0
+planting a tree: </s> close the door 0
+planting a tree: </s> dry body and hair 0
+planting a tree: </s> plug in iron and wait for it to heat up 0
+planting a tree: </s> enter swimming pool using ladder. 0
+planting a tree: </s> spray pan with non stick or grease 0
+planting a tree: </s> go home and read it 0
+planting a tree: </s> plug tub drain 0
+planting a tree: </s> put cleaned dish in dish rack 0
+planting a tree: </s> sit down 0
+planting a tree: </s> rinse soap off of body 0
+planting a tree: </s> buy the cake mix and other needed ingredients. 0
+planting a tree: </s> put in new decorations 0
+planting a tree: </s> check the mirrors. 0
+planting a tree: </s> add some butter to pan 0
+planting a tree: </s> when the work is finished, remove any remaining tools and materials. 0
+planting a tree: </s> sit down in barber chair. 0
+planting a tree: </s> turn off water 0
+planting a tree: </s> check and mix pasta until it is cooked 0
+planting a tree: </s> pull cord when you are ready to stop and get off bus. 0
+planting a tree: </s> pick up anything out of place and put it away 0
+planting a tree: </s> take book to check-out desk 0
+planting a tree: </s> tell worker what pizza you want 0
+planting a tree: </s> dry off 0
+planting a tree: </s> check out the books 0
+planting a tree: </s> test the tire 0
+planting a tree: </s> wait until your name is called 0
+planting a tree: </s> turn on stove 0
+planting a tree: </s> get out of tub 0
+planting a tree: </s> take my books from the clerk 0
+planting a tree: </s> enter sauna for approximately 30 minutes 0
+planting a tree: </s> brake when appropriate 0
+planting a tree: </s> leave sauna 0
+planting a tree: </s> mix the dry ingredients and wet ingredients separately according to directions 0
+planting a tree: </s> take the book 0
+planting a tree: </s> get the slip to claim your luggage at your destination 0
+planting a tree: </s> add eggs 0
+planting a tree: </s> check your flight itinerary in your email or online. 0
+planting a tree: </s> place a patch on the hole 0
+planting a tree: </s> insert nozzle into gas tank 0
+planting a tree: </s> leave towel 0
+planting a tree: </s> wait for librarian to approve. 0
+planting a tree: </s> put items on table 0
+planting a tree: </s> stir after 5 minutes 0
+planting a tree: </s> find a gas station 0
+planting a tree: </s> place food on plates 0
+planting a tree: </s> exit at your destination when the bus stops 0
+planting a tree: </s> go up to the desk when your flight is called 0
+planting a tree: </s> get a new toothbrush 0
+planting a tree: </s> tell representative what you want 0
+planting a tree: </s> use towel to dry off 0
+planting a tree: </s> find my airline check-in 0
+planting a tree: </s> turn on shower to rinse off 0
+planting a tree: </s> get out frosting 0
+planting a tree: </s> pour your cake batter into the pan 0
+planting a tree: </s> put on enjoyable music 0
+planting a tree: </s> stack dirty dishes next to sink 0
+planting a tree: </s> turn on the water in the sink 0
+planting a tree: </s> stand the bicycle up 0
+planting a tree: </s> flip the lever. 0
+planting a tree: </s> arrive at destination 0
+planting a tree: </s> cook 0
+planting a tree: </s> properly dispose of old batteries 0
+planting a tree: </s> eat and enjoy your pizza 0
+planting a tree: </s> cross over to perpendicular hole, push needle back through 0
+planting a tree: </s> wait for my turn 0
+planting a tree: </s> board the plane 0
+planting a tree: </s> go into the office and get checked in 0
+planting a tree: </s> go to cemetery 0
+planting a tree: </s> sit in the examining chair 0
+planting a tree: </s> buy other ingredients if you do not have at home 0
+planting a tree: </s> mix all ingredients together 0
+planting a tree: </s> place food on a plate 0
+planting a tree: </s> hand the employee your drivers license. 0
+planting a tree: </s> drive to sauna 0
+planting a tree: </s> walk to lane 0
+planting a tree: </s> fill brewer with water 0
+planting a tree: </s> remove old batteries from the clock 0
+planting a tree: </s> tell them what is wrong with the food 0
+planting a tree: </s> add pasta to water 0
+planting a tree: </s> go to train station 0
+planting a tree: </s> go to changing room 0
+planting a tree: </s> pile dirty dishes into water-filled sink 0
+planting a tree: </s> give ticket to conductor. 0
+planting a tree: </s> prepare paint to be put on walls. 0
+planting a tree: </s> wash with sponge 0
+planting a tree: </s> serve the food 0
+planting a tree: </s> dust all the surfaces 0
+planting a tree: </s> go to backyard 0
+planting a tree: </s> clean the grill 0
+planting a tree: </s> mop floors 0
+planting a tree: </s> fold clothes ironed 0
+planting a tree: </s> tie knot on thread. 0
+planting a tree: </s> take off clothes 0
+planting a tree: </s> open door and take clothes out 0
+planting a tree: </s> put clothes on 0
+planting a tree: </s> scan the rows of books for titles that interest me 0
+planting a tree: </s> observe with water hose readily available in case of emergency. 0
+planting a tree: </s> drive to sauna. 0
+planting a tree: </s> ride bicycle 0
+planting a tree: </s> get a ride to driving school 0
+planting a tree: </s> cashier rings up items 0
+planting a tree: </s> bring water to a boil 0
+planting a tree: </s> remove when wieners are slightly browned. 0
+planting a tree: </s> find towel. 0
+planting a tree: </s> hang up 0
+planting a tree: </s> turn grill on 0
+planting a tree: </s> put on black clothing 0
+planting a tree: </s> go to the librarian's desk 0
+planting a tree: </s> wear old casual clothes 0
+planting a tree: </s> paint the room 0
+planting a tree: </s> gather lumber and wood 0
+planting a tree: </s> remove clothes when completed 0
+planting a tree: </s> walk off the bus 0
+planting a tree: </s> place wood in pile 0
+planting a tree: </s> in the mean time read magazines for pictures first, then for jokes and news. 0
+planting a tree: </s> when the plane lands, get off the plane 0
+planting a tree: </s> take a shower 0
+planting a tree: </s> insert thread in needle 0
+planting a tree: </s> wait for your turn 0
+planting a tree: </s> pay for your lesson 0
+planting a tree: </s> putting new furniture in the room 0
+planting a tree: </s> remove clothes 0
+planting a tree: </s> test for approval 0
+planting a tree: </s> check in with reception 0
+planting a tree: </s> put pot on stove top. 0
+planting a tree: </s> leave the library 0
+planting a tree: </s> step into the shower 0
+planting a tree: </s> drive to pizza place 0
+planting a tree: </s> rinse shampoo. 0
+planting a tree: </s> unhook the bicycle chains. 0
+planting a tree: </s> walking on the street 0
+planting a tree: </s> check for coupons 0
+planting a tree: </s> take clothes off 0
+planting a tree: </s> fill out necessary paperwork 0
+planting a tree: </s> in some cases of un cooked though you may tasted some you have right of health cautious. 0
+planting a tree: </s> go and pick up and pay for pizza 0
+planting a tree: </s> remove carafe 0
+planting a tree: </s> go to the airport 0
+planting a tree: </s> remove from grill to a plate 0
+planting a tree: </s> use gas pump filler to fill the gas tank of your car 0
+planting a tree: </s> wait to cook 0
+planting a tree: </s> wait for checking process 0
+planting a tree: </s> set appointment time for dentist 0
+planting a tree: </s> take everything out 0
+planting a tree: </s> go to the barber shop 0
+planting a tree: </s> find your gate 0
+planting a tree: </s> go to counter 0
+planting a tree: </s> look for the food you want 0
+planting a tree: </s> open petrol tap 0
+planting a tree: </s> turn the hot water on 0
+planting a tree: </s> get dressed. 0
+planting a tree: </s> put meat on grill 0
+planting a tree: </s> hang clothes on rack in bathtub to dry 0
+planting a tree: </s> walk up to check in counter 0
+planting a tree: </s> crack eggs into the bowl 0
+planting a tree: </s> wait as patiently as possibly 0
+planting a tree: </s> wait for the time needed 0
+planting a tree: </s> clerk gives due date 0
+planting a tree: </s> spray pan with pam 0
+planting a tree: </s> remove old batteries one by one. 0
+planting a tree: </s> place food on grill 0
+planting a tree: </s> call waiter 0
+planting a tree: </s> get replacement batteries 0
+planting a tree: </s> enjoy bonfire 0
+planting a tree: </s> leave salon 0
+planting a tree: </s> wait for my name to be called. 0
+planting a tree: </s> walk to correct gate 0
+planting a tree: </s> call the waiter or supervisor 0
+planting a tree: </s> explain what is wrong with the food 0
+planting a tree: </s> give the waiter your plate of food 0
+planting a tree: </s> prepare a bag with swimsuit, towels, shampoo, etc. 0
+planting a tree: </s> wait for food 0
+planting a tree: </s> take the vacuum cleaner 0
+planting a tree: </s> find a seat 0
+planting a tree: </s> walk bike around to make sure the tire holds air 0
+planting a tree: </s> wait for delivery driver to show up at house 0
+planting a tree: </s> go to the bus station 0
+planting a tree: </s> wait your turn to get off 0
+planting a tree: </s> park 0
+planting a tree: </s> select pizza 0
+planting a tree: </s> wait for family to go 0
+planting a tree: </s> rinse shampoo from hair 0
+planting a tree: </s> paint walls. 0
+planting a tree: </s> decide what kind of pizza you want 0
+planting a tree: </s> tell the worker what you'd like to order. 0
+planting a tree: </s> decide when sauna to visit 0
+planting a tree: </s> add salt. 0
+planting a tree: </s> drive according to laws and guidance from driver 0
+planting a tree: </s> turn on coffee maker 0
+planting a tree: </s> get water to place near fire pit in case of emergency 0
+planting a tree: </s> take clothes out when done 0
+planting a tree: </s> leave the swimming pool complex 0
+planting a tree: </s> get on the bus when the bus stops at the station. 0
+planting a tree: </s> order desired pizza 0
+planting a tree: </s> start engine and leave 0
+planting a tree: </s> drive to bowling alley. 0
+planting a tree: </s> get your bowling shoes 0
+planting a tree: </s> unscrew gas cap on fuel tank. 0
+planting a tree: </s> go to airport 0
+planting a tree: </s> check to see what size battery you need 0
+planting a tree: </s> when finished, pay for services 0
+planting a tree: </s> wait until coffee has finished dripping 0
+planting a tree: </s> pay for groceries 0
+planting a tree: </s> they swing the ball back 0
+planting a tree: </s> remove wheel 0
+planting a tree: </s> mix cake mix, eggs, oil and water in bowl. 0
+planting a tree: </s> open the shampoo 0
+planting a tree: </s> ensure the reading 0
+planting a tree: </s> take cake out of oven. 0
+planting a tree: </s> remove battery cover from clock. 0
+planting a tree: </s> put colors into the washing machine 0
+planting a tree: </s> taste the food 0
+planting a tree: </s> put fuel nozzle into gas tank opening on car. 0
+planting a tree: </s> put tire patch on leak 0
+planting a tree: </s> get dressed and drive to funeral home 0
+planting a tree: </s> move hot iron across wrinkles 0
+planting a tree: </s> fill sink with hot water 0
+planting a tree: </s> leave 0
+planting a tree: </s> get in assigned seat on plane 0
+planting a tree: </s> mix ingredients by hand or with an electric mixer. 0
+planting a tree: </s> stack dishes 0
+planting a tree: </s> pass the needle through one of the button holes 0
+planting a tree: </s> cry 0
+planting a tree: </s> close washer lid and wait 0
+planting a tree: </s> schedule an appointment 0
+planting a tree: </s> meet driving teacher 0
+planting a tree: </s> hand the plate to waiter 0
+planting a tree: </s> get undressed. 0
+planting a tree: </s> ignite the wood 0
+planting a tree: </s> turn water off. 0
+planting a tree: </s> turn off coffee maker 0
+planting a tree: </s> if the car is a manual, press the accelerator gently while releasing the clutch. 0
+planting a tree: </s> make sure to hydrate 0
+planting a tree: </s> get towel 0
+planting a tree: </s> bus arrives 0
+planting a tree: </s> let the eggs cook for a minute and then start to stir slowly. 0
+planting a tree: </s> put the plug in the bath 0
+planting a tree: </s> wait until it is warmed up 0
+planting a tree: </s> put bags in cart. 0
+planting a tree: </s> carry on to destination 0
+planting a tree: </s> clean kitchen counters with cleaner and cloths 0
+planting a tree: </s> take a seat in the bus 0
+planting a tree: </s> leave the dentist office. 0
+planting a tree: </s> put nozzle back on put. 0
+planting a tree: </s> get dressed 0
+planting a tree: </s> turn off car. 0
+planting a tree: </s> put greasy dishes first into the bowl 0
+planting a tree: </s> plug the bath drain. 0
+planting a tree: </s> wait in line 0
+planting a tree: </s> find a seat 0
+planting a tree: </s> start sewing going into the back of the garment. 0
+planting a tree: </s> tell them the food issue. 0
+planting a tree: </s> give card to librarian 0
+planting a tree: </s> go to dentist office 0
+planting a tree: </s> wait while the librarian makes notes and puts the return date inside the cover 0
+planting a tree: </s> flip over the meat when necessary. 0
+planting a tree: </s> wash the dishes 0
+planting a tree: </s> please give me the detergent powder 0
+planting a tree: </s> leave 0
+planting a tree: </s> put iron and board away 0
+planting a tree: </s> check bags 0
+planting a tree: </s> wait while barber cuts your hair. 0
+planting a tree: </s> wait at the lounge 0
+planting a tree: </s> remove the clothes from the dryer. 0
+planting a tree: </s> take tire off 0
+planting a tree: </s> remove from oven 0
+planting a tree: </s> take sunscreen lotion 0
+planting a tree: </s> take alarm clock 0
+planting a tree: </s> put egg yolk into pan 0
+planting a tree: </s> stack dishes according to size 0
+planting a tree: </s> replace towel. 0
+planting a tree: </s> take luggage into terminal. 0
+planting a tree: </s> pour batter into the buttered pan 0
+planting a tree: </s> clean any dirty dishes 0
+planting a tree: </s> maybe grab a friend/etc. and drive there. 0
+planting a tree: </s> turn water on. 0
+planting a tree: </s> drain water 0
+planting a tree: </s> leave pool and dry off in sun on towel 0
+planting a tree: </s> drive back to the driving school 0
+planting a tree: </s> enter sauna 0
+planting a tree: </s> sit and listen to the priest or pastor talk 0
+planting a tree: </s> measure dimensions of room. 0
+planting a tree: </s> decide which line to take 0
+planting a tree: </s> take a square box 0
+planting a tree: </s> paint room 0
+planting a tree: </s> gather the items on the grocery list 0
+planting a tree: </s> pour eggs in hot skillet 0
+planting a tree: </s> shut down or close any utilities (electricity, water, drainage) as necessary 0
+planting a tree: </s> let it bake 0
+planting a tree: </s> use repair kit to patch up tube. 0
+planting a tree: </s> check polarity indicators. 0
+planting a tree: </s> keep nozzle in tank with lever held down until you reach your desired level of fuel 0
+planting a tree: </s> sit down in the chair 0
+planting a tree: </s> take out of water. 0
+planting a tree: </s> get into car. 0
+planting a tree: </s> drive away 0
+planting a tree: </s> order food. 0
+planting a tree: </s> he will make an entry in his ledger 0
+planting a tree: </s> place the pasta into a serving dish. 0
+planting a tree: </s> get detergent 0
+planting a tree: </s> wait for name to be called 0
+planting a tree: </s> brush teeth. 0
+planting a tree: </s> run to water 0
+planting a tree: </s> turn on dryer. 0
+planting a tree: </s> get batteries. 0
+planting a tree: </s> stand around and talk afterwards 0
+planting a tree: </s> pick a ball 0
+planting a tree: </s> stick a small sticker in side mentioning the date of changed for future use. 0
+planting a tree: </s> step into shower 0
+planting a tree: </s> put new furniture in room. 0
+planting a tree: </s> get confirmation number. 0
+planting a tree: </s> pay to swim 0
+planting a tree: </s> lay item on ironing board and iron it. 0
+planting a tree: </s> turn off water 0
+planting a tree: </s> pay the barber including a tip. 0
+planting a tree: </s> spray hot pan with cooking spray 0
+planting a tree: </s> make sure we have water handy to put out fire 0
+planting a tree: </s> find a book  you want to read 0
+planting a tree: </s> waiting on platform for underground 0
+planting a tree: </s> dress in black or dark clothing. 0
+planting a tree: </s> remove flat tire from bike 0
+planting a tree: </s> view body (if applicable) 0
+planting a tree: </s> getting into the car 0
+planting a tree: </s> select my pizza toppings 0
+planting a tree: </s> replace gas cap on car. 0
+planting a tree: </s> pour the bowl into the frying pan 0
+planting a tree: </s> look around for wood. 0
+planting a tree: </s> clean kitchen counters with cleaner and cloths 0
+planting a tree: </s> create list of things to buy 0
+planting a tree: </s> step inside shower 0
+planting a tree: </s> get in car 0
+planting a tree: </s> begin another game if you have paid and would like to continue bowling. 0
+planting a tree: </s> pay for train ticket 0
+planting a tree: </s> collect all dirty clothes 0
+planting a tree: </s> go to driving school 0
+planting a tree: </s> dry off with towel 0
+planting a tree: </s> put body wash into my hands 0
+planting a tree: </s> call someone who is handy 0
+planting a tree: </s> light wood and kindling. 0
+planting a tree: </s> turn on shower head 0
+planting a tree: </s> drive to grocery store of choice 0
+planting a tree: </s> squeeze conditioner into hand 0
+planting a tree: </s> place inner tube back on wheel 0
+planting a tree: </s> go into room. 0
+planting a tree: </s> move clothes to dryer, except clothes that can't go in the dryer 0
+planting a tree: </s> go to the store to buy a repair kit 0
+planting a tree: </s> when done, put the car in park. 0
+planting a tree: </s> tip them 0
+planting a tree: </s> add milk, salt, and pepper 0
+planting a tree: </s> pay bus driver. 0
+planting a tree: </s> hang laundry 0
+planting a tree: </s> put item on hanger 0
+planting a tree: </s> put laundry detergent in 0
+planting a tree: </s> get off train 0
+planting a tree: </s> hair is cut 0
+planting a tree: </s> need to learn the scoring 0
+planting a tree: </s> check the book out with your library card 0
+planting a tree: </s> walk toward you departure gate 0
+planting a tree: </s> soak in tub 0
+planting a tree: </s> rinse with warm water 0
+planting a tree: </s> order it 0
+planting a tree: </s> leave library with book. 0
+planting a tree: </s> remove belongings from locker. 0
+planting a tree: </s> clean off the sweat 0
+planting a tree: </s> open gas lid on car 0
+planting a tree: </s> keep the flame burning 0
+planting a tree: </s> fly to the destination 0
+planting a tree: </s> get in the car. 0
+planting a tree: </s> sit in chair. 0
+planting a tree: </s> start the stove and wait till it gets hot enough that the pam starts pool 0
+planting a tree: </s> take them to a nearby fire pit 0
+planting a tree: </s> in your favorite store take a trolley if more things to be purchased or a bag for small. 0
+planting a tree: </s> turn on the shower and adjust the water temperature. 0
+planting a tree: </s> check the water temperature 0
+planting a tree: </s> drive to funeral home. 0
+planting a tree: </s> take bag to pool 0
+planting a tree: </s> pay for groceries 0
+planting a tree: </s> take clothes off 0
+planting a tree: </s> close battery case. 0
+planting a tree: </s> get the temperature what you want it 0
+planting a tree: </s> purchase a ticket from the machine 0
+planting a tree: </s> poke hole with needle through button hole and fabric 0
+planting a tree: </s> tip the barber. 0
+planting a tree: </s> go to cemetery 0
+planting a tree: </s> put mixture into baking pan 0
+planting a tree: </s> wipe down heavily used items and surfaces with cleaning product and rag 0
+planting a tree: </s> board train and take it to destination 0
+planting a tree: </s> open gas tank hatch and insert gas pump 0
+planting a tree: </s> wait for cake to bake 0
+planting a tree: </s> visit the receptionist before you leave and arrange for payment. 0
+planting a tree: </s> spread shampoo all over hair and rub until a lather is formed. 0
+planting a tree: </s> get a lighter. 0
+planting a tree: </s> remove furniture 0
+planting a tree: </s> repeat steps 5 - 7 0
+planting a tree: </s> sit at a safe distance 0
+planting a tree: </s> let dentist clean your teeth and look in your mouth 0
+planting a tree: </s> put everything into a locker 0
+planting a tree: </s> gather fallen wood and twigs 0
+planting a tree: </s> open the washer 0
+planting a tree: </s> follow instructions 0
+planting a tree: </s> collect the books 0
+planting a tree: </s> add laundry detergent. 0
+planting a tree: </s> get on subway 0
+planting a tree: </s> get printed ticket 0
+planting a tree: </s> tip delivery man 0
+planting a tree: </s> test pressure 0
+planting a tree: </s> paint room 0
+planting a tree: </s> get a cart 0
+planting a tree: </s> wait for the train. 0
+planting a tree: </s> make sure it's secure 0
+planting a tree: </s> choose color to paint 0
+planting a tree: </s> shift into drive or first gear. 0
+planting a tree: </s> tie trash bag off 0
+planting a tree: </s> the librarian will check your book 0
+planting a tree: </s> have your ticket number and id 0
+planting a tree: </s> set timer if necessary. 0
+planting a tree: </s> bag up trash and take trash out 0
+planting a tree: </s> go to pizza place 0
+planting a tree: </s> preheat the over 0
+planting a tree: </s> look for any available pizza coupons i may have 0
+planting a tree: </s> leave bathroom 0
+planting a tree: </s> take off clothes 0
+planting a tree: </s> go to assigned flight gate 0
+planting a tree: </s> wait for doors to open 0
+planting a tree: </s> place pot on stove 0
+planting a tree: </s> open the door or curtain. 0
+planting a tree: </s> exit the underground 0
+planting a tree: </s> drive to nearest gas station 0
+planting a tree: </s> run iron over every inch of clothing 0
+planting a tree: </s> get thread and needle 0
+planting a tree: </s> make next appointment 0
+planting a tree: </s> take off shoes 0
+planting a tree: </s> getting out of the plane 0
+planting a tree: </s> explain order and delivery information 0
+planting a tree: </s> scrub head with soapy hands 0
+planting a tree: </s> wash each dish. 0
+planting a tree: </s> pull drain plug 0
+planting a tree: </s> turn off burner. 0
+planting a tree: </s> after receiving food check for desired temperature and taste 0
+planting a tree: </s> get off bus 0
+planting a tree: </s> try to be reasonably prompt 0
+planting a tree: </s> wet your hair in the shower 0
+planting a tree: </s> make sure its ok 0
+planting a tree: </s> wait for bus on a bench. 0
+planting a tree: </s> make appointment 0
+planting a tree: </s> pick out ball 0
+planting a tree: </s> look for your gate number in the flight information board 0
+planting a tree: </s> take three eggs per person for a good-sized serving. 0
+planting a tree: </s> change back into street clothes 0
+planting a tree: </s> going to get your hair cut 0
+planting a tree: </s> unpack groceries 0
+planting a tree: </s> moisten sponge 0
+planting a tree: </s> put eggs on plate 0
+planting a tree: </s> move item to next wrinkled section 0
+planting a tree: </s> wash with soap 0
+planting a tree: </s> getting out thread 0
+planting a tree: </s> grease and flour cake pan 0
+planting a tree: </s> gather ingredients 0
+planting a tree: </s> take pasta out after 8 minutes 0
+planting a tree: </s> pull up to pump 0
+planting a tree: </s> ask for problem to be corrected or order a new dish 0
+planting a tree: </s> pour a small amount of dish liquid over dishes. 0
+planting a tree: </s> pick stuff up off the floor 0
+planting a tree: </s> rinse shampoo, soap, and body wash off body 0
+planting a tree: </s> go to backyard 0
+planting a tree: </s> pump tire 0
+planting a tree: </s> order pizza 0
+planting a tree: </s> bring them to the checkout and pay 0
+planting a tree: </s> when clothes are done washing and washing machine has stopped open lid 0
+planting a tree: </s> enter the train station 0
+planting a tree: </s> leave locker room 0
+planting a tree: </s> board train 0
+planting a tree: </s> check wheel tire pressure after test ride. 0
+planting a tree: </s> walk to the subway station 0
+planting a tree: </s> acquire library card 0
+planting a tree: </s> when the bus stops get off. 0
+planting a tree: </s> set out sides 0
+planting a tree: </s> decide on size, crust and toppings 0
+planting a tree: </s> get hair cut 0
+planting a tree: </s> enter library 0
+planting a tree: </s> place in the basket put one table spoon per 2 cups 0
+planting a tree: </s> observe the deceased being lowered into their grave 0
+planting a tree: </s> wait for plane. 0
+planting a tree: </s> exit the bus. 0
+planting a tree: </s> dig a hole with 50 cm circumference and depth 0
+planting a tree: </s> wash face with face wash 0
+planting a tree: </s> pour it 0
+planting a tree: </s> bake 0
+planting a tree: </s> place washed dishes in separate clean sink 0
+planting a tree: </s> head to wherever reception or wake is being held. 0
+planting a tree: </s> apply sunscreen 0
+planting a tree: </s> paint walls 0
+planting a tree: </s> rinse dish. 0
+planting a tree: </s> go through security 0
+planting a tree: </s> retrieve select clothing item 0
+planting a tree: </s> take batteries off 0
+planting a tree: </s> add dishes to dish rack to dry 0
+planting a tree: </s> wait for bus to stop. 0
+planting a tree: </s> iron it. 0
+planting a tree: </s> drain the water. 0
+planting a tree: </s> make beds 0
+planting a tree: </s> prepare passport, ticket and money 0
+planting a tree: </s> drive home and put away groceries 0
+planting a tree: </s> get undressed. 0
+planting a tree: </s> sit down on the salon chair. 0
+planting a tree: </s> make beds 0
+planting a tree: </s> take frying pan 0
+planting a tree: </s> rinse with water and wash thoroughly 0
+planting a tree: </s> turn off and unplug iron when finished 0
+planting a tree: </s> drive to store. 0
+planting a tree: </s> put clothes away. 0
+planting a tree: </s> get a ride to the lesson 0
+planting a tree: </s> wait for pizza delivery to arrive 0
+planting a tree: </s> mix cake mix in mixing bowl 0
+planting a tree: </s> use air compressor to fill tire with air 0
+planting a tree: </s> walk into building 0
+planting a tree: </s> once thoroughly cooked, move eggs to plate 0
+planting a tree: </s> answer door and pay driver 0
+planting a tree: </s> go to the pool 0
+planting a tree: </s> walk to car with instructor. 0
+planting a tree: </s> melt a little butter in pan 0
+planting a tree: </s> empty the pockets of shirts and pants 0
+planting a tree: </s> take rental shoes from attendant. 0
+planting a tree: </s> pass through the pay gate 0
+planting a tree: </s> get out of tub 0
+planting a tree: </s> pick a seat and sit down 0
+planting a tree: </s> leave flowers 0
+planting a tree: </s> if required, pay bag fees 0
+planting a tree: </s> wait for train 0
+planting a tree: </s> tell them what you want 0
+planting a tree: </s> go outside 0
+planting a tree: </s> tip hairdresser 0
+planting a tree: </s> then slowly add other liquid components 0
+planting a tree: </s> insert the needle back into the garment from the top of the button 0
+planting a tree: </s> find new battery from battery drawer. 0
+planting a tree: </s> pay respects to family 0
+planting a tree: </s> mix the eggs in a bowl 0
+planting a tree: </s> make a knot at end 0
+planting a tree: </s> turn on water 0
+planting a tree: </s> drop off instructor 0
+planting a tree: </s> give the librarian your library card. 0
+planting a tree: </s> get up and leave sauna 0
+planting a tree: </s> go into the office 0
+planting a tree: </s> take a seat in the vehicle. 0
+planting a tree: </s> sit down 0
+planting a tree: </s> put water in the coffee machine 0
+planting a tree: </s> look for the book you would like to borrow 0
+planting a tree: </s> serve food 0
+planting a tree: </s> fold clothes. 0
+planting a tree: </s> get your bus pass or fare ready 0
+planting a tree: </s> sew thread on needle through hole of button. 0
+planting a tree: </s> warm up iron 0
+planting a tree: </s> pay for gas 0
+planting a tree: </s> get in the car 0
+planting a tree: </s> dry off with a towel 0
+planting a tree: </s> start to swim 0
+planting a tree: </s> climb out of the pool by using the ladder when you are finished swimming. 0
+planting a tree: </s> heat to a boil 0
+planting a tree: </s> wash your hair. 0
+planting a tree: </s> schedule driving lesson 0
+planting a tree: </s> light wood and kindling. 0
+planting a tree: </s> exit bus 0
+planting a tree: </s> close the dish washer door 0
+planting a tree: </s> buy ticket 0
+planting a tree: </s> call over the waiter or waitress. 0
+planting a tree: </s> sign guest book 0
+planting a tree: </s> drink the coffee 0
+planting a tree: </s> line the button up in the place where the old one would have been 0
+planting a tree: </s> put glasses into water 0
+planting a tree: </s> finish 0
+planting a tree: </s> put everything into a locker. 0
+planting a tree: </s> wash dish with water and sponge 0
+planting a tree: </s> gather wood in a location outside 0
+planting a tree: </s> find the nearest bus stop 0
+planting a tree: </s> cook for ten minutes 0
+planting a tree: </s> notice flat tire 0
+planting a tree: </s> put a load of laundry into the washing machine. 0
+planting a tree: </s> wait until your name is called 0
+planting a tree: </s> enter library 0
+planting a tree: </s> rub shampoo into hair 0
+planting a tree: </s> push needle through button and fabric. 0

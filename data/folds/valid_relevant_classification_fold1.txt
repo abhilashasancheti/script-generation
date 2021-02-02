@@ -1,0 +1,1744 @@
+cooking pasta: </s> fill a pot with water 1
+cooking pasta: </s> set pot on the stove 1
+cooking pasta: </s> salt the water 1
+cooking pasta: </s> turn on stove range 1
+cooking pasta: </s> boil the water 1
+cooking pasta: </s> open pasta box 1
+cooking pasta: </s> put pasta in boiling water 1
+cooking pasta: </s> wait ten minutes 1
+cooking pasta: </s> drain water in sink 1
+cooking pasta: </s> add some butter 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> place on stove 1
+cooking pasta: </s> turn on burner 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> reduce heat 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> stir pasta occasionally 1
+cooking pasta: </s> when pasta is tender, turn off burner 1
+cooking pasta: </s> remove pot from stove 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> place pasta in serving dish 1
+cooking pasta: </s> fill a pot with water. 1
+cooking pasta: </s> put the pot on the stove. 1
+cooking pasta: </s> boil the water. 1
+cooking pasta: </s> when the water has boiled, add the pasta to the boiling water. 1
+cooking pasta: </s> put the pot with water and pasta back on the stove. 1
+cooking pasta: </s> cook until the pasta is the desired consistency. 1
+cooking pasta: </s> get large pot from cupboard 1
+cooking pasta: </s> fill with water 1
+cooking pasta: </s> place on stove 1
+cooking pasta: </s> turn on burner 1
+cooking pasta: </s> get pasta from pantry 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> open pasta package 1
+cooking pasta: </s> add salt to water 1
+cooking pasta: </s> add pasta to water 1
+cooking pasta: </s> lower heat 1
+cooking pasta: </s> cook pasta for time directed on package 1
+cooking pasta: </s> pour pasta and water into sieve 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> put pot on stove and turn on medium high 1
+cooking pasta: </s> add salt to water 1
+cooking pasta: </s> get box of pasta 1
+cooking pasta: </s> open box of pasta 1
+cooking pasta: </s> put strainer in sink 1
+cooking pasta: </s> when water on stove is boiling, add pasta 1
+cooking pasta: </s> stir pasta 1
+cooking pasta: </s> after 5-7 minutes, test pasta for doneness 1
+cooking pasta: </s> if pasta is not done, continue cooking until it is done 1
+cooking pasta: </s> once pasta is done, drain pasta into the strainer in the sink 1
+cooking pasta: </s> return pasta to pot 1
+cooking pasta: </s> enjoy! 1
+cooking pasta: </s> fill a pot with water. 1
+cooking pasta: </s> put the pot on the stove. 1
+cooking pasta: </s> turn the stove on high. 1
+cooking pasta: </s> wait until the water is boiling. 1
+cooking pasta: </s> put desired amount of pasta in the pot. 1
+cooking pasta: </s> stir pasta every few minutes until the pasta is soft. 1
+cooking pasta: </s> after about 10 to 12 minutes pasta will be done. 1
+cooking pasta: </s> place a strainer in the sink. 1
+cooking pasta: </s> pick up the pot with oven mits on. 1
+cooking pasta: </s> pour the contents of the pot in the strainer. 1
+cooking pasta: </s> after straining pasta, put pasta in a bowl. 1
+cooking pasta: </s> put desired sauce on pasta and eat. 1
+cooking pasta: </s> get pan out. 1
+cooking pasta: </s> fill pan with water. 1
+cooking pasta: </s> put pan on stove. 1
+cooking pasta: </s> turn stove on med/high. 1
+cooking pasta: </s> allow water to start boiling. 1
+cooking pasta: </s> put pasta in water. 1
+cooking pasta: </s> boil until pasta is tender. 1
+cooking pasta: </s> remove pasta from water. 1
+cooking pasta: </s> serve. 1
+cooking pasta: </s> get out a pot 1
+cooking pasta: </s> fill the pot with water 1
+cooking pasta: </s> put the pot on the stove 1
+cooking pasta: </s> turn on the burner 1
+cooking pasta: </s> bring to a boil 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> cook for 8-10 minutes 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> get a pan. 1
+cooking pasta: </s> fill it halfway with water. 1
+cooking pasta: </s> add salt. 1
+cooking pasta: </s> wait for water to boil. 1
+cooking pasta: </s> add pasta. 1
+cooking pasta: </s> stir occasionally. 1
+cooking pasta: </s> test pasta by taking a bite of it. 1
+cooking pasta: </s> when done, drain pasta in a strainer in sink. 1
+cooking pasta: </s> put pasta back into pan. 1
+cooking pasta: </s> add whatever flavorings you want to it. 1
+cooking pasta: </s> eat and enjoy. 1
+cooking pasta: </s> fill 3/4 water in a cooking bowl 1
+cooking pasta: </s> add 1/2 spoon salt, keep the bowl on the stove and ignite 1
+cooking pasta: </s> keep the flame in high level, add pasta and keep stirring 1
+cooking pasta: </s> after 10 minutes boiling turn off the stove 1
+cooking pasta: </s> pour out excess water from the bowl 1
+cooking pasta: </s> add little cooking oil to cooked pasta 1
+cooking pasta: </s> add sauces, cheese and some fresh vegetable leaves 1
+cooking pasta: </s> add pasta masala supplied with the pasta pack for additional taste 1
+cooking pasta: </s> cook on low level flame with stirring continuously for 5 minutes 1
+cooking pasta: </s> turn off the stove and pasta is ready 1
+cooking pasta: </s> find a large pan 1
+cooking pasta: </s> add water 1
+cooking pasta: </s> bring water to a boil 1
+cooking pasta: </s> get out your pasta 1
+cooking pasta: </s> add pasta to the water 1
+cooking pasta: </s> boil the pasta until al dente 1
+cooking pasta: </s> strain the pasta 1
+cooking pasta: </s> add sauce 1
+cooking pasta: </s> put water in pot. 1
+cooking pasta: </s> put pot on stove. 1
+cooking pasta: </s> turn on stove. 1
+cooking pasta: </s> boil water. 1
+cooking pasta: </s> put pasta in pot. 1
+cooking pasta: </s> stir pasta. 1
+cooking pasta: </s> put a strainer in sink. 1
+cooking pasta: </s> pour pasta in strainer. 1
+cooking pasta: </s> get a big bowl. 1
+cooking pasta: </s> pour pasta in bowl. 1
+cooking pasta: </s> get sauce. 1
+cooking pasta: </s> pour sauce on pasta. 1
+cooking pasta: </s> get a plate. 1
+cooking pasta: </s> put some on plate. 1
+cooking pasta: </s> sit down at table 1
+cooking pasta: </s> eat pasta. 1
+cooking pasta: </s> find box of pasta. 1
+cooking pasta: </s> put large pot of water on stove top. 1
+cooking pasta: </s> salt the water. 1
+cooking pasta: </s> heat up burner to bring water to boiling. 1
+cooking pasta: </s> drop pasta into water. 1
+cooking pasta: </s> cook for 7 minutes. 1
+cooking pasta: </s> remove from heat and pour into collander. 1
+cooking pasta: </s> pasta is ready to eat. 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> heat water 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> wait for 10 min 1
+cooking pasta: </s> check to see if done 1
+cooking pasta: </s> if it is done drain water 1
+cooking pasta: </s> get out pot 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> put pot of water on stove 1
+cooking pasta: </s> turn on burner all the way 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> salt boiling water 1
+cooking pasta: </s> add pasta to water 1
+cooking pasta: </s> eat a piece to see if it's done 1
+cooking pasta: </s> put colander in sink 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> eat 1
+cooking pasta: </s> put water in a pot 1
+cooking pasta: </s> put pot on stove 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> add a little salt and olive oil 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> stir slightly as it cooks 1
+cooking pasta: </s> test noodles taste 1
+cooking pasta: </s> don't let them overcook 1
+cooking pasta: </s> remove from heat 1
+cooking pasta: </s> drain water 1
+cooking pasta: </s> fill a pasta pot about 70 percent full of water. 1
+cooking pasta: </s> place the pot on a burner. 1
+cooking pasta: </s> turn the burner to a high setting. 1
+cooking pasta: </s> wait until the water boils. 1
+cooking pasta: </s> add one tablespoon of salt to the boiling water 1
+cooking pasta: </s> add the pasta to the water and let it cook for ten minutes. 1
+cooking pasta: </s> drain the water from the pasta. 1
+cooking pasta: </s> place the pasta into a bowl with a pat of butter. 1
+cooking pasta: </s> stir the pasta to coat it with the butter. 1
+cooking pasta: </s> take the pasta you want to cook 1
+cooking pasta: </s> fill a large pan with water 1
+cooking pasta: </s> add salt to the water 1
+cooking pasta: </s> put water on stove 1
+cooking pasta: </s> light stove 1
+cooking pasta: </s> wait for water to come to a boil 1
+cooking pasta: </s> put pasta in water 1
+cooking pasta: </s> wait till pasta is nice and soft 1
+cooking pasta: </s> drain water from pasta 1
+cooking pasta: </s> fill up big pot with water 1
+cooking pasta: </s> put pot on stove 1
+cooking pasta: </s> turn on burner 1
+cooking pasta: </s> put lid on pot 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> after water boils, add pasta 1
+cooking pasta: </s> cook until pasta is soft 1
+cooking pasta: </s> drain water from pot 1
+cooking pasta: </s> rinse pasta with cold water 1
+cooking pasta: </s> enjoy 1
+cooking pasta: </s> take out a big pot 1
+cooking pasta: </s> boil water in pot 1
+cooking pasta: </s> add dry pasta into boiling water 1
+cooking pasta: </s> lower temperature 1
+cooking pasta: </s> cover pot 1
+cooking pasta: </s> cook 5-7 minutes 1
+cooking pasta: </s> drain water 1
+cooking pasta: </s> serve cooked pasta 1
+cooking pasta: </s> buy favorite brand of pasta 1
+cooking pasta: </s> boil hot water on stove 1
+cooking pasta: </s> put sea salt in water 1
+cooking pasta: </s> add pasta to water 1
+cooking pasta: </s> cook 8 minutes for al dente 1
+cooking pasta: </s> remove pasta from water 1
+cooking pasta: </s> add parmesan cheese 1
+cooking pasta: </s> enjoy! 1
+cooking pasta: </s> fill a pot with water 1
+cooking pasta: </s> put pot on the stove 1
+cooking pasta: </s> turn the burner onto high 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> put pasta into boiling water 1
+cooking pasta: </s> wait for pasta to soften 1
+cooking pasta: </s> pour pasta and water into strainer 1
+cooking pasta: </s> put pasta in a bowl 1
+cooking pasta: </s> eat pasta 1
+cooking pasta: </s> boil large pot of water. 1
+cooking pasta: </s> open package of pasta. 1
+cooking pasta: </s> put the desired amount of pasta in the pot when water is boiling. 1
+cooking pasta: </s> add salt to the water. 1
+cooking pasta: </s> wait for pasta to cook. 1
+cooking pasta: </s> try a piece of pasta to make sure it is cooked correctly. 1
+cooking pasta: </s> turn off the heat. 1
+cooking pasta: </s> drain the cooked pasta in the sink. 1
+cooking pasta: </s> place drained pasta in a serving dish. 1
+cooking pasta: </s> choose which pasta you want to cook 1
+cooking pasta: </s> fill a large pot 2/3 with water 1
+cooking pasta: </s> turn the knob on the stove to high 1
+cooking pasta: </s> add salt if desired 1
+cooking pasta: </s> wait for the water to boil 1
+cooking pasta: </s> add pasta to water 1
+cooking pasta: </s> stir with a long spoon 1
+cooking pasta: </s> turn down the stove slightly 1
+cooking pasta: </s> stir well to prevent sticking of pasta 1
+cooking pasta: </s> check the package for suggested cooking time 1
+cooking pasta: </s> take a piece of pasta out and allow it to cool 1
+cooking pasta: </s> bite into the pasta 1
+cooking pasta: </s> turn off the stove and empty the entire pasta into a strainer 1
+cooking pasta: </s> drain the water and add a tablespoon of olive oil 1
+cooking pasta: </s> cover with your favorite sauce and toss it 1
+cooking pasta: </s> add grated cheese and garnishes as desired 1
+cooking pasta: </s> fill a pan with water. 1
+cooking pasta: </s> add some salt and olive oil to the water for flavor. 1
+cooking pasta: </s> heat the water to a medium boil. 1
+cooking pasta: </s> measure the pasta - a single serving is roughly 2 ounces of dry pasta per person. 1
+cooking pasta: </s> add the pasta to the boiling water and stir gently to prevent sticking. 1
+cooking pasta: </s> cook the pasta to taste - approx 8 - 12 minutes depending on desired firmness. 1
+cooking pasta: </s> pour the pasta into a strainer over the sink to remove the water. 1
+cooking pasta: </s> grab pasta 1
+cooking pasta: </s> put pot on a burner 1
+cooking pasta: </s> add water 1
+cooking pasta: </s> open pasta 1
+cooking pasta: </s> put into pot 1
+cooking pasta: </s> add salt 1
+cooking pasta: </s> add canola oil 1
+cooking pasta: </s> cook pasta 1
+cooking pasta: </s> serve pasta 1
+cooking pasta: </s> find a large heavy pot in which to cook. 1
+cooking pasta: </s> fill the pot with several quarts of water. 1
+cooking pasta: </s> add salt and, if desired, fat. 1
+cooking pasta: </s> turn on the stove. 1
+cooking pasta: </s> let the water come to a boil. 1
+cooking pasta: </s> add pasta to the boiling water. 1
+cooking pasta: </s> cook for the recommended time or to personal taste. 1
+cooking pasta: </s> drain the pasta. 1
+cooking pasta: </s> serve as desired. 1
+cooking pasta: </s> boil about half a soup pot full of water. 1
+cooking pasta: </s> add a small amount of salt or olive oil to boiling water. 1
+cooking pasta: </s> place uncooked pasta into boiling water. 1
+cooking pasta: </s> allow pasta to cook for about 9 minutes. 1
+cooking pasta: </s> strain water from pasta using a colander. 1
+cooking pasta: </s> look up a pasta recipe 1
+cooking pasta: </s> get all the sauce ingredients 1
+cooking pasta: </s> boil the noodles until well done 1
+cooking pasta: </s> cook the sauce 1
+cooking pasta: </s> combine the sauce and the pasta 1
+cooking pasta: </s> turn the stove on 1
+cooking pasta: </s> boil a pan of water 1
+cooking pasta: </s> when the water is boiled, add pasta to the water with salt 1
+cooking pasta: </s> cook the pasta according to package instructions 1
+cooking pasta: </s> once the pasta is cooked, drain the pasta 1
+cooking pasta: </s> eat the pasta. 1
+cooking pasta: </s> get pasta. 1
+cooking pasta: </s> get pot. 1
+cooking pasta: </s> fill pot with water. 1
+cooking pasta: </s> start stove. 1
+cooking pasta: </s> place pot on burner. 1
+cooking pasta: </s> wait for water to boil. 1
+cooking pasta: </s> place pasta in water. 1
+cooking pasta: </s> get pan 1
+cooking pasta: </s> fill with water 1
+cooking pasta: </s> turn on burner 1
+cooking pasta: </s> let water come to a boil 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> stir 1
+cooking pasta: </s> turn down burner 1
+cooking pasta: </s> cook pasta until tender 1
+cooking pasta: </s> pour pan of pasta into strainer 1
+cooking pasta: </s> shock the pasta with warm/cool water 1
+cooking pasta: </s> turn off burner 1
+cooking pasta: </s> put pasta back in pan 1
+cooking pasta: </s> add seasoning 1
+cooking pasta: </s> dish up pasta 1
+cooking pasta: </s> enjoy 1
+cooking pasta: </s> fill up pot with water 1
+cooking pasta: </s> put pot with water on stove 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> put pasta in boiling water 1
+cooking pasta: </s> wait until pasta  is done 1
+cooking pasta: </s> remove pan from stove 1
+cooking pasta: </s> drain water from pasta 1
+cooking pasta: </s> put pasta  on plate 1
+cooking pasta: </s> serve 1
+cooking pasta: </s> get a pan 1
+cooking pasta: </s> fill it with water 1
+cooking pasta: </s> boil the water 1
+cooking pasta: </s> get the pasta 1
+cooking pasta: </s> put the pasta in 1
+cooking pasta: </s> what to cook 1
+cooking pasta: </s> gather pasta, large pot, salt, large stirring utensil, and a strainer in kitchen 1
+cooking pasta: </s> boil water in large pot, adding some salt to taste and prevent sticking 1
+cooking pasta: </s> when water reaches a rolling boil, add pasta 1
+cooking pasta: </s> cook for however long the instructions call for 1
+cooking pasta: </s> set alarm or timer to ring when the cooking time is up 1
+cooking pasta: </s> pour water and pasta from pot into strainer or colander 1
+cooking pasta: </s> place pasta back into pot 1
+cooking pasta: </s> add sauce and seasonings as desired 1
+cooking pasta: </s> still and serve quickly 1
+cooking pasta: </s> buy pasta 1
+cooking pasta: </s> boil pasta in water 1
+cooking pasta: </s> switch on the flame 1
+cooking pasta: </s> prepare pasta sauce 1
+cooking pasta: </s> drain off excess water 1
+cooking pasta: </s> add vegetables to pasta sauce 1
+cooking pasta: </s> add pasta to sauce 1
+cooking pasta: </s> grate cheese on top 1
+cooking pasta: </s> switch off the flame 1
+cooking pasta: </s> transfer pasta to a dish 1
+cooking pasta: </s> fill a pot with water. 1
+cooking pasta: </s> put pot on stove top. 1
+cooking pasta: </s> heat water to boiling. 1
+cooking pasta: </s> add pasta. 1
+cooking pasta: </s> boil pasta until desired firmness. 1
+cooking pasta: </s> pour water and pasta into a strainer to strain water. 1
+cooking pasta: </s> empty pasta from strainer into serving dish. 1
+cooking pasta: </s> get pasta out 1
+cooking pasta: </s> get a pot 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> place water on stove top 1
+cooking pasta: </s> turn on the stove 1
+cooking pasta: </s> let water begin to boil 1
+cooking pasta: </s> toss pasta into the pot 1
+cooking pasta: </s> stir pasta occasionally 1
+cooking pasta: </s> wait till pasta is done 1
+cooking pasta: </s> remove pasta from pot 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> add other ingredients 1
+cooking pasta: </s> put water in a pot. 1
+cooking pasta: </s> boil water. 1
+cooking pasta: </s> add a little salt. 1
+cooking pasta: </s> add pasta to water. 1
+cooking pasta: </s> boil until it is cooked the way you like it. 1
+cooking pasta: </s> pour water and pasta into a colander. 1
+cooking pasta: </s> run cool water over pasta to stop pasta from cooking. 1
+cooking pasta: </s> go to the kitchen 1
+cooking pasta: </s> switch on the stove 1
+cooking pasta: </s> pour the water in the pan 1
+cooking pasta: </s> boil the water 1
+cooking pasta: </s> put the pasta into the boiled water 1
+cooking pasta: </s> add salt and ingredients 1
+cooking pasta: </s> add oil to the pasta 1
+cooking pasta: </s> stir the food 1
+cooking pasta: </s> pasta ready 1
+cooking pasta: </s> get pot 1
+cooking pasta: </s> get package of pasta 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> bring water to boil 1
+cooking pasta: </s> place pasta in pot of water 1
+cooking pasta: </s> remove pot after desired amount of time 1
+cooking pasta: </s> add sauce to pasta 1
+cooking pasta: </s> boil the water. 1
+cooking pasta: </s> throw the noodles in there. 1
+cooking pasta: </s> open the can of pasta sauce. 1
+cooking pasta: </s> warm up the pasta sauce. 1
+cooking pasta: </s> put the noodles in a bowl. 1
+cooking pasta: </s> pour the pasta sauce on top of the noodles. 1
+cooking pasta: </s> cook some chicken. 1
+cooking pasta: </s> place the chicken on top. 1
+cooking pasta: </s> heat up water in pot. 1
+cooking pasta: </s> boil water. 1
+cooking pasta: </s> add pasta. 1
+cooking pasta: </s> bring to boil again. 1
+cooking pasta: </s> good for 10min. 1
+cooking pasta: </s> drain pasta. 1
+cooking pasta: </s> boil a large pot of water 1
+cooking pasta: </s> add a pinch of salt to the water 1
+cooking pasta: </s> heat a smaller pot of your favorite sauce 1
+cooking pasta: </s> when the water is boiling, add the pasta to the pot 1
+cooking pasta: </s> cook for several minutes according to the time listed on the package 1
+cooking pasta: </s> drain the pasta into a colander 1
+cooking pasta: </s> put the pasta onto a plate 1
+cooking pasta: </s> pour the heated sauce over the pasta 1
+cooking pasta: </s> get out pasta pot. 1
+cooking pasta: </s> fill with water. 1
+cooking pasta: </s> put over heat on the stove. 1
+cooking pasta: </s> wait for the water to boil. 1
+cooking pasta: </s> get out pasta. 1
+cooking pasta: </s> add pasta to water. 1
+cooking pasta: </s> set timer. 1
+cooking pasta: </s> wait for timer to go off. 1
+cooking pasta: </s> remove pasta from cooking water. 1
+cooking pasta: </s> turn off stove. 1
+cooking pasta: </s> get pasta out of the cabinet 1
+cooking pasta: </s> turn the stove on to high 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> put pot of water on to the stove's hot burner 1
+cooking pasta: </s> wait until the water boils 1
+cooking pasta: </s> place pasta in boiling water 1
+cooking pasta: </s> wait 15 minutes 1
+cooking pasta: </s> enjoy pasta 1
+cooking pasta: </s> buy pasta 1
+cooking pasta: </s> buy sauce 1
+cooking pasta: </s> get large pot 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> bring water to a boil 1
+cooking pasta: </s> put pasta into water 1
+cooking pasta: </s> cook for 10-15 minutes, until noodles are soft 1
+cooking pasta: </s> stir occasionally 1
+cooking pasta: </s> get a colander 1
+cooking pasta: </s> turn off heat 1
+cooking pasta: </s> pour pot of pasta into colander to drain water 1
+cooking pasta: </s> put pasta back into pot 1
+cooking pasta: </s> open sauce and pour into pot 1
+cooking pasta: </s> stir sauce evenly over pasta 1
+cooking pasta: </s> serve the food 1
+cooking pasta: </s> take pasta out of cupboard 1
+cooking pasta: </s> fill large pan with water 1
+cooking pasta: </s> put water on to boil 1
+cooking pasta: </s> when boiling add salt 1
+cooking pasta: </s> drop pasta into boiling water 1
+cooking pasta: </s> stir and bring back to boil 1
+cooking pasta: </s> set timer 1
+cooking pasta: </s> wait 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> put on stove 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> put pasta in boiling water 1
+cooking pasta: </s> wait for pasta to cook 1
+cooking pasta: </s> drain water from pasta 1
+cooking pasta: </s> put water in a pot 1
+cooking pasta: </s> turn the stove on 1
+cooking pasta: </s> put the pot on the stove 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> add a pinch of salt 1
+cooking pasta: </s> put pasta in the water 1
+cooking pasta: </s> wait for pasta to cook 1
+cooking pasta: </s> select pasta. 1
+cooking pasta: </s> fill pan with water. 1
+cooking pasta: </s> place pan in stove. 1
+cooking pasta: </s> turn stove on. 1
+cooking pasta: </s> wait for water to boil. 1
+cooking pasta: </s> place pasta in water. 1
+cooking pasta: </s> observe cooking until done. 1
+cooking pasta: </s> pour into strainer. 1
+cooking pasta: </s> remove from strainer. 1
+cooking pasta: </s> getting pan 1
+cooking pasta: </s> filling pan up with pasta 1
+cooking pasta: </s> putting pan on stove 1
+cooking pasta: </s> boiling water 1
+cooking pasta: </s> adding pasta to boiling water 1
+cooking pasta: </s> stir pasta 1
+cooking pasta: </s> cook pasta 1
+cooking pasta: </s> drain water from pasta 1
+cooking pasta: </s> take out a pot 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> get pasta out 1
+cooking pasta: </s> open package 1
+cooking pasta: </s> pour pasta in water 1
+cooking pasta: </s> read the instructions 1
+cooking pasta: </s> set the timer 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> pour pasta onto dish 1
+cooking pasta: </s> get pot out of cabinet 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> place pot on stove 1
+cooking pasta: </s> turn on stove 1
+cooking pasta: </s> get pasta out of cabinet 1
+cooking pasta: </s> when water is boiling up pasta in pot 1
+cooking pasta: </s> cook for ten minutes 1
+cooking pasta: </s> remove pot from stove 1
+cooking pasta: </s> drain pasta in sink 1
+cooking pasta: </s> open the pasta packet 1
+cooking pasta: </s> pour some water in a pan 1
+cooking pasta: </s> keep the pan on stove 1
+cooking pasta: </s> light the stove 1
+cooking pasta: </s> boil the water 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> take out the pan when pasta is cooked 1
+cooking pasta: </s> drain water 1
+cooking pasta: </s> keep a pan on stove 1
+cooking pasta: </s> add some oil 1
+cooking pasta: </s> add vegetables 1
+cooking pasta: </s> add spices 1
+cooking pasta: </s> add cooked pasta 1
+cooking pasta: </s> stir occasionally 1
+cooking pasta: </s> put off flame when ready 1
+cooking pasta: </s> transfer the pasta to a vessel 1
+cooking pasta: </s> get pan out of cupboard 1
+cooking pasta: </s> put water in pan 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> wait for pasta to soften 1
+cooking pasta: </s> drain pasta from water and add toppings to pasta 1
+cooking pasta: </s> get ingredients 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> drain water 1
+cooking pasta: </s> add ingredients 1
+cooking pasta: </s> stir well 1
+cooking pasta: </s> serve pasta 1
+cooking pasta: </s> open the pasta packet 1
+cooking pasta: </s> pour it in a bowl 1
+cooking pasta: </s> wash it with water 1
+cooking pasta: </s> lit the gas stove 1
+cooking pasta: </s> put the cooking pan on gas 1
+cooking pasta: </s> pour the pasta in the pan 1
+cooking pasta: </s> heat it in full flame 1
+cooking pasta: </s> when boiling point is reached put gas on low 1
+cooking pasta: </s> add salt and spices as per taste 1
+cooking pasta: </s> add some peas 1
+cooking pasta: </s> cool down after 10 minutes 1
+cooking pasta: </s> pasta is cooked 1
+cooking pasta: </s> fill a pot with water 1
+cooking pasta: </s> put it on the stove 1
+cooking pasta: </s> turn stove on 1
+cooking pasta: </s> let it come to a boil 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> stir 1
+cooking pasta: </s> cook until done 1
+cooking pasta: </s> pour contents in a colander 1
+cooking pasta: </s> put pasta back in pot 1
+cooking pasta: </s> grab pot 1
+cooking pasta: </s> grab uncooked pasta 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> place water filled pot on stove 1
+cooking pasta: </s> turn on stove 1
+cooking pasta: </s> wait until water boils 1
+cooking pasta: </s> throw pasta into boiling water 1
+cooking pasta: </s> wait until pasta is cooked 1
+cooking pasta: </s> put water in pot 1
+cooking pasta: </s> place pot on stove 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> pour uncooked pasta in pot 1
+cooking pasta: </s> put butter or oil in pot 1
+cooking pasta: </s> stir occasionally until pasta tender 1
+cooking pasta: </s> pour pasta into strainer 1
+cooking pasta: </s> put water into a pasta cooker 1
+cooking pasta: </s> add it to stove 1
+cooking pasta: </s> wait for it to boil 1
+cooking pasta: </s> add the pasta 1
+cooking pasta: </s> put colander in sink 1
+cooking pasta: </s> wait for it to cook 1
+cooking pasta: </s> pour pasta into colander 1
+cooking pasta: </s> lift colander 1
+cooking pasta: </s> put pasta in bowl 1
+cooking pasta: </s> add pasta sauce 1
+cooking pasta: </s> serve 1
+cooking pasta: </s> fill a large pot with water. 1
+cooking pasta: </s> salt the water. 1
+cooking pasta: </s> bring the water to a boil. 1
+cooking pasta: </s> add pasta. 1
+cooking pasta: </s> cook for 8-10 minutes. 1
+cooking pasta: </s> drain pasta. 1
+cooking pasta: </s> turn on burner 1
+cooking pasta: </s> put pot on burner. 1
+cooking pasta: </s> fill pot with 2-3 cups of water. 1
+cooking pasta: </s> wait for water to boil. 1
+cooking pasta: </s> add pasta. 1
+cooking pasta: </s> stir pasta occasionally until it becomes as soft as desired. 1
+cooking pasta: </s> turn off burner. 1
+cooking pasta: </s> take pot off burner. 1
+cooking pasta: </s> strain noodles in a strainer over the sink. 1
+cooking pasta: </s> put noodles back in pot until ready to eat. 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> wait for pasta to become soft and sticky 1
+cooking pasta: </s> strain pasta 1
+cooking pasta: </s> add sauce 1
+cooking pasta: </s> put water into pot 1
+cooking pasta: </s> bring water to a boil 1
+cooking pasta: </s> add salt to water 1
+cooking pasta: </s> take pasta out of container 1
+cooking pasta: </s> put into boiling water 1
+cooking pasta: </s> stir pasta as it cooks 1
+cooking pasta: </s> take pasta out after 8 minutes 1
+cooking pasta: </s> put into strainer 1
+cooking pasta: </s> rinse with water 1
+cooking pasta: </s> get pot 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> put pot on burner 1
+cooking pasta: </s> turn burner on 1
+cooking pasta: </s> wait until water boils 1
+cooking pasta: </s> put pasta in water 1
+cooking pasta: </s> cook 8-10 minutes 1
+cooking pasta: </s> stir occasionally 1
+cooking pasta: </s> taste pasta 1
+cooking pasta: </s> when done, pour water and pasta into colander 1
+cooking pasta: </s> put pot of water on the stove 1
+cooking pasta: </s> turn on stove 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> add a spoonful of salt 1
+cooking pasta: </s> get pasta 1
+cooking pasta: </s> put pasta in water 1
+cooking pasta: </s> wait until pasta is done 1
+cooking pasta: </s> get colander 1
+cooking pasta: </s> put colander into sink 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> put the water into a saucepan. 1
+cooking pasta: </s> bring the water to boil. 1
+cooking pasta: </s> add pasta into the boiling water. 1
+cooking pasta: </s> drain pasta. 1
+cooking pasta: </s> put pasta on a plate. 1
+cooking pasta: </s> add sauce on the pasta. 1
+cooking pasta: </s> serve the food. 1
+cooking pasta: </s> choose pasta you want to cook 1
+cooking pasta: </s> obtain deep sized sauce pan 1
+cooking pasta: </s> fill sauce pan with water 1
+cooking pasta: </s> bring water to a boil on stovetop 1
+cooking pasta: </s> add pasta to water when boiling 1
+cooking pasta: </s> stir pasta in pan 1
+cooking pasta: </s> when pasta is tender, drain water 1
+cooking pasta: </s> saute pasta with sauce or olive oil, if desired 1
+cooking pasta: </s> serve pasta on plate 1
+cooking pasta: </s> boil a pot of water 1
+cooking pasta: </s> open box of pasta 1
+cooking pasta: </s> add pasta to boiling water 1
+cooking pasta: </s> stir occasionally 1
+cooking pasta: </s> cook pasta until tender 1
+cooking pasta: </s> remove pot from stove 1
+cooking pasta: </s> turn stove burner off 1
+cooking pasta: </s> place colander in sink 1
+cooking pasta: </s> drain pasta in colander 1
+cooking pasta: </s> get pan 1
+cooking pasta: </s> fill pan with water 1
+cooking pasta: </s> add salt to water 1
+cooking pasta: </s> put pan on stove 1
+cooking pasta: </s> turn on burner 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> when water has boiled, add pasta 1
+cooking pasta: </s> look at time to cook on pasta packet 1
+cooking pasta: </s> test pasta for doneness 1
+cooking pasta: </s> get colander 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> serve 1
+cooking pasta: </s> take out pot. 1
+cooking pasta: </s> fill with water 1
+cooking pasta: </s> set on stove and turn heat on high 1
+cooking pasta: </s> remove pasta from box 1
+cooking pasta: </s> dump pasta in pot 1
+cooking pasta: </s> watch for water to boil 1
+cooking pasta: </s> cook pasta 1
+cooking pasta: </s> when pasta is desired texture, remove from stove 1
+cooking pasta: </s> turn stove off 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> season pasta and add sauce 1
+cooking pasta: </s> eat 1
+cooking pasta: </s> get pan out 1
+cooking pasta: </s> fill about half full with water 1
+cooking pasta: </s> heat to a boil 1
+cooking pasta: </s> put pasta in water 1
+cooking pasta: </s> cook eight mins or until tender 1
+cooking pasta: </s> drain water 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> place over high heat 1
+cooking pasta: </s> add salt to taste 1
+cooking pasta: </s> add pasta to the water 1
+cooking pasta: </s> stir frequently for two minutes 1
+cooking pasta: </s> taste it to see if it is cooked 1
+cooking pasta: </s> go to the kitchen 1
+cooking pasta: </s> open cabinet 1
+cooking pasta: </s> grab box of pasta 1
+cooking pasta: </s> grab pot 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> boil the water 1
+cooking pasta: </s> pour pasta in 1
+cooking pasta: </s> wait 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> put it on a plate 1
+cooking pasta: </s> eat 1
+cooking pasta: </s> fill a pan with water 1
+cooking pasta: </s> add a small amount of oil to the water 1
+cooking pasta: </s> place the pan on the stove 1
+cooking pasta: </s> turn the burner on to medium high 1
+cooking pasta: </s> bring the water to a boil 1
+cooking pasta: </s> add the pasta to the boiling water 1
+cooking pasta: </s> turn the burner down to medium 1
+cooking pasta: </s> let the pasta cook for about 12 minutes 1
+cooking pasta: </s> check the pasta to see if it is done 1
+cooking pasta: </s> drain the pasta in a colander 1
+cooking pasta: </s> do not rinse the pasta in cold water 1
+cooking pasta: </s> get a large cooking pot 1
+cooking pasta: </s> fill pot with approximately 2 quarts of water 1
+cooking pasta: </s> turn on heat 1
+cooking pasta: </s> bring water to a boil 1
+cooking pasta: </s> pour pasta into water slowly, avoid splashing water 1
+cooking pasta: </s> continue boiling for time specified on package, about 8 minutes 1
+cooking pasta: </s> when done, turn off burner 1
+cooking pasta: </s> drain pasta in a colander and serve 1
+cooking pasta: </s> put water into a big pot 1
+cooking pasta: </s> salt water 1
+cooking pasta: </s> turn burner on high 1
+cooking pasta: </s> wait for salted water to boil 1
+cooking pasta: </s> take pasta out 1
+cooking pasta: </s> once water is boiling place pasta into pot 1
+cooking pasta: </s> set timer 1
+cooking pasta: </s> wait for timer 1
+cooking pasta: </s> get a strainer 1
+cooking pasta: </s> put strainer in sink 1
+cooking pasta: </s> time goes off 1
+cooking pasta: </s> take pot and pour pasta into strainer 1
+cooking pasta: </s> turn stove on 1
+cooking pasta: </s> choose proper pans 1
+cooking pasta: </s> grab pasta 1
+cooking pasta: </s> put pasta into pan with water 1
+cooking pasta: </s> let pasta finish cooking 1
+cooking pasta: </s> throw water out of pan 1
+cooking pasta: </s> use tomato sauce 1
+cooking pasta: </s> mix well 1
+cooking pasta: </s> enjoy pasta 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> turn on burner 1
+cooking pasta: </s> place pot on stove 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> put pasta into the boiling water 1
+cooking pasta: </s> set timer for appropriate time 1
+cooking pasta: </s> when timer goes off, remove pot from stove 1
+cooking pasta: </s> dump pasta into strainer over sink 1
+cooking pasta: </s> get pasta from cupboard 1
+cooking pasta: </s> get large pot 1
+cooking pasta: </s> fill pot half full of water 1
+cooking pasta: </s> add a pinch of salt 1
+cooking pasta: </s> bring water to a boil 1
+cooking pasta: </s> measure pasta 1
+cooking pasta: </s> add pasta to water 1
+cooking pasta: </s> cook until done 1
+cooking pasta: </s> get colander 1
+cooking pasta: </s> drain pasta into colander 1
+cooking pasta: </s> rinse 1
+cooking pasta: </s> place pasta in serving bowl 1
+cooking pasta: </s> serve pasta 1
+cooking pasta: </s> put water in a large pot. 1
+cooking pasta: </s> put the water on the stove. 1
+cooking pasta: </s> salt the water. 1
+cooking pasta: </s> boil the water, 1
+cooking pasta: </s> place noodles inside. 1
+cooking pasta: </s> fill a large stock pot with water. 1
+cooking pasta: </s> place the pot of water on the stove and turn it on high. 1
+cooking pasta: </s> add some salt to the water. 1
+cooking pasta: </s> allow the water to come to a boil. 1
+cooking pasta: </s> pour pasta into the water and stir. 1
+cooking pasta: </s> allow the water to return to a boil. 1
+cooking pasta: </s> stirring occasionally, allow the pasta to cook for 9 to 11 minutes. 1
+cooking pasta: </s> place a colander in the sink. 1
+cooking pasta: </s> pour the pasta and water into the colander and allow to drain. 1
+cooking pasta: </s> place the pasta into a serving dish. 1
+cooking pasta: </s> fill a pot with water 1
+cooking pasta: </s> place water on stove 1
+cooking pasta: </s> turn on stove 1
+cooking pasta: </s> get pasta out of pantry 1
+cooking pasta: </s> open pasta 1
+cooking pasta: </s> place pasta in water on stove 1
+cooking pasta: </s> cook in boiling water for 8 minutes 1
+cooking pasta: </s> get a pot 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> pour pasta into boiling water 1
+cooking pasta: </s> wait for pasta to cook 1
+cooking pasta: </s> drain water from pasta 1
+cooking pasta: </s> add tomato sauce 1
+cooking pasta: </s> serve pasta 1
+cooking pasta: </s> purchase pasta from store. 1
+cooking pasta: </s> fill pot with water. 1
+cooking pasta: </s> put pot onto stovetop. 1
+cooking pasta: </s> bring water to boil. 1
+cooking pasta: </s> add salt to the water. 1
+cooking pasta: </s> add pasta to boiling water. 1
+cooking pasta: </s> cook pasta for approximately 7 minutes. 1
+cooking pasta: </s> drain pot into colander. 1
+cooking pasta: </s> eat the pasta. 1
+cooking pasta: </s> put water in a pot 1
+cooking pasta: </s> turn on stove 1
+cooking pasta: </s> let the water boil 1
+cooking pasta: </s> grab pasta and throw it in the water 1
+cooking pasta: </s> wait for pasta to soften 1
+cooking pasta: </s> drain pasta in a strainer 1
+cooking pasta: </s> serve with sauce 1
+cooking pasta: </s> take out a pot 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> place pot on stove 1
+cooking pasta: </s> turn heat to medium 1
+cooking pasta: </s> when water is boiling, fill pot with pasta 1
+cooking pasta: </s> stir after 5 minutes 1
+cooking pasta: </s> remove pot after 10 minutes 1
+cooking pasta: </s> drain pasta 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> heat water to boiling 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> wait for 10 to 15 min 1
+cooking pasta: </s> drain water 1
+cooking pasta: </s> remove pasta 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> put pot on stove 1
+cooking pasta: </s> turn heat to high 1
+cooking pasta: </s> wait for water to boil 1
+cooking pasta: </s> get box of pasta 1
+cooking pasta: </s> pour pasta into boiling water 1
+cooking pasta: </s> wait 10 minutes 1
+cooking pasta: </s> turn off heat 1
+cooking pasta: </s> put strainer in sink 1
+cooking pasta: </s> pour water and pasta into strainer 1
+cooking pasta: </s> pasta ready to serve 1
+cooking pasta: </s> get a pot. 1
+cooking pasta: </s> fill pot with water. 1
+cooking pasta: </s> put pot on stove. 1
+cooking pasta: </s> turn on heat. 1
+cooking pasta: </s> allow the water to begin boiling. 1
+cooking pasta: </s> throw pasta in boiling water. 1
+cooking pasta: </s> cook pasta as instructed, or until tender. 1
+cooking pasta: </s> turn off heat. 1
+cooking pasta: </s> drain water. 1
+cooking pasta: </s> rinse with cold water. 1
+cooking pasta: </s> drain all excess liquid. 1
+cooking pasta: </s> serve. 1
+cooking pasta: </s> obtain pasta 1
+cooking pasta: </s> remove pasta from packaging 1
+cooking pasta: </s> place water in pot 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> place pasta in boiling water 1
+cooking pasta: </s> let boiling water cook pasta 1
+cooking pasta: </s> remove pasta 1
+cooking pasta: </s> get a pot 1
+cooking pasta: </s> pour water into pot 1
+cooking pasta: </s> put pot on stove 1
+cooking pasta: </s> turn stove on 1
+cooking pasta: </s> cover pot 1
+cooking pasta: </s> wait until water boils 1
+cooking pasta: </s> put pasta in boiling water 1
+cooking pasta: </s> check and mix pasta until it is cooked 1
+cooking pasta: </s> get strainer 1
+cooking pasta: </s> put strainer into sink 1
+cooking pasta: </s> strain pasta 1
+cooking pasta: </s> get pot 1
+cooking pasta: </s> fill pot with water 1
+cooking pasta: </s> open spaghetti box 1
+cooking pasta: </s> pour into pot 1
+cooking pasta: </s> turn on stove 1
+cooking pasta: </s> cook until you can throw a piece of spaghetti against the wall and it sticks 1
+cooking pasta: </s> get pasta, water, fork, colander and pot out. 1
+cooking pasta: </s> put water into pot. 1
+cooking pasta: </s> put pot on burner on stove. 1
+cooking pasta: </s> turn heat to high. 1
+cooking pasta: </s> when water is boiling, add pasta. 1
+cooking pasta: </s> cook pasta until it is tender with a fork. 1
+cooking pasta: </s> put colander in sink. 1
+cooking pasta: </s> drain water and pasta into colander. 1
+cooking pasta: </s> turn heat off on oven. 1
+cooking pasta: </s> buy pasta 1
+cooking pasta: </s> get pot 1
+cooking pasta: </s> put water in pot 1
+cooking pasta: </s> boil water 1
+cooking pasta: </s> add pasta 1
+cooking pasta: </s> wait for pasta to cook 1
+cooking pasta: </s> drain 1
+cooking pasta: </s> plate the pasta 1
+cooking pasta: </s> enter locker room 0
+cooking pasta: </s> go home. 0
+cooking pasta: </s> drive to dentists office. 0
+cooking pasta: </s> remove the pump from the car. 0
+cooking pasta: </s> sweep the floors 0
+cooking pasta: </s> sit on steam bench 0
+cooking pasta: </s> say goodnight 0
+cooking pasta: </s> tell them to sleep 0
+cooking pasta: </s> park and get out of car 0
+cooking pasta: </s> pick up a dish and clean with sponge 0
+cooking pasta: </s> perform some words and offer a hug to whole family 0
+cooking pasta: </s> proceed to gate. 0
+cooking pasta: </s> washing dishes is a major work done in houses, restaurant and all eatable place. 0
+cooking pasta: </s> go to my shed. 0
+cooking pasta: </s> get your food 0
+cooking pasta: </s> order a pizza 0
+cooking pasta: </s> open battery cover 0
+cooking pasta: </s> turn on stove 0
+cooking pasta: </s> add water to the coffee pot 0
+cooking pasta: </s> take the alarm clock 0
+cooking pasta: </s> pull eggs out of the fridge. 0
+cooking pasta: </s> politely call waiter over to table 0
+cooking pasta: </s> put names in score computer 0
+cooking pasta: </s> sign in at the entrance of the funeral 0
+cooking pasta: </s> put tree in hole. 0
+cooking pasta: </s> get in car 0
+cooking pasta: </s> enter the shower 0
+cooking pasta: </s> sign for your purchase 0
+cooking pasta: </s> put the tree in the hole 0
+cooking pasta: </s> use bike as normal 0
+cooking pasta: </s> board train after it stops 0
+cooking pasta: </s> grind coffee beans 0
+cooking pasta: </s> water tree 0
+cooking pasta: </s> end game 0
+cooking pasta: </s> put on gloves 0
+cooking pasta: </s> tie off the thread and cut the thread 0
+cooking pasta: </s> determine how many people will be attending the barbecue. 0
+cooking pasta: </s> at counter, give checked luggage to attendant. 0
+cooking pasta: </s> put plate covering back on clock 0
+cooking pasta: </s> warm up hands and arms properly 0
+cooking pasta: </s> turn on heat. 0
+cooking pasta: </s> drive to sauna 0
+cooking pasta: </s> paint the walls 0
+cooking pasta: </s> pay and tip beautician 0
+cooking pasta: </s> finish eating meal 0
+cooking pasta: </s> turn alarm clock right side up 0
+cooking pasta: </s> get out of pool. 0
+cooking pasta: </s> accept amount charged 0
+cooking pasta: </s> mix eggs with whisk or fork 0
+cooking pasta: </s> wait 0
+cooking pasta: </s> drain and rinse both sinks 0
+cooking pasta: </s> follow dentist's instructions 0
+cooking pasta: </s> look at the menu board. 0
+cooking pasta: </s> collect twigs and extra sticks in the backyward 0
+cooking pasta: </s> enter the theater 0
+cooking pasta: </s> hire a driving instructor 0
+cooking pasta: </s> go to barber shop. 0
+cooking pasta: </s> board train 0
+cooking pasta: </s> drive car to pool 0
+cooking pasta: </s> put cart away into cart area. 0
+cooking pasta: </s> get dressed. 0
+cooking pasta: </s> put some newspaper in the wood 0
+cooking pasta: </s> exit car 0
+cooking pasta: </s> turn off shower water 0
+cooking pasta: </s> water the newly planted tree 0
+cooking pasta: </s> wait to be called 0
+cooking pasta: </s> roll a strike 0
+cooking pasta: </s> wait for delivery 0
+cooking pasta: </s> ask a friend to play. 0
+cooking pasta: </s> press enter. 0
+cooking pasta: </s> order an item 0
+cooking pasta: </s> leave. 0
+cooking pasta: </s> take recyclable bags 0
+cooking pasta: </s> have child go to the bathroom, if necessary. 0
+cooking pasta: </s> pump desired amount 0
+cooking pasta: </s> find a seat 0
+cooking pasta: </s> throw lit match on top of wood 0
+cooking pasta: </s> purchase desired amount of games to play 0
+cooking pasta: </s> leave a tip for hair cutter 0
+cooking pasta: </s> enter the dentist office. 0
+cooking pasta: </s> cover tree roots with dirt 0
+cooking pasta: </s> wait while dentist looks at your teeth 0
+cooking pasta: </s> reset the time on the clock 0
+cooking pasta: </s> rinse hair with water. 0
+cooking pasta: </s> get passed security. 0
+cooking pasta: </s> pick dish up and scrub with brush or sponge 0
+cooking pasta: </s> take off clothes. 0
+cooking pasta: </s> wrap the thread 0
+cooking pasta: </s> carefully enter the tub 0
+cooking pasta: </s> place seeds in hole. 0
+cooking pasta: </s> sweat 0
+cooking pasta: </s> put eggs on plate 0
+cooking pasta: </s> dentist fills any cavities 0
+cooking pasta: </s> turn on grill 0
+cooking pasta: </s> turn off the water. 0
+cooking pasta: </s> set washer load size, water temp., etc. 0
+cooking pasta: </s> turn from time to time, brushing meat 0
+cooking pasta: </s> obtain bowling shoes 0
+cooking pasta: </s> buy snack at concession stand 0
+cooking pasta: </s> get food to cook on the grill 0
+cooking pasta: </s> remove painter's tape 0
+cooking pasta: </s> take all of your luggage and your party to the correct airline 0
+cooking pasta: </s> walk them to their bed 0
+cooking pasta: </s> take out iron 0
+cooking pasta: </s> provide insurance if applicable. 0
+cooking pasta: </s> admire tree 0
+cooking pasta: </s> bring dirty dishes to sink 0
+cooking pasta: </s> pour a quarter sized amount of shampoo onto hand. 0
+cooking pasta: </s> buy subway card 0
+cooking pasta: </s> take your purchase 0
+cooking pasta: </s> hand over your bag to be checked 0
+cooking pasta: </s> refill the air 0
+cooking pasta: </s> get luggage out of trunk 0
+cooking pasta: </s> open coffee can. 0
+cooking pasta: </s> put dish soap on rag 0
+cooking pasta: </s> pile wood on location/ fire pit 0
+cooking pasta: </s> buy a baby tree 0
+cooking pasta: </s> leave theater 0
+cooking pasta: </s> light scented candle 0
+cooking pasta: </s> place prewashed dishes carefully into dishwasher 0
+cooking pasta: </s> get wood 0
+cooking pasta: </s> do what instructor says. 0
+cooking pasta: </s> train stops 0
+cooking pasta: </s> get naked 0
+cooking pasta: </s> enjoy end of show and then go home. 0
+cooking pasta: </s> go to check out lane 0
+cooking pasta: </s> use a rag to wash them 0
+cooking pasta: </s> go out to pool deck and find lounger. 0
+cooking pasta: </s> look online to find time/location for show 0
+cooking pasta: </s> open battery compartment 0
+cooking pasta: </s> get the waiters attention. 0
+cooking pasta: </s> continue step 6 until clothes ironed 0
+cooking pasta: </s> wait for the butter to melt. 0
+cooking pasta: </s> get to restaurant 0
+cooking pasta: </s> take board pass and license 0
+cooking pasta: </s> get fork out of drawer. 0
+cooking pasta: </s> use any fire ignite 0
+cooking pasta: </s> put names in computer 0
+cooking pasta: </s> pack swim suit, towel, and sun screen into bag 0
+cooking pasta: </s> wash any dirt from tub. 0
+cooking pasta: </s> put on shoes. 0
+cooking pasta: </s> pump desired amount 0
+cooking pasta: </s> flip burgers and dogs 0
+cooking pasta: </s> get your routine checkup 0
+cooking pasta: </s> set up tables and chairs for guests 0
+cooking pasta: </s> enjoy new food 0
+cooking pasta: </s> prep meat 0
+cooking pasta: </s> put tube and tire back on bicycle. 0
+cooking pasta: </s> waiter brings receipt 0
+cooking pasta: </s> use lit wood to catch pile on fire 0
+cooking pasta: </s> pack dirt around tree 0
+cooking pasta: </s> iron the cloth 0
+cooking pasta: </s> tie a knot to secure thread 0
+cooking pasta: </s> decide that something is not right about the food. 0
+cooking pasta: </s> check schedules for desired destination 0
+cooking pasta: </s> apply soap to the wash cloth. 0
+cooking pasta: </s> clean off dishes 0
+cooking pasta: </s> explain what is unsatisfactory 0
+cooking pasta: </s> make an appointment 0
+cooking pasta: </s> board the train 0
+cooking pasta: </s> pull stopper from tub and let water drain 0
+cooking pasta: </s> go to cashier 0
+cooking pasta: </s> present id and tickets 0
+cooking pasta: </s> talk to the hairstylist 0
+cooking pasta: </s> replace battery cover by sliding it back onto the clock back. 0
+cooking pasta: </s> get ironing board 0
+cooking pasta: </s> go outside 0
+cooking pasta: </s> watch trailers 0
+cooking pasta: </s> get dressed 0
+cooking pasta: </s> input delivery address 0
+cooking pasta: </s> leave swimming baths 0
+cooking pasta: </s> perform some words and offer a hug to whole family 0
+cooking pasta: </s> swipe on the credit card machine 0
+cooking pasta: </s> listen to instructions 0
+cooking pasta: </s> order food 0
+cooking pasta: </s> cook meat to specification 0
+cooking pasta: </s> turn on the stove 0
+cooking pasta: </s> get dressed 0
+cooking pasta: </s> walk in bathroom 0
+cooking pasta: </s> wait for the funeral time 0
+cooking pasta: </s> say goodnight 0
+cooking pasta: </s> open up the tire with a long screwdriver and lever 0
+cooking pasta: </s> stop pumping and remove nozzle when completed 0
+cooking pasta: </s> enter sauna. 0
+cooking pasta: </s> walk with the child to his or her bed. 0
+cooking pasta: </s> get receipt 0
+cooking pasta: </s> decide what i want to order 0
+cooking pasta: </s> rinse cups and put them into top rack of dishwasher. 0
+cooking pasta: </s> set table outdoors. 0
+cooking pasta: </s> dentist checks status of teeth 0
+cooking pasta: </s> use iron to get wrinkles out of the items 0
+cooking pasta: </s> purchasing a ticket 0
+cooking pasta: </s> wait for food 0
+cooking pasta: </s> undress. 0
+cooking pasta: </s> remove screws so you can remove the entire tire and rim. 0
+cooking pasta: </s> serve ball to your tennis partner, without the tennis ball crossing the line 0
+cooking pasta: </s> get gloves 0
+cooking pasta: </s> meet instructor 0
+cooking pasta: </s> place sapling into the hole 0
+cooking pasta: </s> remove nozzle 0
+cooking pasta: </s> put one group of clothes into the washer 0
+cooking pasta: </s> slide card in reader 0
+cooking pasta: </s> call company 0
+cooking pasta: </s> tell cashier what food and drink you want. 0
+cooking pasta: </s> put on new clothes 0
+cooking pasta: </s> pick a lane 0
+cooking pasta: </s> fill the milk in saucer 0
+cooking pasta: </s> get food and drinks. 0
+cooking pasta: </s> enjoy your pizza. 0
+cooking pasta: </s> enjoy food 0
+cooking pasta: </s> remove old batteries 0
+cooking pasta: </s> get out 0
+cooking pasta: </s> look at score 0
+cooking pasta: </s> decide whether to do the work yourself or hire a contractor. 0
+cooking pasta: </s> go out to pool deck and find lounger. 0
+cooking pasta: </s> paint walls 0
+cooking pasta: </s> buy a tennis racket and tennis balls 0
+cooking pasta: </s> take x-rays. 0
+cooking pasta: </s> hit the ball over the net. 0
+cooking pasta: </s> wait for the subway to arrive 0
+cooking pasta: </s> walk to lane 0
+cooking pasta: </s> go inside bathroom 0
+cooking pasta: </s> get a towel 0
+cooking pasta: </s> remove old batteries 0
+cooking pasta: </s> buy movie ticket 0
+cooking pasta: </s> insert nozzle in car 0
+cooking pasta: </s> drive to sauna 0
+cooking pasta: </s> pull plug to turn on shower head 0
+cooking pasta: </s> pay the barber 0
+cooking pasta: </s> insert key 0
+cooking pasta: </s> give card number (if paying with card) 0
+cooking pasta: </s> place new batteries into clock. 0
+cooking pasta: </s> put dirty dishes in water. 0
+cooking pasta: </s> grab order 0
+cooking pasta: </s> get out of car 0
+cooking pasta: </s> add butter, salt, and pepper to eggs 0
+cooking pasta: </s> put on black dress 0
+cooking pasta: </s> sit down and listen to sermon 0
+cooking pasta: </s> check credit card balance 0
+cooking pasta: </s> put groceries in trunk 0
+cooking pasta: </s> put on the ironing board 0
+cooking pasta: </s> shampoo hair 0
+cooking pasta: </s> dig a hole where you want to plant tree. 0
+cooking pasta: </s> go to dentist office 0
+cooking pasta: </s> scan card at entrance 0
+cooking pasta: </s> continue crisscrossing thread between holes of button until button is tight. 0
+cooking pasta: </s> choose the room to be renovated 0
+cooking pasta: </s> talk to people and express your condolences 0
+cooking pasta: </s> walk to locker room 0
+cooking pasta: </s> enjoy! 0
+cooking pasta: </s> sit on a seat for the duration of the funeral 0
+cooking pasta: </s> complete until all clothes are done 0
+cooking pasta: </s> close battery compartment 0
+cooking pasta: </s> have child brush his/her teeth 0
+cooking pasta: </s> drive to the sauna 0
+cooking pasta: </s> wait patiently 0
+cooking pasta: </s> tie a knot to secure thread 0
+cooking pasta: </s> go down and buy a ticket 0
+cooking pasta: </s> unplug vacuum 0
+cooking pasta: </s> change out of your clothes and put on a towel 0
+cooking pasta: </s> take rental shoes from attendant. 0
+cooking pasta: </s> greet your instructor 0
+cooking pasta: </s> choose bowling alley 0
+cooking pasta: </s> rinse soap off the dish 0
+cooking pasta: </s> dust the furniture 0
+cooking pasta: </s> collect boarding passes from attendant 0
+cooking pasta: </s> park car 0
+cooking pasta: </s> place it over the hole. 0
+cooking pasta: </s> meet your friend at the court. 0
+cooking pasta: </s> get detergent 0
+cooking pasta: </s> arrive at the airport. 0
+cooking pasta: </s> pump up tire 0
+cooking pasta: </s> register the details 0
+cooking pasta: </s> put burgers and dogs into buns 0
+cooking pasta: </s> rinse hair 0
+cooking pasta: </s> repeat with other items 0
+cooking pasta: </s> turn on car 0
+cooking pasta: </s> leave haircut place 0
+cooking pasta: </s> water the sapling 0
+cooking pasta: </s> run water 0
+cooking pasta: </s> hang laundry up after ironing. 0
+cooking pasta: </s> have mouth checked 0
+cooking pasta: </s> swipe the card 0
+cooking pasta: </s> go to the bowling alley 0
+cooking pasta: </s> sit down in chair 0
+cooking pasta: </s> pick out new furniture 0
+cooking pasta: </s> wait in the office to be seen 0
+cooking pasta: </s> vacuum carpets 0
+cooking pasta: </s> dry off with a towel 0
+cooking pasta: </s> take boarding pass, ticket, and id. 0
+cooking pasta: </s> determine where to plant it 0
+cooking pasta: </s> line up to pay. 0
+cooking pasta: </s> ride the bike 0
+cooking pasta: </s> turn dryer on 0
+cooking pasta: </s> take the alarm clock 0
+cooking pasta: </s> ask for a different food item 0
+cooking pasta: </s> pay for order 0
+cooking pasta: </s> dig a hole three times the save as the root ball 0
+cooking pasta: </s> remove the air from tube 0
+cooking pasta: </s> get out of bathtub 0
+cooking pasta: </s> get teeth cleaned 0
+cooking pasta: </s> add water to pot 0
+cooking pasta: </s> flip piece of clothes. 0
+cooking pasta: </s> make conversation with stylist 0
+cooking pasta: </s> buy and bring home new batteries from store 0
+cooking pasta: </s> set up the required equipment 0
+cooking pasta: </s> gather a towel 0
+cooking pasta: </s> sign for purchase 0
+cooking pasta: </s> call waiter to table 0
+cooking pasta: </s> order at the counter. 0
+cooking pasta: </s> pay for food 0
+cooking pasta: </s> walk or drive to the pool 0
+cooking pasta: </s> choose a paint color for walls 0
+cooking pasta: </s> mix up eggs into a bowl 0
+cooking pasta: </s> pay for the services 0
+cooking pasta: </s> arrive at hair salon. 0
+cooking pasta: </s> make sure it gets sunlight 0
+cooking pasta: </s> get off of train 0
+cooking pasta: </s> dump trash 0
+cooking pasta: </s> take out the eggs 0
+cooking pasta: </s> place new batteries in the battery compartment 0
+cooking pasta: </s> have your proper id and ticket ready 0
+cooking pasta: </s> go inside and walk up to the counter 0
+cooking pasta: </s> receive your boarding pass and gate number 0
+cooking pasta: </s> close battery compartment 0
+cooking pasta: </s> turn off shower and dry off 0
+cooking pasta: </s> gather tennis racket and balls 0
+cooking pasta: </s> take receipt 0
+cooking pasta: </s> pay respects 0
+cooking pasta: </s> wait in waiting area 0
+cooking pasta: </s> eat food. 0
+cooking pasta: </s> move your hands around your head and hair until there is a lot of lather 0
+cooking pasta: </s> tell the worker what you'd like to order. 0
+cooking pasta: </s> look over menu 0
+cooking pasta: </s> sit at a table 0
+cooking pasta: </s> buy popcorn 0
+cooking pasta: </s> leave a tip 0
+cooking pasta: </s> wait for coffee to brew 0
+cooking pasta: </s> wait for train 0
+cooking pasta: </s> everyone buckle up 0
+cooking pasta: </s> place new batteries in alarm clock 0
+cooking pasta: </s> hire a driving instructor. 0
+cooking pasta: </s> when finished bowling return ball to racks. 0
+cooking pasta: </s> get dressed 0
+cooking pasta: </s> strike match 0
+cooking pasta: </s> wait for dentist to examine you 0
+cooking pasta: </s> call pizza restaurant 0
+cooking pasta: </s> enter store and buy what is on your list 0
+cooking pasta: </s> get out of car 0
+cooking pasta: </s> get out the iron 0
+cooking pasta: </s> make next appointment 0
+cooking pasta: </s> getting on the subway 0
+cooking pasta: </s> warm up hands and arms properly 0
+cooking pasta: </s> remove towel 0
+cooking pasta: </s> cashier rings up all your items 0
+cooking pasta: </s> retrieve tennis rackets from same bag 0
+cooking pasta: </s> dentist inspects teeth. 0
+cooking pasta: </s> throw away old batteries 0
+cooking pasta: </s> add dishwashing soap to water 0
+cooking pasta: </s> get a clean towel. 0
+cooking pasta: </s> give your partner one racquet 0
+cooking pasta: </s> when game is over retrieve tennis balls 0
+cooking pasta: </s> floss teeth 0
+cooking pasta: </s> don't forget to tip! 0
+cooking pasta: </s> pay for haircut 0
+cooking pasta: </s> rinse, scrub, and repeat until clean 0
+cooking pasta: </s> take off clothes 0
+cooking pasta: </s> fill sink with soapy water 0
+cooking pasta: </s> take out old batteries 0
+cooking pasta: </s> drive to the theater 0
+cooking pasta: </s> dig hole. 0
+cooking pasta: </s> cook food on hot grill. 0
+cooking pasta: </s> use the thimble to push the needle if required 0
+cooking pasta: </s> gather around casket 0
+cooking pasta: </s> pour into coffee pot 0
+cooking pasta: </s> tell them if you want delivery or pick up 0
+cooking pasta: </s> make sure not to set the iron on the clothing or it will burn 0
+cooking pasta: </s> leave bed room 0
+cooking pasta: </s> insert the gas nozzle 0
+cooking pasta: </s> eat food 0
+cooking pasta: </s> swipe card in the machine. 0
+cooking pasta: </s> write signature on receipt 0
+cooking pasta: </s> drive home 0
+cooking pasta: </s> tucking them in 0
+cooking pasta: </s> wash body 0
+cooking pasta: </s> put plug in drain 0
+cooking pasta: </s> add dish soap while water is sill running 0
+cooking pasta: </s> place the flowers on the box. 0
+cooking pasta: </s> cook hot dogs and hamburgers. 0
+cooking pasta: </s> take items and furniture out of room 0
+cooking pasta: </s> leave the salon 0
+cooking pasta: </s> gather wood 0
+cooking pasta: </s> find tennis ball 0
+cooking pasta: </s> step into shower 0
+cooking pasta: </s> crack eggs in bowl 0
+cooking pasta: </s> paint trim. 0
+cooking pasta: </s> show your ticket and passport/id 0
+cooking pasta: </s> turn off and unplug iron when finished 0
+cooking pasta: </s> sign your name using the stylus 0
+cooking pasta: </s> wait for new food to come back to you. 0
+cooking pasta: </s> fix underlying problems 0
+cooking pasta: </s> pay for order. 0
+cooking pasta: </s> undress. 0
+cooking pasta: </s> board plane 0
+cooking pasta: </s> get in car 0
+cooking pasta: </s> pay for tickets 0
+cooking pasta: </s> clean toilet 0
+cooking pasta: </s> return remaining new batteries to drawer 0
+cooking pasta: </s> call for waiter/waitress or wait until he/she arrives 0
+cooking pasta: </s> have dentist look into mouth 0
+cooking pasta: </s> get bag tag receipt 0
+cooking pasta: </s> arrive at the salon 0
+cooking pasta: </s> open dryer 0
+cooking pasta: </s> swipe my credit card 0
+cooking pasta: </s> driving to bowling alley 0
+cooking pasta: </s> turn off water when bathtub is full. 0
+cooking pasta: </s> kiss child's head 0
+cooking pasta: </s> acknowledge the mess. 0
+cooking pasta: </s> tell receptionist you are there 0
+cooking pasta: </s> open the dishwasher 0
+cooking pasta: </s> add kindling to firestarter 0
+cooking pasta: </s> get in the tub 0
+cooking pasta: </s> prepare swimming suit and towel 0
+cooking pasta: </s> ask child to put on pajamas 0
+cooking pasta: </s> go to a room 0
+cooking pasta: </s> plug in iron. 0
+cooking pasta: </s> sit and sweat 0
+cooking pasta: </s> go out to the reception area 0
+cooking pasta: </s> start the vehicle and drive under the guidance of the instructor 0
+cooking pasta: </s> sign your signature 0
+cooking pasta: </s> deposit your luggage 0
+cooking pasta: </s> go to the barber shop 0
+cooking pasta: </s> wait for food and drink. 0
+cooking pasta: </s> light paper on fire 0
+cooking pasta: </s> depart with purchases 0
+cooking pasta: </s> mop un-carpeted floors. 0
+cooking pasta: </s> wait for eggs to cook 0
+cooking pasta: </s> turn on water 0
+cooking pasta: </s> agree to necessary work. 0
+cooking pasta: </s> enter the cinema 0
+cooking pasta: </s> wait for dentist 0
+cooking pasta: </s> put on clean clothes. 0
+cooking pasta: </s> remove clothes from dryer 0
+cooking pasta: </s> change into comfortable clothing/ shoes 0
+cooking pasta: </s> disrobe 0
+cooking pasta: </s> add progressively larger wood to the stack 0
+cooking pasta: </s> wait for delivery 0
+cooking pasta: </s> rinse soap 0
+cooking pasta: </s> insert credit card into pump station 0
+cooking pasta: </s> park car in parking lot 0
+cooking pasta: </s> get a glass of water for the nightstand 0
+cooking pasta: </s> release clutch slowly 0
+cooking pasta: </s> plug in iron 0
+cooking pasta: </s> start the washer by pushing in the control knob. 0
+cooking pasta: </s> pick out bedtime story 0
+cooking pasta: </s> put on a sad face 0
+cooking pasta: </s> lay down in chair 0
+cooking pasta: </s> request that the food be fixed 0
+cooking pasta: </s> vacuum all exposed areas of carpet 0
+cooking pasta: </s> get towel 0
+cooking pasta: </s> tuck the child into bed 0
+cooking pasta: </s> reflect on your own mortality 0
+cooking pasta: </s> wait for opponent to hit ball back. 0
+cooking pasta: </s> grab after two minutes 0
+cooking pasta: </s> put bathing suit on 0
+cooking pasta: </s> go home. 0
+cooking pasta: </s> put tree into hole in ground 0
+cooking pasta: </s> plug in iron 0
+cooking pasta: </s> choose a towel 0
+cooking pasta: </s> spread clothes over the board 0
+cooking pasta: </s> give worker a callback number 0
+cooking pasta: </s> choose your toppings 0
+cooking pasta: </s> thank her and apologize for the inconvenience 0
+cooking pasta: </s> mop all of your wood or tile floors 0
+cooking pasta: </s> add water to iron 0
+cooking pasta: </s> wait patiently. 0
+cooking pasta: </s> pull covers over child. 0
+cooking pasta: </s> continue to enjoy drinks with friends while meat cooks 0
+cooking pasta: </s> buy a drink 0
+cooking pasta: </s> wait for approval 0
+cooking pasta: </s> when done, remove to basket. 0
+cooking pasta: </s> get a ride to the lesson 0
+cooking pasta: </s> go to the restaurant 0
+cooking pasta: </s> wait for the grill to heat up 0
+cooking pasta: </s> arriving at the school 0
+cooking pasta: </s> remove laundry and put in dryer. 0
+cooking pasta: </s> you get up and look for a ball. 0
+cooking pasta: </s> put tree into hole 0
+cooking pasta: </s> get new batteries 0
+cooking pasta: </s> clean up. 0
+cooking pasta: </s> put the tree into the hole 0
+cooking pasta: </s> turn off the light 0
+cooking pasta: </s> leave bowling alley 0
+cooking pasta: </s> get up 0
+cooking pasta: </s> get thread 0
+cooking pasta: </s> check bags 0
+cooking pasta: </s> eat the pizza 0
+cooking pasta: </s> rinse lather out of hair with water 0
+cooking pasta: </s> walking into the locker room 0
+cooking pasta: </s> plant seed, seedling, or bush 0
+cooking pasta: </s> call friends to see who is available to play tennis 0
+cooking pasta: </s> wait until pot is filling up with coffee. 0
+cooking pasta: </s> gather wood and tinder 0
+cooking pasta: </s> wait for dentist 0
+cooking pasta: </s> go home 0
+cooking pasta: </s> enter the sauna 0
+cooking pasta: </s> ask waiter to return the food to be cooked properly 0
+cooking pasta: </s> repeat 0
+cooking pasta: </s> take the back off the alarm clock 0
+cooking pasta: </s> find fault in delivered food 0
+cooking pasta: </s> pay in the store 0
+cooking pasta: </s> before starting tell the hair cutter the style you want. 0
+cooking pasta: </s> wait for it to cook 0
+cooking pasta: </s> tell the child to brush their teeth 0
+cooking pasta: </s> if the ball is within the serving area, the opponent returns the serve. 0
+cooking pasta: </s> go to tennis court 0
+cooking pasta: </s> enjoy the show 0
+cooking pasta: </s> take off shoes 0
+cooking pasta: </s> set out hot dogs and hamburgers for guests 0
+cooking pasta: </s> welcome your guests 0
+cooking pasta: </s> turn on burner 0
+cooking pasta: </s> open the battery compartment. 0
+cooking pasta: </s> walk inside the restaurant doors 0
+cooking pasta: </s> going inside 0
+cooking pasta: </s> clear off table 0
+cooking pasta: </s> turn on water to desired temperature 0
+cooking pasta: </s> put some clothes on you can go out in. 0
+cooking pasta: </s> exchange hits until ball goes out of bounds. 0
+cooking pasta: </s> rinse off body. 0
+cooking pasta: </s> when machine is done washing open lid 0
+cooking pasta: </s> have child select a story book. 0
+cooking pasta: </s> return to home with your groceries. 0
+cooking pasta: </s> pull the blanket and covers back 0
+cooking pasta: </s> drive off 0
+cooking pasta: </s> find needle and thread 0
+cooking pasta: </s> kiss goodnight. 0
+cooking pasta: </s> grab a towel to take to pool 0
+cooking pasta: </s> scan my subway card at the turnstile. 0
+cooking pasta: </s> repeat steps 2-4 until hair in clean. 0
+cooking pasta: </s> leave examination room. 0
+cooking pasta: </s> decide on new design. 0
+cooking pasta: </s> add kindling to firestarter 0
+cooking pasta: </s> find a friend to play tennis 0
+cooking pasta: </s> throw ball 0
+cooking pasta: </s> place button on item 0
+cooking pasta: </s> go to register 0
+cooking pasta: </s> open battery compartment 0
+cooking pasta: </s> get dressed in black clothing. 0
+cooking pasta: </s> arrive at theater before showtime 0
+cooking pasta: </s> wait for food 0
+cooking pasta: </s> have pizza delivered or drive to store to pick it up 0
+cooking pasta: </s> rinse off the soap 0
+cooking pasta: </s> grab towel 0
+cooking pasta: </s> choose correct settings on washing machine 0
+cooking pasta: </s> drive or walk home 0
+cooking pasta: </s> get conditioner 0
+cooking pasta: </s> invite a friend (optional) 0
+cooking pasta: </s> make a grocery list 0
+cooking pasta: </s> get tennis balls 0
+cooking pasta: </s> follow prompts to approve payment 0
+cooking pasta: </s> leave the fast food restaurant 0
+cooking pasta: </s> cook meat on the grill 0
+cooking pasta: </s> set towel on chair 0
+cooking pasta: </s> turn on washer to selected setting 0
+cooking pasta: </s> in your favorite store take a trolley if more things to be purchased or a bag for small. 0
+cooking pasta: </s> check out 0
+cooking pasta: </s> lie in sun 0
+cooking pasta: </s> put out snacks and appetizers 0
+cooking pasta: </s> put things in their proper place 0
+cooking pasta: </s> fill cup with fresh brewed coffee. 0
+cooking pasta: </s> pay the dentist fee at the reception and take the prescription 0
+cooking pasta: </s> check polarity indicators. 0
+cooking pasta: </s> gather the dirty apparels in the basket. 0
+cooking pasta: </s> gather some kindling into a pile 0
+cooking pasta: </s> knot and cut thread 0
+cooking pasta: </s> serve hot with toast, jam, and orange juice 0
+cooking pasta: </s> get out sewing kit 0
+cooking pasta: </s> dig hole in the ground. 0
+cooking pasta: </s> fold and hang up clothes. 0
+cooking pasta: </s> return credit card to wallet 0
+cooking pasta: </s> water your tree 0
+cooking pasta: </s> take out the batteries. 0
+cooking pasta: </s> researching the conventional ways so i can do the opposite 0
+cooking pasta: </s> start driving lesson for certain amount of time 0
+cooking pasta: </s> cook food on grill while socializing with guests 0
+cooking pasta: </s> pour eggs into pan 0
+cooking pasta: </s> close door of dishwasher 0
+cooking pasta: </s> pour drinks 0
+cooking pasta: </s> check bags with attendant. 0
+cooking pasta: </s> put tire over tube 0
+cooking pasta: </s> get out of the sauna when you are ready 0
+cooking pasta: </s> throw away the old tire. 0
+cooking pasta: </s> place eggs into the frying pan 0
+cooking pasta: </s> get order from counter 0
+cooking pasta: </s> pick up misplaced objects. 0
+cooking pasta: </s> throw garbage into trash 0
+cooking pasta: </s> wash cloth used to clean your body parts and bath towel is meant for drying. 0
+cooking pasta: </s> dry self off with towels 0
+cooking pasta: </s> go inside and show your respects to the diseased 0
+cooking pasta: </s> fill sink with hot water with dish soap 0
+cooking pasta: </s> grab a grocery cart 0
+cooking pasta: </s> repeat shampoo, lather and rise 0
+cooking pasta: </s> pick up nozzle 0
+cooking pasta: </s> put eggs in pan and scamble and fry 0
+cooking pasta: </s> take receipt from cashier 0
+cooking pasta: </s> take ticket and id back from person 0
+cooking pasta: </s> buy coffee maker 0
+cooking pasta: </s> pay for grocery 0
+cooking pasta: </s> tip delivery person 0
+cooking pasta: </s> place new batteries in 0
+cooking pasta: </s> remove the pump 0
+cooking pasta: </s> use gas pump filler to fill the gas tank of your car 0
+cooking pasta: </s> step out of the shower onto a rug. 0
+cooking pasta: </s> get out of car 0
+cooking pasta: </s> park the vehicle in parking. 0
+cooking pasta: </s> walk through roundabout 0
+cooking pasta: </s> go to the barber chair 0
+cooking pasta: </s> iron clothes 0
+cooking pasta: </s> gather racket and balls 0
+cooking pasta: </s> put plug into drain so that tub will fill with water, 0
+cooking pasta: </s> gather wood into a pile 0
+cooking pasta: </s> make right and left turns 0
+cooking pasta: </s> turn on the stove 0
+cooking pasta: </s> remove wheel 0
+cooking pasta: </s> crack eggs in bowl 0
+cooking pasta: </s> lean back in chair and open mouth 0
+cooking pasta: </s> adding clothes to washer 0
+cooking pasta: </s> get clean clothes from cupboard 0
+cooking pasta: </s> go to funeral home 0
+cooking pasta: </s> sit for the movie. 0
+cooking pasta: </s> order food and pay 0
+cooking pasta: </s> decide which sauna you would like to go to. 0
+cooking pasta: </s> be quiet during funeral 0
+cooking pasta: </s> wait for opponent to hit ball back 0
+cooking pasta: </s> get dressed 0
+cooking pasta: </s> buy any products you want to take home 0
+cooking pasta: </s> swim. 0
+cooking pasta: </s> get child to brush teeth 0
+cooking pasta: </s> start the shower. 0
+cooking pasta: </s> attach wheel to bicycle 0
+cooking pasta: </s> insert key into ignition 0
+cooking pasta: </s> remove burgers and dogs from grill 0
+cooking pasta: </s> rinse body 0
+cooking pasta: </s> start car 0
+cooking pasta: </s> sign the credit card reciept 0
+cooking pasta: </s> wait for cashier to ring up items and bag them 0
+cooking pasta: </s> watch movie and eat popcorn 0
+cooking pasta: </s> continue until complete 0
+cooking pasta: </s> check the train schedules 0
+cooking pasta: </s> mourn 0
+cooking pasta: </s> go to tennis court. 0
+cooking pasta: </s> unhang fuel nozzle. 0
+cooking pasta: </s> take item and receipt 0
+cooking pasta: </s> keep the credit card at safely while moving from that place 0
+cooking pasta: </s> pull into an empty fueling spot 0
+cooking pasta: </s> spritz the shirt and iron. 0
+cooking pasta: </s> leave bowling alley 0
+cooking pasta: </s> open paint can. 0
+cooking pasta: </s> get a coffee cup 0
+cooking pasta: </s> watch out for air bubbles to locate the punctured area 0
+cooking pasta: </s> patch the hole 0
+cooking pasta: </s> walk through the ticketing booth 0
+cooking pasta: </s> collect the change room locker's key 0
+cooking pasta: </s> when complete, remove clothes from dryer 0
+cooking pasta: </s> get tree 0
+cooking pasta: </s> adjust temperature of water by opening or closing hot tap 0
+cooking pasta: </s> set the washer 0
+cooking pasta: </s> put pan in the sink 0
+cooking pasta: </s> wait for new plate of food to be returned 0
+cooking pasta: </s> apply proper foot work 0
+cooking pasta: </s> follow the instructor's directions and instructions 0
+cooking pasta: </s> pull out a bowl. 0
+cooking pasta: </s> close gas door 0
+cooking pasta: </s> go to funeral home 0
+cooking pasta: </s> accumulate bonfire materials, primarily wood 0
+cooking pasta: </s> rinse each dish. 0
+cooking pasta: </s> wash hair with conditioner 0
+cooking pasta: </s> they will direct you to your theater. 0
+cooking pasta: </s> arrive at restaurant 0
+cooking pasta: </s> find a clean towel and wash cloth to use. 0
+cooking pasta: </s> wear some swimming trunks 0
+cooking pasta: </s> open wallet 0
+cooking pasta: </s> find correct train 0
+cooking pasta: </s> wait until you are called back into the office. 0
+cooking pasta: </s> gather charcoal/wood and starter fluids. 0
+cooking pasta: </s> choose your pizza 0
+cooking pasta: </s> find the right train 0
+cooking pasta: </s> pay respects to family 0
+cooking pasta: </s> leave dentist's office 0
+cooking pasta: </s> move furniture out of room. 0
+cooking pasta: </s> start heading towards your gate 0
+cooking pasta: </s> gather laundry to be ironed. 0
+cooking pasta: </s> cover hole up with dirt and pat it down 0
+cooking pasta: </s> paint room 0
+cooking pasta: </s> go to the alley 0
+cooking pasta: </s> go to the salon 0
+cooking pasta: </s> leave tennis court 0
+cooking pasta: </s> get towels and washclothes 0
+cooking pasta: </s> wait for the funeral time 0
+cooking pasta: </s> close tank door 0
+cooking pasta: </s> locate the shampoo bottle 0
+cooking pasta: </s> open then egg carton 0
+cooking pasta: </s> close the shower curtain or door. 0
+cooking pasta: </s> vacuum the floor 0
+cooking pasta: </s> begin renovation 0
+cooking pasta: </s> drive home afterward. 0
+cooking pasta: </s> gather fire wood. 0
+cooking pasta: </s> ask for the waiter to come to your table 0
+cooking pasta: </s> keep adding until you can't get close to fire 0
+cooking pasta: </s> sign your name 0
+cooking pasta: </s> put clothes in washer 0
+cooking pasta: </s> enjoy show 0
+cooking pasta: </s> install trim 0
+cooking pasta: </s> open the battery compartment on the alarm clock. 0
+cooking pasta: </s> replace them with new batteries 0
+cooking pasta: </s> wait for appointment 0
+cooking pasta: </s> put charcoal in bottom of grill area. 0
+cooking pasta: </s> wash hair 0
+cooking pasta: </s> help fire catch on 0
+cooking pasta: </s> go into locker room 0
+cooking pasta: </s> drive home 0
+cooking pasta: </s> give order to cashier. 0
+cooking pasta: </s> pour the dish-washing liquid into the scouring pad 0
+cooking pasta: </s> call contractors and get prices 0
+cooking pasta: </s> (optional) select food or drinks from the food concession 0
+cooking pasta: </s> name called 0
+cooking pasta: </s> turn off car 0
+cooking pasta: </s> return carafe to coffee maker 0
+cooking pasta: </s> arrive at airport. 0
+cooking pasta: </s> decide what toppings to order 0
+cooking pasta: </s> get in shower after water warms up. 0
+cooking pasta: </s> walk into restroom 0
+cooking pasta: </s> researching the conventional ways so i can do the opposite 0
+cooking pasta: </s> follow the instructor's directions on where to drive and how to do certain techniques. 0
+cooking pasta: </s> pay barber 0
+cooking pasta: </s> retrieve card 0
+cooking pasta: </s> arrange the things back to their positions 0
+cooking pasta: </s> buy seedling. 0
+cooking pasta: </s> rinse it in the second sink. 0
+cooking pasta: </s> picking out a show to see 0
+cooking pasta: </s> choose a movie to watch. 0
+cooking pasta: </s> get back in car. 0
+cooking pasta: </s> relax and let steam do its work. 0
+cooking pasta: </s> get servers attention 0
+cooking pasta: </s> pick everything up off the floor 0
+cooking pasta: </s> shower 0
+cooking pasta: </s> meet the instructor 0
+cooking pasta: </s> sew the button on the garment 0
+cooking pasta: </s> grocery shop 0
+cooking pasta: </s> start dishwasher 0
+cooking pasta: </s> place clothes on ironing board 0
+cooking pasta: </s> test tire pressure with gage 0
+cooking pasta: </s> refill tire with air 0
+cooking pasta: </s> from the menu card choose your order 0
+cooking pasta: </s> fill in the hole with the shovel 0
+cooking pasta: </s> remove food from the grill 0
+cooking pasta: </s> clear/remove current furniture and/or wall paper from room 0
+cooking pasta: </s> take receipt 0
+cooking pasta: </s> dry your hair with a towel or blow dryer. 0
+cooking pasta: </s> choose correct settings on washing machine 0
+cooking pasta: </s> get out of car 0
+cooking pasta: </s> watch stylist cut your hair 0
+cooking pasta: </s> put names into computer to keep score. 0
+cooking pasta: </s> wash laundry 0
+cooking pasta: </s> picking up with dustpan 0
+cooking pasta: </s> make any changes, including toppings 0
+cooking pasta: </s> eat your food 0
+cooking pasta: </s> wait for the ball to return. 0
+cooking pasta: </s> get dressed in playing closes 0
+cooking pasta: </s> go into changing room 0
+cooking pasta: </s> request that the server bring food to replace food sent back 0
+cooking pasta: </s> turn off water 0
+cooking pasta: </s> spray hot pan with cooking spray 0
+cooking pasta: </s> depart with purchases 0
+cooking pasta: </s> watch coffee drip into pot 0
+cooking pasta: </s> enjoy new room 0
+cooking pasta: </s> cover hole back up 0
+cooking pasta: </s> step out of shower. 0
+cooking pasta: </s> turn water in tub on 0
+cooking pasta: </s> let the child know how long until bed 0
+cooking pasta: </s> walk in 0
+cooking pasta: </s> tell hairdresser what you want. 0
+cooking pasta: </s> put detergent into washing machine 0
+cooking pasta: </s> put eggs in pan. 0
+cooking pasta: </s> put chimney on grill until charcoal is hot enough 0
+cooking pasta: </s> work shampoo through hair. 0
+cooking pasta: </s> wear tennis shoes 0
+cooking pasta: </s> get your hair wet 0
+cooking pasta: </s> enter sauna 0
+cooking pasta: </s> dry body off with towel 0
+cooking pasta: </s> learning about the underground 0
+cooking pasta: </s> push needle through button and shirt 0
+cooking pasta: </s> leave restaurant 0
+cooking pasta: </s> take cart to car 0
+cooking pasta: </s> rinse the hair again 0
+cooking pasta: </s> set iron down 0
+cooking pasta: </s> go to google search engine 0
+cooking pasta: </s> board the train 0
+cooking pasta: </s> get out of shower. 0
+cooking pasta: </s> get some coffee 0
+cooking pasta: </s> tuck child into bed 0
+cooking pasta: </s> pay for shoes and how many games you want to play 0
+cooking pasta: </s> organize the laundry 0
+cooking pasta: </s> replace rugs 0
+cooking pasta: </s> wait and tell the cashier your order over phone 0
+cooking pasta: </s> find a needle and thread 0
+cooking pasta: </s> turn on water and adjust to comfort level 0
+cooking pasta: </s> walk up stairs outside 0
+cooking pasta: </s> rub all over your head and into your scalp 0
+cooking pasta: </s> add water to iron for steam 0
+cooking pasta: </s> tell dentist anything that is wrong with your teeth 0
+cooking pasta: </s> grab a buggy from the entrance 0
+cooking pasta: </s> pour the dish-washing liquid into the scouring pad 0
+cooking pasta: </s> stand in queue 0
+cooking pasta: </s> receive your boarding pass and gate number 0
+cooking pasta: </s> greet mourners 0
+cooking pasta: </s> provide your street address 0
+cooking pasta: </s> print out ticket at machine 0
+cooking pasta: </s> tell waiter/waitress that it isn't what you want/ordered, nicely. 0
+cooking pasta: </s> board the funeral party bus 0
+cooking pasta: </s> drain soapy water from sink 0
+cooking pasta: </s> place food on plates 0
+cooking pasta: </s> get egg 0
+cooking pasta: </s> open mouth and be still 0
+cooking pasta: </s> dig a hole for the tree 0
+cooking pasta: </s> put off the stove 0
+cooking pasta: </s> go to the shoe rental and get bowling shoes 0
+cooking pasta: </s> get towel 0
+cooking pasta: </s> after washing take and dry the clothes 0
+cooking pasta: </s> put some conditioner in your hair 0
+cooking pasta: </s> wait for the delivery 0
+cooking pasta: </s> eat your food 0
+cooking pasta: </s> find wood or sticks. 0
+cooking pasta: </s> secure the campsite 0
+cooking pasta: </s> set up the ironing board 0
+cooking pasta: </s> find a table 0
+cooking pasta: </s> put new filter in. 0
+cooking pasta: </s> wait at the lounge 0
+cooking pasta: </s> in bonfire be careful that you don't keep flammable things near to it. 0
+cooking pasta: </s> gather wood for fire 0
+cooking pasta: </s> gather up all dirty clothes 0
+cooking pasta: </s> go to register 0
+cooking pasta: </s> get out of car upon arrival 0
+cooking pasta: </s> put clothes away 0
+cooking pasta: </s> turn on coffee machine. 0
+cooking pasta: </s> replace fuel cap 0
+cooking pasta: </s> get laundry that needs ironing. 0
+cooking pasta: </s> put towel down on seat 0
+cooking pasta: </s> install new flooring 0
+cooking pasta: </s> filter boiling water through beans 0
+cooking pasta: </s> drive out of parking lot. 0
+cooking pasta: </s> lay clothing out on ironing board 0
+cooking pasta: </s> play tennis. 0
+cooking pasta: </s> get eggs out of refridgerator 0
+cooking pasta: </s> water tree 0
+cooking pasta: </s> choose the kind of pizza you want 0
+cooking pasta: </s> walk outside 0
+cooking pasta: </s> watch casket be lowered into the ground 0
+cooking pasta: </s> choose settings 0
+cooking pasta: </s> make an appointment 0
+cooking pasta: </s> ask for the total price. 0
+cooking pasta: </s> enter grocery store 0
+cooking pasta: </s> put credit card back in wallet 0
+cooking pasta: </s> get duster 0
+cooking pasta: </s> decide which room to renovate 0
+cooking pasta: </s> depart car in drop off lane. 0
+cooking pasta: </s> step inside sauna 0
+cooking pasta: </s> get a towel 0
+cooking pasta: </s> lay down garment 0
+cooking pasta: </s> exit theater 0
+cooking pasta: </s> politely call over waiter to table 0
+cooking pasta: </s> give agent your id. 0

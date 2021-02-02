@@ -1,0 +1,42 @@
+having a barbecue;place the bucket of water on the coals 
+having a barbecue;put the cooked coals in the wood 
+having a barbecue;get some coals 
+having a barbecue;place bucket of water in the wood 
+having a barbecue;place the bucket of water on the wood 
+having a barbecue;add some salt 
+having a barbecue;place coals in the water 
+having a barbecue;leave the barbecue 
+having a barbecue;put the coals on the bottom of the bucket 
+having a barbecue;open the barbecue on a hot night 
+having a barbecue;close the barbecue 
+having a barbecue;get a smoker 
+having a barbecue;cook the coals 
+ordering a pizza;eat 
+ordering a pizza;order food 
+ordering a pizza;call pizza place 
+ordering a pizza;leave the restaurant 
+ordering a pizza;wait for your food 
+ordering a pizza;go to restaurant 
+cleaning up a flat;turn the machine off 
+cleaning up a flat;get the flat 
+cleaning up a flat;take some water 
+cleaning up a flat;take the flat to the bathroom 
+cleaning up a flat;take the clean clothes out of the washing machine 
+cleaning up a flat;put the clean clothes in the dryer 
+cleaning up a flat;put the dirty clothes in the wash basin 
+cleaning up a flat;place the clean clothes in the washing machine 
+making scrambled eggs;pick out eggs 
+making scrambled eggs;bring eggs to the shop 
+making scrambled eggs;boil the eggs 
+making scrambled eggs;put the basket back 
+making scrambled eggs;buy eggs 
+making scrambled eggs;put the eggs in the basket 
+making scrambled eggs;add some salt to the eggs 
+making scrambled eggs;start the stove 
+making scrambled eggs;go to egg shop 
+making scrambled eggs;put away the eggs 
+making scrambled eggs;open the egg carton 
+making scrambled eggs;get eggs 
+taking the underground;fill the bucket with water 
+taking the underground;remove the items from the water 
+taking the underground;take a bucket from your backpack 

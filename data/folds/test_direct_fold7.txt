@@ -1,0 +1,5 @@
+<BOS> having a barbecue: 
+<BOS> ordering a pizza: 
+<BOS> cleaning up a flat: 
+<BOS> making scrambled eggs: 
+<BOS> taking the underground: 

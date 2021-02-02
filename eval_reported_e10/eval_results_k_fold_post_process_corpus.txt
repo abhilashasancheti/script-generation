@@ -1,0 +1,529 @@
+1 test basic _removed
+0.4761105141648447 0.0
+[0.4761105141648447]
+1 test basic _removed_deduplicated
+0.4693522713006298 0.0
+[0.4693522713006298]
+1 test basic _removed_deduplicated_ordered
+0.4794138117592339 0.0
+[0.4794138117592339]
+2 test basic _removed
+0.3452203247781352 0.0
+[0.3452203247781352]
+2 test basic _removed_deduplicated
+0.3551681672435853 0.0
+[0.3551681672435853]
+2 test basic _removed_deduplicated_ordered
+0.3479092516888523 0.0
+[0.3479092516888523]
+3 test basic _removed
+0.39665378007422936 0.0
+[0.39665378007422936]
+3 test basic _removed_deduplicated
+0.4084389927291681 0.0
+[0.4084389927291681]
+3 test basic _removed_deduplicated_ordered
+0.40197935859083783 0.0
+[0.40197935859083783]
+4 test basic _removed
+0.3612532226411765 0.0
+[0.3612532226411765]
+4 test basic _removed_deduplicated
+0.3641027864937069 0.0
+[0.3641027864937069]
+4 test basic _removed_deduplicated_ordered
+0.3667954716894471 0.0
+[0.3667954716894471]
+5 test basic _removed
+0.3491888862863823 0.0
+[0.3491888862863823]
+5 test basic _removed_deduplicated
+0.35819779250361294 0.0
+[0.35819779250361294]
+5 test basic _removed_deduplicated_ordered
+0.34301611904454765 0.0
+[0.34301611904454765]
+6 test basic _removed
+0.2943393630231509 0.0
+[0.2943393630231509]
+6 test basic _removed_deduplicated
+0.2855701619994066 0.0
+[0.2855701619994066]
+6 test basic _removed_deduplicated_ordered
+0.29230275428979025 0.0
+[0.29230275428979025]
+7 test basic _removed
+0.24803882808651476 0.0
+[0.24803882808651476]
+7 test basic _removed_deduplicated
+0.2548456266113104 0.0
+[0.2548456266113104]
+7 test basic _removed_deduplicated_ordered
+0.260213771263895 0.0
+[0.260213771263895]
+8 test basic _removed
+0.3058518807724545 0.0
+8 test basic _removed_deduplicated
+0.3073547555090691 0.0
+8 test basic _removed_deduplicated_ordered
+0.3066284004185997 0.0
+1 test ordered _removed
+0.41581453186843487 0.0
+[0.41581453186843487]
+1 test ordered _removed_deduplicated
+0.4232269261421342 0.0
+[0.4232269261421342]
+1 test ordered _removed_deduplicated_ordered
+0.42923521202363923 0.0
+[0.42923521202363923]
+2 test ordered _removed
+0.33688008048089557 0.0
+[0.33688008048089557]
+2 test ordered _removed_deduplicated
+0.33767105202512143 0.0
+[0.33767105202512143]
+2 test ordered _removed_deduplicated_ordered
+0.33870808842903244 0.0
+[0.33870808842903244]
+3 test ordered _removed
+0.36741790903619626 0.0
+[0.36741790903619626]
+3 test ordered _removed_deduplicated
+0.37339207576292666 0.0
+[0.37339207576292666]
+3 test ordered _removed_deduplicated_ordered
+0.36068595942354964 0.0
+[0.36068595942354964]
+4 test ordered _removed
+0.37633709232056556 0.0
+[0.37633709232056556]
+4 test ordered _removed_deduplicated
+0.37664005364131914 0.0
+[0.37664005364131914]
+4 test ordered _removed_deduplicated_ordered
+0.3776254759133529 0.0
+[0.3776254759133529]
+5 test ordered _removed
+0.28272565643133574 0.0
+[0.28272565643133574]
+5 test ordered _removed_deduplicated
+0.28517943609852636 0.0
+[0.28517943609852636]
+5 test ordered _removed_deduplicated_ordered
+0.28727699084307756 0.0
+[0.28727699084307756]
+6 test ordered _removed
+0.2695378985414515 0.0
+[0.2695378985414515]
+6 test ordered _removed_deduplicated
+0.2685634963793613 0.0
+[0.2685634963793613]
+6 test ordered _removed_deduplicated_ordered
+0.2634087230187448 0.0
+[0.2634087230187448]
+7 test ordered _removed
+0.2838648223532997 0.0
+[0.2838648223532997]
+7 test ordered _removed_deduplicated
+0.28622853642722784 0.0
+[0.28622853642722784]
+7 test ordered _removed_deduplicated_ordered
+0.2774326331927714 0.0
+[0.2774326331927714]
+8 test ordered _removed
+0.32455353540521154 0.0
+8 test ordered _removed_deduplicated
+0.324794868135818 0.0
+8 test ordered _removed_deduplicated_ordered
+0.3227045190775432 0.0
+1 test direct _removed
+0.407310018270023 0.0
+[0.407310018270023]
+1 test direct _removed_deduplicated
+0.4058108289105271 0.0
+[0.4058108289105271]
+1 test direct _removed_deduplicated_ordered
+0.41881396530867926 0.0
+[0.41881396530867926]
+2 test direct _removed
+0.3728242637828442 0.0
+[0.3728242637828442]
+2 test direct _removed_deduplicated
+0.37774160245900656 0.0
+[0.37774160245900656]
+2 test direct _removed_deduplicated_ordered
+0.37530475268094143 0.0
+[0.37530475268094143]
+3 test direct _removed
+0.3875500190439073 0.0
+[0.3875500190439073]
+3 test direct _removed_deduplicated
+0.385324223101911 0.0
+[0.385324223101911]
+3 test direct _removed_deduplicated_ordered
+0.3864172047932501 0.0
+[0.3864172047932501]
+4 test direct _removed
+0.3302298687210536 0.0
+[0.3302298687210536]
+4 test direct _removed_deduplicated
+0.33414668128540526 0.0
+[0.33414668128540526]
+4 test direct _removed_deduplicated_ordered
+0.33333342646542174 0.0
+[0.33333342646542174]
+5 test direct _removed
+0.3158031188492907 0.0
+[0.3158031188492907]
+5 test direct _removed_deduplicated
+0.3232327389450049 0.0
+[0.3232327389450049]
+5 test direct _removed_deduplicated_ordered
+0.3288558240616201 0.0
+[0.3288558240616201]
+6 test direct _removed
+0.2645708795659893 0.0
+[0.2645708795659893]
+6 test direct _removed_deduplicated
+0.2702007474004305 0.0
+[0.2702007474004305]
+6 test direct _removed_deduplicated_ordered
+0.28215800881569075 0.0
+[0.28215800881569075]
+7 test direct _removed
+0.2603479076596935 0.0
+[0.2603479076596935]
+7 test direct _removed_deduplicated
+0.2609261271532633 0.0
+[0.2609261271532633]
+7 test direct _removed_deduplicated_ordered
+0.2625689317328367 0.0
+[0.2625689317328367]
+8 test direct _removed
+0.27293818511568063 0.0
+8 test direct _removed_deduplicated
+0.27344263271811425 0.0
+8 test direct _removed_deduplicated_ordered
+0.2794280015001974 0.0
+1 test describe _removed
+0.43632753421379683 0.0
+[0.43632753421379683]
+1 test describe _removed_deduplicated
+0.4377544588982678 0.0
+[0.4377544588982678]
+1 test describe _removed_deduplicated_ordered
+0.4363491132788221 0.0
+[0.4363491132788221]
+2 test describe _removed
+0.35074592895861173 0.0
+[0.35074592895861173]
+2 test describe _removed_deduplicated
+0.35960660490910734 0.0
+[0.35960660490910734]
+2 test describe _removed_deduplicated_ordered
+0.35736074447756633 0.0
+[0.35736074447756633]
+3 test describe _removed
+0.3550188264684907 0.0
+[0.3550188264684907]
+3 test describe _removed_deduplicated
+0.3554055661896827 0.0
+[0.3554055661896827]
+3 test describe _removed_deduplicated_ordered
+0.3666185485977324 0.0
+[0.3666185485977324]
+4 test describe _removed
+0.35395092447115056 0.0
+[0.35395092447115056]
+4 test describe _removed_deduplicated
+0.38398162931764324 0.0
+[0.38398162931764324]
+4 test describe _removed_deduplicated_ordered
+0.3692068747347906 0.0
+[0.3692068747347906]
+5 test describe _removed
+0.3214128882411714 0.0
+[0.3214128882411714]
+5 test describe _removed_deduplicated
+0.3250685113191222 0.0
+[0.3250685113191222]
+5 test describe _removed_deduplicated_ordered
+0.32901438782287806 0.0
+[0.32901438782287806]
+6 test describe _removed
+0.30020077466430567 0.0
+[0.30020077466430567]
+6 test describe _removed_deduplicated
+0.3083489584993111 0.0
+[0.3083489584993111]
+6 test describe _removed_deduplicated_ordered
+0.30375576973399254 0.0
+[0.30375576973399254]
+7 test describe _removed
+0.27184759784088275 0.0
+[0.27184759784088275]
+7 test describe _removed_deduplicated
+0.27184759784088275 0.0
+[0.27184759784088275]
+7 test describe _removed_deduplicated_ordered
+0.27453737276422396 0.0
+[0.27453737276422396]
+8 test describe _removed
+0.30534193207955035 0.0
+8 test describe _removed_deduplicated
+0.3076657232931621 0.0
+8 test describe _removed_deduplicated_ordered
+0.310239526197995 0.0
+1 test expect _removed
+0.42521767896440377 0.0
+[0.42521767896440377]
+1 test expect _removed_deduplicated
+0.43502893824034367 0.0
+[0.43502893824034367]
+1 test expect _removed_deduplicated_ordered
+0.44327680262933566 0.0
+[0.44327680262933566]
+2 test expect _removed
+0.3639337040599947 0.0
+[0.3639337040599947]
+2 test expect _removed_deduplicated
+0.3606104227276965 0.0
+[0.3606104227276965]
+2 test expect _removed_deduplicated_ordered
+0.3553950130846843 0.0
+[0.3553950130846843]
+3 test expect _removed
+0.3390354308002699 0.0
+[0.3390354308002699]
+3 test expect _removed_deduplicated
+0.3436204517810668 0.0
+[0.3436204517810668]
+3 test expect _removed_deduplicated_ordered
+0.343566622427634 0.0
+[0.343566622427634]
+4 test expect _removed
+0.34679617435000154 0.0
+[0.34679617435000154]
+4 test expect _removed_deduplicated
+0.36517676758670387 0.0
+[0.36517676758670387]
+4 test expect _removed_deduplicated_ordered
+0.3582547051218038 0.0
+[0.3582547051218038]
+5 test expect _removed
+0.3196580451898362 0.0
+[0.3196580451898362]
+5 test expect _removed_deduplicated
+0.3204423141271742 0.0
+[0.3204423141271742]
+5 test expect _removed_deduplicated_ordered
+0.3213625931360862 0.0
+[0.3213625931360862]
+6 test expect _removed
+0.28695520534580776 0.0
+[0.28695520534580776]
+6 test expect _removed_deduplicated
+0.2957433855207412 0.0
+[0.2957433855207412]
+6 test expect _removed_deduplicated_ordered
+0.2970822704575777 0.0
+[0.2970822704575777]
+7 test expect _removed
+0.27219803176762636 0.0
+[0.27219803176762636]
+7 test expect _removed_deduplicated
+0.2711694448170979 0.0
+[0.2711694448170979]
+7 test expect _removed_deduplicated_ordered
+0.27351022942048536 0.0
+[0.27351022942048536]
+8 test expect _removed
+0.2943260707844193 0.0
+8 test expect _removed_deduplicated
+0.29339554787565963 0.0
+8 test expect _removed_deduplicated_ordered
+0.2879110179252918 0.0
+1 test tokens _removed
+0.43123104627795633 0.0
+[0.43123104627795633]
+1 test tokens _removed_deduplicated
+0.432212605847492 0.0
+[0.432212605847492]
+1 test tokens _removed_deduplicated_ordered
+0.4396399061872137 0.0
+[0.4396399061872137]
+2 test tokens _removed
+0.352805705531193 0.0
+[0.352805705531193]
+2 test tokens _removed_deduplicated
+0.35943619295485657 0.0
+[0.35943619295485657]
+2 test tokens _removed_deduplicated_ordered
+0.37833431211125784 0.0
+[0.37833431211125784]
+3 test tokens _removed
+0.35833995552977155 0.0
+[0.35833995552977155]
+3 test tokens _removed_deduplicated
+0.3676983137812387 0.0
+[0.3676983137812387]
+3 test tokens _removed_deduplicated_ordered
+0.3641776982592002 0.0
+[0.3641776982592002]
+4 test tokens _removed
+0.32424731395303885 0.0
+[0.32424731395303885]
+4 test tokens _removed_deduplicated
+0.32452566783619313 0.0
+[0.32452566783619313]
+4 test tokens _removed_deduplicated_ordered
+0.3267601664421482 0.0
+[0.3267601664421482]
+5 test tokens _removed
+0.30854689349494846 0.0
+[0.30854689349494846]
+5 test tokens _removed_deduplicated
+0.3137944482421683 0.0
+[0.3137944482421683]
+5 test tokens _removed_deduplicated_ordered
+0.31796269596625976 0.0
+[0.31796269596625976]
+6 test tokens _removed
+0.2768875561517033 0.0
+[0.2768875561517033]
+6 test tokens _removed_deduplicated
+0.2764585693748983 0.0
+[0.2764585693748983]
+6 test tokens _removed_deduplicated_ordered
+0.27518364699734876 0.0
+[0.27518364699734876]
+7 test tokens _removed
+0.2719668935087883 0.0
+[0.2719668935087883]
+7 test tokens _removed_deduplicated
+0.27513801932473325 0.0
+[0.27513801932473325]
+7 test tokens _removed_deduplicated_ordered
+0.27803792247801773 0.0
+[0.27803792247801773]
+8 test tokens _removed
+0.32459822769857766 0.0
+8 test tokens _removed_deduplicated
+0.32459822769857766 0.0
+8 test tokens _removed_deduplicated_ordered
+0.32290265125062545 0.0
+1 test all_tokens _removed
+0.42725270111833424 0.0
+1 test all_tokens _removed_deduplicated
+0.4287945205396237 0.0
+1 test all_tokens _removed_deduplicated_ordered
+0.44213051503809797 0.0
+2 test all_tokens _removed
+0.36486163890737705 0.0
+2 test all_tokens _removed_deduplicated
+0.3692427733177036 0.0
+2 test all_tokens _removed_deduplicated_ordered
+0.35547640657046764 0.0
+3 test all_tokens _removed
+0.3595254644215213 0.0
+3 test all_tokens _removed_deduplicated
+0.35889877680799476 0.0
+3 test all_tokens _removed_deduplicated_ordered
+0.3761138920653995 0.0
+4 test all_tokens _removed
+0.3199548531134568 0.0
+4 test all_tokens _removed_deduplicated
+0.32519514333269695 0.0
+4 test all_tokens _removed_deduplicated_ordered
+0.33546428327276206 0.0
+5 test all_tokens _removed
+0.30270987907048674 0.0
+5 test all_tokens _removed_deduplicated
+0.3115858599794515 0.0
+5 test all_tokens _removed_deduplicated_ordered
+0.30751713325433894 0.0
+6 test all_tokens _removed
+0.2625765266289852 0.0
+6 test all_tokens _removed_deduplicated
+0.26277240876903857 0.0
+6 test all_tokens _removed_deduplicated_ordered
+0.26598648264998226 0.0
+7 test all_tokens _removed
+0.20869845059330122 0.0
+7 test all_tokens _removed_deduplicated
+0.21000878952165702 0.0
+7 test all_tokens _removed_deduplicated_ordered
+0.21313116357138823 0.0
+8 test all_tokens _removed
+0.3049333780459451 0.0
+8 test all_tokens _removed_deduplicated
+0.3049333780459451 0.0
+8 test all_tokens _removed_deduplicated_ordered
+0.3074712367344979 0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#previous first missing
+1 test all_tokens _removed
+0.3860725958218108 0.0
+1 test all_tokens _removed_deduplicated
+0.37570259836186815 0.0
+1 test all_tokens _removed_deduplicated_ordered
+0.3801004682956773 0.0
+2 test all_tokens _removed
+0.33400847721934956 0.0
+2 test all_tokens _removed_deduplicated
+0.33817049544629363 0.0
+2 test all_tokens _removed_deduplicated_ordered
+0.33825116715672804 0.0
+3 test all_tokens _removed
+0.3254468381982006 0.0
+3 test all_tokens _removed_deduplicated
+0.3254468381982006 0.0
+3 test all_tokens _removed_deduplicated_ordered
+0.33872558209695003 0.0
+4 test all_tokens _removed
+0.31338370351715045 0.0
+4 test all_tokens _removed_deduplicated
+0.31666021010618156 0.0
+4 test all_tokens _removed_deduplicated_ordered
+0.32260034706612345 0.0
+5 test all_tokens _removed
+0.2869212017344193 0.0
+5 test all_tokens _removed_deduplicated
+0.29314775827789985 0.0
+5 test all_tokens _removed_deduplicated_ordered
+0.29469210252328953 0.0
+6 test all_tokens _removed
+0.24324406797246345 0.0
+6 test all_tokens _removed_deduplicated
+0.2458691931077122 0.0
+6 test all_tokens _removed_deduplicated_ordered
+0.2557322408299753 0.0
+7 test all_tokens _removed
+0.17286895802608382 0.0
+7 test all_tokens _removed_deduplicated
+0.17327083708297586 0.0
+7 test all_tokens _removed_deduplicated_ordered
+0.18154277770308996 0.0
+8 test all_tokens _removed
+0.3174479538874376 0.0
+8 test all_tokens _removed_deduplicated
+0.3174479538874376 0.0
+8 test all_tokens _removed_deduplicated_ordered
+0.31294369978344855 0.0

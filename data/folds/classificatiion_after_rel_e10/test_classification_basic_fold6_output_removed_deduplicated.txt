@@ -1,0 +1,670 @@
+washing one's hair: </s> gather dirty hair </s> put water in wash cloth 1
+washing one's hair: </s> gather dirty hair </s> run washcloth on hair 1
+washing one's hair: </s> gather dirty hair </s> scrub hair with washcloth 1
+washing one's hair: </s> rinse off hair </s> gather dirty hair 0
+washing one's hair: </s> dry hair </s> gather dirty hair 0
+washing one's hair: </s> gather dirty hair </s> put hair in air-conditioner 1
+washing one's hair: </s> put water in wash cloth </s> run washcloth on hair 1
+washing one's hair: </s> put water in wash cloth </s> scrub hair with washcloth 1
+washing one's hair: </s> put water in wash cloth </s> rinse off hair 1
+washing one's hair: </s> put water in wash cloth </s> dry hair 1
+washing one's hair: </s> put water in wash cloth </s> put hair in air-conditioner 1
+washing one's hair: </s> scrub hair with washcloth </s> run washcloth on hair 0
+washing one's hair: </s> run washcloth on hair </s> rinse off hair 1
+washing one's hair: </s> dry hair </s> run washcloth on hair 0
+washing one's hair: </s> put hair in air-conditioner </s> run washcloth on hair 0
+washing one's hair: </s> scrub hair with washcloth </s> rinse off hair 1
+washing one's hair: </s> scrub hair with washcloth </s> dry hair 1
+washing one's hair: </s> put hair in air-conditioner </s> scrub hair with washcloth 0
+washing one's hair: </s> rinse off hair </s> dry hair 1
+washing one's hair: </s> rinse off hair </s> put hair in air-conditioner 1
+washing one's hair: </s> put hair in air-conditioner </s> dry hair 0
+washing one's hair: </s> get a conditioner </s> get a shampoo 0
+washing one's hair: </s> get a rinse </s> get a shampoo 0
+washing one's hair: </s> get a shampoo </s> wash hair 1
+washing one's hair: </s> rinse hair </s> get a shampoo 0
+washing one's hair: </s> get a shampoo </s> put conditioner in hair 1
+washing one's hair: </s> apply conditioner to the hair </s> get a shampoo 0
+washing one's hair: </s> let conditioner dry </s> get a shampoo 0
+washing one's hair: </s> turn off the water </s> get a shampoo 0
+washing one's hair: </s> get a shampoo </s> let hair dry 1
+washing one's hair: </s> get a conditioner </s> get a rinse 1
+washing one's hair: </s> wash hair </s> get a conditioner 0
+washing one's hair: </s> rinse hair </s> get a conditioner 0
+washing one's hair: </s> put conditioner in hair </s> get a conditioner 0
+washing one's hair: </s> get a conditioner </s> apply conditioner to the hair 1
+washing one's hair: </s> let conditioner dry </s> get a conditioner 0
+washing one's hair: </s> get a conditioner </s> turn off the water 1
+washing one's hair: </s> let hair dry </s> get a conditioner 0
+washing one's hair: </s> wash hair </s> get a rinse 0
+washing one's hair: </s> rinse hair </s> get a rinse 0
+washing one's hair: </s> put conditioner in hair </s> get a rinse 0
+washing one's hair: </s> apply conditioner to the hair </s> get a rinse 0
+washing one's hair: </s> let conditioner dry </s> get a rinse 0
+washing one's hair: </s> get a rinse </s> turn off the water 1
+washing one's hair: </s> let hair dry </s> get a rinse 0
+washing one's hair: </s> wash hair </s> rinse hair 1
+washing one's hair: </s> put conditioner in hair </s> wash hair 0
+washing one's hair: </s> apply conditioner to the hair </s> wash hair 0
+washing one's hair: </s> wash hair </s> let conditioner dry 1
+washing one's hair: </s> turn off the water </s> wash hair 0
+washing one's hair: </s> wash hair </s> let hair dry 1
+washing one's hair: </s> rinse hair </s> put conditioner in hair 1
+washing one's hair: </s> apply conditioner to the hair </s> rinse hair 0
+washing one's hair: </s> rinse hair </s> let conditioner dry 1
+washing one's hair: </s> rinse hair </s> turn off the water 1
+washing one's hair: </s> let hair dry </s> rinse hair 0
+washing one's hair: </s> put conditioner in hair </s> apply conditioner to the hair 1
+washing one's hair: </s> let conditioner dry </s> put conditioner in hair 0
+washing one's hair: </s> turn off the water </s> put conditioner in hair 0
+washing one's hair: </s> let hair dry </s> put conditioner in hair 0
+washing one's hair: </s> let conditioner dry </s> apply conditioner to the hair 0
+washing one's hair: </s> apply conditioner to the hair </s> turn off the water 1
+washing one's hair: </s> let hair dry </s> apply conditioner to the hair 0
+washing one's hair: </s> turn off the water </s> let conditioner dry 0
+washing one's hair: </s> let conditioner dry </s> let hair dry 1
+washing one's hair: </s> let hair dry </s> turn off the water 0
+washing one's hair: </s> place on the washcloth </s> grab a hair brush 0
+washing one's hair: </s> grab a hair brush </s> get the wash 1
+washing one's hair: </s> grab a hair brush </s> rinse the hair 1
+washing one's hair: </s> grab a hair brush </s> pat the hair dry 1
+washing one's hair: </s> grab a hair brush </s> repeat this until the hair is clean 1
+washing one's hair: </s> grab a hair brush </s> put on the pamper 1
+washing one's hair: </s> place on the washcloth </s> get the wash 1
+washing one's hair: </s> place on the washcloth </s> rinse the hair 1
+washing one's hair: </s> pat the hair dry </s> place on the washcloth 0
+washing one's hair: </s> place on the washcloth </s> repeat this until the hair is clean 1
+washing one's hair: </s> place on the washcloth </s> put on the pamper 1
+washing one's hair: </s> get the wash </s> rinse the hair 1
+washing one's hair: </s> pat the hair dry </s> get the wash 0
+washing one's hair: </s> repeat this until the hair is clean </s> get the wash 0
+washing one's hair: </s> get the wash </s> put on the pamper 1
+washing one's hair: </s> rinse the hair </s> pat the hair dry 1
+washing one's hair: </s> rinse the hair </s> repeat this until the hair is clean 1
+washing one's hair: </s> put on the pamper </s> rinse the hair 0
+washing one's hair: </s> repeat this until the hair is clean </s> pat the hair dry 0
+washing one's hair: </s> pat the hair dry </s> put on the pamper 1
+washing one's hair: </s> put on the pamper </s> repeat this until the hair is clean 0
+washing one's hair: </s> take the hair </s> put it in the bathtub 1
+washing one's hair: </s> add shampoo </s> take the hair 0
+washing one's hair: </s> wash the hair </s> take the hair 0
+washing one's hair: </s> take the hair </s> rinse the hair 1
+washing one's hair: </s> take the hair </s> put the hair in the dryer 1
+washing one's hair: </s> take the hair </s> dry the hair 1
+washing one's hair: </s> put it in the bathtub </s> add shampoo 1
+washing one's hair: </s> wash the hair </s> put it in the bathtub 0
+washing one's hair: </s> rinse the hair </s> put it in the bathtub 0
+washing one's hair: </s> put the hair in the dryer </s> put it in the bathtub 0
+washing one's hair: </s> put it in the bathtub </s> dry the hair 1
+washing one's hair: </s> wash the hair </s> add shampoo 0
+washing one's hair: </s> add shampoo </s> rinse the hair 1
+washing one's hair: </s> put the hair in the dryer </s> add shampoo 0
+washing one's hair: </s> add shampoo </s> dry the hair 1
+washing one's hair: </s> wash the hair </s> rinse the hair 1
+washing one's hair: </s> put the hair in the dryer </s> wash the hair 0
+washing one's hair: </s> wash the hair </s> dry the hair 1
+washing one's hair: </s> rinse the hair </s> put the hair in the dryer 1
+washing one's hair: </s> dry the hair </s> rinse the hair 0
+washing one's hair: </s> put the hair in the dryer </s> dry the hair 1
+washing one's hair: </s> grab a wash cloth. </s> remove the hair from the head. 1
+washing one's hair: </s> grab a wash cloth. </s> place wash cloth over the hair. 1
+washing one's hair: </s> wash the hair with the washcloth. </s> grab a wash cloth. 0
+washing one's hair: </s> rinse the hair with the toilet paper. </s> grab a wash cloth. 0
+washing one's hair: </s> grab a wash cloth. </s> repeat as needed. 1
+washing one's hair: </s> place wash cloth over the hair. </s> remove the hair from the head. 0
+washing one's hair: </s> remove the hair from the head. </s> wash the hair with the washcloth. 1
+washing one's hair: </s> remove the hair from the head. </s> rinse the hair with the toilet paper. 1
+washing one's hair: </s> remove the hair from the head. </s> repeat as needed. 1
+washing one's hair: </s> place wash cloth over the hair. </s> wash the hair with the washcloth. 1
+washing one's hair: </s> place wash cloth over the hair. </s> rinse the hair with the toilet paper. 1
+washing one's hair: </s> repeat as needed. </s> place wash cloth over the hair. 0
+washing one's hair: </s> wash the hair with the washcloth. </s> rinse the hair with the toilet paper. 1
+washing one's hair: </s> repeat as needed. </s> wash the hair with the washcloth. 0
+washing one's hair: </s> repeat as needed. </s> rinse the hair with the toilet paper. 0
+fueling a car: </s> get some gasoline </s> put the gasoline and water in the fire extinguisher 1
+fueling a car: </s> get some gasoline </s> plug the gas pump 1
+fueling a car: </s> put the fuel in the fire extinguisher </s> get some gasoline 0
+fueling a car: </s> put the fuel out with some water </s> get some gasoline 0
+fueling a car: </s> take the fuel out of the fire extinguisher </s> get some gasoline 0
+fueling a car: </s> get some gasoline </s> put the fire extinguisher back in the car 1
+fueling a car: </s> use the car </s> get some gasoline 0
+fueling a car: </s> put the gasoline and water in the fire extinguisher </s> plug the gas pump 1
+fueling a car: </s> put the gasoline and water in the fire extinguisher </s> put the fuel in the fire extinguisher 1
+fueling a car: </s> put the gasoline and water in the fire extinguisher </s> put the fuel out with some water 1
+fueling a car: </s> take the fuel out of the fire extinguisher </s> put the gasoline and water in the fire extinguisher 0
+fueling a car: </s> put the gasoline and water in the fire extinguisher </s> put the fire extinguisher back in the car 1
+fueling a car: </s> put the gasoline and water in the fire extinguisher </s> use the car 1
+fueling a car: </s> plug the gas pump </s> put the fuel in the fire extinguisher 1
+fueling a car: </s> plug the gas pump </s> put the fuel out with some water 1
+fueling a car: </s> plug the gas pump </s> take the fuel out of the fire extinguisher 1
+fueling a car: </s> put the fire extinguisher back in the car </s> plug the gas pump 0
+fueling a car: </s> plug the gas pump </s> use the car 1
+fueling a car: </s> put the fuel in the fire extinguisher </s> put the fuel out with some water 1
+fueling a car: </s> take the fuel out of the fire extinguisher </s> put the fuel in the fire extinguisher 0
+fueling a car: </s> put the fuel in the fire extinguisher </s> put the fire extinguisher back in the car 1
+fueling a car: </s> use the car </s> put the fuel in the fire extinguisher 0
+fueling a car: </s> put the fuel out with some water </s> take the fuel out of the fire extinguisher 1
+fueling a car: </s> put the fire extinguisher back in the car </s> put the fuel out with some water 0
+fueling a car: </s> use the car </s> put the fuel out with some water 0
+fueling a car: </s> take the fuel out of the fire extinguisher </s> put the fire extinguisher back in the car 1
+fueling a car: </s> take the fuel out of the fire extinguisher </s> use the car 1
+fueling a car: </s> put the fire extinguisher back in the car </s> use the car 1
+fueling a car: </s> grab car </s> fill gas tank 0
+fueling a car: </s> plug in car </s> fill gas tank 0
+fueling a car: </s> check oil </s> fill gas tank 0
+fueling a car: </s> fill gas tank </s> add gas 1
+fueling a car: </s> turn car on </s> fill gas tank 0
+fueling a car: </s> put in fuel </s> fill gas tank 0
+fueling a car: </s> fill gas tank </s> drive around 1
+fueling a car: </s> plug in car </s> grab car 0
+fueling a car: </s> check oil </s> grab car 0
+fueling a car: </s> grab car </s> add gas 1
+fueling a car: </s> turn car on </s> grab car 0
+fueling a car: </s> grab car </s> put in fuel 1
+fueling a car: </s> grab car </s> drive around 1
+fueling a car: </s> plug in car </s> check oil 1
+fueling a car: </s> plug in car </s> add gas 1
+fueling a car: </s> plug in car </s> turn car on 1
+fueling a car: </s> put in fuel </s> plug in car 0
+fueling a car: </s> drive around </s> plug in car 0
+fueling a car: </s> check oil </s> add gas 1
+fueling a car: </s> check oil </s> turn car on 1
+fueling a car: </s> put in fuel </s> check oil 0
+fueling a car: </s> check oil </s> drive around 1
+fueling a car: </s> add gas </s> turn car on 1
+fueling a car: </s> add gas </s> put in fuel 1
+fueling a car: </s> drive around </s> add gas 0
+fueling a car: </s> put in fuel </s> turn car on 0
+fueling a car: </s> turn car on </s> drive around 1
+fueling a car: </s> put in fuel </s> drive around 1
+fueling a car: </s> fill the car </s> find gas 0
+fueling a car: </s> plug in the car </s> find gas 0
+fueling a car: </s> find gas </s> put the car in the garage 1
+fueling a car: </s> find gas </s> wait for the car to finish 1
+fueling a car: </s> get in the car </s> find gas 0
+fueling a car: </s> drive off </s> find gas 0
+fueling a car: </s> plug in the car </s> fill the car 0
+fueling a car: </s> fill the car </s> put the car in the garage 1
+fueling a car: </s> wait for the car to finish </s> fill the car 0
+fueling a car: </s> fill the car </s> get in the car 1
+fueling a car: </s> drive off </s> fill the car 0
+fueling a car: </s> put the car in the garage </s> plug in the car 0
+fueling a car: </s> wait for the car to finish </s> plug in the car 0
+fueling a car: </s> get in the car </s> plug in the car 0
+fueling a car: </s> plug in the car </s> drive off 1
+fueling a car: </s> put the car in the garage </s> wait for the car to finish 1
+fueling a car: </s> get in the car </s> put the car in the garage 0
+fueling a car: </s> put the car in the garage </s> drive off 1
+fueling a car: </s> get in the car </s> wait for the car to finish 0
+fueling a car: </s> drive off </s> wait for the car to finish 0
+fueling a car: </s> drive off </s> get in the car 0
+fueling a car: </s> open the car </s> fill it up with gas 0
+fueling a car: </s> fill it up with gas </s> start it 1
+fueling a car: </s> watch as the car fills up </s> fill it up with gas 0
+fueling a car: </s> start it </s> open the car 0
+fueling a car: </s> open the car </s> watch as the car fills up 1
+fueling a car: </s> watch as the car fills up </s> start it 0
+fueling a car: </s> fill up the tank </s> enter car 0
+fueling a car: </s> turn on the ignition </s> enter car 0
+fueling a car: </s> enter car </s> take the car in the car 1
+fueling a car: </s> enjoy the car </s> enter car 0
+fueling a car: </s> fill up the tank </s> turn on the ignition 1
+fueling a car: </s> take the car in the car </s> fill up the tank 0
+fueling a car: </s> enjoy the car </s> fill up the tank 0
+fueling a car: </s> turn on the ignition </s> take the car in the car 1
+fueling a car: </s> enjoy the car </s> turn on the ignition 0
+fueling a car: </s> enjoy the car </s> take the car in the car 0
+sending food back (in a restaurant): </s> go to the restaurant </s> pay for the food 1
+sending food back (in a restaurant): </s> go to the restaurant </s> sit at table 1
+sending food back (in a restaurant): </s> go to the restaurant </s> wait for my food to be ready 1
+sending food back (in a restaurant): </s> go to the restaurant </s> take my food 1
+sending food back (in a restaurant): </s> go to the restaurant </s> eat my meal 1
+sending food back (in a restaurant): </s> sit at table </s> pay for the food 0
+sending food back (in a restaurant): </s> pay for the food </s> wait for my food to be ready 1
+sending food back (in a restaurant): </s> take my food </s> pay for the food 0
+sending food back (in a restaurant): </s> eat my meal </s> pay for the food 0
+sending food back (in a restaurant): </s> wait for my food to be ready </s> sit at table 0
+sending food back (in a restaurant): </s> sit at table </s> take my food 1
+sending food back (in a restaurant): </s> sit at table </s> eat my meal 1
+sending food back (in a restaurant): </s> take my food </s> wait for my food to be ready 0
+sending food back (in a restaurant): </s> wait for my food to be ready </s> eat my meal 1
+sending food back (in a restaurant): </s> take my food </s> eat my meal 1
+sending food back (in a restaurant): </s> find a restaurant </s> call them 1
+sending food back (in a restaurant): </s> find a restaurant </s> find the menu 1
+sending food back (in a restaurant): </s> select the food </s> find a restaurant 0
+sending food back (in a restaurant): </s> schedule the call </s> find a restaurant 0
+sending food back (in a restaurant): </s> find a restaurant </s> tell them what you need 1
+sending food back (in a restaurant): </s> hang up </s> find a restaurant 0
+sending food back (in a restaurant): </s> call them </s> find the menu 1
+sending food back (in a restaurant): </s> call them </s> select the food 1
+sending food back (in a restaurant): </s> schedule the call </s> call them 0
+sending food back (in a restaurant): </s> tell them what you need </s> call them 0
+sending food back (in a restaurant): </s> hang up </s> call them 0
+sending food back (in a restaurant): </s> find the menu </s> select the food 1
+sending food back (in a restaurant): </s> schedule the call </s> find the menu 0
+sending food back (in a restaurant): </s> find the menu </s> tell them what you need 1
+sending food back (in a restaurant): </s> hang up </s> find the menu 0
+sending food back (in a restaurant): </s> schedule the call </s> select the food 0
+sending food back (in a restaurant): </s> select the food </s> tell them what you need 1
+sending food back (in a restaurant): </s> select the food </s> hang up 1
+sending food back (in a restaurant): </s> schedule the call </s> tell them what you need 1
+sending food back (in a restaurant): </s> schedule the call </s> hang up 1
+sending food back (in a restaurant): </s> tell them what you need </s> hang up 1
+sending food back (in a restaurant): </s> go to the restaurant </s> enter the restaurant 1
+sending food back (in a restaurant): </s> go to the restaurant </s> place a bag on the counter 1
+sending food back (in a restaurant): </s> go to the restaurant </s> take the receipt from the counter 1
+sending food back (in a restaurant): </s> go to the register </s> go to the restaurant 0
+sending food back (in a restaurant): </s> go to the restaurant </s> hand the register a receipt 1
+sending food back (in a restaurant): </s> go to the restaurant </s> go home 1
+sending food back (in a restaurant): </s> place a bag on the counter </s> enter the restaurant 0
+sending food back (in a restaurant): </s> enter the restaurant </s> take the receipt from the counter 1
+sending food back (in a restaurant): </s> go to the register </s> enter the restaurant 0
+sending food back (in a restaurant): </s> hand the register a receipt </s> enter the restaurant 0
+sending food back (in a restaurant): </s> enter the restaurant </s> go home 1
+sending food back (in a restaurant): </s> take the receipt from the counter </s> place a bag on the counter 0
+sending food back (in a restaurant): </s> place a bag on the counter </s> go to the register 1
+sending food back (in a restaurant): </s> hand the register a receipt </s> place a bag on the counter 0
+sending food back (in a restaurant): </s> go home </s> place a bag on the counter 0
+sending food back (in a restaurant): </s> go to the register </s> take the receipt from the counter 0
+sending food back (in a restaurant): </s> take the receipt from the counter </s> hand the register a receipt 1
+sending food back (in a restaurant): </s> take the receipt from the counter </s> go home 1
+sending food back (in a restaurant): </s> hand the register a receipt </s> go to the register 0
+sending food back (in a restaurant): </s> go home </s> go to the register 0
+sending food back (in a restaurant): </s> hand the register a receipt </s> go home 1
+sending food back (in a restaurant): </s> look up restaurants on google </s> make a shopping list 1
+sending food back (in a restaurant): </s> call the restaurant </s> look up restaurants on google 0
+sending food back (in a restaurant): </s> make a reservation </s> look up restaurants on google 0
+sending food back (in a restaurant): </s> look up restaurants on google </s> bring your shopping list 1
+sending food back (in a restaurant): </s> look up restaurants on google </s> wait for the call to arrive 1
+sending food back (in a restaurant): </s> look up restaurants on google </s> place the item in a bag 1
+sending food back (in a restaurant): </s> look up restaurants on google </s> drive to the restaurant 1
+sending food back (in a restaurant): </s> look up restaurants on google </s> pay and tip the waiter 1
+sending food back (in a restaurant): </s> eat </s> look up restaurants on google 0
+sending food back (in a restaurant): </s> make a shopping list </s> call the restaurant 1
+sending food back (in a restaurant): </s> make a reservation </s> make a shopping list 0
+sending food back (in a restaurant): </s> make a shopping list </s> bring your shopping list 1
+sending food back (in a restaurant): </s> wait for the call to arrive </s> make a shopping list 0
+sending food back (in a restaurant): </s> make a shopping list </s> place the item in a bag 1
+sending food back (in a restaurant): </s> make a shopping list </s> drive to the restaurant 1
+sending food back (in a restaurant): </s> pay and tip the waiter </s> make a shopping list 0
+sending food back (in a restaurant): </s> eat </s> make a shopping list 0
+sending food back (in a restaurant): </s> call the restaurant </s> make a reservation 1
+sending food back (in a restaurant): </s> call the restaurant </s> bring your shopping list 1
+sending food back (in a restaurant): </s> call the restaurant </s> wait for the call to arrive 1
+sending food back (in a restaurant): </s> call the restaurant </s> place the item in a bag 1
+sending food back (in a restaurant): </s> call the restaurant </s> drive to the restaurant 1
+sending food back (in a restaurant): </s> pay and tip the waiter </s> call the restaurant 0
+sending food back (in a restaurant): </s> eat </s> call the restaurant 0
+sending food back (in a restaurant): </s> make a reservation </s> bring your shopping list 1
+sending food back (in a restaurant): </s> wait for the call to arrive </s> make a reservation 0
+sending food back (in a restaurant): </s> place the item in a bag </s> make a reservation 0
+sending food back (in a restaurant): </s> drive to the restaurant </s> make a reservation 0
+sending food back (in a restaurant): </s> make a reservation </s> pay and tip the waiter 1
+sending food back (in a restaurant): </s> eat </s> make a reservation 0
+sending food back (in a restaurant): </s> bring your shopping list </s> wait for the call to arrive 1
+sending food back (in a restaurant): </s> place the item in a bag </s> bring your shopping list 0
+sending food back (in a restaurant): </s> bring your shopping list </s> drive to the restaurant 1
+sending food back (in a restaurant): </s> pay and tip the waiter </s> bring your shopping list 0
+sending food back (in a restaurant): </s> bring your shopping list </s> eat 1
+sending food back (in a restaurant): </s> wait for the call to arrive </s> place the item in a bag 1
+sending food back (in a restaurant): </s> drive to the restaurant </s> wait for the call to arrive 0
+sending food back (in a restaurant): </s> wait for the call to arrive </s> pay and tip the waiter 1
+sending food back (in a restaurant): </s> wait for the call to arrive </s> eat 1
+sending food back (in a restaurant): </s> place the item in a bag </s> drive to the restaurant 1
+sending food back (in a restaurant): </s> place the item in a bag </s> pay and tip the waiter 1
+sending food back (in a restaurant): </s> place the item in a bag </s> eat 1
+sending food back (in a restaurant): </s> drive to the restaurant </s> pay and tip the waiter 1
+sending food back (in a restaurant): </s> drive to the restaurant </s> eat 1
+sending food back (in a restaurant): </s> pay and tip the waiter </s> eat 1
+sending food back (in a restaurant): </s> tell them what you'd like </s> call the restaurant 0
+sending food back (in a restaurant): </s> place order </s> call the restaurant 0
+sending food back (in a restaurant): </s> call the restaurant </s> wait for it to be delivered 1
+sending food back (in a restaurant): </s> call the restaurant </s> pay for the food 1
+sending food back (in a restaurant): </s> eat and enjoy </s> call the restaurant 0
+sending food back (in a restaurant): </s> place order </s> tell them what you'd like 0
+sending food back (in a restaurant): </s> wait for it to be delivered </s> tell them what you'd like 0
+sending food back (in a restaurant): </s> tell them what you'd like </s> pay for the food 1
+sending food back (in a restaurant): </s> eat and enjoy </s> tell them what you'd like 0
+sending food back (in a restaurant): </s> place order </s> wait for it to be delivered 1
+sending food back (in a restaurant): </s> place order </s> pay for the food 1
+sending food back (in a restaurant): </s> eat and enjoy </s> place order 0
+sending food back (in a restaurant): </s> wait for it to be delivered </s> pay for the food 1
+sending food back (in a restaurant): </s> wait for it to be delivered </s> eat and enjoy 1
+sending food back (in a restaurant): </s> pay for the food </s> eat and enjoy 1
+changing batteries in an alarm clock: </s> turn on the alarm </s> take out the battery 1
+changing batteries in an alarm clock: </s> take out the old battery </s> turn on the alarm 0
+changing batteries in an alarm clock: </s> get new battery </s> turn on the alarm 0
+changing batteries in an alarm clock: </s> turn on the alarm </s> plug in the new battery 1
+changing batteries in an alarm clock: </s> turn on the alarm </s> start the alarm 1
+changing batteries in an alarm clock: </s> wait until it rings </s> turn on the alarm 0
+changing batteries in an alarm clock: </s> turn on the alarm </s> remove the old battery 1
+changing batteries in an alarm clock: </s> put the new battery back </s> turn on the alarm 0
+changing batteries in an alarm clock: </s> turn on the alarm </s> plug the new battery back in 1
+changing batteries in an alarm clock: </s> take out the battery </s> take out the old battery 1
+changing batteries in an alarm clock: </s> get new battery </s> take out the battery 0
+changing batteries in an alarm clock: </s> plug in the new battery </s> take out the battery 0
+changing batteries in an alarm clock: </s> start the alarm </s> take out the battery 0
+changing batteries in an alarm clock: </s> wait until it rings </s> take out the battery 0
+changing batteries in an alarm clock: </s> take out the battery </s> remove the old battery 1
+changing batteries in an alarm clock: </s> put the new battery back </s> take out the battery 0
+changing batteries in an alarm clock: </s> take out the battery </s> plug the new battery back in 1
+changing batteries in an alarm clock: </s> get new battery </s> take out the old battery 0
+changing batteries in an alarm clock: </s> plug in the new battery </s> take out the old battery 0
+changing batteries in an alarm clock: </s> take out the old battery </s> start the alarm 1
+changing batteries in an alarm clock: </s> wait until it rings </s> take out the old battery 0
+changing batteries in an alarm clock: </s> remove the old battery </s> take out the old battery 0
+changing batteries in an alarm clock: </s> put the new battery back </s> take out the old battery 0
+changing batteries in an alarm clock: </s> plug the new battery back in </s> take out the old battery 0
+changing batteries in an alarm clock: </s> get new battery </s> plug in the new battery 1
+changing batteries in an alarm clock: </s> get new battery </s> start the alarm 1
+changing batteries in an alarm clock: </s> wait until it rings </s> get new battery 0
+changing batteries in an alarm clock: </s> remove the old battery </s> get new battery 0
+changing batteries in an alarm clock: </s> put the new battery back </s> get new battery 0
+changing batteries in an alarm clock: </s> get new battery </s> plug the new battery back in 1
+changing batteries in an alarm clock: </s> plug in the new battery </s> start the alarm 1
+changing batteries in an alarm clock: </s> plug in the new battery </s> wait until it rings 1
+changing batteries in an alarm clock: </s> plug in the new battery </s> remove the old battery 1
+changing batteries in an alarm clock: </s> put the new battery back </s> plug in the new battery 0
+changing batteries in an alarm clock: </s> plug the new battery back in </s> plug in the new battery 0
+changing batteries in an alarm clock: </s> wait until it rings </s> start the alarm 0
+changing batteries in an alarm clock: </s> start the alarm </s> remove the old battery 1
+changing batteries in an alarm clock: </s> put the new battery back </s> start the alarm 0
+changing batteries in an alarm clock: </s> start the alarm </s> plug the new battery back in 1
+changing batteries in an alarm clock: </s> wait until it rings </s> remove the old battery 1
+changing batteries in an alarm clock: </s> put the new battery back </s> wait until it rings 0
+changing batteries in an alarm clock: </s> plug the new battery back in </s> wait until it rings 0
+changing batteries in an alarm clock: </s> put the new battery back </s> remove the old battery 0
+changing batteries in an alarm clock: </s> remove the old battery </s> plug the new battery back in 1
+changing batteries in an alarm clock: </s> put the new battery back </s> plug the new battery back in 1
+changing batteries in an alarm clock: </s> take out the new battery </s> remove the old battery 0
+changing batteries in an alarm clock: </s> plug the new battery into the alarm </s> remove the old battery 0
+changing batteries in an alarm clock: </s> remove the old battery </s> set the alarm 1
+changing batteries in an alarm clock: </s> plug the new battery into the alarm </s> take out the new battery 0
+changing batteries in an alarm clock: </s> take out the new battery </s> set the alarm 1
+changing batteries in an alarm clock: </s> plug the new battery into the alarm </s> set the alarm 1
+changing batteries in an alarm clock: </s> turn the clock on </s> plug in the cord 0
+changing batteries in an alarm clock: </s> switch on the lights </s> plug in the cord 0
+changing batteries in an alarm clock: </s> wait until the alarm goes off </s> plug in the cord 0
+changing batteries in an alarm clock: </s> pull out the cord </s> plug in the cord 0
+changing batteries in an alarm clock: </s> plug in the cord </s> place the battery in the wall 1
+changing batteries in an alarm clock: </s> plug in the cord </s> turn the alarm off 1
+changing batteries in an alarm clock: </s> plug in the cord </s> take out the cord 1
+changing batteries in an alarm clock: </s> switch on the lights </s> turn the clock on 0
+changing batteries in an alarm clock: </s> turn the clock on </s> wait until the alarm goes off 1
+changing batteries in an alarm clock: </s> pull out the cord </s> turn the clock on 0
+changing batteries in an alarm clock: </s> place the battery in the wall </s> turn the clock on 0
+changing batteries in an alarm clock: </s> turn the alarm off </s> turn the clock on 0
+changing batteries in an alarm clock: </s> take out the cord </s> turn the clock on 0
+changing batteries in an alarm clock: </s> wait until the alarm goes off </s> switch on the lights 0
+changing batteries in an alarm clock: </s> pull out the cord </s> switch on the lights 0
+changing batteries in an alarm clock: </s> switch on the lights </s> place the battery in the wall 1
+changing batteries in an alarm clock: </s> turn the alarm off </s> switch on the lights 0
+changing batteries in an alarm clock: </s> switch on the lights </s> take out the cord 1
+changing batteries in an alarm clock: </s> wait until the alarm goes off </s> pull out the cord 1
+changing batteries in an alarm clock: </s> place the battery in the wall </s> wait until the alarm goes off 0
+changing batteries in an alarm clock: </s> turn the alarm off </s> wait until the alarm goes off 0
+changing batteries in an alarm clock: </s> take out the cord </s> wait until the alarm goes off 0
+changing batteries in an alarm clock: </s> pull out the cord </s> place the battery in the wall 1
+changing batteries in an alarm clock: </s> turn the alarm off </s> pull out the cord 0
+changing batteries in an alarm clock: </s> pull out the cord </s> take out the cord 1
+changing batteries in an alarm clock: </s> turn the alarm off </s> place the battery in the wall 0
+changing batteries in an alarm clock: </s> take out the cord </s> place the battery in the wall 0
+changing batteries in an alarm clock: </s> turn the alarm off </s> take out the cord 1
+changing batteries in an alarm clock: </s> turn off alarm </s> plug in the battery 1
+changing batteries in an alarm clock: </s> put the battery into the switch </s> turn off alarm 0
+changing batteries in an alarm clock: </s> turn off alarm </s> unplug the battery 1
+changing batteries in an alarm clock: </s> turn off alarm </s> put the battery back in 1
+changing batteries in an alarm clock: </s> turn off alarm </s> turn on the alarm 1
+changing batteries in an alarm clock: </s> turn off alarm </s> wait for the alarm to go off 1
+changing batteries in an alarm clock: </s> plug in the battery </s> put the battery into the switch 1
+changing batteries in an alarm clock: </s> unplug the battery </s> plug in the battery 0
+changing batteries in an alarm clock: </s> put the battery back in </s> plug in the battery 0
+changing batteries in an alarm clock: </s> plug in the battery </s> turn on the alarm 1
+changing batteries in an alarm clock: </s> wait for the alarm to go off </s> plug in the battery 0
+changing batteries in an alarm clock: </s> unplug the battery </s> put the battery into the switch 0
+changing batteries in an alarm clock: </s> put the battery into the switch </s> put the battery back in 1
+changing batteries in an alarm clock: </s> turn on the alarm </s> put the battery into the switch 0
+changing batteries in an alarm clock: </s> put the battery into the switch </s> wait for the alarm to go off 1
+changing batteries in an alarm clock: </s> unplug the battery </s> put the battery back in 1
+changing batteries in an alarm clock: </s> turn on the alarm </s> unplug the battery 0
+changing batteries in an alarm clock: </s> unplug the battery </s> wait for the alarm to go off 1
+changing batteries in an alarm clock: </s> put the battery back in </s> turn on the alarm 1
+changing batteries in an alarm clock: </s> put the battery back in </s> wait for the alarm to go off 1
+changing batteries in an alarm clock: </s> turn on the alarm </s> wait for the alarm to go off 1
+changing batteries in an alarm clock: </s> take alarm clock out of bag </s> plug in battery in the box 1
+changing batteries in an alarm clock: </s> put the alarm clock in the box </s> take alarm clock out of bag 0
+changing batteries in an alarm clock: </s> screw the battery back in </s> take alarm clock out of bag 0
+changing batteries in an alarm clock: </s> take alarm clock out of bag </s> put the alarm clock back in its bag 1
+changing batteries in an alarm clock: </s> plug in battery in the box </s> put the alarm clock in the box 1
+changing batteries in an alarm clock: </s> screw the battery back in </s> plug in battery in the box 0
+changing batteries in an alarm clock: </s> plug in battery in the box </s> put the alarm clock back in its bag 1
+changing batteries in an alarm clock: </s> screw the battery back in </s> put the alarm clock in the box 0
+changing batteries in an alarm clock: </s> put the alarm clock in the box </s> put the alarm clock back in its bag 1
+changing batteries in an alarm clock: </s> screw the battery back in </s> put the alarm clock back in its bag 1
+checking in at an airport: </s> check in </s> wait for your terminal 1
+checking in at an airport: </s> check in </s> get to the terminal 1
+checking in at an airport: </s> check in </s> wait for your boarding gate 1
+checking in at an airport: </s> check in </s> when you get to your boarding gate, find your seat 1
+checking in at an airport: </s> check in </s> wait for your turn 1
+checking in at an airport: </s> go to the gate </s> check in 0
+checking in at an airport: </s> put your luggage in the luggage belt </s> check in 0
+checking in at an airport: </s> board the plane </s> check in 0
+checking in at an airport: </s> check in </s> take a seat 1
+checking in at an airport: </s> check in </s> fly home 1
+checking in at an airport: </s> wait for your terminal </s> get to the terminal 1
+checking in at an airport: </s> wait for your terminal </s> wait for your boarding gate 1
+checking in at an airport: </s> wait for your terminal </s> when you get to your boarding gate, find your seat 1
+checking in at an airport: </s> wait for your terminal </s> wait for your turn 1
+checking in at an airport: </s> wait for your terminal </s> go to the gate 1
+checking in at an airport: </s> put your luggage in the luggage belt </s> wait for your terminal 0
+checking in at an airport: </s> wait for your terminal </s> board the plane 1
+checking in at an airport: </s> take a seat </s> wait for your terminal 0
+checking in at an airport: </s> fly home </s> wait for your terminal 0
+checking in at an airport: </s> get to the terminal </s> wait for your boarding gate 1
+checking in at an airport: </s> get to the terminal </s> when you get to your boarding gate, find your seat 1
+checking in at an airport: </s> wait for your turn </s> get to the terminal 0
+checking in at an airport: </s> go to the gate </s> get to the terminal 0
+checking in at an airport: </s> get to the terminal </s> put your luggage in the luggage belt 1
+checking in at an airport: </s> get to the terminal </s> board the plane 1
+checking in at an airport: </s> take a seat </s> get to the terminal 0
+checking in at an airport: </s> get to the terminal </s> fly home 1
+checking in at an airport: </s> wait for your boarding gate </s> when you get to your boarding gate, find your seat 1
+checking in at an airport: </s> wait for your boarding gate </s> wait for your turn 1
+checking in at an airport: </s> go to the gate </s> wait for your boarding gate 0
+checking in at an airport: </s> put your luggage in the luggage belt </s> wait for your boarding gate 0
+checking in at an airport: </s> board the plane </s> wait for your boarding gate 0
+checking in at an airport: </s> wait for your boarding gate </s> take a seat 1
+checking in at an airport: </s> wait for your boarding gate </s> fly home 1
+checking in at an airport: </s> wait for your turn </s> when you get to your boarding gate, find your seat 0
+checking in at an airport: </s> go to the gate </s> when you get to your boarding gate, find your seat 0
+checking in at an airport: </s> put your luggage in the luggage belt </s> when you get to your boarding gate, find your seat 0
+checking in at an airport: </s> when you get to your boarding gate, find your seat </s> board the plane 1
+checking in at an airport: </s> take a seat </s> when you get to your boarding gate, find your seat 0
+checking in at an airport: </s> fly home </s> when you get to your boarding gate, find your seat 0
+checking in at an airport: </s> wait for your turn </s> go to the gate 1
+checking in at an airport: </s> wait for your turn </s> put your luggage in the luggage belt 1
+checking in at an airport: </s> wait for your turn </s> board the plane 1
+checking in at an airport: </s> take a seat </s> wait for your turn 0
+checking in at an airport: </s> wait for your turn </s> fly home 1
+checking in at an airport: </s> go to the gate </s> put your luggage in the luggage belt 1
+checking in at an airport: </s> board the plane </s> go to the gate 0
+checking in at an airport: </s> go to the gate </s> take a seat 1
+checking in at an airport: </s> fly home </s> go to the gate 0
+checking in at an airport: </s> board the plane </s> put your luggage in the luggage belt 0
+checking in at an airport: </s> put your luggage in the luggage belt </s> take a seat 1
+checking in at an airport: </s> put your luggage in the luggage belt </s> fly home 1
+checking in at an airport: </s> board the plane </s> take a seat 1
+checking in at an airport: </s> board the plane </s> fly home 1
+checking in at an airport: </s> take a seat </s> fly home 1
+checking in at an airport: </s> wait for your flight </s> go to the terminal and wait for your gate to open 1
+checking in at an airport: </s> enter the terminal </s> wait for your flight 0
+checking in at an airport: </s> go through security and find the gate that you want to go to </s> wait for your flight 0
+checking in at an airport: </s> wait for your flight </s> go through your screening 1
+checking in at an airport: </s> find your seat </s> wait for your flight 0
+checking in at an airport: </s> wait for your flight </s> wait for your flight to arrive 1
+checking in at an airport: </s> get in the airplane and take your seat </s> wait for your flight 0
+checking in at an airport: </s> when your flight has arrived go through the airport and make sure everything is clear </s> wait for your flight 0
+checking in at an airport: </s> leave the airport </s> wait for your flight 0
+checking in at an airport: </s> go to the terminal and wait for your gate to open </s> enter the terminal 1
+checking in at an airport: </s> go through security and find the gate that you want to go to </s> go to the terminal and wait for your gate to open 0
+checking in at an airport: </s> go to the terminal and wait for your gate to open </s> go through your screening 1
+checking in at an airport: </s> find your seat </s> go to the terminal and wait for your gate to open 0
+checking in at an airport: </s> wait for your flight to arrive </s> go to the terminal and wait for your gate to open 0
+checking in at an airport: </s> get in the airplane and take your seat </s> go to the terminal and wait for your gate to open 0
+checking in at an airport: </s> when your flight has arrived go through the airport and make sure everything is clear </s> go to the terminal and wait for your gate to open 0
+checking in at an airport: </s> leave the airport </s> go to the terminal and wait for your gate to open 0
+checking in at an airport: </s> enter the terminal </s> go through security and find the gate that you want to go to 1
+checking in at an airport: </s> enter the terminal </s> go through your screening 1
+checking in at an airport: </s> find your seat </s> enter the terminal 0
+checking in at an airport: </s> wait for your flight to arrive </s> enter the terminal 0
+checking in at an airport: </s> get in the airplane and take your seat </s> enter the terminal 0
+checking in at an airport: </s> when your flight has arrived go through the airport and make sure everything is clear </s> enter the terminal 0
+checking in at an airport: </s> enter the terminal </s> leave the airport 1
+checking in at an airport: </s> go through your screening </s> go through security and find the gate that you want to go to 0
+checking in at an airport: </s> go through security and find the gate that you want to go to </s> find your seat 1
+checking in at an airport: </s> wait for your flight to arrive </s> go through security and find the gate that you want to go to 0
+checking in at an airport: </s> go through security and find the gate that you want to go to </s> get in the airplane and take your seat 1
+checking in at an airport: </s> when your flight has arrived go through the airport and make sure everything is clear </s> go through security and find the gate that you want to go to 0
+checking in at an airport: </s> leave the airport </s> go through security and find the gate that you want to go to 0
+checking in at an airport: </s> go through your screening </s> find your seat 1
+checking in at an airport: </s> wait for your flight to arrive </s> go through your screening 0
+checking in at an airport: </s> get in the airplane and take your seat </s> go through your screening 0
+checking in at an airport: </s> when your flight has arrived go through the airport and make sure everything is clear </s> go through your screening 0
+checking in at an airport: </s> go through your screening </s> leave the airport 1
+checking in at an airport: </s> wait for your flight to arrive </s> find your seat 0
+checking in at an airport: </s> get in the airplane and take your seat </s> find your seat 0
+checking in at an airport: </s> find your seat </s> when your flight has arrived go through the airport and make sure everything is clear 1
+checking in at an airport: </s> find your seat </s> leave the airport 1
+checking in at an airport: </s> wait for your flight to arrive </s> get in the airplane and take your seat 1
+checking in at an airport: </s> when your flight has arrived go through the airport and make sure everything is clear </s> wait for your flight to arrive 0
+checking in at an airport: </s> leave the airport </s> wait for your flight to arrive 0
+checking in at an airport: </s> when your flight has arrived go through the airport and make sure everything is clear </s> get in the airplane and take your seat 0
+checking in at an airport: </s> get in the airplane and take your seat </s> leave the airport 1
+checking in at an airport: </s> leave the airport </s> when your flight has arrived go through the airport and make sure everything is clear 0
+checking in at an airport: </s> purchase checked luggage </s> enter airport 0
+checking in at an airport: </s> enter airport </s> drive to airport 1
+checking in at an airport: </s> enter airport </s> pay for your luggage 1
+checking in at an airport: </s> enter airport </s> wait in line 1
+checking in at an airport: </s> enter airport </s> enter gate 1
+checking in at an airport: </s> enter airport </s> put your luggage in gate 1
+checking in at an airport: </s> go through security </s> enter airport 0
+checking in at an airport: </s> enter airport </s> enter terminal 1
+checking in at an airport: </s> check in </s> enter airport 0
+checking in at an airport: </s> board plane </s> enter airport 0
+checking in at an airport: </s> enter airport </s> sit on plane 1
+checking in at an airport: </s> purchase checked luggage </s> drive to airport 1
+checking in at an airport: </s> purchase checked luggage </s> pay for your luggage 1
+checking in at an airport: </s> wait in line </s> purchase checked luggage 0
+checking in at an airport: </s> purchase checked luggage </s> enter gate 1
+checking in at an airport: </s> purchase checked luggage </s> put your luggage in gate 1
+checking in at an airport: </s> purchase checked luggage </s> go through security 1
+checking in at an airport: </s> purchase checked luggage </s> enter terminal 1
+checking in at an airport: </s> purchase checked luggage </s> check in 1
+checking in at an airport: </s> board plane </s> purchase checked luggage 0
+checking in at an airport: </s> sit on plane </s> purchase checked luggage 0
+checking in at an airport: </s> pay for your luggage </s> drive to airport 0
+checking in at an airport: </s> drive to airport </s> wait in line 1
+checking in at an airport: </s> drive to airport </s> enter gate 1
+checking in at an airport: </s> drive to airport </s> put your luggage in gate 1
+checking in at an airport: </s> go through security </s> drive to airport 0
+checking in at an airport: </s> drive to airport </s> enter terminal 1
+checking in at an airport: </s> drive to airport </s> check in 1
+checking in at an airport: </s> drive to airport </s> board plane 1
+checking in at an airport: </s> sit on plane </s> drive to airport 0
+checking in at an airport: </s> pay for your luggage </s> wait in line 1
+checking in at an airport: </s> enter gate </s> pay for your luggage 0
+checking in at an airport: </s> pay for your luggage </s> put your luggage in gate 1
+checking in at an airport: </s> go through security </s> pay for your luggage 0
+checking in at an airport: </s> enter terminal </s> pay for your luggage 0
+checking in at an airport: </s> check in </s> pay for your luggage 0
+checking in at an airport: </s> pay for your luggage </s> board plane 1
+checking in at an airport: </s> pay for your luggage </s> sit on plane 1
+checking in at an airport: </s> enter gate </s> wait in line 0
+checking in at an airport: </s> put your luggage in gate </s> wait in line 0
+checking in at an airport: </s> wait in line </s> go through security 1
+checking in at an airport: </s> wait in line </s> enter terminal 1
+checking in at an airport: </s> check in </s> wait in line 0
+checking in at an airport: </s> wait in line </s> board plane 1
+checking in at an airport: </s> wait in line </s> sit on plane 1
+checking in at an airport: </s> enter gate </s> put your luggage in gate 1
+checking in at an airport: </s> enter gate </s> go through security 1
+checking in at an airport: </s> enter terminal </s> enter gate 0
+checking in at an airport: </s> enter gate </s> check in 1
+checking in at an airport: </s> enter gate </s> board plane 1
+checking in at an airport: </s> sit on plane </s> enter gate 0
+checking in at an airport: </s> go through security </s> put your luggage in gate 0
+checking in at an airport: </s> put your luggage in gate </s> enter terminal 1
+checking in at an airport: </s> put your luggage in gate </s> check in 1
+checking in at an airport: </s> put your luggage in gate </s> board plane 1
+checking in at an airport: </s> put your luggage in gate </s> sit on plane 1
+checking in at an airport: </s> enter terminal </s> go through security 0
+checking in at an airport: </s> check in </s> go through security 0
+checking in at an airport: </s> board plane </s> go through security 0
+checking in at an airport: </s> go through security </s> sit on plane 1
+checking in at an airport: </s> enter terminal </s> check in 1
+checking in at an airport: </s> enter terminal </s> board plane 1
+checking in at an airport: </s> enter terminal </s> sit on plane 1
+checking in at an airport: </s> board plane </s> check in 0
+checking in at an airport: </s> sit on plane </s> check in 0
+checking in at an airport: </s> board plane </s> sit on plane 1
+checking in at an airport: </s> wait until your luggage arrives at your gate </s> show the boarding pass 0
+checking in at an airport: </s> show the boarding pass </s> go through the airport doors 1
+checking in at an airport: </s> show the boarding pass </s> wait for your flight to take off 1
+checking in at an airport: </s> go through the airport doors </s> wait until your luggage arrives at your gate 0
+checking in at an airport: </s> wait until your luggage arrives at your gate </s> wait for your flight to take off 1
+checking in at an airport: </s> go through the airport doors </s> wait for your flight to take off 1
+checking in at an airport: </s> check bag </s> arrive 0
+checking in at an airport: </s> arrive </s> go to gate 1
+checking in at an airport: </s> arrive </s> scan your ticket 1
+checking in at an airport: </s> enter airport </s> arrive 0
+checking in at an airport: </s> arrive </s> sign boarding pass 1
+checking in at an airport: </s> go through security </s> arrive 0
+checking in at an airport: </s> arrive </s> get on flight 1
+checking in at an airport: </s> enter plane </s> arrive 0
+checking in at an airport: </s> check bags </s> arrive 0
+checking in at an airport: </s> leave plane </s> arrive 0
+checking in at an airport: </s> check bag </s> go to gate 1
+checking in at an airport: </s> scan your ticket </s> check bag 0
+checking in at an airport: </s> enter airport </s> check bag 0
+checking in at an airport: </s> sign boarding pass </s> check bag 0
+checking in at an airport: </s> go through security </s> check bag 0
+checking in at an airport: </s> get on flight </s> check bag 0
+checking in at an airport: </s> check bag </s> enter plane 1
+checking in at an airport: </s> check bag </s> check bags 1
+checking in at an airport: </s> check bag </s> leave plane 1
+checking in at an airport: </s> go to gate </s> scan your ticket 1
+checking in at an airport: </s> go to gate </s> enter airport 1
+checking in at an airport: </s> go to gate </s> sign boarding pass 1
+checking in at an airport: </s> go to gate </s> go through security 1
+checking in at an airport: </s> get on flight </s> go to gate 0
+checking in at an airport: </s> go to gate </s> enter plane 1
+checking in at an airport: </s> check bags </s> go to gate 0
+checking in at an airport: </s> leave plane </s> go to gate 0
+checking in at an airport: </s> scan your ticket </s> enter airport 1
+checking in at an airport: </s> sign boarding pass </s> scan your ticket 0
+checking in at an airport: </s> go through security </s> scan your ticket 0
+checking in at an airport: </s> get on flight </s> scan your ticket 0
+checking in at an airport: </s> enter plane </s> scan your ticket 0
+checking in at an airport: </s> scan your ticket </s> check bags 1
+checking in at an airport: </s> scan your ticket </s> leave plane 1
+checking in at an airport: </s> enter airport </s> sign boarding pass 1
+checking in at an airport: </s> enter airport </s> go through security 1
+checking in at an airport: </s> enter airport </s> get on flight 1
+checking in at an airport: </s> enter airport </s> enter plane 1
+checking in at an airport: </s> enter airport </s> check bags 1
+checking in at an airport: </s> enter airport </s> leave plane 1
+checking in at an airport: </s> sign boarding pass </s> go through security 1
+checking in at an airport: </s> sign boarding pass </s> get on flight 1
+checking in at an airport: </s> enter plane </s> sign boarding pass 0
+checking in at an airport: </s> sign boarding pass </s> check bags 1
+checking in at an airport: </s> leave plane </s> sign boarding pass 0
+checking in at an airport: </s> get on flight </s> go through security 0
+checking in at an airport: </s> enter plane </s> go through security 0
+checking in at an airport: </s> check bags </s> go through security 0
+checking in at an airport: </s> go through security </s> leave plane 1
+checking in at an airport: </s> enter plane </s> get on flight 0
+checking in at an airport: </s> get on flight </s> check bags 1
+checking in at an airport: </s> get on flight </s> leave plane 1
+checking in at an airport: </s> check bags </s> enter plane 0
+checking in at an airport: </s> enter plane </s> leave plane 1
+checking in at an airport: </s> leave plane </s> check bags 0

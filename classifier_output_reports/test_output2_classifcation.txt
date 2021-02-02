@@ -1,0 +1,360 @@
+loading new tokenizer
+--------------
+['baking a cake: </s> gather ingredients for cake </s> place pan on stove', 'baking a cake: </s> turn stove on to medium high </s> gather ingredients for cake', 'baking a cake: </s> gather ingredients for cake </s> pour water into pan', 'baking a cake: </s> gather ingredients for cake </s> put water on stove', 'baking a cake: </s> when water reaches boiling point, add icing </s> gather ingredients for cake']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.78      0.76      0.77       284
+           1       0.75      0.77      0.76       264
+
+    accuracy                           0.77       548
+   macro avg       0.77      0.77      0.77       548
+weighted avg       0.77      0.77      0.77       548
+
+[[217  67]
+ [ 61 203]]
+loading new tokenizer
+--------------
+['getting a hair cut: </s> get a hair cut </s> pick out a color of hair', 'getting a hair cut: </s> pick out a color of hair </s> apply a hair dryer', 'getting a hair cut: </s> pick out a color of hair </s> take a shower', 'getting a hair cut: </s> pick out a color of hair </s> put on your hair', 'getting a hair cut: </s> enjoy your hair </s> pick out a color of hair']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.77      0.75      0.76       366
+           1       0.74      0.76      0.75       344
+
+    accuracy                           0.75       710
+   macro avg       0.75      0.75      0.75       710
+weighted avg       0.75      0.75      0.75       710
+
+[[274  92]
+ [ 84 260]]
+loading new tokenizer
+--------------
+['eating in a fast food restaurant: </s> wait for your order to be called </s> drive to the restaurant', 'eating in a fast food restaurant: </s> pay for your order </s> wait for your order to be called', 'eating in a fast food restaurant: </s> get your food </s> wait for your order to be called', 'eating in a fast food restaurant: </s> wait for your order to be called </s> eat your food', 'eating in a fast food restaurant: </s> leave the restaurant </s> wait for your order to be called']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.78      0.80      0.79       233
+           1       0.81      0.79      0.80       251
+
+    accuracy                           0.80       484
+   macro avg       0.80      0.80      0.80       484
+weighted avg       0.80      0.80      0.80       484
+
+[[187  46]
+ [ 52 199]]
+loading new tokenizer
+--------------
+['washing dishes: </s> turn on water </s> grab dirty dishes', 'washing dishes: </s> grab dirty dishes </s> run water from sink into the sink', 'washing dishes: </s> grab dirty dishes </s> put dishes in washer', 'washing dishes: </s> grab dirty dishes </s> wait for dishes to finish cleaning', 'washing dishes: </s> take dishes out of washer </s> grab dirty dishes']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.76      0.71      0.74       412
+           1       0.73      0.78      0.75       416
+
+    accuracy                           0.75       828
+   macro avg       0.75      0.75      0.74       828
+weighted avg       0.75      0.75      0.74       828
+
+[[294 118]
+ [ 93 323]]
+loading new tokenizer
+--------------
+['taking a shower: </s> turn on water </s> enter shower', 'taking a shower: </s> enter shower </s> take off clothes', 'taking a shower: </s> enter shower </s> fill with water', 'taking a shower: </s> enter shower </s> turn water off', 'taking a shower: </s> get into shower </s> enter shower']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.81      0.77      0.79       534
+           1       0.78      0.81      0.80       528
+
+    accuracy                           0.79      1062
+   macro avg       0.79      0.79      0.79      1062
+weighted avg       0.79      0.79      0.79      1062
+
+[[412 122]
+ [ 99 429]]
+loading new tokenizer
+--------------
+["washing one's hair: </s> plug in the water to the sink. </s> turn the water on high.", "washing one's hair: </s> plug in the water to the sink. </s> rinse the hair.", "washing one's hair: </s> plug in the water to the sink. </s> let the hair dry.", "washing one's hair: </s> rinse the hair. </s> turn the water on high.", "washing one's hair: </s> turn the water on high. </s> let the hair dry."]
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.80      0.82      0.81       256
+           1       0.81      0.79      0.80       253
+
+    accuracy                           0.80       509
+   macro avg       0.80      0.80      0.80       509
+weighted avg       0.80      0.80      0.80       509
+
+[[210  46]
+ [ 54 199]]
+loading new tokenizer
+--------------
+['having a barbecue: </s> gather materials for a BBQ </s> get to the location of the barbecue', 'having a barbecue: </s> gather materials for a BBQ </s> gather the equipment for the BBQ', 'having a barbecue: </s> get to the area where the BBQ is being prepared </s> gather materials for a BBQ', 'having a barbecue: </s> dig a pit to the appropriate depth </s> gather materials for a BBQ', 'having a barbecue: </s> add charcoal to the pit </s> gather materials for a BBQ']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.83      0.79      0.81       252
+           1       0.82      0.85      0.83       273
+
+    accuracy                           0.82       525
+   macro avg       0.82      0.82      0.82       525
+weighted avg       0.82      0.82      0.82       525
+
+[[200  52]
+ [ 42 231]]
+loading new tokenizer
+--------------
+['renovating a room: </s> take down old furniture </s> choose room to renovate', 'renovating a room: </s> choose room to renovate </s> clean surfaces of floor and walls', 'renovating a room: </s> find an appropriate light bulb </s> choose room to renovate', 'renovating a room: </s> choose room to renovate </s> place light bulb in wall', 'renovating a room: </s> choose room to renovate </s> take down old bed and cover']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.71      0.93      0.81       295
+           1       0.90      0.64      0.75       305
+
+    accuracy                           0.78       600
+   macro avg       0.81      0.78      0.78       600
+weighted avg       0.81      0.78      0.78       600
+
+[[273  22]
+ [109 196]]
+loading new tokenizer
+--------------
+['baking a cake: </s> gather ingredients for cake </s> place pan on stove', 'baking a cake: </s> gather ingredients for cake </s> turn stove on to medium', 'baking a cake: </s> put ingredients in pan </s> gather ingredients for cake', 'baking a cake: </s> gather ingredients for cake </s> fill pan with water', 'baking a cake: </s> put pan on stove with butter </s> gather ingredients for cake']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.84      0.81      0.82       244
+           1       0.83      0.86      0.84       265
+
+    accuracy                           0.83       509
+   macro avg       0.83      0.83      0.83       509
+weighted avg       0.83      0.83      0.83       509
+
+[[197  47]
+ [ 38 227]]
+loading new tokenizer
+--------------
+['getting a hair cut: </s> get a hair dress </s> pick out a color and style you like', 'getting a hair cut: </s> get a hair cut </s> pick out a color and style you like', 'getting a hair cut: </s> get your hair cut </s> pick out a color and style you like', 'getting a hair cut: </s> pick out a color and style you like </s> put on your hair dress', 'getting a hair cut: </s> get your hair cut and cut </s> pick out a color and style you like']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.75      0.71      0.73       368
+           1       0.70      0.75      0.73       345
+
+    accuracy                           0.73       713
+   macro avg       0.73      0.73      0.73       713
+weighted avg       0.73      0.73      0.73       713
+
+[[260 108]
+ [ 87 258]]
+loading new tokenizer
+--------------
+['eating in a fast food restaurant: </s> drive to the restaurant </s> wait for your order to be called', 'eating in a fast food restaurant: </s> wait for your order to be called </s> place your order', 'eating in a fast food restaurant: </s> wait for your food to be delivered </s> wait for your order to be called', 'eating in a fast food restaurant: </s> wait for your order to be called </s> take your order and get it delivered', 'eating in a fast food restaurant: </s> wait for your order to be called </s> pay the waiter']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.80      0.75      0.77       250
+           1       0.75      0.80      0.77       235
+
+    accuracy                           0.77       485
+   macro avg       0.77      0.77      0.77       485
+weighted avg       0.77      0.77      0.77       485
+
+[[187  63]
+ [ 47 188]]
+loading new tokenizer
+--------------
+['washing dishes: </s> turn on water </s> grab dirty dishes', 'washing dishes: </s> put dish in sink </s> grab dirty dishes', 'washing dishes: </s> grab dirty dishes </s> wait for water to boil', 'washing dishes: </s> grab dirty dishes </s> grab clean dishes', 'washing dishes: </s> grab dirty dishes </s> grab dish out of water']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.82      0.77      0.80       394
+           1       0.79      0.84      0.82       411
+
+    accuracy                           0.81       805
+   macro avg       0.81      0.81      0.81       805
+weighted avg       0.81      0.81      0.81       805
+
+[[303  91]
+ [ 65 346]]
+loading new tokenizer
+--------------
+['taking a shower: </s> enter shower </s> turn on water', 'taking a shower: </s> take off clothes </s> enter shower', 'taking a shower: </s> enter shower </s> wet your hair', 'taking a shower: </s> enter shower </s> take shower', 'taking a shower: </s> wash your body </s> enter shower']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.77      0.76      0.76       437
+           1       0.75      0.77      0.76       430
+
+    accuracy                           0.76       867
+   macro avg       0.76      0.76      0.76       867
+weighted avg       0.76      0.76      0.76       867
+
+[[330 107]
+ [101 329]]
+loading new tokenizer
+--------------
+["washing one's hair: </s> put hair in wash basket </s> gather dirty hair", "washing one's hair: </s> add soap </s> gather dirty hair", "washing one's hair: </s> gather dirty hair </s> wash hair", "washing one's hair: </s> rinse hair </s> gather dirty hair", "washing one's hair: </s> put hair in dryer </s> gather dirty hair"]
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.77      0.74      0.76       484
+           1       0.75      0.77      0.76       469
+
+    accuracy                           0.76       953
+   macro avg       0.76      0.76      0.76       953
+weighted avg       0.76      0.76      0.76       953
+
+[[360 124]
+ [106 363]]
+loading new tokenizer
+--------------
+['having a barbecue: </s> gather materials for a pit </s> put some wood in a hole', 'having a barbecue: </s> add some food and water </s> gather materials for a pit', 'having a barbecue: </s> start the fire </s> gather materials for a pit', 'having a barbecue: </s> add more wood or water when needed </s> gather materials for a pit', 'having a barbecue: </s> put some wood in a hole </s> add some food and water']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.80      0.77      0.79       271
+           1       0.80      0.82      0.81       296
+
+    accuracy                           0.80       567
+   macro avg       0.80      0.80      0.80       567
+weighted avg       0.80      0.80      0.80       567
+
+[[209  62]
+ [ 52 244]]
+loading new tokenizer
+--------------
+['renovating a room: </s> choose what you want to do with the room. </s> get all tools to make the job easy.', 'renovating a room: </s> put out some light to see what the job needs to be done. </s> choose what you want to do with the room.', 'renovating a room: </s> choose what you want to do with the room. </s> once finished, clean the room with a vacuum.', 'renovating a room: </s> choose what you want to do with the room. </s> vacuum the carpets.', 'renovating a room: </s> choose what you want to do with the room. </s> vacuum the walls.']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.69      0.85      0.76       181
+           1       0.81      0.63      0.71       189
+
+    accuracy                           0.74       370
+   macro avg       0.75      0.74      0.73       370
+weighted avg       0.75      0.74      0.73       370
+
+[[153  28]
+ [ 70 119]]
+loading new tokenizer
+--------------
+['baking a cake: </s> put pan on stove </s> turn burner to medium high', 'baking a cake: </s> put pan on stove </s> turn burner off', 'baking a cake: </s> put the cooked cake ingredients in the bowl </s> put pan on stove', 'baking a cake: </s> mix them thoroughly </s> put pan on stove', 'baking a cake: </s> take cake out of fridge </s> put pan on stove']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.76      0.81      0.79       177
+           1       0.81      0.77      0.79       188
+
+    accuracy                           0.79       365
+   macro avg       0.79      0.79      0.79       365
+weighted avg       0.79      0.79      0.79       365
+
+[[143  34]
+ [ 44 144]]
+loading new tokenizer
+--------------
+['getting a hair cut: </s> drive to the hair salon </s> pay for the services', 'getting a hair cut: </s> drive to the hair salon </s> go into the salon', 'getting a hair cut: </s> drive to the hair salon </s> have the hair cut', 'getting a hair cut: </s> drive to the hair salon </s> leave the salon', 'getting a hair cut: </s> go into the salon </s> pay for the services']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.80      0.78      0.79       210
+           1       0.81      0.82      0.82       240
+
+    accuracy                           0.80       450
+   macro avg       0.80      0.80      0.80       450
+weighted avg       0.80      0.80      0.80       450
+
+[[163  47]
+ [ 42 198]]
+loading new tokenizer
+--------------
+['eating in a fast food restaurant: </s> pay for order </s> walk to front', 'eating in a fast food restaurant: </s> walk to front </s> wait', 'eating in a fast food restaurant: </s> walk to front </s> eat', 'eating in a fast food restaurant: </s> pay for order </s> wait', 'eating in a fast food restaurant: </s> eat </s> pay for order']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.74      0.79      0.77       133
+           1       0.77      0.72      0.74       129
+
+    accuracy                           0.76       262
+   macro avg       0.76      0.76      0.76       262
+weighted avg       0.76      0.76      0.76       262
+
+[[105  28]
+ [ 36  93]]
+loading new tokenizer
+--------------
+['washing dishes: </s> place them in sink </s> turn on water', 'washing dishes: </s> place them in sink </s> fill to desired level', 'washing dishes: </s> place them in sink </s> remove dish from sink', 'washing dishes: </s> place in dishwasher </s> place them in sink', 'washing dishes: </s> place them in sink </s> wait for it to finish']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.75      0.72      0.74       416
+           1       0.75      0.77      0.76       441
+
+    accuracy                           0.75       857
+   macro avg       0.75      0.75      0.75       857
+weighted avg       0.75      0.75      0.75       857
+
+[[301 115]
+ [102 339]]
+loading new tokenizer
+--------------
+['taking a shower: </s> put on clothes </s> go to bathroom', 'taking a shower: </s> plug shower into drain </s> put on clothes', 'taking a shower: </s> open drain </s> put on clothes', 'taking a shower: </s> put on clothes </s> take out soap', 'taking a shower: </s> put on clothes </s> start shower']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.72      0.76      0.74       358
+           1       0.78      0.74      0.76       403
+
+    accuracy                           0.75       761
+   macro avg       0.75      0.75      0.75       761
+weighted avg       0.75      0.75      0.75       761
+
+[[273  85]
+ [105 298]]
+loading new tokenizer
+--------------
+["washing one's hair: </s> rinse hair </s> place on dryer sheet", "washing one's hair: </s> rinse hair </s> scrub hair", "washing one's hair: </s> rinse hair </s> rinse out excess hair", "washing one's hair: </s> rinse hair </s> rinse hair from dryer sheet", "washing one's hair: </s> rinse hair </s> fold dryer sheet"]
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.74      0.76      0.75       202
+           1       0.77      0.75      0.76       212
+
+    accuracy                           0.76       414
+   macro avg       0.76      0.76      0.76       414
+weighted avg       0.76      0.76      0.76       414
+
+[[154  48]
+ [ 53 159]]
+loading new tokenizer
+--------------
+['having a barbecue: </s> get ready to go out </s> put away food', 'having a barbecue: </s> put away all food </s> put away food', 'having a barbecue: </s> get ready to go out </s> put away all food', 'having a barbecue: </s> get some grills </s> get a bucket to store grills', "having a barbecue: </s> go to a friend's house </s> get some grills"]
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.77      0.73      0.75       326
+           1       0.73      0.77      0.75       316
+
+    accuracy                           0.75       642
+   macro avg       0.75      0.75      0.75       642
+weighted avg       0.75      0.75      0.75       642
+
+[[238  88]
+ [ 72 244]]
+loading new tokenizer
+--------------
+['renovating a room: </s> set up air conditioner </s> place furniture in room', 'renovating a room: </s> place furniture in room </s> make sure there is plenty of light', 'renovating a room: </s> place furniture in room </s> make sure the heat is up', 'renovating a room: </s> place furniture in room </s> start air conditioner', 'renovating a room: </s> place furniture in room </s> enjoy new space']
+-----test report------
+              precision    recall  f1-score   support
+
+           0       0.75      0.89      0.82       185
+           1       0.88      0.73      0.79       197
+
+    accuracy                           0.81       382
+   macro avg       0.82      0.81      0.81       382
+weighted avg       0.82      0.81      0.81       382
+
+[[165  20]
+ [ 54 143]]

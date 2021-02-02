@@ -1,0 +1,37 @@
+washing dishes;wait for soap to turn solid.;use washcloth to clean dishes.
+washing dishes;collect clean dishes.;add water.
+washing dishes;add water.;pour dish soap.
+washing dishes;pour dish soap.;soak dish cloth.
+washing dishes;soak dish cloth.;wait for soap to turn solid.
+washing dishes;get dish cloth.;collect clean dishes.
+making a bonfire;use charcoal to burn;remove charcoal when done
+making a bonfire;gather charcoal;light charcoal
+making a bonfire;put charcoal in the bonfire;use charcoal to burn
+making a bonfire;remove charcoal from bonfire;light candles
+making a bonfire;light charcoal;put charcoal in the bonfire
+making a bonfire;light candles;remove candles
+making a bonfire;remove charcoal when done;remove charcoal from bonfire
+going to the sauna;get into sauna;turn on hot water
+going to the sauna;put on towel;open hot and cold water tap
+going to the sauna;wash body;dry body with towel
+going to the sauna;turn on steam;wash body
+going to the sauna;dry body with towel;turn off steam
+going to the sauna;open hot and cold water tap;turn on steam
+going to the sauna;turn on hot water;put on towel
+going to the sauna;turn off steam;get out of sauna
+making coffee;remove your filter from your pot;fill your cup with your favorite beverage
+making coffee;add your coffee to your desired temperature;remove your filter from your pot
+making coffee;grab a filter;grab your cup
+making coffee;wait for the filter to open;place your cup into your desired place
+making coffee;turn your burner on;grab a filter
+making coffee;get a pot;turn your burner on
+making coffee;place coffee beans into your preferred filter;pour in coffee beans
+making coffee;fill your cup with your favorite beverage;enjoy your favorite beverage
+making coffee;grab your cup;place coffee beans into your preferred filter
+making coffee;pour in coffee beans;wait for the filter to open
+making coffee;get some coffee beans;get a pot
+making coffee;place your cup into your desired place;add your coffee to your desired temperature
+going to the swimming pool;enter the swimming pool;leave the swimming pool and leave the house
+going to the swimming pool;dress in a comfortable clothes;buy a ticket for the time you want to enter the pool
+going to the swimming pool;buy a ticket for the time you want to enter the pool;pick a towel
+going to the swimming pool;pick a towel;enter the swimming pool

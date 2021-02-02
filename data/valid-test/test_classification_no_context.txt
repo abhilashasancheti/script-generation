@@ -1,0 +1,250 @@
+enjoy a slice of cake </s> mix 0
+remove cake from oven. </s> set timer. 0
+beat the mixture on low until the batter comes together and no white bits of flour remain. </s> pour the batter into the cake pan 1
+eat it </s> get out vegetable oil 0
+gather all ingredients </s> set timer and bake for time directed according to pan size 1
+let cake cool </s> milk 0
+put greased pan into preheated stove </s> getting ingredients ready 0
+get cake mix </s> combine in bowl 1
+pour wet mixture into dry mixture </s> get sugar 0
+store any leftovers in the fridge </s> get you cooking supplies 0
+first heat oven </s> now invert the plate on the cake table. 1
+get all the ingredients together </s> mix all the dry ingredient together 1
+place pan in overn </s> follow recipe to make the batter 0
+bake for about 40 min and test with a skewer </s> preheat the oven to 180 degree c 0
+remove cake from oven to cool </s> mix cake mix, eggs and water in bowl 0
+place in oven </s> mix your ingredients 0
+turn off oven. </s> cool cake in pan on cooling rack. 1
+wait for the timer to go off </s> get a cake pan, mixing bowl and a whisk 0
+put dish in the oven </s> put any frosting or toppings on it 1
+bake </s> get ingredients 0
+look up cake recipe </s> get the cake ingredients 1
+mix ingredients together. </s> once cool, decorate it as you want to. 1
+turn on oven </s> put batter into a pan 1
+after cake cools, put frosting on cake. </s> mix cake mix, eggs, oil and water in bowl. 0
+mix cake and other ingredients </s> let cake cool 1
+find a recipe </s> put into oven 1
+get bowl </s> put frosting on cake 1
+empty contents of cake mix into a bowl. </s> pour cake mixture into pan. 1
+mix cake mix in mixing bowl </s> carefully remove cake from pan 1
+pour into a baking pan </s> assemble ingredients 0
+put cake in oven. </s> buy cake ingredients. 0
+mix them together </s> put pan in oven 1
+mix cake according to instructions </s> take cake out of oven 1
+add the rest of the ingredients. </s> combine dry ingredients. 0
+add frosting </s> fill cake pan with batter 0
+gather the cake ingredients </s> frost the cake 1
+preheat oven to 350 </s> get baking pan 1
+put mix in cake pan </s> mix cake mix with eggs as called for by box 0
+turn off oven and let the cake cool </s> add water, sugar, beaten egg, vanilla essence, butter and salt one by one 0
+put the cake batter in the oven </s> put the mix in the pans 0
+review desired recipe </s> meanwhile, mix a batter following the recipe 1
+pour into prepared pan </s> purchase cake mix 0
+gather all ingredients. </s> frost and decorate cake. 1
+put pan in oven </s> pour batter in pan 0
+mix the dry ingredients in one bowl (flour, baking soda, salt, etc) </s> mix them together 1
+set a timer when the recipe states the cake will be done </s> turn off the oven 1
+get cake pan </s> remove finished cake when timer goes off 1
+use fork to breakup clumps </s> get mixing tool or spoon or fork 0
+measure wet ingredients. </s> wait for cake to bake. 1
+pre-heat oven based on recipes instructions </s> pour mixture into cake pan 1
+hand book to librarian </s> walk to check out desk 0
+go to the library </s> find a book to borrow in the aisles or stacks 1
+note when to return the book. </s> drive to the library. 0
+library card gets scanned </s> go home and read it 1
+give card to librarian </s> walk to library 0
+bring books up to front desk clerk </s> go to library 0
+leaving the library </s> bringing book to circulation desk 0
+find a seat </s> go back to the desk 0
+check out the books </s> give the librarian your library card 0
+approach the library with book(s) and your library card. </s> take your (now checked out) book back from the librarian. 1
+show your membership card to the librarian </s> choose your desired book 0
+show library card </s> take the book home 1
+sign in using your membership card </s> select a book you want to borrow 1
+park and walk inside </s> bring book to front desk 1
+leave </s> go to library 0
+give the librarian your book </s> go home 1
+take book home from library </s> select a book' 0
+become a member </s> he will make an entry in his ledger 1
+go to desk and sign up for a card </s> pick out book 1
+check the book out with your library card </s> look for preferred book 0
+leave library with book. </s> find library card. 0
+enter library </s> bring book to librarian at desk 1
+go to counter </s> choose best book 0
+let the librarian scan the book. </s> sign up for a library card. 0
+find the book you want on the shelves. </s> walk up to the circular desk. 1
+talk to library attendant </s> leave house 0
+hand the librarian the book. </s> go to the checkout line. 0
+scan book to borrow. </s> find book to check out. 0
+go to counter. </s> search for any books that you'd like to borrow. 0
+choose library </s> find a book you want to read 1
+they give you book, library card and a receipt </s> walk into library 0
+take book to counter </s> take book 1
+leave library </s> wait for barcode to be scanned 0
+leave library with book </s> look for librarian 0
+browse the books and pick whatever interests you </s> read the book for the next 2 weeks 1
+walk up to librarian. </s> make a selection. 0
+find a book i want </s> get in the car 0
+leave the library </s> go to the library 0
+check out the book </s> get in the car and go 0
+see if that author has any new books. </s> look up author and series. 1
+create a library card if necessary </s> leave the library with the book 1
+go to the library </s> take book and card when librarian gives them back 1
+return book before due date </s> borrow the book using library card 0
+read book. </s> return book to library when finished reading. 1
+show library card </s> use computer to find book location 0
+give them your card and book </s> get a library card 0
+put my card back in my wallet </s> wait for clerk 0
+drop off book </s> leave library 0
+bring the book to the library desk. </s> take your receipt. 1
+drive to the public library </s> walk to car 1
+arrive at the airport one to three hours before departure. </s> put your seatbelt on. 1
+get boarding pass. </s> follow instructions from flight attendant. 1
+wait for the plane to land </s> have a drink and snack 0
+board plane </s> wait for plane to land 1
+go through security. </s> listen to instructions from flight attendants. 1
+relax and enjoy music and movies </s> enter the airplane 0
+find your gate </s> walk onto the plane when it's time 1
+take the seat allotted for you </s> show the document you bring 0
+walk to gate </s> walk to airplane 1
+go through security line. </s> find correct gate listed on ticket. 1
+buy a ticket </s> take your seat 1
+drive to airport </s> wait at the gate 1
+hand ticket to ticket taker </s> find your seat 1
+enter into the airplane when announcement is made </s> have food supplied 1
+check in at airline counter. </s> fly in plane. 1
+drive to airport. </s> board plane. 1
+sit down </s> put bag in overhead bin 0
+drive to airport. </s> enter airport. 1
+check in </s> park 0
+go to airport </s> relax while plane is in flight 1
+sit down </s> put carry on luggage in overhead bin 0
+fly off </s> buy ticket 0
+fly to destination </s> wait to board 0
+place baggages in above compartment. </s> wait for airplane to ascend. 1
+go through security. </s> drive to the airport. 0
+go into scanner </s> take shoes off 0
+stow your luggage </s> sit in your seat and buckle the seatbelt 1
+go to airport </s> meet with airline worker 1
+buckle seatbelt </s> turn ticket in to airport personnel 0
+take off </s> sleep through flight 1
+exit plane </s> board plane 0
+check in bags. </s> go to terminal. 1
+pass security checks. </s> fly in plane. 1
+fly to destination </s> place luggage above seats 0
+leave airport </s> step onto plane 0
+get bag </s> drive to airport 0
+go to the airport </s> go to my gate 1
+find assigned seat and sit down. </s> go to security. 0
+safety belt </s> remove belt after take off 1
+get on board airplane. </s> put carry-on bag in overhead compartment. 1
+go to the airport </s> get on the plane 1
+getting out of the plane </s> driving (going) to the airport assigned 0
+purchase ticket </s> go through security checkpoint 1
+prepare passport, ticket and money </s> ready to fly 1
+go through security checkpoint scanner </s> exit plane 1
+check bags </s> get to airport 0
+pack luggage </s> find seat number and sit 1
+wait for our flight to start boarding </s> go on plane 1
+open up carry on luggage </s> walk into scanner 1
+sit down </s> buckle your seat belt 1
+buy a ticket online. </s> wait for your train to be announced. 1
+take a seat </s> check train schedules 0
+wait for train </s> determine a location to go to by train. 0
+getting into train when arrives </s> waiting on train platform for train 0
+wait for stop </s> wait for train 0
+get on train </s> depart when you arrive 1
+take all the luggage out </s> keep bag under the seat 0
+drive to train station </s> get out 1
+get on train </s> get off train at your stop 1
+board train when it arrives </s> find a seat 1
+call and check departure time </s> get on the train 1
+give ticket to attendant </s> purchase train ticket for destination 0
+go to train station. </s> relax. 1
+swipe ticket </s> retrieve ticket from machine 0
+buy ticket to the travel destination </s> de-train upon reaching the destination 1
+look up train information online </s> board train 1
+wait for the train to arrive. </s> walk onto the train. 1
+buy ticket </s> choose a destination 0
+enter train station </s> enjoy train ride 1
+enjoy the view </s> go to station 0
+give ticket to steward when asked </s> purchase a ticket 0
+wait for train to arrive. </s> sit back and relax. 1
+board train when it arrives </s> leave to designated area 0
+wait for train. </s> pay for train ticket. 0
+board train </s> pay for the ticket 0
+leave train </s> get on train 0
+sit down </s> board train 0
+enjoy ride </s> arrive train station 0
+wait until time to board train </s> hand your ticket to the conductor 1
+go to ticket window </s> get dress and go to train station 0
+first you have to plan where you want to go. </s> you have to pack your bags and go to train station. 1
+gathering ticket and required identification. </s> board the train. 1
+enter train </s> enjoy train ride 1
+enjoy the ride on the train </s> look at all the times and pick a destination 0
+go to train station. </s> sit down and ride. 1
+get to train stop </s> find seat 1
+arrive at destination </s> place luggage down 0
+go to train station. </s> board train. 1
+find a seat </s> purchase ticket 0
+board train. </s> enjoy train ride. 1
+purchase ticket </s> wait until your station 1
+look at window if you haven't seen the surroundings </s> board correct train 0
+pack bags </s> order meal 1
+arrive at destination </s> board train 0
+get on my train </s> go to my destination 1
+board train </s> find seat 1
+sit </s> repeat for return trip if needed 1
+go to the train station </s> wait for attendant to walk by and pay for your ticket 1
+wait on platform. </s> board train. 1
+plan your train trip. </s> wait for your train to arrive. 1
+pay fare </s> stand up 1
+pay your bus fare. </s> when the bus approaches your destination, press the button to signal a stop. 1
+board bus when it arrives. </s> get off bus at destination. 1
+signal by bell for stop </s> go to door 1
+watch until you see your stop to get off </s> wait for the bus to arrive 0
+step onto bus when arrives </s> pay bus fair 1
+decide which bus </s> wait for your stop 1
+depart when you arrive at your destination </s> make sure you have money 0
+go to the bus stop/bus stand </s> when your bus comes climb in it 1
+ride to destination </s> find seat on bus 0
+your destination place came </s> pay for the ride 0
+take your seat </s> pay the bus driver 0
+sit down </s> wait for bus to reach your stop 1
+sit down </s> when it arrives get on 0
+drop change into money machine. </s> go to bus stop. 0
+go through doors and up the steps </s> pay the toll 0
+wait for bus stop destination </s> bus arrives 0
+get off bus when doors open. </s> wait for your stop. 0
+make sure that you have your bus fair ready. </s> walk to the bus stop. 0
+ride on the bus </s> board the bus 0
+wait for stop </s> get on bus 0
+go to bus station </s> enter bus 1
+board bus </s> wait for the bus 0
+bus arrives </s> bus stops at your destination 1
+wait for bus to arrive </s> get on bus 1
+wait there for the bus to arrive </s> choose a seat 1
+get to bus stop early and wait for bus. </s> pay fare when boarding bus. 1
+wait for the bus </s> walk up the steps of the bus 1
+wait at bus stop </s> wait till my stop is approaching 1
+walk to the bus stop </s> go outside 0
+wait for bus to arrive </s> walk to bus stop 0
+get off </s> arrive destination 0
+get on bus </s> wait for bus 0
+get off bus </s> pay fare 0
+find a seat. </s> sit down. 1
+pull the cord alerting the driver to stop </s> wait at your bus stop 0
+sit down </s> wait 0
+head to the bus stop </s> find a seat on the bus 1
+reach the destination </s> purchase the ticket 0
+go to the bus stop </s> get on the bus 1
+getting off the bus </s> wait until the bus arrives at the destination 0
+get on the bus </s> pull the cord when you want the bus to stop 1
+sit down </s> locate bus stop 0
+find out how much the bus ride costs, either online or by calling bus company </s> enter bus 1
+go to bus stop 5 minutes before bus arrives </s> find out bus schedule 0
+when you are near your destination, press the stop button. </s> wait for the bus to come to a complete halt before boarding it. 0
+wait a bus stop </s> driver opens door 1
+pull signal for stop </s> go to bus door 1
+board bus. </s> wait for bus to reach destination. 1
+exit bus. </s> walk to back door. 0

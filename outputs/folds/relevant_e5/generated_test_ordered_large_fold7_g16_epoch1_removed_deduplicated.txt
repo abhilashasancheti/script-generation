@@ -1,0 +1,25 @@
+<BOS> here is an ordered sequence of events that occur when you have a barbecue: 1. enjoy 
+<BOS> here is an ordered sequence of events that occur when you have a barbecue: 1. get a smoker 2. keep an eye on the fire 
+<BOS> here is an ordered sequence of events that occur when you have a barbecue: 1. decide on a cookout 2. pick out a barbecue sauce 3. wait until it cools 
+<BOS> here is an ordered sequence of events that occur when you have a barbecue: 1. put the hot coals on the grill 
+<BOS> here is an ordered sequence of events that occur when you have a barbecue: 1. go to a place called the barbecue counter. 2. go to the grill. 3. enjoy. 
+<BOS> here is an ordered sequence of events that occur when you order a pizza: 1. wait for your order to be done. 2. take your order. 3. eat. 
+<BOS> here is an ordered sequence of events that occur when you order a pizza: 1. choose toppings 2. choose sauce 3. wait for pizza 4. place order on pizza 5. wait for pizza to arrive 6. enjoy 
+<BOS> here is an ordered sequence of events that occur when you order a pizza: 1. look online for pizza 2. get your order 3. pay for your pizza 4. wait for the pizza 
+<BOS> here is an ordered sequence of events that occur when you order a pizza: 1. order a pizza 2. go to the kitchen 3. enter the kitchen 4. eat the pizza 
+<BOS> here is an ordered sequence of events that occur when you order a pizza: 1. sit in the restaurant 
+<BOS> here is an ordered sequence of events that occur when you clean up a flat: 1. put the flat in the laundry detergent 2. dry the flat 3. set the flat in the closet 
+<BOS> here is an ordered sequence of events that occur when you clean up a flat: 1. place the garbage away 2. put the trash away 
+<BOS> here is an ordered sequence of events that occur when you clean up a flat: 1. remove all clothes 2. take a scrub 3. scrub clothes 4. dry 
+<BOS> here is an ordered sequence of events that occur when you clean up a flat: 1. take away trash 2. put new clothes in laundry room 3. remove debris from walls 4. pick up trash 5. put new clothes in closet 6. move out all debris 7. put up new curtains 
+<BOS> here is an ordered sequence of events that occur when you clean up a flat: 1. take out trash 2. throw away dirty dishes 3. put away trash 4. get new clothes 5. put on clean clothes 
+<BOS> here is an ordered sequence of events that occur when you make scrambled eggs: 1. find out what egg you need. 2. find a pan. 3. get eggs. 4. put eggs in pan. 5. turn heat to high. 6. stir eggs. 7. wait 10-15 minutes. 8. serve scrambled eggs. 
+<BOS> here is an ordered sequence of events that occur when you make scrambled eggs: 1. get eggs 2. put them in a container 3. add a little salt 4. add a little water 5. mix everything well 6. add a little butter and some oil 7. mix the mixture well and place eggs in a large dish 
+<BOS> here is an ordered sequence of events that occur when you make scrambled eggs: 1. gather eggs 2. boil water 3. add eggs to boiling water 4. wait for eggs to boil 5. throw away egg when done 
+<BOS> here is an ordered sequence of events that occur when you make scrambled eggs: 1. take eggs out of pan 2. cook eggs in hot water 3. set timer on timer 4. when timer goes off, get the eggs out of the fridge 5. remove eggs from fridge 6. test if eggs are cooked 7. allow the eggs to cool 8. cut the eggs in half 
+<BOS> here is an ordered sequence of events that occur when you make scrambled eggs: 1. get eggs 2. get eggs in bag 3. unload basket of eggs 4. take eggs out of fridge 
+<BOS> here is an ordered sequence of events that occur when you take the underground: 
+<BOS> here is an ordered sequence of events that occur when you take the underground: 1. enter the underground 
+<BOS> here is an ordered sequence of events that occur when you take the underground: 1. drive to underground 2. go into the place 3. go down to the pit 4. go inside 5. wait in the pit 6. get a shovel 7. dig a hole 
+<BOS> here is an ordered sequence of events that occur when you take the underground: 1. get your pack 2. go inside 
+<BOS> here is an ordered sequence of events that occur when you take the underground: 1. arrive at the destination 2. go to the underground 3. locate a door 4. proceed to the destination 5. return to the surface 6. go back to the station 

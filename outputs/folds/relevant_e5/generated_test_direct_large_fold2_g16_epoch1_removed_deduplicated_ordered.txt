@@ -1,0 +1,25 @@
+<BOS> getting a hair cut: 1. buy hair cut 2. get your hair wet 3. get hair cut 4. cut your hair 
+<BOS> getting a hair cut: 1. go to salon 2. bring to the salon 3. return home 4. get hair cut 5. cut hair 6. leave salon 
+<BOS> getting a hair cut: 1. drive to the salon 2. go to the barber shop 3. wait in the reception 4. tell them what you need done 
+<BOS> getting a hair cut: 1. get the correct cut 2. get the hair cut product 3. go to the barber 4. cut off hair 5. take the hair and put it in a bag 6. return to the barber
+<BOS> getting a hair cut: 1. put on make-up 2. get a hair cut 3. go to salon 4. give lady the cut of hair
+<BOS> going grocery shopping: 1. go to the store 2. get a receipt 3. leave the store 
+<BOS> going grocery shopping: 1. enter grocery store 2. go back to checkout 3. get receipt 
+<BOS> going grocery shopping: 1. going into store 2. going to checkout 3. going through till 7 times 4. paying for items 5. driving home 
+<BOS> going grocery shopping: 1. drive to grocery store 2. get in car 3. find items you need 4. go into the store 5. find items you want 6. put items in shopping basket 7. drive out of the store
+<BOS> going grocery shopping: 1. drive to store 2. pick out items 3. bring items back to car 4. take items to checkout counter 5. drive home 
+<BOS> planting a tree: 1. get a large piece of wood 2. get a small piece of wood 3. get a small piece of twigs 4. get a small piece of leaves 5. spread twigs on the ground 6. cover with leaves 7. put twigs in hole 8. secure twigs in the tree 9. use twigs to build larger twigs
+<BOS> planting a tree: 1. buy a tree 2. put it in a place with trees 3. put your tree in your yard 4. wait for the tree to mature 5. enjoy 
+<BOS> planting a tree: 1. put your garden in the backyard 2. get a shovel 3. start planting your tree 4. watch as it sprouts and grows 
+<BOS> planting a tree: 1. find a suitable location 2. clear the area 3. dig the hole 4. place the tree 5. remove the tree 6. water the tree 7. cover the tree with mulch 
+<BOS> planting a tree: 1. put all your plants in one location 2. gather some materials 3. dig a hole 4. put the material into the hole 5. put some leaves in 6. fill it with soil 7. place a small amount of soil under it 8. put a small amount of leaves over it
+<BOS> repairing a flat bicycle tire: 1. remove the tire from the bike. 2. remove the old flat tire. 3. place new flat tire on the bicycle. 4. insert new tire on the bicycle. 5. check for accuracy of the new tire. 6. put new flat tire back on the bicycle. 
+<BOS> repairing a flat bicycle tire: 1. call a shop for repair 2. look up information on how to repair a flat tire on a bike 3. thank the shop 4. when the time is up get the repair done 
+<BOS> repairing a flat bicycle tire: 1. remove old tire from bicycle. 2. remove old chain from bicycle. 3. take old tire off. 4. put new tire on bike. 5. replace old chain. 6. put new chain on bike. 7. put on bicycle. 8. ride bicycle.
+<BOS> repairing a flat bicycle tire: 1. remove flat tire 2. repair flat 3. replace flat tire 4. replace flat 5. repeat 
+<BOS> repairing a flat bicycle tire: 1. take bicycle off of a rack 2. secure the bicycle 3. remove the tire and place in new tires 4. replace the saddle and handle 5. replace the tire 6. ride off 
+<BOS> taking a bath: 1. find a shower 2. turn on water 3. step into shower 4. close the door 5. step out into dry room
+<BOS> taking a bath: 1. remove clothes 2. step into bath 3. wash your hair 4. wash your body 5. scrub your body 6. get towel 7. close the shower door 8. get out of shower 9. dry your hair 10. dry your body
+<BOS> taking a bath: 1. enter bathroom 2. grab towel 3. take to bath 4. remove clothes 5. enter shower 6. get soap 7. scrub all over body 8. wash all soap off 9. turn off shower 10. step out of shower 11. get out of the bathroom 12. dry off with towel 13. dry off with clothes 14. get dressed
+<BOS> taking a bath: 1. put on bathing suit 2. go to bathroom 3. get towel 4. get in bathtub 5. wash hair 6. wash body 7. rinse hair 8. get out of bath 
+<BOS> taking a bath: 1. dress in clothing 2. undress in the shower 3. scrub the body 4. wash body 5. turn off shower 6. get dressed

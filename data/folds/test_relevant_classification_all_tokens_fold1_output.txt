@@ -1,0 +1,174 @@
+baking a cake: </s> prepare cake ingredients for cooking 1
+baking a cake: </s> put pan on stove 1
+baking a cake: </s> turn burner to medium high 1
+baking a cake: </s> pour in water 1
+baking a cake: </s> wait for water to boil 1
+baking a cake: </s> turn burner off 1
+baking a cake: </s> put water in a bowl 1
+baking a cake: </s> put the cooked cake ingredients in the bowl 1
+baking a cake: </s> mix them thoroughly 1
+baking a cake: </s> take cake out of fridge 1
+baking a cake: </s> flip it over 1
+baking a cake: </s> put pan on the stove 1
+baking a cake: </s> turn burner to high 1
+baking a cake: </s> pour in cake mixture 1
+baking a cake: </s> wait for the cake to cook 1
+baking a cake: </s> put the cake on plate 1
+baking a cake: </s> eat cake 1
+baking a cake: </s> gather the cake mix 1
+baking a cake: </s> choose a flat surface to the cake mix 1
+baking a cake: </s> place the cake mix on the flat surface 1
+baking a cake: </s> pour the cake mix on the cake 1
+baking a cake: </s> cover with a few more tablespoons of the cake mix 1
+baking a cake: </s> turn the cake over with a spatula 1
+baking a cake: </s> cook the cake 1
+baking a cake: </s> put milk, sugar and butter in a pan. 1
+baking a cake: </s> turn on the stove. 1
+baking a cake: </s> pour the milk mixture into the hot pan. 1
+baking a cake: </s> pour the sugar and butter into the mix. 1
+baking a cake: </s> add the milk mixture. 1
+baking a cake: </s> pour the mixture into a pie pan. 1
+baking a cake: </s> turn the burner to high. 1
+baking a cake: </s> cook the cake until firm. 1
+baking a cake: </s> turn the burner down to medium. 1
+baking a cake: </s> cut off the excess cake and serve. 1
+baking a cake: </s> put in the oven 1
+baking a cake: </s> turn on the oven 1
+baking a cake: </s> wait for the cake to get done 1
+baking a cake: </s> remove from oven 1
+baking a cake: </s> put the cake in a plate 1
+baking a cake: </s> eat the cake 1
+baking a cake: </s> make the cake 1
+baking a cake: </s> get the pan 1
+baking a cake: </s> put the pan on the stove 1
+baking a cake: </s> pour the mixture of cream, butter and sugar in the pan 1
+baking a cake: </s> mix well 1
+baking a cake: </s> once the mixture has turned black pour it on the cake 1
+borrowing a book from the library: </s> decide on a book to borrow 1
+borrowing a book from the library: </s> call library to find a room to rent 1
+borrowing a book from the library: </s> rent book from the library 1
+borrowing a book from the library: </s> pay for the book 1
+borrowing a book from the library: </s> take book to room to borrow 1
+borrowing a book from the library: </s> go to library 1
+borrowing a book from the library: </s> search for book you need 1
+borrowing a book from the library: </s> choose which book to borrow 1
+borrowing a book from the library: </s> pay for book 1
+borrowing a book from the library: </s> remove book from library 1
+borrowing a book from the library: </s> return book to home 1
+borrowing a book from the library: </s> find the library where you want the book you want 1
+borrowing a book from the library: </s> decide if you want a copy for your friends or your parents 1
+borrowing a book from the library: </s> make an appointment to borrow the book 1
+borrowing a book from the library: </s> go to the library and pay for the book 1
+borrowing a book from the library: </s> get the book you want back from the library 1
+borrowing a book from the library: </s> return the copy of the book you borrowed 1
+borrowing a book from the library: </s> get in the car 1
+borrowing a book from the library: </s> get the book 1
+borrowing a book from the library: </s> find a place to put it 1
+borrowing a book from the library: </s> drive to the library 1
+borrowing a book from the library: </s> take the book from the car 1
+borrowing a book from the library: </s> put it in the shelf 1
+borrowing a book from the library: </s> find a place to put it when you're done 1
+borrowing a book from the library: </s> go to the library 1
+borrowing a book from the library: </s> check the books you want to borrow 1
+borrowing a book from the library: </s> take the book to the library 1
+borrowing a book from the library: </s> pay the library to borrow the book 1
+borrowing a book from the library: </s> keep the book 1
+borrowing a book from the library: </s> go home 1
+flying in an airplane: </s> find a flight time for your flight 1
+flying in an airplane: </s> get in the airplane 1
+flying in an airplane: </s> prepare for your flight 1
+flying in an airplane: </s> arrive at your destination 1
+flying in an airplane: </s> drive home 1
+flying in an airplane: </s> get on the airplane 1
+flying in an airplane: </s> go into the air 1
+flying in an airplane: </s> park the airplane 1
+flying in an airplane: </s> get off the airplane 1
+flying in an airplane: </s> get a ticket 1
+flying in an airplane: </s> get a reservation 1
+flying in an airplane: </s> go to the airport 1
+flying in an airplane: </s> find the airline 1
+flying in an airplane: </s> book your flight 1
+flying in an airplane: </s> park your car 1
+flying in an airplane: </s> wait for your flight 1
+flying in an airplane: </s> get in car 1
+flying in an airplane: </s> drive to airport 1
+flying in an airplane: </s> park at airport 1
+flying in an airplane: </s> walk up to ticket counter 1
+flying in an airplane: </s> give ticket to attendant 1
+flying in an airplane: </s> wait in line 1
+flying in an airplane: </s> get plane 1
+flying in an airplane: </s> show ticket to attendant 1
+flying in an airplane: </s> board plane 1
+flying in an airplane: </s> get off plane 1
+flying in an airplane: </s> walk to gate 1
+flying in an airplane: </s> take flight 1
+flying in an airplane: </s> board plane 1
+flying in an airplane: </s> get off plane 1
+flying in an airplane: </s> decide what plane you want to fly in 1
+flying in an airplane: </s> make an appointment with flight attendant 1
+flying in an airplane: </s> check in with flight attendant at gate 1
+flying in an airplane: </s> arrive at your destination airport 1
+flying in an airplane: </s> find the correct airplane 1
+flying in an airplane: </s> park the airplane 1
+flying in an airplane: </s> start the plane 1
+going on a train: </s> get on the train 1
+going on a train: </s> board the train 1
+going on a train: </s> get off the train 1
+going on a train: </s> get in car 1
+going on a train: </s> wait for train to get to stop 1
+going on a train: </s> board train 1
+going on a train: </s> board train 1
+going on a train: </s> get off train 1
+going on a train: </s> get in car 1
+going on a train: </s> drive to destination 1
+going on a train: </s> arrive at station 1
+going on a train: </s> get on train 1
+going on a train: </s> go down stairs 1
+going on a train: </s> wait on train 1
+going on a train: </s> get off at stop 1
+going on a train: </s> look up directions 1
+going on a train: </s> get off at stop 1
+going on a train: </s> find car 1
+going on a train: </s> wait for train to arrive 1
+going on a train: </s> get off 1
+going on a train: </s> get on next train 1
+going on a train: </s> get in line 1
+going on a train: </s> purchase ticket 1
+going on a train: </s> board train 1
+going on a train: </s> get off 1
+going on a train: </s> get off at correct stop 1
+going on a train: </s> arrive at correct stop 1
+going on a train: </s> wait for train 1
+riding on a bus: </s> walk to bus stop 1
+riding on a bus: </s> pay for bus 1
+riding on a bus: </s> walk to train 1
+riding on a bus: </s> board train 1
+riding on a bus: </s> ride to destination 1
+riding on a bus: </s> walk back 1
+riding on a bus: </s> get off 1
+riding on a bus: </s> go to bus stop 1
+riding on a bus: </s> get on bus 1
+riding on a bus: </s> get off bus 1
+riding on a bus: </s> get off the bus 1
+riding on a bus: </s> pay ticket 1
+riding on a bus: </s> leave bus stop 1
+riding on a bus: </s> find your location 1
+riding on a bus: </s> find your correct bus stop 1
+riding on a bus: </s> arrive at the stop 1
+riding on a bus: </s> wait for your turn 1
+riding on a bus: </s> board your bus 1
+riding on a bus: </s> get off at the correct stop 1
+riding on a bus: </s> go to the bus. 1
+riding on a bus: </s> get on the bus. 1
+riding on a bus: </s> pay the fare. 1
+riding on a bus: </s> get on the bus. 1
+riding on a bus: </s> go to the front of the bus. 1
+riding on a bus: </s> sit in the seat. 1
+riding on a bus: </s> watch the bus go. 1
+riding on a bus: </s> when the bus is over the hump, get off the bus. 1
+riding on a bus: </s> go into the bus 1
+riding on a bus: </s> find a seat 1
+riding on a bus: </s> wait for bus to stop 1
+riding on a bus: </s> board bus 1
+riding on a bus: </s> get off bus 1
+riding on a bus: </s> get on bus 1

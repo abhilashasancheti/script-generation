@@ -1,0 +1,646 @@
+getting a hair cut: </s> enter hair salon </s> pay for cut 1
+getting a hair cut: </s> enter hair salon </s> find a comb 1
+getting a hair cut: </s> get hair into comb </s> enter hair salon 0
+getting a hair cut: </s> put comb into hand </s> enter hair salon 0
+getting a hair cut: </s> start combing hair </s> enter hair salon 0
+getting a hair cut: </s> enter hair salon </s> check cut for smoothness 1
+getting a hair cut: </s> put hair back into comb </s> enter hair salon 0
+getting a hair cut: </s> enter hair salon </s> leave salon 1
+getting a hair cut: </s> pay for cut </s> find a comb 1
+getting a hair cut: </s> get hair into comb </s> pay for cut 0
+getting a hair cut: </s> put comb into hand </s> pay for cut 0
+getting a hair cut: </s> start combing hair </s> pay for cut 0
+getting a hair cut: </s> check cut for smoothness </s> pay for cut 0
+getting a hair cut: </s> put hair back into comb </s> pay for cut 0
+getting a hair cut: </s> leave salon </s> pay for cut 0
+getting a hair cut: </s> find a comb </s> get hair into comb 1
+getting a hair cut: </s> find a comb </s> put comb into hand 1
+getting a hair cut: </s> find a comb </s> start combing hair 1
+getting a hair cut: </s> check cut for smoothness </s> find a comb 0
+getting a hair cut: </s> find a comb </s> put hair back into comb 1
+getting a hair cut: </s> find a comb </s> leave salon 1
+getting a hair cut: </s> get hair into comb </s> put comb into hand 1
+getting a hair cut: </s> get hair into comb </s> start combing hair 1
+getting a hair cut: </s> get hair into comb </s> check cut for smoothness 1
+getting a hair cut: </s> put hair back into comb </s> get hair into comb 0
+getting a hair cut: </s> leave salon </s> get hair into comb 0
+getting a hair cut: </s> put comb into hand </s> start combing hair 1
+getting a hair cut: </s> put comb into hand </s> check cut for smoothness 1
+getting a hair cut: </s> put comb into hand </s> put hair back into comb 1
+getting a hair cut: </s> leave salon </s> put comb into hand 0
+getting a hair cut: </s> check cut for smoothness </s> start combing hair 0
+getting a hair cut: </s> start combing hair </s> put hair back into comb 1
+getting a hair cut: </s> leave salon </s> start combing hair 0
+getting a hair cut: </s> put hair back into comb </s> check cut for smoothness 0
+getting a hair cut: </s> check cut for smoothness </s> leave salon 1
+getting a hair cut: </s> leave salon </s> put hair back into comb 0
+getting a hair cut: </s> get hair cut </s> go to salon 0
+getting a hair cut: </s> go to salon </s> walk to the dressing room 1
+getting a hair cut: </s> put on clothes </s> go to salon 0
+getting a hair cut: </s> go to bathroom </s> go to salon 0
+getting a hair cut: </s> go to salon </s> wipe off hair 1
+getting a hair cut: </s> get towel </s> go to salon 0
+getting a hair cut: </s> put shampoo in the hands </s> go to salon 0
+getting a hair cut: </s> go to salon </s> use hands to wet the hair 1
+getting a hair cut: </s> go to salon </s> apply hands to the hair 1
+getting a hair cut: </s> go to salon </s> massage all over 1
+getting a hair cut: </s> rinse off hair </s> go to salon 0
+getting a hair cut: </s> go to salon </s> comb through hair 1
+getting a hair cut: </s> set hair back in place </s> go to salon 0
+getting a hair cut: </s> go to salon </s> leave salon 1
+getting a hair cut: </s> walk to the dressing room </s> get hair cut 0
+getting a hair cut: </s> get hair cut </s> put on clothes 1
+getting a hair cut: </s> get hair cut </s> go to bathroom 1
+getting a hair cut: </s> get hair cut </s> wipe off hair 1
+getting a hair cut: </s> get hair cut </s> get towel 1
+getting a hair cut: </s> put shampoo in the hands </s> get hair cut 0
+getting a hair cut: </s> get hair cut </s> use hands to wet the hair 1
+getting a hair cut: </s> get hair cut </s> apply hands to the hair 1
+getting a hair cut: </s> massage all over </s> get hair cut 0
+getting a hair cut: </s> get hair cut </s> rinse off hair 1
+getting a hair cut: </s> comb through hair </s> get hair cut 0
+getting a hair cut: </s> get hair cut </s> set hair back in place 1
+getting a hair cut: </s> get hair cut </s> leave salon 1
+getting a hair cut: </s> walk to the dressing room </s> put on clothes 1
+getting a hair cut: </s> go to bathroom </s> walk to the dressing room 0
+getting a hair cut: </s> walk to the dressing room </s> wipe off hair 1
+getting a hair cut: </s> walk to the dressing room </s> get towel 1
+getting a hair cut: </s> walk to the dressing room </s> put shampoo in the hands 1
+getting a hair cut: </s> use hands to wet the hair </s> walk to the dressing room 0
+getting a hair cut: </s> apply hands to the hair </s> walk to the dressing room 0
+getting a hair cut: </s> walk to the dressing room </s> massage all over 1
+getting a hair cut: </s> rinse off hair </s> walk to the dressing room 0
+getting a hair cut: </s> walk to the dressing room </s> comb through hair 1
+getting a hair cut: </s> walk to the dressing room </s> set hair back in place 1
+getting a hair cut: </s> walk to the dressing room </s> leave salon 1
+getting a hair cut: </s> put on clothes </s> go to bathroom 1
+getting a hair cut: </s> put on clothes </s> wipe off hair 1
+getting a hair cut: </s> put on clothes </s> get towel 1
+getting a hair cut: </s> put on clothes </s> put shampoo in the hands 1
+getting a hair cut: </s> use hands to wet the hair </s> put on clothes 0
+getting a hair cut: </s> apply hands to the hair </s> put on clothes 0
+getting a hair cut: </s> massage all over </s> put on clothes 0
+getting a hair cut: </s> rinse off hair </s> put on clothes 0
+getting a hair cut: </s> comb through hair </s> put on clothes 0
+getting a hair cut: </s> set hair back in place </s> put on clothes 0
+getting a hair cut: </s> leave salon </s> put on clothes 0
+getting a hair cut: </s> go to bathroom </s> wipe off hair 1
+getting a hair cut: </s> go to bathroom </s> get towel 1
+getting a hair cut: </s> go to bathroom </s> put shampoo in the hands 1
+getting a hair cut: </s> go to bathroom </s> use hands to wet the hair 1
+getting a hair cut: </s> apply hands to the hair </s> go to bathroom 0
+getting a hair cut: </s> massage all over </s> go to bathroom 0
+getting a hair cut: </s> go to bathroom </s> rinse off hair 1
+getting a hair cut: </s> go to bathroom </s> comb through hair 1
+getting a hair cut: </s> set hair back in place </s> go to bathroom 0
+getting a hair cut: </s> go to bathroom </s> leave salon 1
+getting a hair cut: </s> wipe off hair </s> get towel 1
+getting a hair cut: </s> wipe off hair </s> put shampoo in the hands 1
+getting a hair cut: </s> wipe off hair </s> use hands to wet the hair 1
+getting a hair cut: </s> apply hands to the hair </s> wipe off hair 0
+getting a hair cut: </s> wipe off hair </s> massage all over 1
+getting a hair cut: </s> wipe off hair </s> rinse off hair 1
+getting a hair cut: </s> comb through hair </s> wipe off hair 0
+getting a hair cut: </s> set hair back in place </s> wipe off hair 0
+getting a hair cut: </s> wipe off hair </s> leave salon 1
+getting a hair cut: </s> put shampoo in the hands </s> get towel 0
+getting a hair cut: </s> get towel </s> use hands to wet the hair 1
+getting a hair cut: </s> get towel </s> apply hands to the hair 1
+getting a hair cut: </s> massage all over </s> get towel 0
+getting a hair cut: </s> get towel </s> rinse off hair 1
+getting a hair cut: </s> get towel </s> comb through hair 1
+getting a hair cut: </s> get towel </s> set hair back in place 1
+getting a hair cut: </s> get towel </s> leave salon 1
+getting a hair cut: </s> use hands to wet the hair </s> put shampoo in the hands 0
+getting a hair cut: </s> apply hands to the hair </s> put shampoo in the hands 0
+getting a hair cut: </s> put shampoo in the hands </s> massage all over 1
+getting a hair cut: </s> rinse off hair </s> put shampoo in the hands 0
+getting a hair cut: </s> put shampoo in the hands </s> comb through hair 1
+getting a hair cut: </s> put shampoo in the hands </s> set hair back in place 1
+getting a hair cut: </s> put shampoo in the hands </s> leave salon 1
+getting a hair cut: </s> use hands to wet the hair </s> apply hands to the hair 1
+getting a hair cut: </s> use hands to wet the hair </s> massage all over 1
+getting a hair cut: </s> rinse off hair </s> use hands to wet the hair 0
+getting a hair cut: </s> use hands to wet the hair </s> comb through hair 1
+getting a hair cut: </s> set hair back in place </s> use hands to wet the hair 0
+getting a hair cut: </s> leave salon </s> use hands to wet the hair 0
+getting a hair cut: </s> apply hands to the hair </s> massage all over 1
+getting a hair cut: </s> apply hands to the hair </s> rinse off hair 1
+getting a hair cut: </s> apply hands to the hair </s> comb through hair 1
+getting a hair cut: </s> apply hands to the hair </s> set hair back in place 1
+getting a hair cut: </s> apply hands to the hair </s> leave salon 1
+getting a hair cut: </s> rinse off hair </s> massage all over 0
+getting a hair cut: </s> massage all over </s> comb through hair 1
+getting a hair cut: </s> massage all over </s> set hair back in place 1
+getting a hair cut: </s> leave salon </s> massage all over 0
+getting a hair cut: </s> comb through hair </s> rinse off hair 0
+getting a hair cut: </s> rinse off hair </s> set hair back in place 1
+getting a hair cut: </s> leave salon </s> rinse off hair 0
+getting a hair cut: </s> comb through hair </s> set hair back in place 1
+getting a hair cut: </s> leave salon </s> comb through hair 0
+getting a hair cut: </s> leave salon </s> set hair back in place 0
+getting a hair cut: </s> getting the cut </s> getting the hair out of the shower 1
+getting a hair cut: </s> getting the hair cut </s> getting the cut 0
+getting a hair cut: </s> getting your hair done in the shower </s> getting the cut 0
+getting a hair cut: </s> drying off and getting dressed </s> getting the cut 0
+getting a hair cut: </s> getting the hair cut </s> getting the hair out of the shower 0
+getting a hair cut: </s> getting your hair done in the shower </s> getting the hair out of the shower 0
+getting a hair cut: </s> drying off and getting dressed </s> getting the hair out of the shower 0
+getting a hair cut: </s> getting the hair cut </s> getting your hair done in the shower 1
+getting a hair cut: </s> getting the hair cut </s> drying off and getting dressed 1
+getting a hair cut: </s> drying off and getting dressed </s> getting your hair done in the shower 0
+getting a hair cut: </s> get in the car </s> drive to the salon 1
+getting a hair cut: </s> get in the car </s> get in the waiting area 1
+getting a hair cut: </s> get in the car </s> give them your phone number 1
+getting a hair cut: </s> pay them a price </s> get in the car 0
+getting a hair cut: </s> get in the car </s> get out of the waiting area 1
+getting a hair cut: </s> pay them for your hair </s> get in the car 0
+getting a hair cut: </s> get in the car </s> get your clothes 1
+getting a hair cut: </s> go home </s> get in the car 0
+getting a hair cut: </s> get in the waiting area </s> drive to the salon 0
+getting a hair cut: </s> drive to the salon </s> give them your phone number 1
+getting a hair cut: </s> drive to the salon </s> pay them a price 1
+getting a hair cut: </s> get out of the waiting area </s> drive to the salon 0
+getting a hair cut: </s> drive to the salon </s> pay them for your hair 1
+getting a hair cut: </s> drive to the salon </s> get your clothes 1
+getting a hair cut: </s> drive to the salon </s> go home 1
+getting a hair cut: </s> give them your phone number </s> get in the waiting area 0
+getting a hair cut: </s> pay them a price </s> get in the waiting area 0
+getting a hair cut: </s> get in the waiting area </s> get out of the waiting area 1
+getting a hair cut: </s> get in the waiting area </s> pay them for your hair 1
+getting a hair cut: </s> get in the waiting area </s> get your clothes 1
+getting a hair cut: </s> go home </s> get in the waiting area 0
+getting a hair cut: </s> pay them a price </s> give them your phone number 0
+getting a hair cut: </s> give them your phone number </s> get out of the waiting area 1
+getting a hair cut: </s> give them your phone number </s> pay them for your hair 1
+getting a hair cut: </s> give them your phone number </s> get your clothes 1
+getting a hair cut: </s> give them your phone number </s> go home 1
+getting a hair cut: </s> pay them a price </s> get out of the waiting area 1
+getting a hair cut: </s> pay them a price </s> pay them for your hair 1
+getting a hair cut: </s> get your clothes </s> pay them a price 0
+getting a hair cut: </s> pay them a price </s> go home 1
+getting a hair cut: </s> pay them for your hair </s> get out of the waiting area 0
+getting a hair cut: </s> get out of the waiting area </s> get your clothes 1
+getting a hair cut: </s> get out of the waiting area </s> go home 1
+getting a hair cut: </s> get your clothes </s> pay them for your hair 0
+getting a hair cut: </s> go home </s> pay them for your hair 0
+getting a hair cut: </s> go home </s> get your clothes 0
+getting a hair cut: </s> go to the barber to have hair cut </s> pick a color to have cut 0
+getting a hair cut: </s> pick a color to have cut </s> wait for him to cut my hair 1
+getting a hair cut: </s> pay for the hair cut </s> pick a color to have cut 0
+getting a hair cut: </s> pick a color to have cut </s> leave the barber 1
+getting a hair cut: </s> walk home </s> pick a color to have cut 0
+getting a hair cut: </s> go to the barber to have hair cut </s> wait for him to cut my hair 1
+getting a hair cut: </s> go to the barber to have hair cut </s> pay for the hair cut 1
+getting a hair cut: </s> go to the barber to have hair cut </s> leave the barber 1
+getting a hair cut: </s> go to the barber to have hair cut </s> walk home 1
+getting a hair cut: </s> wait for him to cut my hair </s> pay for the hair cut 1
+getting a hair cut: </s> wait for him to cut my hair </s> leave the barber 1
+getting a hair cut: </s> walk home </s> wait for him to cut my hair 0
+getting a hair cut: </s> pay for the hair cut </s> leave the barber 1
+getting a hair cut: </s> walk home </s> pay for the hair cut 0
+getting a hair cut: </s> walk home </s> leave the barber 0
+going grocery shopping: </s> go to the store </s> purchase the items 1
+going grocery shopping: </s> take the shopping items to the cashier </s> go to the store 0
+going grocery shopping: </s> go to the store </s> hand the cashier the items 1
+going grocery shopping: </s> cashier gives you the receipt </s> go to the store 0
+going grocery shopping: </s> go to the store </s> put the receipt on your cart 1
+going grocery shopping: </s> walk to the checkout </s> go to the store 0
+going grocery shopping: </s> go to the store </s> leave the store 1
+going grocery shopping: </s> purchase the items </s> take the shopping items to the cashier 1
+going grocery shopping: </s> purchase the items </s> hand the cashier the items 1
+going grocery shopping: </s> purchase the items </s> cashier gives you the receipt 1
+going grocery shopping: </s> put the receipt on your cart </s> purchase the items 0
+going grocery shopping: </s> purchase the items </s> walk to the checkout 1
+going grocery shopping: </s> leave the store </s> purchase the items 0
+going grocery shopping: </s> hand the cashier the items </s> take the shopping items to the cashier 0
+going grocery shopping: </s> cashier gives you the receipt </s> take the shopping items to the cashier 0
+going grocery shopping: </s> take the shopping items to the cashier </s> put the receipt on your cart 1
+going grocery shopping: </s> walk to the checkout </s> take the shopping items to the cashier 0
+going grocery shopping: </s> leave the store </s> take the shopping items to the cashier 0
+going grocery shopping: </s> cashier gives you the receipt </s> hand the cashier the items 0
+going grocery shopping: </s> hand the cashier the items </s> put the receipt on your cart 1
+going grocery shopping: </s> hand the cashier the items </s> walk to the checkout 1
+going grocery shopping: </s> leave the store </s> hand the cashier the items 0
+going grocery shopping: </s> cashier gives you the receipt </s> put the receipt on your cart 1
+going grocery shopping: </s> cashier gives you the receipt </s> walk to the checkout 1
+going grocery shopping: </s> leave the store </s> cashier gives you the receipt 0
+going grocery shopping: </s> walk to the checkout </s> put the receipt on your cart 0
+going grocery shopping: </s> put the receipt on your cart </s> leave the store 1
+going grocery shopping: </s> leave the store </s> walk to the checkout 0
+going grocery shopping: </s> choose groceries you want to buy </s> go grocery shopping 1
+going grocery shopping: </s> choose groceries you want to buy </s> pick up items in store 1
+going grocery shopping: </s> choose groceries you want to buy </s> pay for groceries 1
+going grocery shopping: </s> choose groceries you want to buy </s> walk to cashier 1
+going grocery shopping: </s> choose groceries you want to buy </s> check out 1
+going grocery shopping: </s> choose groceries you want to buy </s> put in bags 1
+going grocery shopping: </s> leave store </s> choose groceries you want to buy 0
+going grocery shopping: </s> pick up items in store </s> go grocery shopping 0
+going grocery shopping: </s> go grocery shopping </s> pay for groceries 1
+going grocery shopping: </s> go grocery shopping </s> walk to cashier 1
+going grocery shopping: </s> go grocery shopping </s> check out 1
+going grocery shopping: </s> put in bags </s> go grocery shopping 0
+going grocery shopping: </s> go grocery shopping </s> leave store 1
+going grocery shopping: </s> pay for groceries </s> pick up items in store 0
+going grocery shopping: </s> pick up items in store </s> walk to cashier 1
+going grocery shopping: </s> pick up items in store </s> check out 1
+going grocery shopping: </s> put in bags </s> pick up items in store 0
+going grocery shopping: </s> leave store </s> pick up items in store 0
+going grocery shopping: </s> pay for groceries </s> walk to cashier 1
+going grocery shopping: </s> pay for groceries </s> check out 1
+going grocery shopping: </s> pay for groceries </s> put in bags 1
+going grocery shopping: </s> leave store </s> pay for groceries 0
+going grocery shopping: </s> check out </s> walk to cashier 0
+going grocery shopping: </s> put in bags </s> walk to cashier 0
+going grocery shopping: </s> leave store </s> walk to cashier 0
+going grocery shopping: </s> put in bags </s> check out 0
+going grocery shopping: </s> leave store </s> check out 0
+going grocery shopping: </s> put in bags </s> leave store 1
+going grocery shopping: </s> check bag </s> pick out what you want 1
+going grocery shopping: </s> walk to store </s> check bag 0
+going grocery shopping: </s> check bag </s> go into store to buy what you want 1
+going grocery shopping: </s> check bag </s> pick up item you picked up 1
+going grocery shopping: </s> go out to checkout </s> check bag 0
+going grocery shopping: </s> check bag </s> pay for items 1
+going grocery shopping: </s> leave the store </s> check bag 0
+going grocery shopping: </s> walk to store </s> pick out what you want 0
+going grocery shopping: </s> pick out what you want </s> go into store to buy what you want 1
+going grocery shopping: </s> pick up item you picked up </s> pick out what you want 0
+going grocery shopping: </s> go out to checkout </s> pick out what you want 0
+going grocery shopping: </s> pay for items </s> pick out what you want 0
+going grocery shopping: </s> leave the store </s> pick out what you want 0
+going grocery shopping: </s> go into store to buy what you want </s> walk to store 0
+going grocery shopping: </s> pick up item you picked up </s> walk to store 0
+going grocery shopping: </s> go out to checkout </s> walk to store 0
+going grocery shopping: </s> pay for items </s> walk to store 0
+going grocery shopping: </s> walk to store </s> leave the store 1
+going grocery shopping: </s> go into store to buy what you want </s> pick up item you picked up 1
+going grocery shopping: </s> go into store to buy what you want </s> go out to checkout 1
+going grocery shopping: </s> pay for items </s> go into store to buy what you want 0
+going grocery shopping: </s> leave the store </s> go into store to buy what you want 0
+going grocery shopping: </s> pick up item you picked up </s> go out to checkout 1
+going grocery shopping: </s> pick up item you picked up </s> pay for items 1
+going grocery shopping: </s> pick up item you picked up </s> leave the store 1
+going grocery shopping: </s> pay for items </s> go out to checkout 0
+going grocery shopping: </s> go out to checkout </s> leave the store 1
+going grocery shopping: </s> pay for items </s> leave the store 1
+going grocery shopping: </s> look for items to purchase </s> drive to grocery store 0
+going grocery shopping: </s> drive to grocery store </s> drive to cashier 1
+going grocery shopping: </s> give item to cashier </s> drive to grocery store 0
+going grocery shopping: </s> select item </s> drive to grocery store 0
+going grocery shopping: </s> pay cashier </s> drive to grocery store 0
+going grocery shopping: </s> drive to grocery store </s> walk away 1
+going grocery shopping: </s> drive to grocery store </s> drive home 1
+going grocery shopping: </s> drive to cashier </s> look for items to purchase 0
+going grocery shopping: </s> look for items to purchase </s> give item to cashier 1
+going grocery shopping: </s> look for items to purchase </s> select item 1
+going grocery shopping: </s> look for items to purchase </s> pay cashier 1
+going grocery shopping: </s> look for items to purchase </s> walk away 1
+going grocery shopping: </s> drive home </s> look for items to purchase 0
+going grocery shopping: </s> drive to cashier </s> give item to cashier 1
+going grocery shopping: </s> select item </s> drive to cashier 0
+going grocery shopping: </s> pay cashier </s> drive to cashier 0
+going grocery shopping: </s> drive to cashier </s> walk away 1
+going grocery shopping: </s> drive home </s> drive to cashier 0
+going grocery shopping: </s> give item to cashier </s> select item 1
+going grocery shopping: </s> give item to cashier </s> pay cashier 1
+going grocery shopping: </s> walk away </s> give item to cashier 0
+going grocery shopping: </s> drive home </s> give item to cashier 0
+going grocery shopping: </s> pay cashier </s> select item 0
+going grocery shopping: </s> walk away </s> select item 0
+going grocery shopping: </s> select item </s> drive home 1
+going grocery shopping: </s> pay cashier </s> walk away 1
+going grocery shopping: </s> pay cashier </s> drive home 1
+going grocery shopping: </s> drive home </s> walk away 0
+going grocery shopping: </s> purchase items for shopping </s> enter store 0
+going grocery shopping: </s> open door to checkout </s> enter store 0
+going grocery shopping: </s> enter store </s> find item of purchase 1
+going grocery shopping: </s> pull out bag of shopping </s> enter store 0
+going grocery shopping: </s> enter store </s> place item in cart 1
+going grocery shopping: </s> pay for items </s> enter store 0
+going grocery shopping: </s> enter store </s> exit checkout 1
+going grocery shopping: </s> purchase items for shopping </s> open door to checkout 1
+going grocery shopping: </s> find item of purchase </s> purchase items for shopping 0
+going grocery shopping: </s> pull out bag of shopping </s> purchase items for shopping 0
+going grocery shopping: </s> purchase items for shopping </s> place item in cart 1
+going grocery shopping: </s> purchase items for shopping </s> pay for items 1
+going grocery shopping: </s> exit checkout </s> purchase items for shopping 0
+going grocery shopping: </s> find item of purchase </s> open door to checkout 0
+going grocery shopping: </s> open door to checkout </s> pull out bag of shopping 1
+going grocery shopping: </s> place item in cart </s> open door to checkout 0
+going grocery shopping: </s> open door to checkout </s> pay for items 1
+going grocery shopping: </s> open door to checkout </s> exit checkout 1
+going grocery shopping: </s> pull out bag of shopping </s> find item of purchase 0
+going grocery shopping: </s> place item in cart </s> find item of purchase 0
+going grocery shopping: </s> pay for items </s> find item of purchase 0
+going grocery shopping: </s> exit checkout </s> find item of purchase 0
+going grocery shopping: </s> place item in cart </s> pull out bag of shopping 0
+going grocery shopping: </s> pull out bag of shopping </s> pay for items 1
+going grocery shopping: </s> pull out bag of shopping </s> exit checkout 1
+going grocery shopping: </s> pay for items </s> place item in cart 0
+going grocery shopping: </s> exit checkout </s> place item in cart 0
+going grocery shopping: </s> exit checkout </s> pay for items 0
+planting a tree: </s> look up the names of trees and how to put them in the ground </s> put in the soil 1
+planting a tree: </s> put in rocks </s> look up the names of trees and how to put them in the ground 0
+planting a tree: </s> put in branches </s> look up the names of trees and how to put them in the ground 0
+planting a tree: </s> look up the names of trees and how to put them in the ground </s> put some dirt in the ground 1
+planting a tree: </s> look up the names of trees and how to put them in the ground </s> put some flowers in the ground 1
+planting a tree: </s> add the branches </s> look up the names of trees and how to put them in the ground 0
+planting a tree: </s> leave some flowers in the ground </s> look up the names of trees and how to put them in the ground 0
+planting a tree: </s> add more rocks to the soil to make more branches </s> look up the names of trees and how to put them in the ground 0
+planting a tree: </s> look up the names of trees and how to put them in the ground </s> add more flowers to the flower beds 1
+planting a tree: </s> leave some trees 10-15 years in the ground </s> look up the names of trees and how to put them in the ground 0
+planting a tree: </s> move on to the next tree </s> look up the names of trees and how to put them in the ground 0
+planting a tree: </s> start a new tree </s> look up the names of trees and how to put them in the ground 0
+planting a tree: </s> put in the soil </s> put in rocks 1
+planting a tree: </s> put in the soil </s> put in branches 1
+planting a tree: </s> put some dirt in the ground </s> put in the soil 0
+planting a tree: </s> put some flowers in the ground </s> put in the soil 0
+planting a tree: </s> put in the soil </s> add the branches 1
+planting a tree: </s> put in the soil </s> leave some flowers in the ground 1
+planting a tree: </s> put in the soil </s> add more rocks to the soil to make more branches 1
+planting a tree: </s> put in the soil </s> add more flowers to the flower beds 1
+planting a tree: </s> put in the soil </s> leave some trees 10-15 years in the ground 1
+planting a tree: </s> put in the soil </s> move on to the next tree 1
+planting a tree: </s> put in the soil </s> start a new tree 1
+planting a tree: </s> put in rocks </s> put in branches 1
+planting a tree: </s> put in rocks </s> put some dirt in the ground 1
+planting a tree: </s> put some flowers in the ground </s> put in rocks 0
+planting a tree: </s> add the branches </s> put in rocks 0
+planting a tree: </s> leave some flowers in the ground </s> put in rocks 0
+planting a tree: </s> put in rocks </s> add more rocks to the soil to make more branches 1
+planting a tree: </s> add more flowers to the flower beds </s> put in rocks 0
+planting a tree: </s> put in rocks </s> leave some trees 10-15 years in the ground 1
+planting a tree: </s> put in rocks </s> move on to the next tree 1
+planting a tree: </s> start a new tree </s> put in rocks 0
+planting a tree: </s> put in branches </s> put some dirt in the ground 1
+planting a tree: </s> put some flowers in the ground </s> put in branches 0
+planting a tree: </s> add the branches </s> put in branches 0
+planting a tree: </s> leave some flowers in the ground </s> put in branches 0
+planting a tree: </s> put in branches </s> add more rocks to the soil to make more branches 1
+planting a tree: </s> add more flowers to the flower beds </s> put in branches 0
+planting a tree: </s> put in branches </s> leave some trees 10-15 years in the ground 1
+planting a tree: </s> move on to the next tree </s> put in branches 0
+planting a tree: </s> start a new tree </s> put in branches 0
+planting a tree: </s> put some flowers in the ground </s> put some dirt in the ground 0
+planting a tree: </s> put some dirt in the ground </s> add the branches 1
+planting a tree: </s> put some dirt in the ground </s> leave some flowers in the ground 1
+planting a tree: </s> put some dirt in the ground </s> add more rocks to the soil to make more branches 1
+planting a tree: </s> add more flowers to the flower beds </s> put some dirt in the ground 0
+planting a tree: </s> leave some trees 10-15 years in the ground </s> put some dirt in the ground 0
+planting a tree: </s> put some dirt in the ground </s> move on to the next tree 1
+planting a tree: </s> put some dirt in the ground </s> start a new tree 1
+planting a tree: </s> put some flowers in the ground </s> add the branches 1
+planting a tree: </s> put some flowers in the ground </s> leave some flowers in the ground 1
+planting a tree: </s> put some flowers in the ground </s> add more rocks to the soil to make more branches 1
+planting a tree: </s> put some flowers in the ground </s> add more flowers to the flower beds 1
+planting a tree: </s> leave some trees 10-15 years in the ground </s> put some flowers in the ground 0
+planting a tree: </s> put some flowers in the ground </s> move on to the next tree 1
+planting a tree: </s> start a new tree </s> put some flowers in the ground 0
+planting a tree: </s> leave some flowers in the ground </s> add the branches 0
+planting a tree: </s> add the branches </s> add more rocks to the soil to make more branches 1
+planting a tree: </s> add the branches </s> add more flowers to the flower beds 1
+planting a tree: </s> leave some trees 10-15 years in the ground </s> add the branches 0
+planting a tree: </s> add the branches </s> move on to the next tree 1
+planting a tree: </s> add the branches </s> start a new tree 1
+planting a tree: </s> add more rocks to the soil to make more branches </s> leave some flowers in the ground 0
+planting a tree: </s> add more flowers to the flower beds </s> leave some flowers in the ground 0
+planting a tree: </s> leave some trees 10-15 years in the ground </s> leave some flowers in the ground 0
+planting a tree: </s> leave some flowers in the ground </s> move on to the next tree 1
+planting a tree: </s> start a new tree </s> leave some flowers in the ground 0
+planting a tree: </s> add more rocks to the soil to make more branches </s> add more flowers to the flower beds 1
+planting a tree: </s> leave some trees 10-15 years in the ground </s> add more rocks to the soil to make more branches 0
+planting a tree: </s> move on to the next tree </s> add more rocks to the soil to make more branches 0
+planting a tree: </s> start a new tree </s> add more rocks to the soil to make more branches 0
+planting a tree: </s> add more flowers to the flower beds </s> leave some trees 10-15 years in the ground 1
+planting a tree: </s> add more flowers to the flower beds </s> move on to the next tree 1
+planting a tree: </s> start a new tree </s> add more flowers to the flower beds 0
+planting a tree: </s> move on to the next tree </s> leave some trees 10-15 years in the ground 0
+planting a tree: </s> start a new tree </s> leave some trees 10-15 years in the ground 0
+planting a tree: </s> move on to the next tree </s> start a new tree 1
+planting a tree: </s> purchase tools, such as nails </s> select a suitable tree 0
+planting a tree: </s> select a suitable tree </s> gather leaves, roots and berries 1
+planting a tree: </s> place tree in ground </s> select a suitable tree 0
+planting a tree: </s> gather leaves, roots and berries </s> purchase tools, such as nails 0
+planting a tree: </s> place tree in ground </s> purchase tools, such as nails 0
+planting a tree: </s> place tree in ground </s> gather leaves, roots and berries 0
+planting a tree: </s> pick the branch and throw it in the trunk. </s> buy the tree. 0
+planting a tree: </s> tie a string around the stem of the tree. </s> buy the tree. 0
+planting a tree: </s> buy the tree. </s> wait for the tree to grow a little. 1
+planting a tree: </s> keep it at the base and protect it. </s> buy the tree. 0
+planting a tree: </s> pick the branch and throw it in the trunk. </s> tie a string around the stem of the tree. 1
+planting a tree: </s> wait for the tree to grow a little. </s> pick the branch and throw it in the trunk. 0
+planting a tree: </s> keep it at the base and protect it. </s> pick the branch and throw it in the trunk. 0
+planting a tree: </s> tie a string around the stem of the tree. </s> wait for the tree to grow a little. 1
+planting a tree: </s> keep it at the base and protect it. </s> tie a string around the stem of the tree. 0
+planting a tree: </s> wait for the tree to grow a little. </s> keep it at the base and protect it. 1
+planting a tree: </s> cut down trees </s> dig a hole for planting 1
+planting a tree: </s> cover with soil </s> cut down trees 0
+planting a tree: </s> cut down trees </s> put the plant roots in 1
+planting a tree: </s> cut down trees </s> leave it for the next few days 1
+planting a tree: </s> dig a new hole for planting </s> cut down trees 0
+planting a tree: </s> dig a hole for planting </s> cover with soil 1
+planting a tree: </s> put the plant roots in </s> dig a hole for planting 0
+planting a tree: </s> leave it for the next few days </s> dig a hole for planting 0
+planting a tree: </s> dig a new hole for planting </s> dig a hole for planting 0
+planting a tree: </s> put the plant roots in </s> cover with soil 0
+planting a tree: </s> cover with soil </s> leave it for the next few days 1
+planting a tree: </s> dig a new hole for planting </s> cover with soil 0
+planting a tree: </s> leave it for the next few days </s> put the plant roots in 0
+planting a tree: </s> put the plant roots in </s> dig a new hole for planting 1
+planting a tree: </s> dig a new hole for planting </s> leave it for the next few days 0
+planting a tree: </s> lay it out </s> pick a tree 0
+planting a tree: </s> pick a tree </s> dig a hole for it 1
+planting a tree: </s> pick a tree </s> leave it for a week 1
+planting a tree: </s> pick a tree </s> replace with fresh soil 1
+planting a tree: </s> pick a tree </s> wait until it is dead 1
+planting a tree: </s> lay it out </s> dig a hole for it 1
+planting a tree: </s> lay it out </s> leave it for a week 1
+planting a tree: </s> lay it out </s> replace with fresh soil 1
+planting a tree: </s> wait until it is dead </s> lay it out 0
+planting a tree: </s> dig a hole for it </s> leave it for a week 1
+planting a tree: </s> dig a hole for it </s> replace with fresh soil 1
+planting a tree: </s> dig a hole for it </s> wait until it is dead 1
+planting a tree: </s> replace with fresh soil </s> leave it for a week 0
+planting a tree: </s> wait until it is dead </s> leave it for a week 0
+planting a tree: </s> replace with fresh soil </s> wait until it is dead 1
+repairing a flat bicycle tire: </s> check for flat tire </s> get new tire 1
+repairing a flat bicycle tire: </s> check for flat tire </s> find a bike to take 1
+repairing a flat bicycle tire: </s> buy a tire patch kit </s> check for flat tire 0
+repairing a flat bicycle tire: </s> put patch on tire </s> check for flat tire 0
+repairing a flat bicycle tire: </s> check for flat tire </s> set it down on the floor 1
+repairing a flat bicycle tire: </s> find a bike to take </s> get new tire 0
+repairing a flat bicycle tire: </s> get new tire </s> buy a tire patch kit 1
+repairing a flat bicycle tire: </s> put patch on tire </s> get new tire 0
+repairing a flat bicycle tire: </s> set it down on the floor </s> get new tire 0
+repairing a flat bicycle tire: </s> find a bike to take </s> buy a tire patch kit 1
+repairing a flat bicycle tire: </s> find a bike to take </s> put patch on tire 1
+repairing a flat bicycle tire: </s> find a bike to take </s> set it down on the floor 1
+repairing a flat bicycle tire: </s> buy a tire patch kit </s> put patch on tire 1
+repairing a flat bicycle tire: </s> set it down on the floor </s> buy a tire patch kit 0
+repairing a flat bicycle tire: </s> set it down on the floor </s> put patch on tire 0
+repairing a flat bicycle tire: </s> check the area </s> get back from work 0
+repairing a flat bicycle tire: </s> get back from work </s> get a flat tire 1
+repairing a flat bicycle tire: </s> put the tire in the ground </s> get back from work 0
+repairing a flat bicycle tire: </s> get back from work </s> tie a string to the tire 1
+repairing a flat bicycle tire: </s> get a flat tire </s> check the area 0
+repairing a flat bicycle tire: </s> check the area </s> put the tire in the ground 1
+repairing a flat bicycle tire: </s> check the area </s> tie a string to the tire 1
+repairing a flat bicycle tire: </s> put the tire in the ground </s> get a flat tire 0
+repairing a flat bicycle tire: </s> get a flat tire </s> tie a string to the tire 1
+repairing a flat bicycle tire: </s> put the tire in the ground </s> tie a string to the tire 1
+repairing a flat bicycle tire: </s> remove old tire from bicycle. </s> remove flat tire from bicycle. 0
+repairing a flat bicycle tire: </s> remove flat tire from bicycle. </s> take old tire off. 1
+repairing a flat bicycle tire: </s> remove flat tire from bicycle. </s> put new tire on the bicycle. 1
+repairing a flat bicycle tire: </s> remove flat tire from bicycle. </s> install new tire. 1
+repairing a flat bicycle tire: </s> take old tire off. </s> remove old tire from bicycle. 0
+repairing a flat bicycle tire: </s> put new tire on the bicycle. </s> remove old tire from bicycle. 0
+repairing a flat bicycle tire: </s> remove old tire from bicycle. </s> install new tire. 1
+repairing a flat bicycle tire: </s> put new tire on the bicycle. </s> take old tire off. 0
+repairing a flat bicycle tire: </s> take old tire off. </s> install new tire. 1
+repairing a flat bicycle tire: </s> put new tire on the bicycle. </s> install new tire. 1
+repairing a flat bicycle tire: </s> check tire condition </s> replace flat tire 1
+repairing a flat bicycle tire: </s> check tire condition </s> replace flat tire cover 1
+repairing a flat bicycle tire: </s> check tire condition </s> put on bicycle tire cover 1
+repairing a flat bicycle tire: </s> ride to the repair point </s> check tire condition 0
+repairing a flat bicycle tire: </s> replace flat tire </s> replace flat tire cover 1
+repairing a flat bicycle tire: </s> put on bicycle tire cover </s> replace flat tire 0
+repairing a flat bicycle tire: </s> ride to the repair point </s> replace flat tire 0
+repairing a flat bicycle tire: </s> replace flat tire cover </s> put on bicycle tire cover 1
+repairing a flat bicycle tire: </s> replace flat tire cover </s> ride to the repair point 1
+repairing a flat bicycle tire: </s> ride to the repair point </s> put on bicycle tire cover 0
+repairing a flat bicycle tire: </s> buy replacement tire </s> make tire repair 0
+repairing a flat bicycle tire: </s> buy a new flat tire kit </s> make tire repair 0
+repairing a flat bicycle tire: </s> make tire repair </s> remove old tire 1
+repairing a flat bicycle tire: </s> place in tire </s> make tire repair 0
+repairing a flat bicycle tire: </s> make tire repair </s> replace the new tire 1
+repairing a flat bicycle tire: </s> buy replacement tire </s> buy a new flat tire kit 1
+repairing a flat bicycle tire: </s> buy replacement tire </s> remove old tire 1
+repairing a flat bicycle tire: </s> place in tire </s> buy replacement tire 0
+repairing a flat bicycle tire: </s> buy replacement tire </s> replace the new tire 1
+repairing a flat bicycle tire: </s> buy a new flat tire kit </s> remove old tire 1
+repairing a flat bicycle tire: </s> buy a new flat tire kit </s> place in tire 1
+repairing a flat bicycle tire: </s> buy a new flat tire kit </s> replace the new tire 1
+repairing a flat bicycle tire: </s> remove old tire </s> place in tire 1
+repairing a flat bicycle tire: </s> replace the new tire </s> remove old tire 0
+repairing a flat bicycle tire: </s> place in tire </s> replace the new tire 1
+taking a bath: </s> find a bathroom </s> turn on water 1
+taking a bath: </s> step into bathroom </s> find a bathroom 0
+taking a bath: </s> find a bathroom </s> take a bath 1
+taking a bath: </s> wash body </s> find a bathroom 0
+taking a bath: </s> find a bathroom </s> rinse body 1
+taking a bath: </s> step into bathroom </s> turn on water 0
+taking a bath: </s> take a bath </s> turn on water 0
+taking a bath: </s> turn on water </s> wash body 1
+taking a bath: </s> turn on water </s> rinse body 1
+taking a bath: </s> step into bathroom </s> take a bath 1
+taking a bath: </s> wash body </s> step into bathroom 0
+taking a bath: </s> rinse body </s> step into bathroom 0
+taking a bath: </s> wash body </s> take a bath 0
+taking a bath: </s> take a bath </s> rinse body 1
+taking a bath: </s> rinse body </s> wash body 0
+taking a bath: </s> grab a towel. </s> fill bathtub with hot water. 0
+taking a bath: </s> fill bathtub with hot water. </s> get into the bathtub. 1
+taking a bath: </s> rub a sponge all over your body to get the soap to get in your hair. </s> fill bathtub with hot water. 0
+taking a bath: </s> soak your body in hot water. </s> fill bathtub with hot water. 0
+taking a bath: </s> fill bathtub with hot water. </s> scrub your body with the sponge until it is clean. 1
+taking a bath: </s> put the towel on. </s> fill bathtub with hot water. 0
+taking a bath: </s> grab a towel. </s> get into the bathtub. 1
+taking a bath: </s> grab a towel. </s> rub a sponge all over your body to get the soap to get in your hair. 1
+taking a bath: </s> grab a towel. </s> soak your body in hot water. 1
+taking a bath: </s> grab a towel. </s> scrub your body with the sponge until it is clean. 1
+taking a bath: </s> grab a towel. </s> put the towel on. 1
+taking a bath: </s> rub a sponge all over your body to get the soap to get in your hair. </s> get into the bathtub. 0
+taking a bath: </s> soak your body in hot water. </s> get into the bathtub. 0
+taking a bath: </s> get into the bathtub. </s> scrub your body with the sponge until it is clean. 1
+taking a bath: </s> get into the bathtub. </s> put the towel on. 1
+taking a bath: </s> soak your body in hot water. </s> rub a sponge all over your body to get the soap to get in your hair. 0
+taking a bath: </s> rub a sponge all over your body to get the soap to get in your hair. </s> scrub your body with the sponge until it is clean. 1
+taking a bath: </s> rub a sponge all over your body to get the soap to get in your hair. </s> put the towel on. 1
+taking a bath: </s> soak your body in hot water. </s> scrub your body with the sponge until it is clean. 1
+taking a bath: </s> put the towel on. </s> soak your body in hot water. 0
+taking a bath: </s> put the towel on. </s> scrub your body with the sponge until it is clean. 0
+taking a bath: </s> enter bathroom </s> grab towel 1
+taking a bath: </s> enter bathroom </s> take the bath 1
+taking a bath: </s> wash your hair </s> enter bathroom 0
+taking a bath: </s> wash your body </s> enter bathroom 0
+taking a bath: </s> enter bathroom </s> rinse your hair 1
+taking a bath: </s> enter bathroom </s> dry your body 1
+taking a bath: </s> towel yourself off </s> enter bathroom 0
+taking a bath: </s> take the bath </s> grab towel 0
+taking a bath: </s> wash your hair </s> grab towel 0
+taking a bath: </s> grab towel </s> wash your body 1
+taking a bath: </s> rinse your hair </s> grab towel 0
+taking a bath: </s> grab towel </s> dry your body 1
+taking a bath: </s> towel yourself off </s> grab towel 0
+taking a bath: </s> wash your hair </s> take the bath 0
+taking a bath: </s> wash your body </s> take the bath 0
+taking a bath: </s> rinse your hair </s> take the bath 0
+taking a bath: </s> take the bath </s> dry your body 1
+taking a bath: </s> take the bath </s> towel yourself off 1
+taking a bath: </s> wash your body </s> wash your hair 0
+taking a bath: </s> wash your hair </s> rinse your hair 1
+taking a bath: </s> dry your body </s> wash your hair 0
+taking a bath: </s> towel yourself off </s> wash your hair 0
+taking a bath: </s> rinse your hair </s> wash your body 0
+taking a bath: </s> dry your body </s> wash your body 0
+taking a bath: </s> wash your body </s> towel yourself off 1
+taking a bath: </s> dry your body </s> rinse your hair 0
+taking a bath: </s> towel yourself off </s> rinse your hair 0
+taking a bath: </s> dry your body </s> towel yourself off 1
+taking a bath: </s> get into shower </s> put on bathing suit 0
+taking a bath: </s> close door </s> put on bathing suit 0
+taking a bath: </s> turn on water </s> put on bathing suit 0
+taking a bath: </s> put on bathing suit </s> get in shower 1
+taking a bath: </s> scrub head </s> put on bathing suit 0
+taking a bath: </s> put on bathing suit </s> wash face 1
+taking a bath: </s> rinse hair </s> put on bathing suit 0
+taking a bath: </s> close door </s> get into shower 0
+taking a bath: </s> get into shower </s> turn on water 1
+taking a bath: </s> get in shower </s> get into shower 0
+taking a bath: </s> scrub head </s> get into shower 0
+taking a bath: </s> get into shower </s> wash face 1
+taking a bath: </s> get into shower </s> rinse hair 1
+taking a bath: </s> close door </s> turn on water 1
+taking a bath: </s> close door </s> get in shower 1
+taking a bath: </s> close door </s> scrub head 1
+taking a bath: </s> wash face </s> close door 0
+taking a bath: </s> close door </s> rinse hair 1
+taking a bath: </s> get in shower </s> turn on water 0
+taking a bath: </s> scrub head </s> turn on water 0
+taking a bath: </s> wash face </s> turn on water 0
+taking a bath: </s> turn on water </s> rinse hair 1
+taking a bath: </s> get in shower </s> scrub head 1
+taking a bath: </s> wash face </s> get in shower 0
+taking a bath: </s> get in shower </s> rinse hair 1
+taking a bath: </s> scrub head </s> wash face 1
+taking a bath: </s> scrub head </s> rinse hair 1
+taking a bath: </s> wash face </s> rinse hair 1
+taking a bath: </s> get in the shower </s> dress in bathing suit 0
+taking a bath: </s> rinse the soap off the body </s> dress in bathing suit 0
+taking a bath: </s> dress in bathing suit </s> put in shampoo 1
+taking a bath: </s> rinse the shampoo off the body </s> dress in bathing suit 0
+taking a bath: </s> dress in bathing suit </s> get out the water 1
+taking a bath: </s> dress in bathing suit </s> dry off with towel 1
+taking a bath: </s> take off bathing suit </s> dress in bathing suit 0
+taking a bath: </s> rinse the soap off the body </s> get in the shower 0
+taking a bath: </s> put in shampoo </s> get in the shower 0
+taking a bath: </s> get in the shower </s> rinse the shampoo off the body 1
+taking a bath: </s> get out the water </s> get in the shower 0
+taking a bath: </s> get in the shower </s> dry off with towel 1
+taking a bath: </s> take off bathing suit </s> get in the shower 0
+taking a bath: </s> put in shampoo </s> rinse the soap off the body 0
+taking a bath: </s> rinse the soap off the body </s> rinse the shampoo off the body 1
+taking a bath: </s> rinse the soap off the body </s> get out the water 1
+taking a bath: </s> rinse the soap off the body </s> dry off with towel 1
+taking a bath: </s> rinse the soap off the body </s> take off bathing suit 1
+taking a bath: </s> put in shampoo </s> rinse the shampoo off the body 1
+taking a bath: </s> put in shampoo </s> get out the water 1
+taking a bath: </s> put in shampoo </s> dry off with towel 1
+taking a bath: </s> put in shampoo </s> take off bathing suit 1
+taking a bath: </s> get out the water </s> rinse the shampoo off the body 0
+taking a bath: </s> rinse the shampoo off the body </s> dry off with towel 1
+taking a bath: </s> rinse the shampoo off the body </s> take off bathing suit 1
+taking a bath: </s> dry off with towel </s> get out the water 0
+taking a bath: </s> get out the water </s> take off bathing suit 1
+taking a bath: </s> take off bathing suit </s> dry off with towel 0

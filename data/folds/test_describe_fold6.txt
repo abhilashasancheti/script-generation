@@ -1,0 +1,5 @@
+<BOS> describe washing one's hair in small sequences of short sentences: 
+<BOS> describe fueling a car in small sequences of short sentences: 
+<BOS> describe sending food back (in a restaurant) in small sequences of short sentences: 
+<BOS> describe changing batteries in an alarm clock in small sequences of short sentences: 
+<BOS> describe checking in at an airport in small sequences of short sentences: 

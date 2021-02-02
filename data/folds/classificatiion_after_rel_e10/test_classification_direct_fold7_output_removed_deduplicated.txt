@@ -1,0 +1,593 @@
+having a barbecue: </s> get out a cooler </s> grab some food 0
+having a barbecue: </s> grab some food </s> bring the food to the grill 1
+having a barbecue: </s> grab some food </s> put the food on the grill 1
+having a barbecue: </s> grab some food </s> get a plate 1
+having a barbecue: </s> put the plate on the grill </s> grab some food 0
+having a barbecue: </s> wait </s> grab some food 0
+having a barbecue: </s> grab some food </s> take the food off the grill 1
+having a barbecue: </s> pour some hot sauce </s> grab some food 0
+having a barbecue: </s> grab some food </s> throw the plate in the trash 1
+having a barbecue: </s> get out a cooler </s> bring the food to the grill 1
+having a barbecue: </s> put the food on the grill </s> get out a cooler 0
+having a barbecue: </s> get out a cooler </s> get a plate 1
+having a barbecue: </s> put the plate on the grill </s> get out a cooler 0
+having a barbecue: </s> wait </s> get out a cooler 0
+having a barbecue: </s> take the food off the grill </s> get out a cooler 0
+having a barbecue: </s> get out a cooler </s> pour some hot sauce 1
+having a barbecue: </s> get out a cooler </s> throw the plate in the trash 1
+having a barbecue: </s> bring the food to the grill </s> put the food on the grill 1
+having a barbecue: </s> bring the food to the grill </s> get a plate 1
+having a barbecue: </s> bring the food to the grill </s> put the plate on the grill 1
+having a barbecue: </s> bring the food to the grill </s> wait 1
+having a barbecue: </s> bring the food to the grill </s> take the food off the grill 1
+having a barbecue: </s> pour some hot sauce </s> bring the food to the grill 0
+having a barbecue: </s> bring the food to the grill </s> throw the plate in the trash 1
+having a barbecue: </s> put the food on the grill </s> get a plate 1
+having a barbecue: </s> put the food on the grill </s> put the plate on the grill 1
+having a barbecue: </s> wait </s> put the food on the grill 0
+having a barbecue: </s> take the food off the grill </s> put the food on the grill 0
+having a barbecue: </s> pour some hot sauce </s> put the food on the grill 0
+having a barbecue: </s> put the food on the grill </s> throw the plate in the trash 1
+having a barbecue: </s> put the plate on the grill </s> get a plate 0
+having a barbecue: </s> wait </s> get a plate 0
+having a barbecue: </s> get a plate </s> take the food off the grill 1
+having a barbecue: </s> get a plate </s> pour some hot sauce 1
+having a barbecue: </s> get a plate </s> throw the plate in the trash 1
+having a barbecue: </s> wait </s> put the plate on the grill 0
+having a barbecue: </s> put the plate on the grill </s> take the food off the grill 1
+having a barbecue: </s> put the plate on the grill </s> pour some hot sauce 1
+having a barbecue: </s> put the plate on the grill </s> throw the plate in the trash 1
+having a barbecue: </s> wait </s> take the food off the grill 1
+having a barbecue: </s> wait </s> pour some hot sauce 1
+having a barbecue: </s> wait </s> throw the plate in the trash 1
+having a barbecue: </s> pour some hot sauce </s> take the food off the grill 0
+having a barbecue: </s> take the food off the grill </s> throw the plate in the trash 1
+having a barbecue: </s> throw the plate in the trash </s> pour some hot sauce 0
+having a barbecue: </s> get some coals </s> get a smoker 0
+having a barbecue: </s> get a smoker </s> go to the place where you want to cook 1
+having a barbecue: </s> place the meat in the hot pit </s> get a smoker 0
+having a barbecue: </s> put the coals on the ground </s> get a smoker 0
+having a barbecue: </s> cover the pit with the smoke </s> get a smoker 0
+having a barbecue: </s> get a smoker </s> wait for the meat to cook 1
+having a barbecue: </s> put the meat on a plate </s> get a smoker 0
+having a barbecue: </s> serve the food </s> get a smoker 0
+having a barbecue: </s> go to the place where you want to cook </s> get some coals 0
+having a barbecue: </s> place the meat in the hot pit </s> get some coals 0
+having a barbecue: </s> get some coals </s> put the coals on the ground 1
+having a barbecue: </s> get some coals </s> cover the pit with the smoke 1
+having a barbecue: </s> wait for the meat to cook </s> get some coals 0
+having a barbecue: </s> get some coals </s> put the meat on a plate 1
+having a barbecue: </s> get some coals </s> serve the food 1
+having a barbecue: </s> place the meat in the hot pit </s> go to the place where you want to cook 0
+having a barbecue: </s> go to the place where you want to cook </s> put the coals on the ground 1
+having a barbecue: </s> go to the place where you want to cook </s> cover the pit with the smoke 1
+having a barbecue: </s> wait for the meat to cook </s> go to the place where you want to cook 0
+having a barbecue: </s> put the meat on a plate </s> go to the place where you want to cook 0
+having a barbecue: </s> go to the place where you want to cook </s> serve the food 1
+having a barbecue: </s> place the meat in the hot pit </s> put the coals on the ground 1
+having a barbecue: </s> place the meat in the hot pit </s> cover the pit with the smoke 1
+having a barbecue: </s> place the meat in the hot pit </s> wait for the meat to cook 1
+having a barbecue: </s> put the meat on a plate </s> place the meat in the hot pit 0
+having a barbecue: </s> serve the food </s> place the meat in the hot pit 0
+having a barbecue: </s> cover the pit with the smoke </s> put the coals on the ground 0
+having a barbecue: </s> wait for the meat to cook </s> put the coals on the ground 0
+having a barbecue: </s> put the meat on a plate </s> put the coals on the ground 0
+having a barbecue: </s> put the coals on the ground </s> serve the food 1
+having a barbecue: </s> cover the pit with the smoke </s> wait for the meat to cook 1
+having a barbecue: </s> put the meat on a plate </s> cover the pit with the smoke 0
+having a barbecue: </s> serve the food </s> cover the pit with the smoke 0
+having a barbecue: </s> put the meat on a plate </s> wait for the meat to cook 0
+having a barbecue: </s> wait for the meat to cook </s> serve the food 1
+having a barbecue: </s> put the meat on a plate </s> serve the food 1
+having a barbecue: </s> choose a good spot for the barbecue </s> get the food ready 1
+having a barbecue: </s> go into the bar and start cooking </s> choose a good spot for the barbecue 0
+having a barbecue: </s> finish when you are finished </s> choose a good spot for the barbecue 0
+having a barbecue: </s> go into the bar and start cooking </s> get the food ready 0
+having a barbecue: </s> finish when you are finished </s> get the food ready 0
+having a barbecue: </s> finish when you are finished </s> go into the bar and start cooking 0
+having a barbecue: </s> put on a jacket </s> go to the house 1
+having a barbecue: </s> open the BBQ gate </s> put on a jacket 0
+having a barbecue: </s> put on a jacket </s> put the grill in the center of the house 1
+having a barbecue: </s> put on a jacket </s> wait for the meat to cook 1
+having a barbecue: </s> go to the house </s> open the BBQ gate 1
+having a barbecue: </s> go to the house </s> put the grill in the center of the house 1
+having a barbecue: </s> go to the house </s> wait for the meat to cook 1
+having a barbecue: </s> put the grill in the center of the house </s> open the BBQ gate 0
+having a barbecue: </s> wait for the meat to cook </s> open the BBQ gate 0
+having a barbecue: </s> wait for the meat to cook </s> put the grill in the center of the house 0
+having a barbecue: </s> choose a location to have a BBQ </s> prepare the ingredients that are to be cooked 1
+having a barbecue: </s> choose a location to have a BBQ </s> get the grills 1
+having a barbecue: </s> choose a location to have a BBQ </s> get the cooking utensils 1
+having a barbecue: </s> choose a location to have a BBQ </s> gather the necessary food 1
+having a barbecue: </s> choose a location to have a BBQ </s> get the grill to cook the food 1
+having a barbecue: </s> choose a location to have a BBQ </s> enjoy the barbecue 1
+having a barbecue: </s> get the grills </s> prepare the ingredients that are to be cooked 0
+having a barbecue: </s> prepare the ingredients that are to be cooked </s> get the cooking utensils 1
+having a barbecue: </s> prepare the ingredients that are to be cooked </s> gather the necessary food 1
+having a barbecue: </s> get the grill to cook the food </s> prepare the ingredients that are to be cooked 0
+having a barbecue: </s> prepare the ingredients that are to be cooked </s> enjoy the barbecue 1
+having a barbecue: </s> get the cooking utensils </s> get the grills 0
+having a barbecue: </s> gather the necessary food </s> get the grills 0
+having a barbecue: </s> get the grill to cook the food </s> get the grills 0
+having a barbecue: </s> get the grills </s> enjoy the barbecue 1
+having a barbecue: </s> gather the necessary food </s> get the cooking utensils 0
+having a barbecue: </s> get the grill to cook the food </s> get the cooking utensils 0
+having a barbecue: </s> get the cooking utensils </s> enjoy the barbecue 1
+having a barbecue: </s> get the grill to cook the food </s> gather the necessary food 0
+having a barbecue: </s> gather the necessary food </s> enjoy the barbecue 1
+having a barbecue: </s> get the grill to cook the food </s> enjoy the barbecue 1
+ordering a pizza: </s> wait to be seated </s> go to the restaurant 0
+ordering a pizza: </s> go to the restaurant </s> when seated, get food 1
+ordering a pizza: </s> go to the restaurant </s> order food 1
+ordering a pizza: </s> pay for food </s> go to the restaurant 0
+ordering a pizza: </s> wait </s> go to the restaurant 0
+ordering a pizza: </s> take food from waiter </s> go to the restaurant 0
+ordering a pizza: </s> sit on counter </s> go to the restaurant 0
+ordering a pizza: </s> go to the restaurant </s> eat food 1
+ordering a pizza: </s> leave restaurant </s> go to the restaurant 0
+ordering a pizza: </s> when seated, get food </s> wait to be seated 0
+ordering a pizza: </s> order food </s> wait to be seated 0
+ordering a pizza: </s> wait to be seated </s> pay for food 1
+ordering a pizza: </s> wait to be seated </s> wait 1
+ordering a pizza: </s> wait to be seated </s> take food from waiter 1
+ordering a pizza: </s> wait to be seated </s> sit on counter 1
+ordering a pizza: </s> wait to be seated </s> eat food 1
+ordering a pizza: </s> leave restaurant </s> wait to be seated 0
+ordering a pizza: </s> when seated, get food </s> order food 1
+ordering a pizza: </s> when seated, get food </s> pay for food 1
+ordering a pizza: </s> when seated, get food </s> wait 1
+ordering a pizza: </s> take food from waiter </s> when seated, get food 0
+ordering a pizza: </s> sit on counter </s> when seated, get food 0
+ordering a pizza: </s> when seated, get food </s> eat food 1
+ordering a pizza: </s> leave restaurant </s> when seated, get food 0
+ordering a pizza: </s> order food </s> pay for food 1
+ordering a pizza: </s> wait </s> order food 0
+ordering a pizza: </s> take food from waiter </s> order food 0
+ordering a pizza: </s> order food </s> sit on counter 1
+ordering a pizza: </s> eat food </s> order food 0
+ordering a pizza: </s> order food </s> leave restaurant 1
+ordering a pizza: </s> pay for food </s> wait 1
+ordering a pizza: </s> pay for food </s> take food from waiter 1
+ordering a pizza: </s> sit on counter </s> pay for food 0
+ordering a pizza: </s> eat food </s> pay for food 0
+ordering a pizza: </s> pay for food </s> leave restaurant 1
+ordering a pizza: </s> wait </s> take food from waiter 1
+ordering a pizza: </s> sit on counter </s> wait 0
+ordering a pizza: </s> wait </s> eat food 1
+ordering a pizza: </s> leave restaurant </s> wait 0
+ordering a pizza: </s> sit on counter </s> take food from waiter 0
+ordering a pizza: </s> eat food </s> take food from waiter 0
+ordering a pizza: </s> take food from waiter </s> leave restaurant 1
+ordering a pizza: </s> sit on counter </s> eat food 1
+ordering a pizza: </s> leave restaurant </s> sit on counter 0
+ordering a pizza: </s> eat food </s> leave restaurant 1
+ordering a pizza: </s> choose toppings </s> choose sauce 1
+ordering a pizza: </s> wait for pizza </s> choose toppings 0
+ordering a pizza: </s> find a place to get your pizza </s> choose toppings 0
+ordering a pizza: </s> choose toppings </s> get your food 1
+ordering a pizza: </s> eat your meal </s> choose toppings 0
+ordering a pizza: </s> choose sauce </s> wait for pizza 1
+ordering a pizza: </s> find a place to get your pizza </s> choose sauce 0
+ordering a pizza: </s> get your food </s> choose sauce 0
+ordering a pizza: </s> choose sauce </s> eat your meal 1
+ordering a pizza: </s> wait for pizza </s> find a place to get your pizza 1
+ordering a pizza: </s> wait for pizza </s> get your food 1
+ordering a pizza: </s> wait for pizza </s> eat your meal 1
+ordering a pizza: </s> find a place to get your pizza </s> get your food 1
+ordering a pizza: </s> eat your meal </s> find a place to get your pizza 0
+ordering a pizza: </s> eat your meal </s> get your food 0
+ordering a pizza: </s> look up your desired pizza, it will be listed on the menu </s> show the employee your order 1
+ordering a pizza: </s> get the pizza and take it home </s> look up your desired pizza, it will be listed on the menu 0
+ordering a pizza: </s> look up your desired pizza, it will be listed on the menu </s> clean up any food that gets in your house 1
+ordering a pizza: </s> enjoy the meal </s> look up your desired pizza, it will be listed on the menu 0
+ordering a pizza: </s> get the pizza and take it home </s> show the employee your order 0
+ordering a pizza: </s> show the employee your order </s> clean up any food that gets in your house 1
+ordering a pizza: </s> show the employee your order </s> enjoy the meal 1
+ordering a pizza: </s> get the pizza and take it home </s> clean up any food that gets in your house 1
+ordering a pizza: </s> enjoy the meal </s> get the pizza and take it home 0
+ordering a pizza: </s> clean up any food that gets in your house </s> enjoy the meal 1
+ordering a pizza: </s> pick a pizza </s> go to the restaurant 1
+ordering a pizza: </s> pick a pizza </s> order from the counter 1
+ordering a pizza: </s> pick a pizza </s> pay for your order 1
+ordering a pizza: </s> pick a pizza </s> take your order 1
+ordering a pizza: </s> pick a pizza </s> wait for your pizza to arrive 1
+ordering a pizza: </s> eat your pizza </s> pick a pizza 0
+ordering a pizza: </s> order from the counter </s> go to the restaurant 0
+ordering a pizza: </s> pay for your order </s> go to the restaurant 0
+ordering a pizza: </s> take your order </s> go to the restaurant 0
+ordering a pizza: </s> go to the restaurant </s> wait for your pizza to arrive 1
+ordering a pizza: </s> go to the restaurant </s> eat your pizza 1
+ordering a pizza: </s> pay for your order </s> order from the counter 0
+ordering a pizza: </s> take your order </s> order from the counter 0
+ordering a pizza: </s> wait for your pizza to arrive </s> order from the counter 0
+ordering a pizza: </s> order from the counter </s> eat your pizza 1
+ordering a pizza: </s> pay for your order </s> take your order 1
+ordering a pizza: </s> pay for your order </s> wait for your pizza to arrive 1
+ordering a pizza: </s> eat your pizza </s> pay for your order 0
+ordering a pizza: </s> wait for your pizza to arrive </s> take your order 0
+ordering a pizza: </s> eat your pizza </s> take your order 0
+ordering a pizza: </s> eat your pizza </s> wait for your pizza to arrive 0
+ordering a pizza: </s> order from the counter </s> drive to the restaurant 0
+ordering a pizza: </s> drive to the restaurant </s> get food 1
+ordering a pizza: </s> drive to the restaurant </s> get back in car 1
+ordering a pizza: </s> order from the counter </s> get food 1
+ordering a pizza: </s> order from the counter </s> get back in car 1
+ordering a pizza: </s> get food </s> get back in car 1
+cleaning up a flat: </s> turn on the water </s> get the clothes 0
+cleaning up a flat: </s> get the clothes </s> wait for the water to get nice and warm 1
+cleaning up a flat: </s> get the sponge </s> get the clothes 0
+cleaning up a flat: </s> get the clothes </s> place the dirty clothes into the sponge 1
+cleaning up a flat: </s> scrub the clothes with the sponge </s> get the clothes 0
+cleaning up a flat: </s> rinse the clothes off the sponge </s> get the clothes 0
+cleaning up a flat: </s> put the dirty clothes in a dryer </s> get the clothes 0
+cleaning up a flat: </s> put the clean clothes into a dryer </s> get the clothes 0
+cleaning up a flat: </s> get a dryer sheet </s> get the clothes 0
+cleaning up a flat: </s> dry the clothes </s> get the clothes 0
+cleaning up a flat: </s> get the clothes </s> put the clean clothes in a closet 1
+cleaning up a flat: </s> wait for the water to get nice and warm </s> turn on the water 0
+cleaning up a flat: </s> get the sponge </s> turn on the water 0
+cleaning up a flat: </s> turn on the water </s> place the dirty clothes into the sponge 1
+cleaning up a flat: </s> scrub the clothes with the sponge </s> turn on the water 0
+cleaning up a flat: </s> turn on the water </s> rinse the clothes off the sponge 1
+cleaning up a flat: </s> turn on the water </s> put the dirty clothes in a dryer 1
+cleaning up a flat: </s> put the clean clothes into a dryer </s> turn on the water 0
+cleaning up a flat: </s> get a dryer sheet </s> turn on the water 0
+cleaning up a flat: </s> turn on the water </s> dry the clothes 1
+cleaning up a flat: </s> put the clean clothes in a closet </s> turn on the water 0
+cleaning up a flat: </s> wait for the water to get nice and warm </s> get the sponge 1
+cleaning up a flat: </s> place the dirty clothes into the sponge </s> wait for the water to get nice and warm 0
+cleaning up a flat: </s> wait for the water to get nice and warm </s> scrub the clothes with the sponge 1
+cleaning up a flat: </s> rinse the clothes off the sponge </s> wait for the water to get nice and warm 0
+cleaning up a flat: </s> put the dirty clothes in a dryer </s> wait for the water to get nice and warm 0
+cleaning up a flat: </s> wait for the water to get nice and warm </s> put the clean clothes into a dryer 1
+cleaning up a flat: </s> wait for the water to get nice and warm </s> get a dryer sheet 1
+cleaning up a flat: </s> wait for the water to get nice and warm </s> dry the clothes 1
+cleaning up a flat: </s> wait for the water to get nice and warm </s> put the clean clothes in a closet 1
+cleaning up a flat: </s> place the dirty clothes into the sponge </s> get the sponge 0
+cleaning up a flat: </s> get the sponge </s> scrub the clothes with the sponge 1
+cleaning up a flat: </s> get the sponge </s> rinse the clothes off the sponge 1
+cleaning up a flat: </s> put the dirty clothes in a dryer </s> get the sponge 0
+cleaning up a flat: </s> put the clean clothes into a dryer </s> get the sponge 0
+cleaning up a flat: </s> get the sponge </s> get a dryer sheet 1
+cleaning up a flat: </s> dry the clothes </s> get the sponge 0
+cleaning up a flat: </s> get the sponge </s> put the clean clothes in a closet 1
+cleaning up a flat: </s> scrub the clothes with the sponge </s> place the dirty clothes into the sponge 0
+cleaning up a flat: </s> place the dirty clothes into the sponge </s> rinse the clothes off the sponge 1
+cleaning up a flat: </s> put the dirty clothes in a dryer </s> place the dirty clothes into the sponge 0
+cleaning up a flat: </s> place the dirty clothes into the sponge </s> put the clean clothes into a dryer 1
+cleaning up a flat: </s> place the dirty clothes into the sponge </s> get a dryer sheet 1
+cleaning up a flat: </s> dry the clothes </s> place the dirty clothes into the sponge 0
+cleaning up a flat: </s> put the clean clothes in a closet </s> place the dirty clothes into the sponge 0
+cleaning up a flat: </s> scrub the clothes with the sponge </s> rinse the clothes off the sponge 1
+cleaning up a flat: </s> scrub the clothes with the sponge </s> put the dirty clothes in a dryer 1
+cleaning up a flat: </s> put the clean clothes into a dryer </s> scrub the clothes with the sponge 0
+cleaning up a flat: </s> get a dryer sheet </s> scrub the clothes with the sponge 0
+cleaning up a flat: </s> dry the clothes </s> scrub the clothes with the sponge 0
+cleaning up a flat: </s> put the clean clothes in a closet </s> scrub the clothes with the sponge 0
+cleaning up a flat: </s> put the dirty clothes in a dryer </s> rinse the clothes off the sponge 0
+cleaning up a flat: </s> put the clean clothes into a dryer </s> rinse the clothes off the sponge 0
+cleaning up a flat: </s> get a dryer sheet </s> rinse the clothes off the sponge 0
+cleaning up a flat: </s> dry the clothes </s> rinse the clothes off the sponge 0
+cleaning up a flat: </s> put the clean clothes in a closet </s> rinse the clothes off the sponge 0
+cleaning up a flat: </s> put the dirty clothes in a dryer </s> put the clean clothes into a dryer 1
+cleaning up a flat: </s> get a dryer sheet </s> put the dirty clothes in a dryer 0
+cleaning up a flat: </s> dry the clothes </s> put the dirty clothes in a dryer 0
+cleaning up a flat: </s> put the dirty clothes in a dryer </s> put the clean clothes in a closet 1
+cleaning up a flat: </s> put the clean clothes into a dryer </s> get a dryer sheet 1
+cleaning up a flat: </s> put the clean clothes into a dryer </s> dry the clothes 1
+cleaning up a flat: </s> put the clean clothes into a dryer </s> put the clean clothes in a closet 1
+cleaning up a flat: </s> get a dryer sheet </s> dry the clothes 1
+cleaning up a flat: </s> get a dryer sheet </s> put the clean clothes in a closet 1
+cleaning up a flat: </s> put the clean clothes in a closet </s> dry the clothes 0
+cleaning up a flat: </s> remove all the items that need to be cleaned </s> place all dirty items in the garage 1
+cleaning up a flat: </s> remove all the items that need to be cleaned </s> remove the plug that controls air in the garage 1
+cleaning up a flat: </s> remove all the items that need to be cleaned </s> place all the items that need to be cleaned in the dryer 1
+cleaning up a flat: </s> remove the plug that controls air in the garage </s> place all dirty items in the garage 0
+cleaning up a flat: </s> place all dirty items in the garage </s> place all the items that need to be cleaned in the dryer 1
+cleaning up a flat: </s> place all the items that need to be cleaned in the dryer </s> remove the plug that controls air in the garage 0
+cleaning up a flat: </s> go to the bathroom </s> put clean clothes on 1
+cleaning up a flat: </s> go to the bathroom </s> run warm water 1
+cleaning up a flat: </s> rinse all of the dirt off </s> go to the bathroom 0
+cleaning up a flat: </s> get new clean clothes </s> go to the bathroom 0
+cleaning up a flat: </s> go to the bathroom </s> put clean clothes in bag 1
+cleaning up a flat: </s> go home </s> go to the bathroom 0
+cleaning up a flat: </s> run warm water </s> put clean clothes on 0
+cleaning up a flat: </s> put clean clothes on </s> rinse all of the dirt off 1
+cleaning up a flat: </s> put clean clothes on </s> get new clean clothes 1
+cleaning up a flat: </s> put clean clothes on </s> put clean clothes in bag 1
+cleaning up a flat: </s> go home </s> put clean clothes on 0
+cleaning up a flat: </s> run warm water </s> rinse all of the dirt off 1
+cleaning up a flat: </s> run warm water </s> get new clean clothes 1
+cleaning up a flat: </s> put clean clothes in bag </s> run warm water 0
+cleaning up a flat: </s> go home </s> run warm water 0
+cleaning up a flat: </s> rinse all of the dirt off </s> get new clean clothes 1
+cleaning up a flat: </s> put clean clothes in bag </s> rinse all of the dirt off 0
+cleaning up a flat: </s> rinse all of the dirt off </s> go home 1
+cleaning up a flat: </s> put clean clothes in bag </s> get new clean clothes 0
+cleaning up a flat: </s> get new clean clothes </s> go home 1
+cleaning up a flat: </s> go home </s> put clean clothes in bag 0
+cleaning up a flat: </s> put soapy water into soapy water </s> take down shower 0
+cleaning up a flat: </s> open shower </s> take down shower 0
+cleaning up a flat: </s> get shampoo </s> take down shower 0
+cleaning up a flat: </s> take down shower </s> put shampoo into hair 1
+cleaning up a flat: </s> scrub hair with your hands </s> take down shower 0
+cleaning up a flat: </s> take down shower </s> rinse hair with clean water 1
+cleaning up a flat: </s> turn off shower </s> take down shower 0
+cleaning up a flat: </s> dry with towel </s> take down shower 0
+cleaning up a flat: </s> put soapy water into soapy water </s> open shower 1
+cleaning up a flat: </s> get shampoo </s> put soapy water into soapy water 0
+cleaning up a flat: </s> put shampoo into hair </s> put soapy water into soapy water 0
+cleaning up a flat: </s> put soapy water into soapy water </s> scrub hair with your hands 1
+cleaning up a flat: </s> rinse hair with clean water </s> put soapy water into soapy water 0
+cleaning up a flat: </s> put soapy water into soapy water </s> turn off shower 1
+cleaning up a flat: </s> dry with towel </s> put soapy water into soapy water 0
+cleaning up a flat: </s> get shampoo </s> open shower 0
+cleaning up a flat: </s> put shampoo into hair </s> open shower 0
+cleaning up a flat: </s> open shower </s> scrub hair with your hands 1
+cleaning up a flat: </s> rinse hair with clean water </s> open shower 0
+cleaning up a flat: </s> turn off shower </s> open shower 0
+cleaning up a flat: </s> dry with towel </s> open shower 0
+cleaning up a flat: </s> put shampoo into hair </s> get shampoo 0
+cleaning up a flat: </s> scrub hair with your hands </s> get shampoo 0
+cleaning up a flat: </s> rinse hair with clean water </s> get shampoo 0
+cleaning up a flat: </s> turn off shower </s> get shampoo 0
+cleaning up a flat: </s> dry with towel </s> get shampoo 0
+cleaning up a flat: </s> scrub hair with your hands </s> put shampoo into hair 0
+cleaning up a flat: </s> put shampoo into hair </s> rinse hair with clean water 1
+cleaning up a flat: </s> turn off shower </s> put shampoo into hair 0
+cleaning up a flat: </s> put shampoo into hair </s> dry with towel 1
+cleaning up a flat: </s> scrub hair with your hands </s> rinse hair with clean water 1
+cleaning up a flat: </s> scrub hair with your hands </s> turn off shower 1
+cleaning up a flat: </s> dry with towel </s> scrub hair with your hands 0
+cleaning up a flat: </s> rinse hair with clean water </s> turn off shower 1
+cleaning up a flat: </s> rinse hair with clean water </s> dry with towel 1
+cleaning up a flat: </s> turn off shower </s> dry with towel 1
+cleaning up a flat: </s> fill up the sink </s> find a sink 0
+cleaning up a flat: </s> find a sink </s> put any clothes you need in the sink 1
+cleaning up a flat: </s> get out a rag </s> find a sink 0
+cleaning up a flat: </s> find a sink </s> get a cloth and wash cloth 1
+cleaning up a flat: </s> find a sink </s> wash the clothes 1
+cleaning up a flat: </s> put any clothes you need in the sink </s> fill up the sink 0
+cleaning up a flat: </s> get out a rag </s> fill up the sink 0
+cleaning up a flat: </s> fill up the sink </s> get a cloth and wash cloth 1
+cleaning up a flat: </s> fill up the sink </s> wash the clothes 1
+cleaning up a flat: </s> put any clothes you need in the sink </s> get out a rag 1
+cleaning up a flat: </s> get a cloth and wash cloth </s> put any clothes you need in the sink 0
+cleaning up a flat: </s> wash the clothes </s> put any clothes you need in the sink 0
+cleaning up a flat: </s> get out a rag </s> get a cloth and wash cloth 1
+cleaning up a flat: </s> get out a rag </s> wash the clothes 1
+cleaning up a flat: </s> wash the clothes </s> get a cloth and wash cloth 0
+making scrambled eggs: </s> get a container. </s> find out what type of eggs you need. 0
+making scrambled eggs: </s> find out what type of eggs you need. </s> get some of your favorite spices and flavorings. 1
+making scrambled eggs: </s> mix your ingredients. </s> find out what type of eggs you need. 0
+making scrambled eggs: </s> find out what type of eggs you need. </s> add water to your container. 1
+making scrambled eggs: </s> put your eggs in your container. </s> find out what type of eggs you need. 0
+making scrambled eggs: </s> find out what type of eggs you need. </s> keep them in your pantry. 1
+making scrambled eggs: </s> get a container. </s> get some of your favorite spices and flavorings. 1
+making scrambled eggs: </s> get a container. </s> mix your ingredients. 1
+making scrambled eggs: </s> add water to your container. </s> get a container. 0
+making scrambled eggs: </s> get a container. </s> put your eggs in your container. 1
+making scrambled eggs: </s> get a container. </s> keep them in your pantry. 1
+making scrambled eggs: </s> mix your ingredients. </s> get some of your favorite spices and flavorings. 0
+making scrambled eggs: </s> get some of your favorite spices and flavorings. </s> add water to your container. 1
+making scrambled eggs: </s> get some of your favorite spices and flavorings. </s> put your eggs in your container. 1
+making scrambled eggs: </s> get some of your favorite spices and flavorings. </s> keep them in your pantry. 1
+making scrambled eggs: </s> add water to your container. </s> mix your ingredients. 0
+making scrambled eggs: </s> put your eggs in your container. </s> mix your ingredients. 0
+making scrambled eggs: </s> keep them in your pantry. </s> mix your ingredients. 0
+making scrambled eggs: </s> put your eggs in your container. </s> add water to your container. 0
+making scrambled eggs: </s> add water to your container. </s> keep them in your pantry. 1
+making scrambled eggs: </s> keep them in your pantry. </s> put your eggs in your container. 0
+making scrambled eggs: </s> preheat oven to a temperature that the eggs will cook </s> get eggs 0
+making scrambled eggs: </s> get some flour </s> get eggs 0
+making scrambled eggs: </s> get eggs </s> add flour to eggs 1
+making scrambled eggs: </s> get eggs </s> add more flour if needed 1
+making scrambled eggs: </s> get eggs </s> add eggs 1
+making scrambled eggs: </s> put into oven </s> get eggs 0
+making scrambled eggs: </s> get eggs </s> wait for eggs to finish 1
+making scrambled eggs: </s> get eggs </s> take out and cool 1
+making scrambled eggs: </s> put the eggs back in the box </s> get eggs 0
+making scrambled eggs: </s> preheat oven to a temperature that the eggs will cook </s> get some flour 1
+making scrambled eggs: </s> add flour to eggs </s> preheat oven to a temperature that the eggs will cook 0
+making scrambled eggs: </s> add more flour if needed </s> preheat oven to a temperature that the eggs will cook 0
+making scrambled eggs: </s> preheat oven to a temperature that the eggs will cook </s> add eggs 1
+making scrambled eggs: </s> put into oven </s> preheat oven to a temperature that the eggs will cook 0
+making scrambled eggs: </s> wait for eggs to finish </s> preheat oven to a temperature that the eggs will cook 0
+making scrambled eggs: </s> take out and cool </s> preheat oven to a temperature that the eggs will cook 0
+making scrambled eggs: </s> put the eggs back in the box </s> preheat oven to a temperature that the eggs will cook 0
+making scrambled eggs: </s> add flour to eggs </s> get some flour 0
+making scrambled eggs: </s> add more flour if needed </s> get some flour 0
+making scrambled eggs: </s> get some flour </s> add eggs 1
+making scrambled eggs: </s> put into oven </s> get some flour 0
+making scrambled eggs: </s> wait for eggs to finish </s> get some flour 0
+making scrambled eggs: </s> take out and cool </s> get some flour 0
+making scrambled eggs: </s> put the eggs back in the box </s> get some flour 0
+making scrambled eggs: </s> add flour to eggs </s> add more flour if needed 1
+making scrambled eggs: </s> add flour to eggs </s> add eggs 1
+making scrambled eggs: </s> put into oven </s> add flour to eggs 0
+making scrambled eggs: </s> add flour to eggs </s> wait for eggs to finish 1
+making scrambled eggs: </s> take out and cool </s> add flour to eggs 0
+making scrambled eggs: </s> put the eggs back in the box </s> add flour to eggs 0
+making scrambled eggs: </s> add eggs </s> add more flour if needed 0
+making scrambled eggs: </s> put into oven </s> add more flour if needed 0
+making scrambled eggs: </s> add more flour if needed </s> wait for eggs to finish 1
+making scrambled eggs: </s> add more flour if needed </s> take out and cool 1
+making scrambled eggs: </s> put the eggs back in the box </s> add more flour if needed 0
+making scrambled eggs: </s> put into oven </s> add eggs 0
+making scrambled eggs: </s> add eggs </s> wait for eggs to finish 1
+making scrambled eggs: </s> add eggs </s> take out and cool 1
+making scrambled eggs: </s> put the eggs back in the box </s> add eggs 0
+making scrambled eggs: </s> put into oven </s> wait for eggs to finish 1
+making scrambled eggs: </s> take out and cool </s> put into oven 0
+making scrambled eggs: </s> put into oven </s> put the eggs back in the box 1
+making scrambled eggs: </s> wait for eggs to finish </s> take out and cool 1
+making scrambled eggs: </s> wait for eggs to finish </s> put the eggs back in the box 1
+making scrambled eggs: </s> take out and cool </s> put the eggs back in the box 1
+making scrambled eggs: </s> boil water </s> gather eggs 0
+making scrambled eggs: </s> add eggs to boiling water </s> gather eggs 0
+making scrambled eggs: </s> gather eggs </s> wait for eggs to boil 1
+making scrambled eggs: </s> place in pan </s> gather eggs 0
+making scrambled eggs: </s> gather eggs </s> stir well 1
+making scrambled eggs: </s> gather eggs </s> place in fridge 1
+making scrambled eggs: </s> eat scrambled eggs </s> gather eggs 0
+making scrambled eggs: </s> add eggs to boiling water </s> boil water 0
+making scrambled eggs: </s> wait for eggs to boil </s> boil water 0
+making scrambled eggs: </s> boil water </s> place in pan 1
+making scrambled eggs: </s> stir well </s> boil water 0
+making scrambled eggs: </s> place in fridge </s> boil water 0
+making scrambled eggs: </s> eat scrambled eggs </s> boil water 0
+making scrambled eggs: </s> wait for eggs to boil </s> add eggs to boiling water 0
+making scrambled eggs: </s> add eggs to boiling water </s> place in pan 1
+making scrambled eggs: </s> add eggs to boiling water </s> stir well 1
+making scrambled eggs: </s> add eggs to boiling water </s> place in fridge 1
+making scrambled eggs: </s> add eggs to boiling water </s> eat scrambled eggs 1
+making scrambled eggs: </s> wait for eggs to boil </s> place in pan 1
+making scrambled eggs: </s> wait for eggs to boil </s> stir well 1
+making scrambled eggs: </s> wait for eggs to boil </s> place in fridge 1
+making scrambled eggs: </s> eat scrambled eggs </s> wait for eggs to boil 0
+making scrambled eggs: </s> place in pan </s> stir well 1
+making scrambled eggs: </s> place in pan </s> place in fridge 1
+making scrambled eggs: </s> place in pan </s> eat scrambled eggs 1
+making scrambled eggs: </s> stir well </s> place in fridge 1
+making scrambled eggs: </s> eat scrambled eggs </s> stir well 0
+making scrambled eggs: </s> place in fridge </s> eat scrambled eggs 1
+making scrambled eggs: </s> take eggs out of pan </s> add salt to eggs 1
+making scrambled eggs: </s> heat water to boil </s> take eggs out of pan 0
+making scrambled eggs: </s> take eggs out of pan </s> pour egg in boiling water 1
+making scrambled eggs: </s> take eggs out of pan </s> cook in boiling water 1
+making scrambled eggs: </s> take eggs out of pan </s> drain 1
+making scrambled eggs: </s> take eggs out of pan </s> take out of pan 1
+making scrambled eggs: </s> take eggs out of pan </s> cut in small chunks 1
+making scrambled eggs: </s> take eggs out of pan </s> put in an airtight container 1
+making scrambled eggs: </s> take eggs out of pan </s> place in fridge 1
+making scrambled eggs: </s> heat water to boil </s> add salt to eggs 0
+making scrambled eggs: </s> pour egg in boiling water </s> add salt to eggs 0
+making scrambled eggs: </s> add salt to eggs </s> cook in boiling water 1
+making scrambled eggs: </s> drain </s> add salt to eggs 0
+making scrambled eggs: </s> add salt to eggs </s> take out of pan 1
+making scrambled eggs: </s> cut in small chunks </s> add salt to eggs 0
+making scrambled eggs: </s> add salt to eggs </s> put in an airtight container 1
+making scrambled eggs: </s> place in fridge </s> add salt to eggs 0
+making scrambled eggs: </s> heat water to boil </s> pour egg in boiling water 1
+making scrambled eggs: </s> cook in boiling water </s> heat water to boil 0
+making scrambled eggs: </s> drain </s> heat water to boil 0
+making scrambled eggs: </s> heat water to boil </s> take out of pan 1
+making scrambled eggs: </s> heat water to boil </s> cut in small chunks 1
+making scrambled eggs: </s> put in an airtight container </s> heat water to boil 0
+making scrambled eggs: </s> place in fridge </s> heat water to boil 0
+making scrambled eggs: </s> pour egg in boiling water </s> cook in boiling water 1
+making scrambled eggs: </s> drain </s> pour egg in boiling water 0
+making scrambled eggs: </s> pour egg in boiling water </s> take out of pan 1
+making scrambled eggs: </s> cut in small chunks </s> pour egg in boiling water 0
+making scrambled eggs: </s> put in an airtight container </s> pour egg in boiling water 0
+making scrambled eggs: </s> pour egg in boiling water </s> place in fridge 1
+making scrambled eggs: </s> cook in boiling water </s> drain 1
+making scrambled eggs: </s> cook in boiling water </s> take out of pan 1
+making scrambled eggs: </s> cut in small chunks </s> cook in boiling water 0
+making scrambled eggs: </s> put in an airtight container </s> cook in boiling water 0
+making scrambled eggs: </s> place in fridge </s> cook in boiling water 0
+making scrambled eggs: </s> drain </s> take out of pan 1
+making scrambled eggs: </s> cut in small chunks </s> drain 0
+making scrambled eggs: </s> put in an airtight container </s> drain 0
+making scrambled eggs: </s> drain </s> place in fridge 1
+making scrambled eggs: </s> cut in small chunks </s> take out of pan 0
+making scrambled eggs: </s> put in an airtight container </s> take out of pan 0
+making scrambled eggs: </s> take out of pan </s> place in fridge 1
+making scrambled eggs: </s> cut in small chunks </s> put in an airtight container 1
+making scrambled eggs: </s> cut in small chunks </s> place in fridge 1
+making scrambled eggs: </s> put in an airtight container </s> place in fridge 1
+making scrambled eggs: </s> get eggs </s> go to kitchen 1
+making scrambled eggs: </s> get eggs </s> get eggs in box 1
+making scrambled eggs: </s> get eggs </s> pour box of eggs into food processor 1
+making scrambled eggs: </s> get eggs </s> get mixing bowl 1
+making scrambled eggs: </s> get eggs </s> get bowl 1
+making scrambled eggs: </s> add eggs to bowl </s> get eggs 0
+making scrambled eggs: </s> get eggs </s> mix until smooth 1
+making scrambled eggs: </s> get eggs </s> put in the baking dish 1
+making scrambled eggs: </s> cook for 10 minutes </s> get eggs 0
+making scrambled eggs: </s> get eggs </s> remove dish 1
+making scrambled eggs: </s> get eggs in box </s> go to kitchen 0
+making scrambled eggs: </s> pour box of eggs into food processor </s> go to kitchen 0
+making scrambled eggs: </s> go to kitchen </s> get mixing bowl 1
+making scrambled eggs: </s> get bowl </s> go to kitchen 0
+making scrambled eggs: </s> go to kitchen </s> add eggs to bowl 1
+making scrambled eggs: </s> go to kitchen </s> mix until smooth 1
+making scrambled eggs: </s> put in the baking dish </s> go to kitchen 0
+making scrambled eggs: </s> cook for 10 minutes </s> go to kitchen 0
+making scrambled eggs: </s> remove dish </s> go to kitchen 0
+making scrambled eggs: </s> get eggs in box </s> pour box of eggs into food processor 1
+making scrambled eggs: </s> get eggs in box </s> get mixing bowl 1
+making scrambled eggs: </s> get bowl </s> get eggs in box 0
+making scrambled eggs: </s> get eggs in box </s> add eggs to bowl 1
+making scrambled eggs: </s> get eggs in box </s> mix until smooth 1
+making scrambled eggs: </s> put in the baking dish </s> get eggs in box 0
+making scrambled eggs: </s> cook for 10 minutes </s> get eggs in box 0
+making scrambled eggs: </s> remove dish </s> get eggs in box 0
+making scrambled eggs: </s> get mixing bowl </s> pour box of eggs into food processor 0
+making scrambled eggs: </s> get bowl </s> pour box of eggs into food processor 0
+making scrambled eggs: </s> add eggs to bowl </s> pour box of eggs into food processor 0
+making scrambled eggs: </s> mix until smooth </s> pour box of eggs into food processor 0
+making scrambled eggs: </s> put in the baking dish </s> pour box of eggs into food processor 0
+making scrambled eggs: </s> cook for 10 minutes </s> pour box of eggs into food processor 0
+making scrambled eggs: </s> remove dish </s> pour box of eggs into food processor 0
+making scrambled eggs: </s> get mixing bowl </s> get bowl 1
+making scrambled eggs: </s> get mixing bowl </s> add eggs to bowl 1
+making scrambled eggs: </s> mix until smooth </s> get mixing bowl 0
+making scrambled eggs: </s> get mixing bowl </s> put in the baking dish 1
+making scrambled eggs: </s> get mixing bowl </s> cook for 10 minutes 1
+making scrambled eggs: </s> get mixing bowl </s> remove dish 1
+making scrambled eggs: </s> get bowl </s> add eggs to bowl 1
+making scrambled eggs: </s> get bowl </s> mix until smooth 1
+making scrambled eggs: </s> get bowl </s> put in the baking dish 1
+making scrambled eggs: </s> cook for 10 minutes </s> get bowl 0
+making scrambled eggs: </s> remove dish </s> get bowl 0
+making scrambled eggs: </s> add eggs to bowl </s> mix until smooth 1
+making scrambled eggs: </s> add eggs to bowl </s> put in the baking dish 1
+making scrambled eggs: </s> cook for 10 minutes </s> add eggs to bowl 0
+making scrambled eggs: </s> add eggs to bowl </s> remove dish 1
+making scrambled eggs: </s> mix until smooth </s> put in the baking dish 1
+making scrambled eggs: </s> mix until smooth </s> cook for 10 minutes 1
+making scrambled eggs: </s> mix until smooth </s> remove dish 1
+making scrambled eggs: </s> put in the baking dish </s> cook for 10 minutes 1
+making scrambled eggs: </s> remove dish </s> put in the baking dish 0
+making scrambled eggs: </s> remove dish </s> cook for 10 minutes 0
+taking the underground: </s> park </s> walk to area 1
+taking the underground: </s> enter area </s> park 0
+taking the underground: </s> park </s> grab shovel 1
+taking the underground: </s> park </s> dig hole 1
+taking the underground: </s> park </s> exit hole 1
+taking the underground: </s> park </s> remove shovel 1
+taking the underground: </s> walk to area </s> enter area 1
+taking the underground: </s> walk to area </s> grab shovel 1
+taking the underground: </s> walk to area </s> dig hole 1
+taking the underground: </s> walk to area </s> exit hole 1
+taking the underground: </s> walk to area </s> remove shovel 1
+taking the underground: </s> grab shovel </s> enter area 0
+taking the underground: </s> enter area </s> dig hole 1
+taking the underground: </s> exit hole </s> enter area 0
+taking the underground: </s> remove shovel </s> enter area 0
+taking the underground: </s> grab shovel </s> dig hole 1
+taking the underground: </s> exit hole </s> grab shovel 0
+taking the underground: </s> grab shovel </s> remove shovel 1
+taking the underground: </s> dig hole </s> exit hole 1
+taking the underground: </s> dig hole </s> remove shovel 1
+taking the underground: </s> exit hole </s> remove shovel 1
+taking the underground: </s> go through the tunnel </s> enter the underground 0
+taking the underground: </s> come to a spot </s> enter the underground 0
+taking the underground: </s> enter the underground </s> leave the place 1
+taking the underground: </s> come to a spot </s> go through the tunnel 0
+taking the underground: </s> leave the place </s> go through the tunnel 0
+taking the underground: </s> leave the place </s> come to a spot 0
+taking the underground: </s> drive to underground station </s> park at the station 1
+taking the underground: </s> enter the station </s> drive to underground station 0
+taking the underground: </s> walk up the stairs to find your seat </s> drive to underground station 0
+taking the underground: </s> enter the station </s> park at the station 0
+taking the underground: </s> park at the station </s> walk up the stairs to find your seat 1
+taking the underground: </s> walk up the stairs to find your seat </s> enter the station 0
+taking the underground: </s> find a place to get out </s> find a place to get into the underground 0
+taking the underground: </s> go to the entrance </s> climb the stairs 1
+taking the underground: </s> enter the tunnel </s> go to the entrance 0
+taking the underground: </s> go to the entrance </s> exit at the exit 1
+taking the underground: </s> climb the stairs </s> enter the tunnel 1
+taking the underground: </s> climb the stairs </s> exit at the exit 1
+taking the underground: </s> enter the tunnel </s> exit at the exit 1

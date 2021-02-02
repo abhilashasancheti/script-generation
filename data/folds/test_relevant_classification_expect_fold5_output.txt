@@ -1,0 +1,229 @@
+taking a shower: </s> enter shower 1
+taking a shower: </s> turn on water 1
+taking a shower: </s> take off clothes 1
+taking a shower: </s> fill with water 1
+taking a shower: </s> turn water off 1
+taking a shower: </s> get into shower 1
+taking a shower: </s> sit on water 1
+taking a shower: </s> wet down 1
+taking a shower: </s> get out of shower 1
+taking a shower: </s> dry off 1
+taking a shower: </s> get in shower 1
+taking a shower: </s> turn on the water 1
+taking a shower: </s> get a towel 1
+taking a shower: </s> step into shower 1
+taking a shower: </s> sit in the shower 1
+taking a shower: </s> rinse and dry 1
+taking a shower: </s> get dressed 1
+taking a shower: </s> open the door 1
+taking a shower: </s> turn on the water 1
+taking a shower: </s> step in the water 1
+taking a shower: </s> relax into the water 1
+taking a shower: </s> close the door 1
+taking a shower: </s> take off clothes 1
+taking a shower: </s> turn on water 1
+taking a shower: </s> fill water with water 1
+taking a shower: </s> get into shower 1
+taking a shower: </s> wash yourself with soap 1
+taking a shower: </s> rinse and dry yourself with a towel 1
+taking a shower: </s> step out of shower 1
+taking a shower: </s> open the shower 1
+taking a shower: </s> put the tub in the tub and turn the water on 1
+taking a shower: </s> open the shower door and close it 1
+taking a shower: </s> get into the tub 1
+taking a shower: </s> get wet 1
+taking a shower: </s> close the shower door 1
+taking a shower: </s> get in the shower 1
+taking a shower: </s> spray the shower 1
+taking a shower: </s> turn off the water 1
+taking a shower: </s> get out of the shower 1
+taking a shower: </s> open the drain 1
+taking a shower: </s> get in the tub 1
+taking a shower: </s> wash the body with a shower 1
+taking a shower: </s> drain the tub 1
+taking a shower: </s> put clothes in the dryer 1
+taking a shower: </s> get out of the dryer 1
+ironing laundry: </s> get the iron and the towel 1
+ironing laundry: </s> put the iron on a rack on a shelf 1
+ironing laundry: </s> put the towel on the rack 1
+ironing laundry: </s> get the garment that needs ironing 1
+ironing laundry: </s> put the iron on the garment 1
+ironing laundry: </s> get the washcloth 1
+ironing laundry: </s> use the washcloth to rub the iron up 1
+ironing laundry: </s> take the laundry to the washer 1
+ironing laundry: </s> open the washer 1
+ironing laundry: </s> put the clothes on the dryer 1
+ironing laundry: </s> put the clothes in the dryer 1
+ironing laundry: </s> close the dryer 1
+ironing laundry: </s> let the clothes dry 1
+ironing laundry: </s> put the clothes away 1
+ironing laundry: </s> get new clothes 1
+ironing laundry: </s> grab laundry detergent 1
+ironing laundry: </s> open up the laundry room 1
+ironing laundry: </s> open the clothes and lay in the machine 1
+ironing laundry: </s> turn on the machine 1
+ironing laundry: </s> wait for it to finish 1
+ironing laundry: </s> when finished, put on clean clothes 1
+ironing laundry: </s> fold and hang them up 1
+ironing laundry: </s> run washing machine 1
+ironing laundry: </s> get detergent 1
+ironing laundry: </s> put machine in 1
+ironing laundry: </s> turn on machine 1
+ironing laundry: </s> wait for machine to finish 1
+ironing laundry: </s> open door to laundry 1
+ironing laundry: </s> put all clothes in washing machine 1
+ironing laundry: </s> put detergent in washing machine 1
+ironing laundry: </s> take clothes out of washing machine 1
+ironing laundry: </s> put clothes away 1
+ironing laundry: </s> put a washing machine in. 1
+ironing laundry: </s> put the laundry in the washing machine. 1
+ironing laundry: </s> put the detergent in. 1
+ironing laundry: </s> put the fabric in the washing machine. 1
+ironing laundry: </s> wait for it to do. 1
+ironing laundry: </s> place dirty clothes in washing machine. 1
+ironing laundry: </s> turn on washer to desired temperature. 1
+ironing laundry: </s> close lid. 1
+ironing laundry: </s> wait for washer to finish. 1
+ironing laundry: </s> remove dirty clothes and place in dryer. 1
+ironing laundry: </s> place clothes in dryer. 1
+ironing laundry: </s> open lid and remove clothes. 1
+taking a driving lesson: </s> get in car 1
+taking a driving lesson: </s> drive to the store 1
+taking a driving lesson: </s> buy the book 1
+taking a driving lesson: </s> get in the car 1
+taking a driving lesson: </s> take the instruction 1
+taking a driving lesson: </s> drive to the street 1
+taking a driving lesson: </s> wait for the stop 1
+taking a driving lesson: </s> get out of the car 1
+taking a driving lesson: </s> take the test 1
+taking a driving lesson: </s> get in the car 1
+taking a driving lesson: </s> drive to school 1
+taking a driving lesson: </s> park your car in the lot 1
+taking a driving lesson: </s> get into the car 1
+taking a driving lesson: </s> wait for the driver to come 1
+taking a driving lesson: </s> take the driver to your home 1
+taking a driving lesson: </s> go to the school. 1
+taking a driving lesson: </s> take the exam. 1
+taking a driving lesson: </s> sit in the car. 1
+taking a driving lesson: </s> take your test. 1
+taking a driving lesson: </s> pay the fee. 1
+taking a driving lesson: </s> take a seat. 1
+taking a driving lesson: </s> look at the map. 1
+taking a driving lesson: </s> leave. 1
+taking a driving lesson: </s> find an instructor you like 1
+taking a driving lesson: </s> get a rental car 1
+taking a driving lesson: </s> drive to the rental car 1
+taking a driving lesson: </s> rent the rental car 1
+taking a driving lesson: </s> pay for the rental car 1
+taking a driving lesson: </s> take your driving lessons 1
+taking a driving lesson: </s> drive the rental car to your destination 1
+taking a driving lesson: </s> leave the rental car 1
+taking a driving lesson: </s> go home 1
+taking a driving lesson: </s> put on driving shoes 1
+taking a driving lesson: </s> turn on car 1
+taking a driving lesson: </s> drive to the destination 1
+taking a driving lesson: </s> sit in the car 1
+taking a driving lesson: </s> get out of car when you have to take a test 1
+taking a driving lesson: </s> take a lesson 1
+taking a driving lesson: </s> drive home 1
+going to the dentist: </s> call the dentist 1
+going to the dentist: </s> tell the dentist what you need 1
+going to the dentist: </s> give the dentist your name 1
+going to the dentist: </s> fill out the paperwork 1
+going to the dentist: </s> walk to the dentist 1
+going to the dentist: </s> look up a few teeth 1
+going to the dentist: </s> check in the dentist's chair 1
+going to the dentist: </s> give the dentist your money 1
+going to the dentist: </s> give the dentist your teeth 1
+going to the dentist: </s> walk back home 1
+going to the dentist: </s> go to the dentist's office 1
+going to the dentist: </s> have the dentist go to the chair 1
+going to the dentist: </s> take the tooth out of the toothbrush 1
+going to the dentist: </s> have the dentist clean out the tooth 1
+going to the dentist: </s> pay for the service 1
+going to the dentist: </s> go home 1
+going to the dentist: </s> drive to the dentist 1
+going to the dentist: </s> go to the front desk 1
+going to the dentist: </s> give your name to the receptionist 1
+going to the dentist: </s> tell the receptionist what type of dental care you need 1
+going to the dentist: </s> go into the dental office 1
+going to the dentist: </s> sit in a chair and relax 1
+going to the dentist: </s> sit down and do your work 1
+going to the dentist: </s> get your tooth brushed 1
+going to the dentist: </s> take out the old tooth 1
+going to the dentist: </s> rinse off the old tooth 1
+going to the dentist: </s> get your new tooth 1
+going to the dentist: </s> take it to the counter 1
+going to the dentist: </s> get your dentist to sign your name on your tooth 1
+going to the dentist: </s> take it to the chair 1
+going to the dentist: </s> put the new tooth in your mouth 1
+going to the dentist: </s> take your dental bill from the dentist 1
+going to the dentist: </s> look up dentist's office hours on the internet. 1
+going to the dentist: </s> go to the dental office. 1
+going to the dentist: </s> talk to receptionist. 1
+going to the dentist: </s> go into the waiting area. 1
+going to the dentist: </s> pay for a filling. 1
+going to the dentist: </s> go to dentist's chair. 1
+going to the dentist: </s> sit down. 1
+going to the dentist: </s> allow dentist to remove your tooth. 1
+going to the dentist: </s> look up dental appointment. 1
+going to the dentist: </s> sign the bill. 1
+going to the dentist: </s> leave dentist's office. 1
+going to the dentist: </s> get toothbrush 1
+going to the dentist: </s> get toothpaste 1
+going to the dentist: </s> get a glass of water 1
+going to the dentist: </s> go to the dentist 1
+going to the dentist: </s> tell the dentist the amount of your toothache 1
+going to the dentist: </s> give the dentist your contact information 1
+going to the dentist: </s> sit and wait for the dentist to make a diagnosis 1
+going to the dentist: </s> go to your dentist 1
+going to the dentist: </s> be patient 1
+going to the dentist: </s> get your toothbrush 1
+going to the dentist: </s> fill your toothbrush with toothpaste 1
+going to the dentist: </s> brush the tooth 1
+going to the dentist: </s> take a picture of the dentist's chair 1
+going to the dentist: </s> leave the dentist with the toothbrush 1
+going to the dentist: </s> leave the dentist's office 1
+going to a funeral: </s> call family members 1
+going to a funeral: </s> tell them about funeral plans 1
+going to a funeral: </s> give family a few things to eat or drink 1
+going to a funeral: </s> tell them how much time you will spend at funeral 1
+going to a funeral: </s> tell them how long you will have at funeral 1
+going to a funeral: </s> tell them how you wish to be buried or cremated 1
+going to a funeral: </s> decide what you want to do. 1
+going to a funeral: </s> drive to funeral home. 1
+going to a funeral: </s> enter. 1
+going to a funeral: </s> pay for funeral. 1
+going to a funeral: </s> leave. 1
+going to a funeral: </s> choose a cemetery 1
+going to a funeral: </s> drive to the cemetery 1
+going to a funeral: </s> look up family members 1
+going to a funeral: </s> drive to the cemetery 1
+going to a funeral: </s> park at the gate 1
+going to a funeral: </s> go inside and make funeral arrangements 1
+going to a funeral: </s> pay for funeral arrangements 1
+going to a funeral: </s> drive back out into the world 1
+going to a funeral: </s> be kind to people 1
+going to a funeral: </s> leave the cemetery 1
+going to a funeral: </s> leave home 1
+going to a funeral: </s> find your car 1
+going to a funeral: </s> drive to funeral home 1
+going to a funeral: </s> enter car 1
+going to a funeral: </s> go to your assigned room 1
+going to a funeral: </s> put on your dress 1
+going to a funeral: </s> listen as funeral attendant reads a poem 1
+going to a funeral: </s> find a chair 1
+going to a funeral: </s> wait for the coffin 1
+going to a funeral: </s> say a silent prayer 1
+going to a funeral: </s> take off your dress 1
+going to a funeral: </s> go to your grave 1
+going to a funeral: </s> arrive 1
+going to a funeral: </s> check in 1
+going to a funeral: </s> go to front desk 1
+going to a funeral: </s> make an appointment 1
+going to a funeral: </s> enter 1
+going to a funeral: </s> find someone who will sit in car 1
+going to a funeral: </s> pay for services 1
+going to a funeral: </s> find a urn 1
+going to a funeral: </s> give them a hug 1
+going to a funeral: </s> exit 1

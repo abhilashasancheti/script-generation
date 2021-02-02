@@ -1,0 +1,1482 @@
+taking the underground: </s> find entrance 1
+taking the underground: </s> walk down stairs 1
+taking the underground: </s> decide which line to take 1
+taking the underground: </s> wait for train to arrive 1
+taking the underground: </s> wait for doors to open 1
+taking the underground: </s> enter train 1
+taking the underground: </s> find spot to sit or stand 1
+taking the underground: </s> wait for doors to close 1
+taking the underground: </s> ride train to stop 1
+taking the underground: </s> wait for doors to open 1
+taking the underground: </s> exit train 1
+taking the underground: </s> find a destination 1
+taking the underground: </s> go to subway station 1
+taking the underground: </s> pay for ticket 1
+taking the underground: </s> find proper subway to take 1
+taking the underground: </s> when subway arrived get into subway 1
+taking the underground: </s> get off at desired destination 1
+taking the underground: </s> walk to desired location 1
+taking the underground: </s> walk down the stairs into the station 1
+taking the underground: </s> walk towards the turnstile 1
+taking the underground: </s> swipe my transit pass through the turnstile 1
+taking the underground: </s> walk down the stairs from the turnstile level to the platform level 1
+taking the underground: </s> wait on the platform for the subway car to come 1
+taking the underground: </s> when it comes by, get on the car 1
+taking the underground: </s> if there's a seat on the car, sit down,  if no seats available, find a spot to stand 1
+taking the underground: </s> ride the subway car to my stop 1
+taking the underground: </s> at my stop, get out of the car 1
+taking the underground: </s> walk up the stairs to the turnstile level 1
+taking the underground: </s> walk out the subway gate 1
+taking the underground: </s> walk up the stairs to the street level 1
+taking the underground: </s> walk to subway station 1
+taking the underground: </s> pay for train ticket 1
+taking the underground: </s> walk through roundabout 1
+taking the underground: </s> walk down the stairs into subway 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> get on train 1
+taking the underground: </s> walking down the steps 1
+taking the underground: </s> going through the counter 1
+taking the underground: </s> purchasing a ticket 1
+taking the underground: </s> waiting on the platform 1
+taking the underground: </s> walking through the subway doors 1
+taking the underground: </s> selecting a seat 1
+taking the underground: </s> waiting on the subway during the ride 1
+taking the underground: </s> walking off the subway at your destination 1
+taking the underground: </s> decide where you want to go. 1
+taking the underground: </s> find the proper train/bus to take. 1
+taking the underground: </s> bring proper fare. 1
+taking the underground: </s> get to the station. 1
+taking the underground: </s> be careful. 1
+taking the underground: </s> get on proper train/bus. 1
+taking the underground: </s> prepare for your trip 1
+taking the underground: </s> when you get there 1
+taking the underground: </s> check travel information at station 1
+taking the underground: </s> buy ticket 1
+taking the underground: </s> get on tube 1
+taking the underground: </s> gather necessary equipment, such as flashlights, ropes, and weapons 1
+taking the underground: </s> find detailed map of tunnel system 1
+taking the underground: </s> bring camcorder to video record proof 1
+taking the underground: </s> enter underground through sewer access point 1
+taking the underground: </s> avoid mutant turtles and human waste 1
+taking the underground: </s> descend deeper and deeper, using rope and caution 1
+taking the underground: </s> battle the cannibalistic underground dwellers 1
+taking the underground: </s> retrieve their treasure. 1
+taking the underground: </s> quickly ascend to the surface. 1
+taking the underground: </s> celebrate, after a decent shower. 1
+taking the underground: </s> descend the stairs. 1
+taking the underground: </s> purchase ticket. 1
+taking the underground: </s> enter through gates. 1
+taking the underground: </s> find correct train for desired destination. 1
+taking the underground: </s> board train. 1
+taking the underground: </s> find a seat. 1
+taking the underground: </s> get off at correct stop. 1
+taking the underground: </s> leave station. 1
+taking the underground: </s> walk to underground station. 1
+taking the underground: </s> determine which train you need to take. 1
+taking the underground: </s> slide ticket through machine and enter station. 1
+taking the underground: </s> wait for desired train. 1
+taking the underground: </s> board train and sit or stand. 1
+taking the underground: </s> get off train at desired stop. 1
+taking the underground: </s> go downstairs to underground 1
+taking the underground: </s> buy your ticket 1
+taking the underground: </s> put your ticket in machine 1
+taking the underground: </s> go through turnstile 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> board train 1
+taking the underground: </s> ride train 1
+taking the underground: </s> view schedule on smart phone ahead of time 1
+taking the underground: </s> arrive to underground station 5 minutes early 1
+taking the underground: </s> pay for ticket 1
+taking the underground: </s> pass through the pay gate 1
+taking the underground: </s> head to correct terminal 1
+taking the underground: </s> wait for train to arrive 1
+taking the underground: </s> walk into the correct train 1
+taking the underground: </s> arrive at final destination 1
+taking the underground: </s> go to subway station 1
+taking the underground: </s> pay for a subway token 1
+taking the underground: </s> go through turnstiles 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> enter train 1
+taking the underground: </s> go to the station 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> board the train 1
+taking the underground: </s> reach destination 1
+taking the underground: </s> appear from beneath the sidewalk 1
+taking the underground: </s> talking to discreet people 1
+taking the underground: </s> researching the conventional ways so i can do the opposite 1
+taking the underground: </s> learning about the underground 1
+taking the underground: </s> finding the others who have done so 1
+taking the underground: </s> doing my best to obtain the underground 1
+taking the underground: </s> pay fairs 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> board train 1
+taking the underground: </s> find empty seat 1
+taking the underground: </s> sit down 1
+taking the underground: </s> wait for destination to be reached 1
+taking the underground: </s> stand up 1
+taking the underground: </s> leave train 1
+taking the underground: </s> choose the route you want to take 1
+taking the underground: </s> locate a station 1
+taking the underground: </s> pay for your fare 1
+taking the underground: </s> present your ticket to the agent 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> board train 1
+taking the underground: </s> get off of train at stop 1
+taking the underground: </s> keep fare 1
+taking the underground: </s> go to the kiosk and buy your ticket. 1
+taking the underground: </s> go down the escalator into the underground area. 1
+taking the underground: </s> insert your ticket into the ticket collector. 1
+taking the underground: </s> go through the entrance. 1
+taking the underground: </s> get your ticket on the other side. 1
+taking the underground: </s> get on your train and take your ride. 1
+taking the underground: </s> head out of the house 1
+taking the underground: </s> head the the underground entrance 1
+taking the underground: </s> walk down the stairs 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> wait for the next train 1
+taking the underground: </s> get on the train 1
+taking the underground: </s> find a seat 1
+taking the underground: </s> go to underground train station 1
+taking the underground: </s> buy token at kiosk 1
+taking the underground: </s> use token to enter train platform 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> train arrives 1
+taking the underground: </s> doors open 1
+taking the underground: </s> enter train 1
+taking the underground: </s> travel to destination 1
+taking the underground: </s> train stops 1
+taking the underground: </s> exit train 1
+taking the underground: </s> exit underground station 1
+taking the underground: </s> leave house. 1
+taking the underground: </s> walk to train terminal. 1
+taking the underground: </s> scan pass. 1
+taking the underground: </s> check schedule. 1
+taking the underground: </s> look for stop where my train will be. 1
+taking the underground: </s> walk over to stop where my train will be. 1
+taking the underground: </s> board train. 1
+taking the underground: </s> read book while travelling. 1
+taking the underground: </s> get off at destination. 1
+taking the underground: </s> enter into the subway 1
+taking the underground: </s> look at map to find destination 1
+taking the underground: </s> purchase ticket for destination 1
+taking the underground: </s> go to waiting point 1
+taking the underground: </s> wait for train to arrive 1
+taking the underground: </s> board train when available 1
+taking the underground: </s> sit or stand 1
+taking the underground: </s> exit train at destination 1
+taking the underground: </s> exit subway 1
+taking the underground: </s> walk down sidewalk to entrance point. 1
+taking the underground: </s> walk down stairs to subway area. 1
+taking the underground: </s> purchase ticket. 1
+taking the underground: </s> pass through turnstyle. 1
+taking the underground: </s> wait for train without crossing the line. 1
+taking the underground: </s> board train.get off on correct stop. 1
+taking the underground: </s> walk up steps to sidewalk level. 1
+taking the underground: </s> drive to the station 1
+taking the underground: </s> park your car 1
+taking the underground: </s> walk down the stairs 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> board the train 1
+taking the underground: </s> go to underground 1
+taking the underground: </s> buy ticket 1
+taking the underground: </s> go to platform 1
+taking the underground: </s> wait until train arrives 1
+taking the underground: </s> wait for people to get off train 1
+taking the underground: </s> get on train 1
+taking the underground: </s> ride until you reach your destination 1
+taking the underground: </s> get off train 1
+taking the underground: </s> exit underground 1
+taking the underground: </s> enter the station 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> go to the platform and wait for the underground 1
+taking the underground: </s> board the underground 1
+taking the underground: </s> find a seat or stand, wait patiently until your stop 1
+taking the underground: </s> exit the underground 1
+taking the underground: </s> leave the station 1
+taking the underground: </s> look up route 1
+taking the underground: </s> walk to station 1
+taking the underground: </s> buy ticket 1
+taking the underground: </s> board train 1
+taking the underground: </s> get off at desired stop 1
+taking the underground: </s> checking the schedule 1
+taking the underground: </s> getting on the right train 1
+taking the underground: </s> finding a seat 1
+taking the underground: </s> enjoying the ride 1
+taking the underground: </s> getting off at the correct stop 1
+taking the underground: </s> plan your route 1
+taking the underground: </s> check the schedule 1
+taking the underground: </s> prepare your fare 1
+taking the underground: </s> arrive at the station 1
+taking the underground: </s> wait on the platform 1
+taking the underground: </s> drive to tunnel 1
+taking the underground: </s> turn on headlights 1
+taking the underground: </s> slow down speed when in tunnel 1
+taking the underground: </s> drive through the tunnel 1
+taking the underground: </s> exit tunnel 1
+taking the underground: </s> get to the station 1
+taking the underground: </s> find your route 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> get on 1
+taking the underground: </s> find a seat 1
+taking the underground: </s> wait for your stop 1
+taking the underground: </s> get off 1
+taking the underground: </s> leave the station 1
+taking the underground: </s> walk to subway. 1
+taking the underground: </s> go downstairs. 1
+taking the underground: </s> pay tolls at gate. 1
+taking the underground: </s> go through gate. 1
+taking the underground: </s> walk to train. 1
+taking the underground: </s> get on train. 1
+taking the underground: </s> sit down. 1
+taking the underground: </s> go to the nearest underground station 1
+taking the underground: </s> swipe your oyster card or buy ticket 1
+taking the underground: </s> go to the correct platform 1
+taking the underground: </s> wait behind the line for the next train 1
+taking the underground: </s> when it arrives, board underground train 1
+taking the underground: </s> travel on the train to desired location 1
+taking the underground: </s> exit the train promptly. 1
+taking the underground: </s> find entrance 1
+taking the underground: </s> walk down stairs 1
+taking the underground: </s> decide which line to take 1
+taking the underground: </s> wait for train to arrive 1
+taking the underground: </s> wait for doors to open 1
+taking the underground: </s> enter train 1
+taking the underground: </s> find spot to sit or stand 1
+taking the underground: </s> wait for doors to close 1
+taking the underground: </s> ride train to stop 1
+taking the underground: </s> wait for doors to open 1
+taking the underground: </s> exit train 1
+taking the underground: </s> walk to station 1
+taking the underground: </s> purchase ticket 1
+taking the underground: </s> wait for correct train/car 1
+taking the underground: </s> enter train/car 1
+taking the underground: </s> choose a seat 1
+taking the underground: </s> sit in seat 1
+taking the underground: </s> remain seated until destination 1
+taking the underground: </s> arrive at station. 1
+taking the underground: </s> buy tickets at machine or with teller. 1
+taking the underground: </s> wait for train to arrive. 1
+taking the underground: </s> enter train. 1
+taking the underground: </s> find seat. 1
+taking the underground: </s> get off train at correct station. 1
+taking the underground: </s> walk down stairs 1
+taking the underground: </s> swipe card 1
+taking the underground: </s> walk to proper train 1
+taking the underground: </s> get on train 1
+taking the underground: </s> get off train 1
+taking the underground: </s> swipe card out 1
+taking the underground: </s> walk up stairs outside 1
+taking the underground: </s> go down the stairs 1
+taking the underground: </s> find the right train 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> present underground pass 1
+taking the underground: </s> get on the train 1
+taking the underground: </s> wait for stop 1
+taking the underground: </s> get off the train 1
+taking the underground: </s> walk up the stairs 1
+taking the underground: </s> go to the station 1
+taking the underground: </s> walk downstairs 1
+taking the underground: </s> pay the turnpike 1
+taking the underground: </s> wait for my train 1
+taking the underground: </s> get on train 1
+taking the underground: </s> go to my shed. 1
+taking the underground: </s> look for a shovel. 1
+taking the underground: </s> go to my yard. 1
+taking the underground: </s> test for rocks. 1
+taking the underground: </s> begin digging. 1
+taking the underground: </s> walk to the station 1
+taking the underground: </s> descend the escalator 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> enter through turnstile 1
+taking the underground: </s> wait for train on platform 1
+taking the underground: </s> enter subway car 1
+taking the underground: </s> find a seat or place to stand 1
+taking the underground: </s> ride to destination 1
+taking the underground: </s> exit subway car 1
+taking the underground: </s> take escalator to street level 1
+taking the underground: </s> take a shovel 1
+taking the underground: </s> take a spade 1
+taking the underground: </s> dig at the correct spot 1
+taking the underground: </s> dig more 1
+taking the underground: </s> remove the earth 1
+taking the underground: </s> take out any stones 1
+taking the underground: </s> take the underground 1
+taking the underground: </s> put back the soil 1
+taking the underground: </s> enter the underground 1
+taking the underground: </s> see what time the train comes 1
+taking the underground: </s> pay for your ticket 1
+taking the underground: </s> wait for the train to arrive at the underground 1
+taking the underground: </s> board the train 1
+taking the underground: </s> get hiking boots on 1
+taking the underground: </s> walk outside 1
+taking the underground: </s> get shovel 1
+taking the underground: </s> dig a hole 1
+taking the underground: </s> once hole is dug, take the underground 1
+taking the underground: </s> find your local subway entrance 1
+taking the underground: </s> go down and buy a ticket 1
+taking the underground: </s> walk through and into the station 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> board train and take it to destination 1
+taking the underground: </s> walk downtown 1
+taking the underground: </s> take stairs leading down 1
+taking the underground: </s> go through ticket entrance 1
+taking the underground: </s> walk to edge of platform 1
+taking the underground: </s> find appropriate place to stand 1
+taking the underground: </s> wait for car to stop 1
+taking the underground: </s> when door opens, step in 1
+taking the underground: </s> find secure spot to stand 1
+taking the underground: </s> ride until you reach destination 1
+taking the underground: </s> wait for car to stop 1
+taking the underground: </s> when door opens step out 1
+taking the underground: </s> walk through exit 1
+taking the underground: </s> go up stairs 1
+taking the underground: </s> exit underground 1
+taking the underground: </s> get dressed. 1
+taking the underground: </s> get wallet 1
+taking the underground: </s> walk to bus stop. 1
+taking the underground: </s> wait for bus. 1
+taking the underground: </s> get on bus. 1
+taking the underground: </s> ride to the stop. 1
+taking the underground: </s> get off. 1
+taking the underground: </s> walk to subway. 1
+taking the underground: </s> pay the fare. 1
+taking the underground: </s> wait for subway. 1
+taking the underground: </s> get on subway. 1
+taking the underground: </s> enter underground station. 1
+taking the underground: </s> buy ticket. 1
+taking the underground: </s> put ticket into gate. 1
+taking the underground: </s> walk through gate. 1
+taking the underground: </s> retrieve ticket. 1
+taking the underground: </s> walk to appropriate platform. 1
+taking the underground: </s> wait for train. 1
+taking the underground: </s> board train. 1
+taking the underground: </s> ride train to appropriate stop. 1
+taking the underground: </s> disembark train. walk up to surface level. 1
+taking the underground: </s> put ticket into gate. 1
+taking the underground: </s> walk through gate. 1
+taking the underground: </s> retrieve ticket (if it still has money on it). 1
+taking the underground: </s> exit underground station. 1
+taking the underground: </s> traveling to station 1
+taking the underground: </s> purchase fare for subway 1
+taking the underground: </s> enter railcar 1
+taking the underground: </s> ride to your destination 1
+taking the underground: </s> exit when you arrive 1
+taking the underground: </s> go to subway depot 1
+taking the underground: </s> pay fare 1
+taking the underground: </s> wait for subway 1
+taking the underground: </s> get on subway 1
+taking the underground: </s> ride 1
+taking the underground: </s> purchase a subway ticket 1
+taking the underground: </s> find the line that you need to take 1
+taking the underground: </s> wait for the subway to arrive 1
+taking the underground: </s> take the subway to your destination 1
+taking the underground: </s> get off at the proper stop 1
+taking the underground: </s> go through the gates 1
+taking the underground: </s> climb up the stairs and arrive at your destination 1
+taking the underground: </s> go down the stairs to the underground 1
+taking the underground: </s> pay as you enter 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> get on the train 1
+taking the underground: </s> sit down if there's a seat available 1
+taking the underground: </s> travel to your destination 1
+taking the underground: </s> get offf 1
+taking the underground: </s> walk to the subway station 1
+taking the underground: </s> figure out which train you need to board 1
+taking the underground: </s> get on the train 1
+taking the underground: </s> figure out which stop you need to get off at 1
+taking the underground: </s> get off at your stop 1
+taking the underground: </s> go to station 1
+taking the underground: </s> purchase fare or have token ready 1
+taking the underground: </s> check schedules for desired destination 1
+taking the underground: </s> go through turnstile for desired train platform 1
+taking the underground: </s> wait for train arrival 1
+taking the underground: </s> wait for arriving passengers to get off 1
+taking the underground: </s> board the train 1
+taking the underground: </s> find a seat 1
+taking the underground: </s> ride until destination reached 1
+taking the underground: </s> locate your station on the map 1
+taking the underground: </s> locate where you want to go 1
+taking the underground: </s> decided which train you need to take 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> wait for your train 1
+taking the underground: </s> get on your train quickly once it arrives 1
+taking the underground: </s> take a seat 1
+taking the underground: </s> be aware of where you're going 1
+taking the underground: </s> check the map 1
+taking the underground: </s> walk to the correct platform 1
+taking the underground: </s> wait back from the yellow line 1
+taking the underground: </s> wait for the train to completely stop 1
+taking the underground: </s> enter once the doors are open 1
+taking the underground: </s> quickly pick a location to stand or sit 1
+taking the underground: </s> listen and watch the stations for your stop 1
+taking the underground: </s> wait on ramp 1
+taking the underground: </s> wait for passengers to disembark 1
+taking the underground: </s> board the underground 1
+taking the underground: </s> find a seat if available 1
+taking the underground: </s> wait for your stop 1
+taking the underground: </s> disembark underground 1
+taking the underground: </s> decide where you want to go. 1
+taking the underground: </s> find the nearest subway line. 1
+taking the underground: </s> walk down to the subway. 1
+taking the underground: </s> find the correct subway route. 1
+taking the underground: </s> buy your ticket. 1
+taking the underground: </s> go to the correct train 1
+taking the underground: </s> get on the train. 1
+taking the underground: </s> remember what stop is yours. 1
+taking the underground: </s> get off at the correct stop. 1
+taking the underground: </s> determine destination 1
+taking the underground: </s> look at schedule online 1
+taking the underground: </s> go to station 1
+taking the underground: </s> pay for ticket 1
+taking the underground: </s> wait for correct train 1
+taking the underground: </s> board train 1
+taking the underground: </s> travel to correct stop 1
+taking the underground: </s> get off train 1
+taking the underground: </s> go down the stairs 1
+taking the underground: </s> go to the kiosk 1
+taking the underground: </s> buy your metrocard 1
+taking the underground: </s> swipe your metrocard 1
+taking the underground: </s> get on the train 1
+taking the underground: </s> get off at the right stop 1
+taking the underground: </s> exit the underground 1
+taking the underground: </s> buy token or card to purchase ticket 1
+taking the underground: </s> walk through turn style 1
+taking the underground: </s> when train doors open get onto train 1
+taking the underground: </s> when at your stop wait for doors to open 1
+taking the underground: </s> get off train 1
+taking the underground: </s> dig a hole or find a cave/portal 1
+taking the underground: </s> gather battle supplies 1
+taking the underground: </s> purify the underground of evil and vanquish the enemy 1
+taking the underground: </s> rebuild what is left or seal it off to ensure safety of all citizens 1
+taking the underground: </s> live in peace knowing the world is safe, at least for today 1
+taking the underground: </s> go down tunnel towards train 1
+taking the underground: </s> obtain a ticket 1
+taking the underground: </s> swipe the ticket at a turnstyle 1
+taking the underground: </s> find the correct train platform 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> board the train 1
+taking the underground: </s> observe how many stops go by 1
+taking the underground: </s> leave the train at desired stop 1
+taking the underground: </s> walk to the station. 1
+taking the underground: </s> decide where you want to go. 1
+taking the underground: </s> buy ticket or token. 1
+taking the underground: </s> walk down stairs to where the trains arrive. 1
+taking the underground: </s> wait on platform for train. 1
+taking the underground: </s> when train arrives, get on it. 1
+taking the underground: </s> find a seat on train. 1
+taking the underground: </s> sit in seat. 1
+taking the underground: </s> look at other passengers. 1
+taking the underground: </s> look away from other passengers if they see you looking at them. 1
+taking the underground: </s> play some music on your phone to pass the time on your journey. 1
+taking the underground: </s> play a game on your phone to pass the time on your journey. 1
+taking the underground: </s> when you get to your destination, exit the train. 1
+taking the underground: </s> follow the signs to the exit. 1
+taking the underground: </s> you have arrived at your destination. 1
+taking the underground: </s> riding a subway 1
+taking the underground: </s> going through a tunnel 1
+taking the underground: </s> going to the underground railroad 1
+taking the underground: </s> purchasing a subway ticket 1
+taking the underground: </s> riding the train 1
+taking the underground: </s> find correct train 1
+taking the underground: </s> get ticket or passkey 1
+taking the underground: </s> head down the stairs and wait for train 1
+taking the underground: </s> board train after it stops 1
+taking the underground: </s> find seat 1
+taking the underground: </s> listen to music or read 1
+taking the underground: </s> exit on correct stop 1
+taking the underground: </s> map out trip 1
+taking the underground: </s> arrive at station 1
+taking the underground: </s> buy ticket 1
+taking the underground: </s> board train 1
+taking the underground: </s> arrive at destination 1
+taking the underground: </s> get dressed 1
+taking the underground: </s> check the maps to see the times for the underground train 1
+taking the underground: </s> go to the train station 1
+taking the underground: </s> buy a ticket or pay the fee for the train 1
+taking the underground: </s> wait for the correct train to arrive 1
+taking the underground: </s> get on to the train 1
+taking the underground: </s> find a seat 1
+taking the underground: </s> leave when you arrive at your destination 1
+taking the underground: </s> talk slowly 1
+taking the underground: </s> going fast 1
+taking the underground: </s> awareness 1
+taking the underground: </s> don't talk much more time 1
+taking the underground: </s> leave the underground 1
+taking the underground: </s> safety first 1
+taking the underground: </s> check a subway map. 1
+taking the underground: </s> find the nearest subway stop. 1
+taking the underground: </s> walk down the steps into the station. 1
+taking the underground: </s> scan my subway card at the turnstile. 1
+taking the underground: </s> walk to the area to board the train. 1
+taking the underground: </s> wait with other passengers for my train. 1
+taking the underground: </s> climb on board and taking a seat if there is one available. 1
+taking the underground: </s> get off at my stop. 1
+taking the underground: </s> climb the stairs up to the street. 1
+taking the underground: </s> plan the journey 1
+taking the underground: </s> check travel information 1
+taking the underground: </s> buy the ticket 1
+taking the underground: </s> go to the correct platform 1
+taking the underground: </s> enter the train 1
+taking the underground: </s> complete the journey 1
+taking the underground: </s> get down from train 1
+taking the underground: </s> drive or walk to station 1
+taking the underground: </s> walk downstairs 1
+taking the underground: </s> pay for ticket 1
+taking the underground: </s> use ticket at turnstile and move through 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> check timetable if necessary 1
+taking the underground: </s> step onto train 1
+taking the underground: </s> take a seat or hold onto strap 1
+taking the underground: </s> sit through ride 1
+taking the underground: </s> get off at appropriate stop 1
+taking the underground: </s> exit turnstile 1
+taking the underground: </s> climb stairs to outside world 1
+taking the underground: </s> carry on with life 1
+taking the underground: </s> enter the station 1
+taking the underground: </s> check the train schedules 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> get on the train 1
+taking the underground: </s> take a seat or stand 1
+taking the underground: </s> arrive at destination 1
+taking the underground: </s> get off the train 1
+taking the underground: </s> go to the station. 1
+taking the underground: </s> purchase a ticket. 1
+taking the underground: </s> get on the subway. 1
+taking the underground: </s> sit down. 1
+taking the underground: </s> ride to your destination. 1
+taking the underground: </s> walk or drive to the nearest station 1
+taking the underground: </s> pay at the booth for a new card if you don't already have one 1
+taking the underground: </s> scan your card in 1
+taking the underground: </s> walk to your desired train 1
+taking the underground: </s> get in the train 1
+taking the underground: </s> arrive at your destination 1
+taking the underground: </s> get off of the train 1
+taking the underground: </s> walk out of the station 1
+taking the underground: </s> find correct station 1
+taking the underground: </s> enter station 1
+taking the underground: </s> buy ticket for correct route 1
+taking the underground: </s> give ticket to ticket taker 1
+taking the underground: </s> board train 1
+taking the underground: </s> ride to destination 1
+taking the underground: </s> walk to the station 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> swipe ticket to enter 1
+taking the underground: </s> board the underground 1
+taking the underground: </s> sit down if there is room 1
+taking the underground: </s> get off the underground at destination 1
+taking the underground: </s> get to the underground station 1
+taking the underground: </s> buy tickets for your journey 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> board the train 1
+taking the underground: </s> get down at your destination 1
+taking the underground: </s> underground is meant for hiding. 1
+taking the underground: </s> by taking the underground one can avoid casualties in war. 1
+taking the underground: </s> underground not only prevent in war but also prevent from cyclone. 1
+taking the underground: </s> though wooden house and even concrete house gone in cyclone you are safe in underground. 1
+taking the underground: </s> nowadays ready made underground also available which comes with some important things. 1
+taking the underground: </s> bunker which is known as underground can be used both military and civilians. 1
+taking the underground: </s> arrive at subway 1
+taking the underground: </s> buy ticket 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> enter train 1
+taking the underground: </s> arrive destination 1
+taking the underground: </s> exit train 1
+taking the underground: </s> walking on the street 1
+taking the underground: </s> entering the underground 1
+taking the underground: </s> paying for a ticket 1
+taking the underground: </s> waiting on platform for underground 1
+taking the underground: </s> entering the underground when arrives 1
+taking the underground: </s> taking a train 1
+taking the underground: </s> getting on the train 1
+taking the underground: </s> taking the subway 1
+taking the underground: </s> getting on the subway 1
+taking the underground: </s> hopping on the train 1
+taking the underground: </s> go to the underground station 1
+taking the underground: </s> buy a ticket 1
+taking the underground: </s> look at the map of where i'm going 1
+taking the underground: </s> walk to my train 1
+taking the underground: </s> get on it 1
+taking the underground: </s> go to transit station 1
+taking the underground: </s> buy subway card 1
+taking the underground: </s> scan card at entrance 1
+taking the underground: </s> walk to subway platform and wait for train 1
+taking the underground: </s> board train when it arrives 1
+taking the underground: </s> find a seat or stand if crowded 1
+taking the underground: </s> exit train at appropriate stop 1
+taking the underground: </s> leave station 1
+taking the underground: </s> walk to the underground station 1
+taking the underground: </s> go to ticket booth 1
+taking the underground: </s> purchase ticket 1
+taking the underground: </s> walk through turnstile 1
+taking the underground: </s> board the car 1
+taking the underground: </s> determine destination 1
+taking the underground: </s> consult map 1
+taking the underground: </s> walk to underground entrance 1
+taking the underground: </s> descend 1
+taking the underground: </s> read signs to determine platform choice 1
+taking the underground: </s> wait for train to enter station 1
+taking the underground: </s> mind the gap! 1
+taking the underground: </s> enter car when the doors open 1
+taking the underground: </s> enjoy ride 1
+taking the underground: </s> notice sign for underground tunnel 1
+taking the underground: </s> decide to take the underground short cut 1
+taking the underground: </s> walk down ramp to tunnel 1
+taking the underground: </s> walk through tunnel to avoid traffic 1
+taking the underground: </s> walk back up ramp to outside 1
+taking the underground: </s> look up map of underground to see where i need to go. 1
+taking the underground: </s> walk down stairs. 1
+taking the underground: </s> buy ticket. 1
+taking the underground: </s> wait for my train to arrive. 1
+taking the underground: </s> board my train. 1
+taking the underground: </s> wait until train arrives at my stop. 1
+taking the underground: </s> get off the train. 1
+taking the underground: </s> walk to the station entrance. 1
+taking the underground: </s> go down the stairs. 1
+taking the underground: </s> purchase your ticket fare. 1
+taking the underground: </s> pay at the turnstile and enter the platform area. 1
+taking the underground: </s> identify which train you need to take. 1
+taking the underground: </s> wait on the platform for the train to come. 1
+taking the underground: </s> board the train when it arrives. 1
+taking the underground: </s> when it reaches your destination stop, get off of the train. 1
+taking the underground: </s> go up the stairs and exit the station. 1
+taking the underground: </s> determine the line appropriate for the destination 1
+taking the underground: </s> purchase ticket 1
+taking the underground: </s> descend stairs to platform inserting ticket into turnstile 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> board train 1
+taking the underground: </s> disembark at destination 1
+taking the underground: </s> look up directions for my location 1
+taking the underground: </s> buy my ticket 1
+taking the underground: </s> wait at the platform 1
+taking the underground: </s> board the underground 1
+taking the underground: </s> find seat 1
+taking the underground: </s> get off at designated stop 1
+taking the underground: </s> go to the entryway 1
+taking the underground: </s> purchase ticket if i don't have one 1
+taking the underground: </s> if i have ticket, put it through the machine 1
+taking the underground: </s> enter 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> board train 1
+taking the underground: </s> wait for my stop 1
+taking the underground: </s> when doors open, get out at stop 1
+taking the underground: </s> go to destination 1
+taking the underground: </s> enter underground station 1
+taking the underground: </s> buy ticket 1
+taking the underground: </s> check board to see when train arrives 1
+taking the underground: </s> board train 1
+taking the underground: </s> give ticket to conductor 1
+taking the underground: </s> find a seat 1
+taking the underground: </s> arrive at destination 1
+taking the underground: </s> exit underground 1
+taking the underground: </s> take escalators from street level 1
+taking the underground: </s> find correct bus bay 1
+taking the underground: </s> await bus 1
+taking the underground: </s> get on correct bus 1
+taking the underground: </s> pay for bus with change 1
+taking the underground: </s> find seat 1
+taking the underground: </s> sit quietly and enjoy the ride. 1
+taking the underground: </s> walk down the stairs to the underground 1
+taking the underground: </s> buy your subway ticket 1
+taking the underground: </s> board the subway 1
+taking the underground: </s> find a seat 1
+taking the underground: </s> sit down and enjoy the ride 1
+taking the underground: </s> decide where you need to go on the underground. 1
+taking the underground: </s> go to the underground station. 1
+taking the underground: </s> enter the underground station at your point of departure. 1
+taking the underground: </s> purchase tickets fro your journey at the ticket window or machine. 1
+taking the underground: </s> locate and navigate to the proper train platform. 1
+taking the underground: </s> wait for the train. 1
+taking the underground: </s> enter the train when it arrives. 1
+taking the underground: </s> stand or sit down if there is a seat available. 1
+taking the underground: </s> exit the train at your destination. 1
+taking the underground: </s> exit the underground station. 1
+taking the underground: </s> go to where you are headed. 1
+taking the underground: </s> walk to the underground station 1
+taking the underground: </s> purchase ticket 1
+taking the underground: </s> walk through the ticketing booth 1
+taking the underground: </s> go to boarding location 1
+taking the underground: </s> wait for the train 1
+taking the underground: </s> enter the train when it stops 1
+taking the underground: </s> walk to the underground entrance 1
+taking the underground: </s> enter and walk down the steps 1
+taking the underground: </s> reach the basement 1
+taking the underground: </s> ensure which direction to go using the sign boards 1
+taking the underground: </s> walk towards that direction 1
+taking the underground: </s> reach the exit point 1
+taking the underground: </s> walk up the stairs 1
+taking the underground: </s> reach the top of the road 1
+taking the underground: </s> enter subway station 1
+taking the underground: </s> pay fare 1
+taking the underground: </s> find correct platform 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> train arrives 1
+taking the underground: </s> get onto train 1
+taking the underground: </s> train reaches your destination 1
+taking the underground: </s> get off of train 1
+taking the underground: </s> leave subway platform 1
+taking the underground: </s> leave subway station 1
+taking the underground: </s> catching the train 1
+taking the underground: </s> riding the rapid 1
+taking the underground: </s> working the metro 1
+taking the underground: </s> take the (red,blue,green) line 1
+taking the underground: </s> using the light rail 1
+taking the underground: </s> public line 1
+taking the underground: </s> using the commuter 1
+taking the underground: </s> choose destination 1
+taking the underground: </s> go to underground station 1
+taking the underground: </s> look at map 1
+taking the underground: </s> determine correct route and trains 1
+taking the underground: </s> buy ticket or fare 1
+taking the underground: </s> go to platform 1
+taking the underground: </s> wait for train 1
+taking the underground: </s> board train when it arrives 1
+taking the underground: </s> travel 1
+taking the underground: </s> watch for desired stop 1
+taking the underground: </s> when train stops, get off 1
+taking the underground: </s> (repeat steps 5-11 if transfers are necessary) 1
+taking the underground: </s> depart station 1
+taking the underground: </s> get bags from cashier 0
+taking the underground: </s> crack eggs in a bowl. 0
+taking the underground: </s> vacuum 0
+taking the underground: </s> put glasses in dish rack 0
+taking the underground: </s> sit down in the water 0
+taking the underground: </s> check the bill amount 0
+taking the underground: </s> wait for plane 0
+taking the underground: </s> paint room 0
+taking the underground: </s> clean decorative items in the house 0
+taking the underground: </s> exit the sauna 0
+taking the underground: </s> purchase one-way or transfer ticket 0
+taking the underground: </s> tip the stylist. 0
+taking the underground: </s> enter sauna 0
+taking the underground: </s> wait for the bus 0
+taking the underground: </s> keep the items in trolley to your car 0
+taking the underground: </s> sit back, relax, and enjoy the flight. 0
+taking the underground: </s> thank server. 0
+taking the underground: </s> keep track of points 0
+taking the underground: </s> paint 0
+taking the underground: </s> put furniture back in room 0
+taking the underground: </s> tie the thread so the button will not come loose 0
+taking the underground: </s> put on gloves 0
+taking the underground: </s> figure out what you need 0
+taking the underground: </s> remove furniture from room 0
+taking the underground: </s> make fire 0
+taking the underground: </s> put thread in needle 0
+taking the underground: </s> measure and cut length of thread 0
+taking the underground: </s> go to swimming baths 0
+taking the underground: </s> place luggage down 0
+taking the underground: </s> collect scrap wood and sticks 0
+taking the underground: </s> follow flight attendant's instructions 0
+taking the underground: </s> tell clerk you want to place an order. 0
+taking the underground: </s> remove left over dirt 0
+taking the underground: </s> clean non-tile floors 0
+taking the underground: </s> carefully remove cake when finished baking. 0
+taking the underground: </s> bring selected books to librarian 0
+taking the underground: </s> walk to a tennis court 0
+taking the underground: </s> converse more with guests 0
+taking the underground: </s> read him/her his/her favorite story. 0
+taking the underground: </s> enter library 0
+taking the underground: </s> take your copy of the receipt. 0
+taking the underground: </s> find a location to plant tree 0
+taking the underground: </s> get a drink of water 0
+taking the underground: </s> leave restaurant 0
+taking the underground: </s> obtain alcohol 0
+taking the underground: </s> order pizza 0
+taking the underground: </s> pull up to the pump 0
+taking the underground: </s> turn the meat with the utensils 0
+taking the underground: </s> take outer part of tire off carefully. 0
+taking the underground: </s> set cake to cool 0
+taking the underground: </s> put one load into a washer 0
+taking the underground: </s> fold clothes and put away 0
+taking the underground: </s> locate and fill water reservoir on coffee maker 0
+taking the underground: </s> enjoy the show 0
+taking the underground: </s> tie the thread so the button will not come loose 0
+taking the underground: </s> notice flat is dirty 0
+taking the underground: </s> shower 0
+taking the underground: </s> put new tube on 0
+taking the underground: </s> when number called, pick up food items 0
+taking the underground: </s> then, you have to buy your ticket. 0
+taking the underground: </s> flip bike and remove wheel with wrench 0
+taking the underground: </s> pull thread forward 0
+taking the underground: </s> cover hole 0
+taking the underground: </s> towel or blow dry 0
+taking the underground: </s> pay for groceries 0
+taking the underground: </s> adding clothes to washer 0
+taking the underground: </s> dig a hole in a reasonable area 0
+taking the underground: </s> purchase rental of shoes 0
+taking the underground: </s> buckle seatbelt 0
+taking the underground: </s> scramble the mixture as it begins to cook 0
+taking the underground: </s> replace with new tire tube. 0
+taking the underground: </s> wait for show to start 0
+taking the underground: </s> water the tree 0
+taking the underground: </s> walk to check out 0
+taking the underground: </s> decide what is wrong with the food. 0
+taking the underground: </s> find a gas station 0
+taking the underground: </s> plan your trip 0
+taking the underground: </s> look at menu. 0
+taking the underground: </s> grease pan 0
+taking the underground: </s> open coffee can. 0
+taking the underground: </s> swim in pool 0
+taking the underground: </s> dust, starting high up and working down 0
+taking the underground: </s> then apply shampoo and lather with both hands 0
+taking the underground: </s> grab bottle of conditioner 0
+taking the underground: </s> use kerosene to help start fire. 0
+taking the underground: </s> paint walls 0
+taking the underground: </s> put carry on luggage in overhead bin. 0
+taking the underground: </s> say prayers and good night. 0
+taking the underground: </s> grab the soap 0
+taking the underground: </s> wait for new food to come back to you. 0
+taking the underground: </s> take the ticket 0
+taking the underground: </s> find a table 0
+taking the underground: </s> show tickets to attendant 0
+taking the underground: </s> eat your meal 0
+taking the underground: </s> when prompted, sign your name 0
+taking the underground: </s> unplug alarm clock if it's plugged in (if available) 0
+taking the underground: </s> buy tickets for theater 0
+taking the underground: </s> dig a hole 0
+taking the underground: </s> clean the hair 0
+taking the underground: </s> leave library 0
+taking the underground: </s> go to a tennis court 0
+taking the underground: </s> go to the forest 0
+taking the underground: </s> dig hole for tree 0
+taking the underground: </s> light weeds and wood. 0
+taking the underground: </s> put the tire back on the wheel 0
+taking the underground: </s> straighten the cushions on the couch 0
+taking the underground: </s> wait for it to dry 0
+taking the underground: </s> find the nearest train station 0
+taking the underground: </s> move things out of the room 0
+taking the underground: </s> turn off lights 0
+taking the underground: </s> drive or walk to the barber shop 0
+taking the underground: </s> improve your strategy 0
+taking the underground: </s> get drinks 0
+taking the underground: </s> click yes that you accept the charges 0
+taking the underground: </s> get coffee beans 0
+taking the underground: </s> scan ticket 0
+taking the underground: </s> enter the sauna 0
+taking the underground: </s> enter the theater 0
+taking the underground: </s> give address and phone number 0
+taking the underground: </s> put eggs in pan. 0
+taking the underground: </s> state paying with card or cash 0
+taking the underground: </s> take a quick cold shower 0
+taking the underground: </s> tip stylist 0
+taking the underground: </s> go to lady who calls your name. 0
+taking the underground: </s> place new batteries in 0
+taking the underground: </s> go home 0
+taking the underground: </s> go to concession stand and order food if desired 0
+taking the underground: </s> rinse the shampoo out of your hair 0
+taking the underground: </s> find a table 0
+taking the underground: </s> print out board pass on kiosk. 0
+taking the underground: </s> pick a day it's sunny. 0
+taking the underground: </s> place plug in sink drain 0
+taking the underground: </s> get off bus at destination 0
+taking the underground: </s> shop for goods. 0
+taking the underground: </s> put pan on stove 0
+taking the underground: </s> weigh the luggage 0
+taking the underground: </s> gather towel and fresh change of clothes. 0
+taking the underground: </s> clean up any items from barbecue 0
+taking the underground: </s> take food off grill and baste it with sauce 0
+taking the underground: </s> get your items back. 0
+taking the underground: </s> using a tire repair kit, cover the hole 0
+taking the underground: </s> open the fuel tank lid 0
+taking the underground: </s> wait for receipt to print. 0
+taking the underground: </s> select payment method for purchasing fuel. 0
+taking the underground: </s> take out battery. 0
+taking the underground: </s> ride train 0
+taking the underground: </s> explain order to employee 0
+taking the underground: </s> wait for new food to come back to you. 0
+taking the underground: </s> bag groceries 0
+taking the underground: </s> choose item 0
+taking the underground: </s> locate hole in tire 0
+taking the underground: </s> go inside the restaurant 0
+taking the underground: </s> turn temperature up 0
+taking the underground: </s> pay by credit card 0
+taking the underground: </s> get in car 0
+taking the underground: </s> put tree into hole 0
+taking the underground: </s> tell the child it is bedtime. 0
+taking the underground: </s> look up book in catalogue 0
+taking the underground: </s> organize loose papers 0
+taking the underground: </s> eat new food 0
+taking the underground: </s> build conical shape with wood 0
+taking the underground: </s> select how long to wash dishes 0
+taking the underground: </s> inflate the tire slowly. 0
+taking the underground: </s> put fixed tire on bike 0
+taking the underground: </s> heat pan. 0
+taking the underground: </s> repeat the process until all chicken is complete 0
+taking the underground: </s> fill a pot with water. 0
+taking the underground: </s> find an available tennis court 0
+taking the underground: </s> get out sewing kit. 0
+taking the underground: </s> wet hair down in sink 0
+taking the underground: </s> get in car 0
+taking the underground: </s> put nozzle back into pump 0
+taking the underground: </s> buy paint 0
+taking the underground: </s> buy new batteries 0
+taking the underground: </s> get into the pool. 0
+taking the underground: </s> walk to a tennis court 0
+taking the underground: </s> buy sapling 0
+taking the underground: </s> screw cap back on tire 0
+taking the underground: </s> stirring frequently. 0
+taking the underground: </s> look over menu 0
+taking the underground: </s> close gas tank. 0
+taking the underground: </s> get the number for the pizza place 0
+taking the underground: </s> wait for pasta to soften 0
+taking the underground: </s> leave 0
+taking the underground: </s> place your order 0
+taking the underground: </s> park in airport garage. 0
+taking the underground: </s> get shoes 0
+taking the underground: </s> rinse dishes 0
+taking the underground: </s> go to counter 0
+taking the underground: </s> fit the cover back 0
+taking the underground: </s> hand the checked luggage 0
+taking the underground: </s> buy a ticket. 0
+taking the underground: </s> put some newspaper in the pile, near the bottom 0
+taking the underground: </s> get on train 0
+taking the underground: </s> bring water and/or fluids. 0
+taking the underground: </s> inviting people over 0
+taking the underground: </s> have a meal if provided 0
+taking the underground: </s> put shampoo on hair 0
+taking the underground: </s> wait to be assisted 0
+taking the underground: </s> add salt. 0
+taking the underground: </s> tip appropriately. 0
+taking the underground: </s> kiss goodnight 0
+taking the underground: </s> when the bus stops get off. 0
+taking the underground: </s> open battery door on bottom. 0
+taking the underground: </s> enter airport 0
+taking the underground: </s> pay for gas 0
+taking the underground: </s> roast marshmallows 0
+taking the underground: </s> board the train. 0
+taking the underground: </s> get thread 0
+taking the underground: </s> check in 0
+taking the underground: </s> pour coffee into a mug. 0
+taking the underground: </s> try to be reasonably prompt 0
+taking the underground: </s> put water into a pasta cooker 0
+taking the underground: </s> water the tree every day 0
+taking the underground: </s> drive to sauna 0
+taking the underground: </s> hit tennis ball back and forth over the net 0
+taking the underground: </s> rub soap in 0
+taking the underground: </s> listen to the instructions and follow 0
+taking the underground: </s> tuck child in and make sure they are warm and comfortable 0
+taking the underground: </s> cut excess thread 0
+taking the underground: </s> drive to swimming pool 0
+taking the underground: </s> put tree into hole in ground 0
+taking the underground: </s> drink 0
+taking the underground: </s> get wallet 0
+taking the underground: </s> find location to start the bonfire 0
+taking the underground: </s> find an extra button 0
+taking the underground: </s> pull out credit card 0
+taking the underground: </s> go inside 0
+taking the underground: </s> run water until desired temperature 0
+taking the underground: </s> swipe the credit card through the card reader 0
+taking the underground: </s> pay the fee 0
+taking the underground: </s> carefully remove cake when finished baking. 0
+taking the underground: </s> get sugar 0
+taking the underground: </s> discard old batteries 0
+taking the underground: </s> squeeze tube until you see bubble to find the hole. 0
+taking the underground: </s> wait until the driver arrives. 0
+taking the underground: </s> rent shoes 0
+taking the underground: </s> select cycle on washing machine 0
+taking the underground: </s> throw the ball into the air 0
+taking the underground: </s> turn bike over. 0
+taking the underground: </s> get off the plane. 0
+taking the underground: </s> get onto train 0
+taking the underground: </s> scoop coffee into coffee filter 0
+taking the underground: </s> approach bus from curb and do not step in front of bus or traffic 0
+taking the underground: </s> go to pizza places website 0
+taking the underground: </s> let cool and cut slices 0
+taking the underground: </s> sit and wait your turn in designated area. 0
+taking the underground: </s> find a button 0
+taking the underground: </s> put tire back on bike. 0
+taking the underground: </s> enjoy 0
+taking the underground: </s> take out the needle 0
+taking the underground: </s> give the ball to friends 0
+taking the underground: </s> throw pasta in boiling water. 0
+taking the underground: </s> go and sit on your seat 0
+taking the underground: </s> turn on compressor 0
+taking the underground: </s> heat the pan until the butter is just sizzling. 0
+taking the underground: </s> insert needle through other side of button on back side 0
+taking the underground: </s> walk to sauna 0
+taking the underground: </s> pull laundry out of washer 0
+taking the underground: </s> turn on stove 0
+taking the underground: </s> advise agent of flight information 0
+taking the underground: </s> leave house 0
+taking the underground: </s> let brew until stopped 0
+taking the underground: </s> buy tree seed 0
+taking the underground: </s> walk to the bus stop 0
+taking the underground: </s> walk to the bus stop 0
+taking the underground: </s> watch fire. 0
+taking the underground: </s> measure teaspoons of coffee to match amount of water 0
+taking the underground: </s> unbolt tire. 0
+taking the underground: </s> take the tickets 0
+taking the underground: </s> walk into airport 0
+taking the underground: </s> pull the thread through the eye of needle 0
+taking the underground: </s> have child put on pj's 0
+taking the underground: </s> go into grocery store 0
+taking the underground: </s> fill pan with water. 0
+taking the underground: </s> tell hairdresser what you want 0
+taking the underground: </s> wait for pizza. 0
+taking the underground: </s> go to pool. 0
+taking the underground: </s> get shovel 0
+taking the underground: </s> put it in the tumbler add hot water and sugar with milk for your taste. 0
+taking the underground: </s> put dishes in place 0
+taking the underground: </s> wait for the bus 0
+taking the underground: </s> you hold your ball and step up to alley. 0
+taking the underground: </s> scrap off any food 0
+taking the underground: </s> if just flat but not popped, find air compressor 0
+taking the underground: </s> have carry-on bags x-rayed 0
+taking the underground: </s> walk with the child up the stairs 0
+taking the underground: </s> rent shoes 0
+taking the underground: </s> let the water boil 0
+taking the underground: </s> get a point everything the ball touches the other persons court 0
+taking the underground: </s> check bags 0
+taking the underground: </s> enter the gate to the pool. 0
+taking the underground: </s> get rid of old furniture 0
+taking the underground: </s> pay any fees associated with checked luggage 0
+taking the underground: </s> tell clerk what size shoes you need 0
+taking the underground: </s> put everything back in its place 0
+taking the underground: </s> place tree in hole, making sure trunk is above ground 0
+taking the underground: </s> wait for washing machine to finish cycle 0
+taking the underground: </s> cut thread 0
+taking the underground: </s> make a knot in fabric with thread behind the button 0
+taking the underground: </s> get into pool 0
+taking the underground: </s> wait to board plane. 0
+taking the underground: </s> get into bathtub. 0
+taking the underground: </s> crack eggs into the bowl 0
+taking the underground: </s> stand up 0
+taking the underground: </s> untie the hair 0
+taking the underground: </s> take dead batteries out of alarm clock. 0
+taking the underground: </s> wait till clothes are washed 0
+taking the underground: </s> pay amount shown 0
+taking the underground: </s> put all the items away 0
+taking the underground: </s> remove old batteries. 0
+taking the underground: </s> wash dishes 0
+taking the underground: </s> gently insert it under the soil about 6 inches deep 0
+taking the underground: </s> let food cook 0
+taking the underground: </s> go to car 0
+taking the underground: </s> put dishes in soapy water 0
+taking the underground: </s> board the train once it stops 0
+taking the underground: </s> leave child's room. 0
+taking the underground: </s> hang nozzle on gas pump 0
+taking the underground: </s> note down the order number delivery details and tracking number 0
+taking the underground: </s> put needle and thread through shirt 0
+taking the underground: </s> leave the bowling alley. 0
+taking the underground: </s> call staff over 0
+taking the underground: </s> scrub hair to clean hair 0
+taking the underground: </s> return cart to cart corral 0
+taking the underground: </s> wear proper shoes and socks. 0
+taking the underground: </s> saute pasta with sauce or olive oil, if desired 0
+taking the underground: </s> go to the pizza joint decided on 0
+taking the underground: </s> enter the theatre 0
+taking the underground: </s> occupy the seat 0
+taking the underground: </s> add milk 0
+taking the underground: </s> find an opponent 0
+taking the underground: </s> throw your trash away, place tray above trash can 0
+taking the underground: </s> when water is boiling up pasta in pot 0
+taking the underground: </s> dry hair 0
+taking the underground: </s> start eating 0
+taking the underground: </s> get players on either side of net 0
+taking the underground: </s> push needle through first hole 0
+taking the underground: </s> get off bus 0
+taking the underground: </s> get out of bathtub 0
+taking the underground: </s> put meat on bbq 0
+taking the underground: </s> rinse 0
+taking the underground: </s> get out of bathtub 0
+taking the underground: </s> take out the tube from tire 0
+taking the underground: </s> get in the car 0
+taking the underground: </s> go to the store and buy necessary equipment 0
+taking the underground: </s> replace inner ballon 0
+taking the underground: </s> park car in parking garage 0
+taking the underground: </s> put things in their proper place 0
+taking the underground: </s> get ingredients. 0
+taking the underground: </s> air up to approx 35psi 0
+taking the underground: </s> get in car 0
+taking the underground: </s> add eggs 0
+taking the underground: </s> locate the theater you want to go to 0
+taking the underground: </s> leave a tip for hair cutter 0
+taking the underground: </s> don't play hide and seek or pushing games in this time. 0
+taking the underground: </s> take your ticket when it is handed to you. 0
+taking the underground: </s> get new battery 0
+taking the underground: </s> select was cycle 0
+taking the underground: </s> take off flip flops 0
+taking the underground: </s> add tip and any special instructions to payment. 0
+taking the underground: </s> pay for groceries 0
+taking the underground: </s> explain problem 0
+taking the underground: </s> send the food back 0
+taking the underground: </s> have hair washed and conditioned 0
+taking the underground: </s> look at score 0
+taking the underground: </s> decide on cake recipe from the internet 0
+taking the underground: </s> enter name onto screen 0
+taking the underground: </s> walk into the bowling alley 0
+taking the underground: </s> eat 0
+taking the underground: </s> gather fallen wood and twigs 0
+taking the underground: </s> untie the hair 0
+taking the underground: </s> take after pictures 0
+taking the underground: </s> watch coffee drip into pot 0
+taking the underground: </s> tip delivery person 0
+taking the underground: </s> complain about food 0
+taking the underground: </s> borrow the book using library card 0
+taking the underground: </s> get some thread 0
+taking the underground: </s> turn the washer on 0
+taking the underground: </s> get out of the tub 0
+taking the underground: </s> turn off car 0
+taking the underground: </s> give library card to librarian 0
+taking the underground: </s> pay for food 0
+taking the underground: </s> wait for the payment to be processed 0
+taking the underground: </s> empty room 0
+taking the underground: </s> pay for your food. 0
+taking the underground: </s> add some cheese to eggs 0
+taking the underground: </s> get on the airplane. 0
+taking the underground: </s> pay for admission to pool 0
+taking the underground: </s> for all the above reason if you feel the answer doesn't satisfy you then send food back. 0
+taking the underground: </s> end game 0
+taking the underground: </s> arrive at airport an hour before the plane is supposed to leave 0
+taking the underground: </s> put pan on stove. 0
+taking the underground: </s> put drain clog in sink 0
+taking the underground: </s> purchase a ticket from the machine 0
+taking the underground: </s> wait for pizza delivery to arrive 0
+taking the underground: </s> remove clothes 0
+taking the underground: </s> tip stylist 0
+taking the underground: </s> sit in the sauna. 0
+taking the underground: </s> fill bathtub 0
+taking the underground: </s> find an unoccupied seat 0
+taking the underground: </s> take a dust pan 0
+taking the underground: </s> when child is asleep, turn off lights 0
+taking the underground: </s> gather luggage 0
+taking the underground: </s> follow directions and plug the hole. 0
+taking the underground: </s> go into movie 0
+taking the underground: </s> cut excess thread 0
+taking the underground: </s> get button 0
+taking the underground: </s> stop next to a pump 0
+taking the underground: </s> find the button 0
+taking the underground: </s> take off clothes 0
+taking the underground: </s> start machine 0
+taking the underground: </s> dig a pit 0
+taking the underground: </s> enter name into scoreboard 0
+taking the underground: </s> get a shovel 0
+taking the underground: </s> buy ticket. 0
+taking the underground: </s> rinse one more time 0
+taking the underground: </s> put pasta into water 0
+taking the underground: </s> wash dirty dishes in kitchen sink 0
+taking the underground: </s> set light to paper 0
+taking the underground: </s> get shoes 0
+taking the underground: </s> buy a ticket at the window 0
+taking the underground: </s> pick him up. 0
+taking the underground: </s> sign in to website 0
+taking the underground: </s> place new decorative items 0
+taking the underground: </s> put any frosting or toppings on it 0
+taking the underground: </s> get needle and thread 0
+taking the underground: </s> flavor it with cream and sugar 0
+taking the underground: </s> sit on the edge of the bed 0
+taking the underground: </s> finally leave the theater 0
+taking the underground: </s> wait in line to board bus 0
+taking the underground: </s> include any other necessary ingredients 0
+taking the underground: </s> obtain racket and tennis balls 0
+taking the underground: </s> go to the airport 0
+taking the underground: </s> pizza driver at door 0
+taking the underground: </s> swim 0
+taking the underground: </s> stop pumping and remove nozzle when completed 0
+taking the underground: </s> bag groceries 0
+taking the underground: </s> mix and enjoy 0
+taking the underground: </s> remove protective covering from floor 0
+taking the underground: </s> get out of car 0
+taking the underground: </s> park the car 0
+taking the underground: </s> make a grocery list 0
+taking the underground: </s> throw away battery packaging 0
+taking the underground: </s> show up on time for appointment 0
+taking the underground: </s> get receipt 0
+taking the underground: </s> play with placement until you find a style you like 0
+taking the underground: </s> try and hit it again. 0
+taking the underground: </s> mixing the dry and wet ingredients 0
+taking the underground: </s> pick up loose clothing and deposit into hamper 0
+taking the underground: </s> spray skillet with cooking spray 0
+taking the underground: </s> vaccuum or sweep the floors. 0
+taking the underground: </s> prepare to go through security. 0
+taking the underground: </s> put in bubble bath if you want 0
+taking the underground: </s> put the whites into the dryer 0
+taking the underground: </s> go to gas station 0
+taking the underground: </s> heat the pan until the butter is just sizzling. 0
+taking the underground: </s> buy a tree. 0
+taking the underground: </s> get out your dusting brush 0
+taking the underground: </s> talk to child 0
+taking the underground: </s> get off the train onto the platform 0
+taking the underground: </s> put on appropriate clothing 0
+taking the underground: </s> ride to destination 0
+taking the underground: </s> walk inside 0
+taking the underground: </s> watch until you see your stop to get off 0
+taking the underground: </s> browse various sections 0
+taking the underground: </s> put on towel 0
+taking the underground: </s> put oil into pan 0
+taking the underground: </s> assemble ingredients 0
+taking the underground: </s> make an appointment 0
+taking the underground: </s> ask for the waiter/waitress. 0
+taking the underground: </s> get a fork and stir the eggs in the bowl really hard until everything is yellow. 0
+taking the underground: </s> wait for movie to start 0
+taking the underground: </s> fill pot with approximately 2 quarts of water 0
+taking the underground: </s> pour some water 0
+taking the underground: </s> gather wood to be burned in the fire 0
+taking the underground: </s> decide what to purchase 0
+taking the underground: </s> when waiter comes to table tell him what is wrong with your food 0
+taking the underground: </s> pump up tire 0
+taking the underground: </s> punch credit 0
+taking the underground: </s> slide credit card through slot on pump. 0
+taking the underground: </s> turn on machine 0
+taking the underground: </s> invite people over 0
+taking the underground: </s> pull the needle until thread is completely on the other side of shirt 0
+taking the underground: </s> put in subfloor 0
+taking the underground: </s> board plane 0
+taking the underground: </s> purchase a ticket to the movie you want to see 0
+taking the underground: </s> pick up the pump handle 0
+taking the underground: </s> ring bell to stop at destination 0
+taking the underground: </s> brush their teeth 0
+taking the underground: </s> whisk eggs 0
+taking the underground: </s> buy ticket 0
+taking the underground: </s> put coals onto grill 0
+taking the underground: </s> add water 0
+taking the underground: </s> purchase food and drinks 0
+taking the underground: </s> get in my car 0
+taking the underground: </s> pull the level to release the gas door 0
+taking the underground: </s> sweat 0
+taking the underground: </s> put shoes on 0
+taking the underground: </s> squeeze lever under the handle of the nozzle 0
+taking the underground: </s> fill sink with dish soap 0
+taking the underground: </s> go to kitchen. 0
+taking the underground: </s> hit tennis ball back and forth over the net 0
+taking the underground: </s> walk to the door of the bedroom. 0
+taking the underground: </s> drive to bowling alley 0
+taking the underground: </s> buy drinks 0
+taking the underground: </s> put the coffee pot in the coffee maker. 0
+taking the underground: </s> follow instructions for preparation of batter 0
+taking the underground: </s> they will put a cape over you to keep you clean. 0
+taking the underground: </s> run card through machine 0
+taking the underground: </s> pump air. 0
+taking the underground: </s> check the pasta to see if it is done 0
+taking the underground: </s> put on tennis shoes 0
+taking the underground: </s> buy any new furnishings needed. 0
+taking the underground: </s> read the menu 0
+taking the underground: </s> remove item penetrating from tire puncture 0
+taking the underground: </s> head down to the movie theater in time to see the movie 0
+taking the underground: </s> find the items from the list. 0
+taking the underground: </s> turn on stove 0
+taking the underground: </s> get your hair shampooed or wet with water for the cut. 0
+taking the underground: </s> get the book stamped on the back page for return date 0
+taking the underground: </s> hairdressers cuts and styles 0
+taking the underground: </s> decide at what time you want to see it 0
+taking the underground: </s> close door 0
+taking the underground: </s> or just relax 0
+taking the underground: </s> leave bowling alley 0
+taking the underground: </s> dust 0
+taking the underground: </s> wait in line 0
+taking the underground: </s> drive to airport 0
+taking the underground: </s> find your bathing suit. 0
+taking the underground: </s> buy any lumber of carpet that you may need. 0
+taking the underground: </s> leave sauna 0
+taking the underground: </s> select a spot where to plant a tree preferably in good exposure to sunlight 0
+taking the underground: </s> picking a book 0
+taking the underground: </s> add salt to the water. 0
+taking the underground: </s> place head under water 0
+taking the underground: </s> serve sweet tea. 0
+taking the underground: </s> tell barber what you want 0
+taking the underground: </s> wait until your station 0
+taking the underground: </s> go to airport 0
+taking the underground: </s> have item (s) or meal charged at establishment 0
+taking the underground: </s> take off street shoes and put on bowling shoes 0
+taking the underground: </s> enjoy train ride 0
+taking the underground: </s> place into oven 0
+taking the underground: </s> put your boarding pass and drivers license away 0
+taking the underground: </s> locate the terminal 0
+taking the underground: </s> take off. 0
+taking the underground: </s> drive to the bowling alley. 0
+taking the underground: </s> ask for it to be corrected 0
+taking the underground: </s> wipe any surfaces with cleaning cloths. 0
+taking the underground: </s> steam 0
+taking the underground: </s> come out of sauna 0
+taking the underground: </s> swipe credit card in reader 0
+taking the underground: </s> sit down 0
+taking the underground: </s> fill bucket with water 0
+taking the underground: </s> let the stylist brush any stray hair off your neck and shoulders. 0
+taking the underground: </s> get the garment 0
+taking the underground: </s> choose what you wish to purchase 0
+taking the underground: </s> look up book in catalog 0
+taking the underground: </s> put the dirty dishes in the machine. 0
+taking the underground: </s> prepare corn and other vegetables in foil packets 0
+taking the underground: </s> order a pizza online. 0
+taking the underground: </s> drive the car to fuel station 0
+taking the underground: </s> warm up by volleying. 0
+taking the underground: </s> enter bath 0
+taking the underground: </s> get shopping cart 0
+taking the underground: </s> get into the tub 0
+taking the underground: </s> let the bath fill up to overflow drain level. 0
+taking the underground: </s> remove pot from stove 0
+taking the underground: </s> pull back covers and put them in bed 0
+taking the underground: </s> ask the child to brush their teeth. 0
+taking the underground: </s> put dish soap on rag 0
+taking the underground: </s> buy a ticket from attendant. 0
+taking the underground: </s> leave 0
+taking the underground: </s> heat water 0
+taking the underground: </s> buy snacks 0
+taking the underground: </s> wait for him to bring a new plate of food 0
+taking the underground: </s> purchase train ticket 0
+taking the underground: </s> pay attention for your stop 0
+taking the underground: </s> find your bathing suit. 0
+taking the underground: </s> remove or cover the furniture and carpets if re-painting. 0
+taking the underground: </s> rinse hair with warm water 0
+taking the underground: </s> select a good spot for the barbecue 0
+taking the underground: </s> fill tire with air 0
+taking the underground: </s> wait for problem to be resolved 0
+taking the underground: </s> when ticket taker comes by, give them your ticket 0
+taking the underground: </s> pay for desired movie to watch 0
+taking the underground: </s> lather hair and scalp with fingers. 0
+taking the underground: </s> arrive to swimming pool. 0
+taking the underground: </s> walk off plane 0
+taking the underground: </s> put shampoo in hands 0
+taking the underground: </s> wash laundry 0
+taking the underground: </s> get the eggs needed 0
+taking the underground: </s> come up with a plan or theme for your room. 0
+taking the underground: </s> wash yourself 0
+taking the underground: </s> watch previews 0
+taking the underground: </s> put cape on. 0
+taking the underground: </s> tell the employee your order 0
+taking the underground: </s> line the button up in the place where the old one would have been 0
+taking the underground: </s> toss dirt from dust pan into trash 0
+taking the underground: </s> prepare ingredients 0
+taking the underground: </s> go to the barber 0
+taking the underground: </s> get on train 0
+taking the underground: </s> open package of pasta. 0
+taking the underground: </s> check out with the cashier 0
+taking the underground: </s> eat and drink 0
+taking the underground: </s> open the shower 0
+taking the underground: </s> get a button. 0
+taking the underground: </s> bake for 1 hour 0
+taking the underground: </s> create a place for the fire by clearing out plants and place rocks around the outside 0
+taking the underground: </s> pick up any dirty dishes and place them in the sink or dishwasher to be washed. 0
+taking the underground: </s> find book in library database 0
+taking the underground: </s> click yes that you accept the charges 0
+taking the underground: </s> throw your trash. 0
+taking the underground: </s> shop for ingredients 0
+taking the underground: </s> wait to be greeted and seated 0
+taking the underground: </s> please come and help me to dry the dishes 0
+taking the underground: </s> turn on burner 0
+taking the underground: </s> move furniture out of room. 0
+taking the underground: </s> leave with car 0
+taking the underground: </s> turn the grill on 0
+taking the underground: </s> grab tennis ball 0
+taking the underground: </s> greet friend 0
+taking the underground: </s> wash soap off 0
+taking the underground: </s> get up from chair when finished 0
+taking the underground: </s> spray cake pan with nonstick spray 0
+taking the underground: </s> put wheel back on bike 0
+taking the underground: </s> put soap into washing machine. 0
+taking the underground: </s> go to counter 0
+taking the underground: </s> come out when finish 0
+taking the underground: </s> scrape bowl with large spoon to get all excess batter 0
+taking the underground: </s> get towel 0
+taking the underground: </s> pick up everything from list and put into your cart 0
+taking the underground: </s> rent shoes 0
+taking the underground: </s> turn off the heat. 0
+taking the underground: </s> take receipt. 0
+taking the underground: </s> enter setting on dryer. 0
+taking the underground: </s> put dishes in dryer rack 0
+taking the underground: </s> put it in a spot that has no grass 0
+taking the underground: </s> place larger pieces in the middle 0
+taking the underground: </s> enjoy the show 0
+taking the underground: </s> take out pump 0
+taking the underground: </s> go to the appointment 0
+taking the underground: </s> getting a hair style 0
+taking the underground: </s> check out book 0
+taking the underground: </s> shower 0
+taking the underground: </s> run dryer until clothes dry 0
+taking the underground: </s> drive to sauna. 0
+taking the underground: </s> say goodnight 0
+taking the underground: </s> invite people 0
+taking the underground: </s> get shampoo 0
+taking the underground: </s> give old dish to waiter 0
+taking the underground: </s> wait for plane 0
+taking the underground: </s> put pan in oven 0
+taking the underground: </s> place button on clothing 0
+taking the underground: </s> wait for food to get done 0
+taking the underground: </s> select your room. 0
+taking the underground: </s> remove clothing 0
+taking the underground: </s> purchase ticket 0
+taking the underground: </s> return your shoes and pay for the time you bowled 0
+taking the underground: </s> purchase tennis balls 0
+taking the underground: </s> get out vegetable oil 0
+taking the underground: </s> get desired snacks and drinks (if any). 0
+taking the underground: </s> wait for right order of food to return 0
+taking the underground: </s> place some dry leaves and twigs in the pit 0
+taking the underground: </s> open gas tank door 0
+taking the underground: </s> notify server if satisfactory 0
+taking the underground: </s> move child into bedroom. 0
+taking the underground: </s> clean up any items from barbecue 0
+taking the underground: </s> roll the covers down. 0
+taking the underground: </s> turn water on to desired temperature 0
+taking the underground: </s> get a tennis ball 0
+taking the underground: </s> fill coffee filter with grounds 0
+taking the underground: </s> turn on alarm clock and set desired time 0
+taking the underground: </s> opponent hits ball 0
+taking the underground: </s> if you want to condition your hair, put conditioner in hand (small amount). 0
+taking the underground: </s> wait for cake to get done 0
+taking the underground: </s> present ticket to clerk 0
+taking the underground: </s> go to gas station 0
+taking the underground: </s> follow the persons instructions 0
+taking the underground: </s> let dishes soak for a couple of minutes 0
+taking the underground: </s> take rental shoes from attendant. 0
+taking the underground: </s> when done place clothing in dryer 0
+taking the underground: </s> walk to the bus stop 0
+taking the underground: </s> exit sauna when finished 0
+taking the underground: </s> walk into the library 0
+taking the underground: </s> place pot in coffee machine 0
+taking the underground: </s> put in dryer sheet with clothes. 0
+taking the underground: </s> check out book 0
+taking the underground: </s> continue until button is secure 0
+taking the underground: </s> put items in cart 0
+taking the underground: </s> hit ball over net 0
+taking the underground: </s> look up the book that you want to borrow on the card catalog. 0
+taking the underground: </s> go to the bus station 0
+taking the underground: </s> pay for meal. 0
+taking the underground: </s> paint walls 0
+taking the underground: </s> rent shoes. 0
+taking the underground: </s> take button and put it on shirt where you want it 0
+taking the underground: </s> eat the cake 0
+taking the underground: </s> buy a seedling 0
+taking the underground: </s> get coffee 0
+taking the underground: </s> when destination is reached,  get out of the plane as instructed 0
+taking the underground: </s> thank the waiter for correcting the error 0
+taking the underground: </s> measuring spoons 0
+taking the underground: </s> pay to swim and get a locker. 0
+taking the underground: </s> go home 0
+taking the underground: </s> go to the library 0
+taking the underground: </s> put laundry soap in 0
+taking the underground: </s> follow child to room. 0
+taking the underground: </s> show the ticket to the counter staff and confirm 0
+taking the underground: </s> spray pan with non stick spray, can add butter as well if you choose. 0
+taking the underground: </s> get hair wet. 0
+taking the underground: </s> pick up any loose stuff 0
+taking the underground: </s> order pizza with toppings 0
+taking the underground: </s> gather wood. 0
+taking the underground: </s> depart at appropriate destination 0
+taking the underground: </s> give order for food 0
+taking the underground: </s> say goodnight 0
+taking the underground: </s> throw away old filter 0
+taking the underground: </s> politely explain the problem with the food. 0
+taking the underground: </s> wait for the fire to spread 0
+taking the underground: </s> enjoy the trip. 0
+taking the underground: </s> submerge tube in water. 0
+taking the underground: </s> turn on the shower 0
+taking the underground: </s> take card from wallet. 0
+taking the underground: </s> when the security check is done, go to the appropriate gate for your flight. 0
+taking the underground: </s> give your ticket to the ticket-taker when they pass your seat. 0
+taking the underground: </s> go to assigned lane. 0
+taking the underground: </s> remove old tire 0
+taking the underground: </s> place the thread through the needle 0
+taking the underground: </s> get button 0
+taking the underground: </s> when the train arrives, get on 0
+taking the underground: </s> go to local bowling alley with friends or whomever 0
+taking the underground: </s> receive cold food 0
+taking the underground: </s> place small wood in a fire. 0
+taking the underground: </s> drink coffee 0
+taking the underground: </s> wait 0
+taking the underground: </s> assemble ingredients according to recipe 0
+taking the underground: </s> get in car 0
+taking the underground: </s> return the serve 0
+taking the underground: </s> take the book to the desk. 0

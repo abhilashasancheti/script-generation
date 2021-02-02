@@ -1,0 +1,513 @@
+<BOS> <SCR> baking a cake <ESCR>: </s> place all ingredients in a cup </s> gather ingredients for cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> gather ingredients for cake </s> melt the butter in a pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add sugar to the pan </s> gather ingredients for cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> mix with a fork </s> gather ingredients for cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> gather ingredients for cake </s> add salt to the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> gather ingredients for cake </s> stir the mixture in pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the batter into the prepared pan </s> gather ingredients for cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> gather ingredients for cake </s> wait until done 1
+<BOS> <SCR> baking a cake <ESCR>: </s> gather ingredients for cake </s> pour the cake into the plate 1
+<BOS> <SCR> baking a cake <ESCR>: </s> place all ingredients in a cup </s> melt the butter in a pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> place all ingredients in a cup </s> add sugar to the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> mix with a fork </s> place all ingredients in a cup 0
+<BOS> <SCR> baking a cake <ESCR>: </s> place all ingredients in a cup </s> add salt to the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> stir the mixture in pan </s> place all ingredients in a cup 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the batter into the prepared pan </s> place all ingredients in a cup 0
+<BOS> <SCR> baking a cake <ESCR>: </s> wait until done </s> place all ingredients in a cup 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the cake into the plate </s> place all ingredients in a cup 0
+<BOS> <SCR> baking a cake <ESCR>: </s> melt the butter in a pan </s> add sugar to the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> melt the butter in a pan </s> mix with a fork 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add salt to the pan </s> melt the butter in a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> stir the mixture in pan </s> melt the butter in a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the batter into the prepared pan </s> melt the butter in a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> wait until done </s> melt the butter in a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> melt the butter in a pan </s> pour the cake into the plate 1
+<BOS> <SCR> baking a cake <ESCR>: </s> mix with a fork </s> add sugar to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add sugar to the pan </s> add salt to the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> stir the mixture in pan </s> add sugar to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the batter into the prepared pan </s> add sugar to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> wait until done </s> add sugar to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the cake into the plate </s> add sugar to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> mix with a fork </s> add salt to the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> mix with a fork </s> stir the mixture in pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> mix with a fork </s> pour the batter into the prepared pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> wait until done </s> mix with a fork 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the cake into the plate </s> mix with a fork 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add salt to the pan </s> stir the mixture in pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add salt to the pan </s> pour the batter into the prepared pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> wait until done </s> add salt to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the cake into the plate </s> add salt to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> stir the mixture in pan </s> pour the batter into the prepared pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> wait until done </s> stir the mixture in pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the cake into the plate </s> stir the mixture in pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the batter into the prepared pan </s> wait until done 1
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the cake into the plate </s> pour the batter into the prepared pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> wait until done </s> pour the cake into the plate 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get some water </s> get a loaf of bread 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get a loaf of bread </s> put some butter on the top of the bread 1
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on the oven </s> get a loaf of bread 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get a loaf of bread </s> wait for the oven to be hot 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get a loaf of bread </s> take the bread out of the oven 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get a loaf of bread </s> place the cake in the cake holder 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get a loaf of bread </s> eat the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put some butter on the top of the bread </s> get some water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on the oven </s> get some water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get some water </s> wait for the oven to be hot 1
+<BOS> <SCR> baking a cake <ESCR>: </s> take the bread out of the oven </s> get some water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> place the cake in the cake holder </s> get some water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> eat the cake </s> get some water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on the oven </s> put some butter on the top of the bread 0
+<BOS> <SCR> baking a cake <ESCR>: </s> wait for the oven to be hot </s> put some butter on the top of the bread 0
+<BOS> <SCR> baking a cake <ESCR>: </s> put some butter on the top of the bread </s> take the bread out of the oven 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put some butter on the top of the bread </s> place the cake in the cake holder 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put some butter on the top of the bread </s> eat the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on the oven </s> wait for the oven to be hot 1
+<BOS> <SCR> baking a cake <ESCR>: </s> take the bread out of the oven </s> turn on the oven 0
+<BOS> <SCR> baking a cake <ESCR>: </s> place the cake in the cake holder </s> turn on the oven 0
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on the oven </s> eat the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> take the bread out of the oven </s> wait for the oven to be hot 0
+<BOS> <SCR> baking a cake <ESCR>: </s> place the cake in the cake holder </s> wait for the oven to be hot 0
+<BOS> <SCR> baking a cake <ESCR>: </s> wait for the oven to be hot </s> eat the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> place the cake in the cake holder </s> take the bread out of the oven 0
+<BOS> <SCR> baking a cake <ESCR>: </s> take the bread out of the oven </s> eat the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> place the cake in the cake holder </s> eat the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add oil to a pan </s> decide on a cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get a piece of cake </s> decide on a cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> decide on a cake </s> add ingredients to the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> decide on a cake </s> put a spoonful of water into the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on burner </s> decide on a cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> decide on a cake </s> pour the water onto the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> decide on a cake </s> pour more batter on top 1
+<BOS> <SCR> baking a cake <ESCR>: </s> decide on a cake </s> add cream cheese 1
+<BOS> <SCR> baking a cake <ESCR>: </s> serve </s> decide on a cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add oil to a pan </s> get a piece of cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add ingredients to the pan </s> add oil to a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add oil to a pan </s> put a spoonful of water into the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on burner </s> add oil to a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add oil to a pan </s> pour the water onto the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> pour more batter on top </s> add oil to a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add cream cheese </s> add oil to a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> serve </s> add oil to a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get a piece of cake </s> add ingredients to the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get a piece of cake </s> put a spoonful of water into the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get a piece of cake </s> turn on burner 1
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the water onto the cake </s> get a piece of cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get a piece of cake </s> pour more batter on top 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add cream cheese </s> get a piece of cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get a piece of cake </s> serve 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put a spoonful of water into the pan </s> add ingredients to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on burner </s> add ingredients to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the water onto the cake </s> add ingredients to the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add ingredients to the pan </s> pour more batter on top 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add ingredients to the pan </s> add cream cheese 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add ingredients to the pan </s> serve 1
+<BOS> <SCR> baking a cake <ESCR>: </s> turn on burner </s> put a spoonful of water into the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the water onto the cake </s> put a spoonful of water into the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> put a spoonful of water into the pan </s> pour more batter on top 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put a spoonful of water into the pan </s> add cream cheese 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put a spoonful of water into the pan </s> serve 1
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the water onto the cake </s> turn on burner 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour more batter on top </s> turn on burner 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add cream cheese </s> turn on burner 0
+<BOS> <SCR> baking a cake <ESCR>: </s> serve </s> turn on burner 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour more batter on top </s> pour the water onto the cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the water onto the cake </s> add cream cheese 1
+<BOS> <SCR> baking a cake <ESCR>: </s> serve </s> pour the water onto the cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add cream cheese </s> pour more batter on top 0
+<BOS> <SCR> baking a cake <ESCR>: </s> serve </s> pour more batter on top 0
+<BOS> <SCR> baking a cake <ESCR>: </s> serve </s> add cream cheese 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get an oven </s> get a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get a pan </s> fill it with water 1
+<BOS> <SCR> baking a cake <ESCR>: </s> take the cake </s> get a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> mix it with the water </s> get a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get the cake out of the water </s> get a pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get a pan </s> put the cake on the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get an oven </s> fill it with water 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get an oven </s> take the cake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> mix it with the water </s> get an oven 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get an oven </s> get the cake out of the water 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put the cake on the pan </s> get an oven 0
+<BOS> <SCR> baking a cake <ESCR>: </s> take the cake </s> fill it with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> fill it with water </s> mix it with the water 1
+<BOS> <SCR> baking a cake <ESCR>: </s> get the cake out of the water </s> fill it with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> put the cake on the pan </s> fill it with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> mix it with the water </s> take the cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> take the cake </s> get the cake out of the water 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put the cake on the pan </s> take the cake 0
+<BOS> <SCR> baking a cake <ESCR>: </s> get the cake out of the water </s> mix it with the water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> mix it with the water </s> put the cake on the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> put the cake on the pan </s> get the cake out of the water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add sugar, butter and eggs </s> fill a pan with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> fill a pan with water </s> mix the sugar with the butter 1
+<BOS> <SCR> baking a cake <ESCR>: </s> place the cake in the pan </s> fill a pan with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> turn the heat to high </s> fill a pan with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> cook for a few minutes </s> fill a pan with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the mixture into a cupcake </s> fill a pan with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> enjoy. </s> fill a pan with water 0
+<BOS> <SCR> baking a cake <ESCR>: </s> add sugar, butter and eggs </s> mix the sugar with the butter 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add sugar, butter and eggs </s> place the cake in the pan 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add sugar, butter and eggs </s> turn the heat to high 1
+<BOS> <SCR> baking a cake <ESCR>: </s> add sugar, butter and eggs </s> cook for a few minutes 1
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the mixture into a cupcake </s> add sugar, butter and eggs 0
+<BOS> <SCR> baking a cake <ESCR>: </s> enjoy. </s> add sugar, butter and eggs 0
+<BOS> <SCR> baking a cake <ESCR>: </s> place the cake in the pan </s> mix the sugar with the butter 0
+<BOS> <SCR> baking a cake <ESCR>: </s> turn the heat to high </s> mix the sugar with the butter 0
+<BOS> <SCR> baking a cake <ESCR>: </s> cook for a few minutes </s> mix the sugar with the butter 0
+<BOS> <SCR> baking a cake <ESCR>: </s> mix the sugar with the butter </s> pour the mixture into a cupcake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> mix the sugar with the butter </s> enjoy. 1
+<BOS> <SCR> baking a cake <ESCR>: </s> turn the heat to high </s> place the cake in the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> cook for a few minutes </s> place the cake in the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the mixture into a cupcake </s> place the cake in the pan 0
+<BOS> <SCR> baking a cake <ESCR>: </s> place the cake in the pan </s> enjoy. 1
+<BOS> <SCR> baking a cake <ESCR>: </s> cook for a few minutes </s> turn the heat to high 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the mixture into a cupcake </s> turn the heat to high 0
+<BOS> <SCR> baking a cake <ESCR>: </s> enjoy. </s> turn the heat to high 0
+<BOS> <SCR> baking a cake <ESCR>: </s> cook for a few minutes </s> pour the mixture into a cupcake 1
+<BOS> <SCR> baking a cake <ESCR>: </s> enjoy. </s> cook for a few minutes 0
+<BOS> <SCR> baking a cake <ESCR>: </s> pour the mixture into a cupcake </s> enjoy. 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> go to the library </s> choose a book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> go to the library </s> find a seat on a bench 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> go to the library </s> put on a book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> go to the library </s> read the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> choose a book </s> find a seat on a bench 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put on a book </s> choose a book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> read the book </s> choose a book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put on a book </s> find a seat on a bench 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a seat on a bench </s> read the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> read the book </s> put on a book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> choose book </s> find book you need 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> choose book </s> take book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> choose book </s> open book in library 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put book away </s> choose book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> choose book </s> walk out of library 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find book you need </s> take book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> open book in library </s> find book you need 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put book away </s> find book you need 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find book you need </s> walk out of library 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> take book </s> open book in library 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put book away </s> take book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> walk out of library </s> take book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put book away </s> open book in library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> open book in library </s> walk out of library 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> walk out of library </s> put book away 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell the librarian you'd like to borrow a book </s> call library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> give librarian your address </s> call library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> call library </s> tell librarian if you have children 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell librarian that you want the book </s> call library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put the book in the library's safe </s> call library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> return to the library </s> call library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> retrieve the book </s> call library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> give librarian your address </s> tell the librarian you'd like to borrow a book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell the librarian you'd like to borrow a book </s> tell librarian if you have children 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell the librarian you'd like to borrow a book </s> tell librarian that you want the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell the librarian you'd like to borrow a book </s> put the book in the library's safe 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> return to the library </s> tell the librarian you'd like to borrow a book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell the librarian you'd like to borrow a book </s> retrieve the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> give librarian your address </s> tell librarian if you have children 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> give librarian your address </s> tell librarian that you want the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put the book in the library's safe </s> give librarian your address 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> return to the library </s> give librarian your address 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> give librarian your address </s> retrieve the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell librarian if you have children </s> tell librarian that you want the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put the book in the library's safe </s> tell librarian if you have children 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> return to the library </s> tell librarian if you have children 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell librarian if you have children </s> retrieve the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put the book in the library's safe </s> tell librarian that you want the book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> tell librarian that you want the book </s> return to the library 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> retrieve the book </s> tell librarian that you want the book 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put the book in the library's safe </s> return to the library 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put the book in the library's safe </s> retrieve the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> retrieve the book </s> return to the library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick a book you want to read. </s> enter the library. 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick a book you want to read. </s> pick the book you want to borrow. 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick a book you want to read. </s> pick the books to buy from the shelves. 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> put away the book. </s> pick a book you want to read. 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick the book you want to borrow. </s> enter the library. 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick the books to buy from the shelves. </s> enter the library. 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> enter the library. </s> put away the book. 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick the books to buy from the shelves. </s> pick the book you want to borrow. 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick the book you want to borrow. </s> put away the book. 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick the books to buy from the shelves. </s> put away the book. 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a book to borrow </s> search for what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> go to the library </s> search for what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> search for what you want to read </s> pick out what you want to read 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> search for what you want to read </s> open the library doors 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a seat </s> search for what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> read the book </s> search for what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pay for the book </s> search for what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> search for what you want to read </s> leave 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a book to borrow </s> go to the library 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a book to borrow </s> pick out what you want to read 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a book to borrow </s> open the library doors 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a book to borrow </s> find a seat 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> read the book </s> find a book to borrow 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pay for the book </s> find a book to borrow 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a book to borrow </s> leave 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> go to the library </s> pick out what you want to read 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> open the library doors </s> go to the library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a seat </s> go to the library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> read the book </s> go to the library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pay for the book </s> go to the library 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> go to the library </s> leave 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> open the library doors </s> pick out what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pick out what you want to read </s> find a seat 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> read the book </s> pick out what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pay for the book </s> pick out what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> leave </s> pick out what you want to read 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> open the library doors </s> find a seat 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> open the library doors </s> read the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pay for the book </s> open the library doors 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> open the library doors </s> leave 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> find a seat </s> read the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pay for the book </s> find a seat 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> leave </s> find a seat 0
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> read the book </s> pay for the book 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> read the book </s> leave 1
+<BOS> <SCR> borrowing a book from the library <ESCR>: </s> pay for the book </s> leave 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> drive to the airport </s> get in the car 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in </s> get in the car 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get in the car </s> get my ticket 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to the airplane </s> get in the car 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in </s> drive to the airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> drive to the airport </s> get my ticket 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> drive to the airport </s> go to the airplane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get my ticket </s> check in 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to the airplane </s> check in 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get my ticket </s> go to the airplane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find airline </s> buy flight tickets 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airline ticket counter </s> buy flight tickets 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> buy flight tickets </s> hand flight ticket 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> buy flight tickets </s> get confirmation 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find airport </s> buy flight tickets 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find gate </s> buy flight tickets 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airline ticket counter </s> find airline 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find airline </s> hand flight ticket 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get confirmation </s> find airline 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find airport </s> find airline 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find airline </s> find gate 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airline ticket counter </s> hand flight ticket 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get confirmation </s> go to airline ticket counter 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airline ticket counter </s> find airport 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airline ticket counter </s> find gate 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get confirmation </s> hand flight ticket 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> hand flight ticket </s> find airport 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> hand flight ticket </s> find gate 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find airport </s> get confirmation 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get confirmation </s> find gate 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find gate </s> find airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to flight attendant </s> go to airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airport </s> take seat 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airport </s> give luggage to attendant 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airport </s> put on seat cushion 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> sit in seat </s> go to airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airport </s> listen to flight attendant 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in ticket </s> go to airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airport </s> take baggage 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to airport </s> leave airplane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to flight attendant </s> take seat 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> give luggage to attendant </s> go to flight attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to flight attendant </s> put on seat cushion 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to flight attendant </s> sit in seat 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> listen to flight attendant </s> go to flight attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in ticket </s> go to flight attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to flight attendant </s> take baggage 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> go to flight attendant </s> leave airplane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> take seat </s> give luggage to attendant 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> put on seat cushion </s> take seat 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> sit in seat </s> take seat 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> listen to flight attendant </s> take seat 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in ticket </s> take seat 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> take seat </s> take baggage 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> leave airplane </s> take seat 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> put on seat cushion </s> give luggage to attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> sit in seat </s> give luggage to attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> give luggage to attendant </s> listen to flight attendant 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> give luggage to attendant </s> check in ticket 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> take baggage </s> give luggage to attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> leave airplane </s> give luggage to attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> put on seat cushion </s> sit in seat 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> put on seat cushion </s> listen to flight attendant 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> put on seat cushion </s> check in ticket 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> put on seat cushion </s> take baggage 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> put on seat cushion </s> leave airplane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> sit in seat </s> listen to flight attendant 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> sit in seat </s> check in ticket 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> sit in seat </s> take baggage 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> leave airplane </s> sit in seat 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in ticket </s> listen to flight attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> take baggage </s> listen to flight attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> leave airplane </s> listen to flight attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> take baggage </s> check in ticket 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> leave airplane </s> check in ticket 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> take baggage </s> leave airplane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find flight attendant </s> tell her you are headed to the airport 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> give her your id and luggage </s> find flight attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> tell her what flight you are flying </s> find flight attendant 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find flight attendant </s> get out of the airplane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> tell her you are headed to the airport </s> give her your id and luggage 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> tell her you are headed to the airport </s> tell her what flight you are flying 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get out of the airplane </s> tell her you are headed to the airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> give her your id and luggage </s> tell her what flight you are flying 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get out of the airplane </s> give her your id and luggage 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get out of the airplane </s> tell her what flight you are flying 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find your airline </s> travel to the airport 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find your airline </s> check in at the desk 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> receive your ticket and boarding pass </s> find your airline 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find your airline </s> enter the airport 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find your airline </s> receive your seat 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find a quiet spot </s> find your airline 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find your airline </s> check your instruments 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get on the plane </s> find your airline 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in at the desk </s> travel to the airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> travel to the airport </s> receive your ticket and boarding pass 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> enter the airport </s> travel to the airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> receive your seat </s> travel to the airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> travel to the airport </s> find a quiet spot 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> travel to the airport </s> check your instruments 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> travel to the airport </s> get on the plane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> receive your ticket and boarding pass </s> check in at the desk 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> enter the airport </s> check in at the desk 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in at the desk </s> receive your seat 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find a quiet spot </s> check in at the desk 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in at the desk </s> check your instruments 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check in at the desk </s> get on the plane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> enter the airport </s> receive your ticket and boarding pass 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> receive your ticket and boarding pass </s> receive your seat 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find a quiet spot </s> receive your ticket and boarding pass 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check your instruments </s> receive your ticket and boarding pass 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> receive your ticket and boarding pass </s> get on the plane 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> receive your seat </s> enter the airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> enter the airport </s> find a quiet spot 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> check your instruments </s> enter the airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get on the plane </s> enter the airport 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find a quiet spot </s> receive your seat 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> receive your seat </s> check your instruments 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get on the plane </s> receive your seat 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> find a quiet spot </s> check your instruments 1
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get on the plane </s> find a quiet spot 0
+<BOS> <SCR> flying in an airplane <ESCR>: </s> get on the plane </s> check your instruments 0
+<BOS> <SCR> going on a train <ESCR>: </s> walk to station </s> buy ticket 1
+<BOS> <SCR> going on a train <ESCR>: </s> walk to station </s> board train 1
+<BOS> <SCR> going on a train <ESCR>: </s> walk to station </s> wait for your destination 1
+<BOS> <SCR> going on a train <ESCR>: </s> walk to station </s> go home 1
+<BOS> <SCR> going on a train <ESCR>: </s> buy ticket </s> board train 1
+<BOS> <SCR> going on a train <ESCR>: </s> wait for your destination </s> buy ticket 0
+<BOS> <SCR> going on a train <ESCR>: </s> go home </s> buy ticket 0
+<BOS> <SCR> going on a train <ESCR>: </s> board train </s> wait for your destination 1
+<BOS> <SCR> going on a train <ESCR>: </s> go home </s> board train 0
+<BOS> <SCR> going on a train <ESCR>: </s> go home </s> wait for your destination 0
+<BOS> <SCR> going on a train <ESCR>: </s> go to correct stop </s> get off at correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> get off at correct stop </s> buy ticket 1
+<BOS> <SCR> going on a train <ESCR>: </s> go to station </s> get off at correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> get on to correct train </s> get off at correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> buy ticket </s> go to correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> go to correct stop </s> go to station 1
+<BOS> <SCR> going on a train <ESCR>: </s> get on to correct train </s> go to correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> go to station </s> buy ticket 0
+<BOS> <SCR> going on a train <ESCR>: </s> buy ticket </s> get on to correct train 1
+<BOS> <SCR> going on a train <ESCR>: </s> go to station </s> get on to correct train 1
+<BOS> <SCR> going on a train <ESCR>: </s> take a seat </s> arrive at station 0
+<BOS> <SCR> going on a train <ESCR>: </s> put luggage on seat </s> arrive at station 0
+<BOS> <SCR> going on a train <ESCR>: </s> arrive at station </s> go through security 1
+<BOS> <SCR> going on a train <ESCR>: </s> arrive at station </s> get on train 1
+<BOS> <SCR> going on a train <ESCR>: </s> arrive at station </s> travel to destination 1
+<BOS> <SCR> going on a train <ESCR>: </s> take a seat </s> put luggage on seat 1
+<BOS> <SCR> going on a train <ESCR>: </s> take a seat </s> go through security 1
+<BOS> <SCR> going on a train <ESCR>: </s> take a seat </s> get on train 1
+<BOS> <SCR> going on a train <ESCR>: </s> take a seat </s> travel to destination 1
+<BOS> <SCR> going on a train <ESCR>: </s> go through security </s> put luggage on seat 0
+<BOS> <SCR> going on a train <ESCR>: </s> put luggage on seat </s> get on train 1
+<BOS> <SCR> going on a train <ESCR>: </s> put luggage on seat </s> travel to destination 1
+<BOS> <SCR> going on a train <ESCR>: </s> get on train </s> go through security 0
+<BOS> <SCR> going on a train <ESCR>: </s> go through security </s> travel to destination 1
+<BOS> <SCR> going on a train <ESCR>: </s> get on train </s> travel to destination 1
+<BOS> <SCR> going on a train <ESCR>: </s> find seat </s> walk up to correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> walk up to correct stop </s> pay for ticket 1
+<BOS> <SCR> going on a train <ESCR>: </s> find a seat </s> walk up to correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> get off train </s> walk up to correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> walk to destination </s> walk up to correct stop 0
+<BOS> <SCR> going on a train <ESCR>: </s> pay for ticket </s> find seat 0
+<BOS> <SCR> going on a train <ESCR>: </s> find seat </s> find a seat 1
+<BOS> <SCR> going on a train <ESCR>: </s> get off train </s> find seat 0
+<BOS> <SCR> going on a train <ESCR>: </s> walk to destination </s> find seat 0
+<BOS> <SCR> going on a train <ESCR>: </s> pay for ticket </s> find a seat 1
+<BOS> <SCR> going on a train <ESCR>: </s> get off train </s> pay for ticket 0
+<BOS> <SCR> going on a train <ESCR>: </s> walk to destination </s> pay for ticket 0
+<BOS> <SCR> going on a train <ESCR>: </s> get off train </s> find a seat 0
+<BOS> <SCR> going on a train <ESCR>: </s> walk to destination </s> find a seat 0
+<BOS> <SCR> going on a train <ESCR>: </s> get off train </s> walk to destination 1
+<BOS> <SCR> going on a train <ESCR>: </s> go to station </s> get dressed 0
+<BOS> <SCR> going on a train <ESCR>: </s> get dressed </s> pay for a ticket 1
+<BOS> <SCR> going on a train <ESCR>: </s> get dressed </s> wait for the train to arrive 1
+<BOS> <SCR> going on a train <ESCR>: </s> find a seat in the train </s> get dressed 0
+<BOS> <SCR> going on a train <ESCR>: </s> enjoy the ride </s> get dressed 0
+<BOS> <SCR> going on a train <ESCR>: </s> pay for a ticket </s> go to station 0
+<BOS> <SCR> going on a train <ESCR>: </s> wait for the train to arrive </s> go to station 0
+<BOS> <SCR> going on a train <ESCR>: </s> go to station </s> find a seat in the train 1
+<BOS> <SCR> going on a train <ESCR>: </s> go to station </s> enjoy the ride 1
+<BOS> <SCR> going on a train <ESCR>: </s> pay for a ticket </s> wait for the train to arrive 1
+<BOS> <SCR> going on a train <ESCR>: </s> find a seat in the train </s> pay for a ticket 0
+<BOS> <SCR> going on a train <ESCR>: </s> pay for a ticket </s> enjoy the ride 1
+<BOS> <SCR> going on a train <ESCR>: </s> find a seat in the train </s> wait for the train to arrive 0
+<BOS> <SCR> going on a train <ESCR>: </s> enjoy the ride </s> wait for the train to arrive 0
+<BOS> <SCR> going on a train <ESCR>: </s> enjoy the ride </s> find a seat in the train 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> put on seatbelt </s> find a seat 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> put seat belt on </s> find a seat 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> find a seat </s> get off 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> find a seat </s> get into bus 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> ride </s> find a seat 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> put on seatbelt </s> put seat belt on 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> get off </s> put on seatbelt 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get into bus </s> put on seatbelt 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> ride </s> put on seatbelt 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> put seat belt on </s> get off 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> get into bus </s> put seat belt on 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> ride </s> put seat belt on 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get off </s> get into bus 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> get off </s> ride 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> get into bus </s> ride 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> get on bus </s> arrive at bus stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for train </s> arrive at bus stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> arrive at bus stop </s> board bus 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> drive to destination </s> arrive at bus stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get on bus </s> wait for train 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> get on bus </s> board bus 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> drive to destination </s> get on bus 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> board bus </s> wait for train 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for train </s> drive to destination 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> board bus </s> drive to destination 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> grab the nearest stop </s> board the bus 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> grab the nearest stop </s> get off at the stop 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for the next stop </s> grab the nearest stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> grab the nearest stop </s> wait for the next bus 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> board the bus </s> get off at the stop 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> board the bus </s> wait for the next stop 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for the next bus </s> board the bus 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for the next stop </s> get off at the stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get off at the stop </s> wait for the next bus 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for the next bus </s> wait for the next stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get on bus. </s> buy your ticket. 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> sit down. </s> buy your ticket. 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> buy your ticket. </s> listen to the driver. 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> buy your ticket. </s> wait for the bus to stop. 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> exit bus. </s> buy your ticket. 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get on bus. </s> sit down. 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> get on bus. </s> listen to the driver. 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for the bus to stop. </s> get on bus. 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> exit bus. </s> get on bus. 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> sit down. </s> listen to the driver. 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for the bus to stop. </s> sit down. 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> sit down. </s> exit bus. 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> listen to the driver. </s> wait for the bus to stop. 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> exit bus. </s> listen to the driver. 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for the bus to stop. </s> exit bus. 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> arrive at bus stop </s> get on bus 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> wait for turn </s> arrive at bus stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get off bus </s> arrive at bus stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get back on bus </s> arrive at bus stop 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get on bus </s> wait for turn 1
+<BOS> <SCR> riding on a bus <ESCR>: </s> get off bus </s> get on bus 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get back on bus </s> get on bus 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get off bus </s> wait for turn 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get back on bus </s> wait for turn 0
+<BOS> <SCR> riding on a bus <ESCR>: </s> get off bus </s> get back on bus 1

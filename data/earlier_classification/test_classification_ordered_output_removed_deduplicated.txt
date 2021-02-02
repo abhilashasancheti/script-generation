@@ -1,0 +1,528 @@
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> fill pan with water </s> put water in food processor 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place cake in pan </s> fill pan with water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn it on </s> fill pan with water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> add butter and sugar </s> fill pan with water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> mix </s> fill pan with water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> fill pan with water </s> remove from pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put in to oven </s> fill pan with water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put water in food processor </s> place cake in pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn it on </s> put water in food processor 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put water in food processor </s> add butter and sugar 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put water in food processor </s> mix 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> remove from pan </s> put water in food processor 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put in to oven </s> put water in food processor 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn it on </s> place cake in pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> add butter and sugar </s> place cake in pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place cake in pan </s> mix 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> remove from pan </s> place cake in pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put in to oven </s> place cake in pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn it on </s> add butter and sugar 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> mix </s> turn it on 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> remove from pan </s> turn it on 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put in to oven </s> turn it on 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> mix </s> add butter and sugar 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> remove from pan </s> add butter and sugar 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> add butter and sugar </s> put in to oven 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> remove from pan </s> mix 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put in to oven </s> mix 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put in to oven </s> remove from pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a cup of water </s> get a loaf of bread 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a cake pan </s> get a loaf of bread 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a loaf of bread </s> place the water in the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> get a loaf of bread 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a loaf of bread </s> wait for the oven to be done 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a loaf of bread </s> take the cake out of the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put the cake on a plate </s> get a loaf of bread 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> get a loaf of bread 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a cake pan </s> get a cup of water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the water in the pan </s> get a cup of water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a cup of water </s> turn on the oven 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait for the oven to be done </s> get a cup of water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> take the cake out of the pan </s> get a cup of water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put the cake on a plate </s> get a cup of water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> get a cup of water 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the water in the pan </s> get a cake pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> get a cake pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a cake pan </s> wait for the oven to be done 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a cake pan </s> take the cake out of the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put the cake on a plate </s> get a cake pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> get a cake pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> place the water in the pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the water in the pan </s> wait for the oven to be done 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> take the cake out of the pan </s> place the water in the pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the water in the pan </s> put the cake on a plate 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> place the water in the pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait for the oven to be done </s> turn on the oven 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> take the cake out of the pan </s> turn on the oven 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put the cake on a plate </s> turn on the oven 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> enjoy 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait for the oven to be done </s> take the cake out of the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put the cake on a plate </s> wait for the oven to be done 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> wait for the oven to be done 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> take the cake out of the pan </s> put the cake on a plate 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> take the cake out of the pan </s> enjoy 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put the cake on a plate </s> enjoy 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> choose a color </s> make a cup of white chocolate 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> pour the white chocolate into the pan </s> choose a color 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> choose a color </s> put a spoon into the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait until the chocolate melts </s> choose a color 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> choose a color </s> wait for the pan to get nice and hot 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> make a cup of white chocolate </s> pour the white chocolate into the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> make a cup of white chocolate </s> put a spoon into the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> make a cup of white chocolate </s> wait until the chocolate melts 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> make a cup of white chocolate </s> wait for the pan to get nice and hot 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put a spoon into the pan </s> pour the white chocolate into the pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait until the chocolate melts </s> pour the white chocolate into the pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> pour the white chocolate into the pan </s> wait for the pan to get nice and hot 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> put a spoon into the pan </s> wait until the chocolate melts 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait for the pan to get nice and hot </s> put a spoon into the pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait until the chocolate melts </s> wait for the pan to get nice and hot 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a pan </s> get some butter 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> mix up the butter </s> get a pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a pan </s> get out the cake mix 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get a pan </s> turn on the oven 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> mix up the butter </s> get some butter 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get out the cake mix </s> get some butter 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> get some butter 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> mix up the butter </s> get out the cake mix 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> mix up the butter 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> get out the cake mix 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake in a pan on the oven </s> remove the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> remove the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get out the cake </s> remove the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake into the pan </s> remove the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> remove the cake </s> wait 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> remove the cake </s> when the cake is done, place the cake in the cupboard 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> remove the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> place the cake in a pan on the oven 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> get out the cake </s> place the cake in a pan on the oven 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake in a pan on the oven </s> place the cake into the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake in a pan on the oven </s> wait 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake in a pan on the oven </s> when the cake is done, place the cake in the cupboard 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake in a pan on the oven </s> enjoy 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> get out the cake 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> place the cake into the pan 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> wait 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> when the cake is done, place the cake in the cupboard 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> turn on the oven </s> enjoy 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake into the pan </s> get out the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait </s> get out the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> when the cake is done, place the cake in the cupboard </s> get out the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> get out the cake 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake into the pan </s> wait 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> place the cake into the pan </s> when the cake is done, place the cake in the cupboard 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> place the cake into the pan 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> wait </s> when the cake is done, place the cake in the cupboard 1
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> enjoy </s> wait 0
+<BOS> here is an ordered sequence of events that occur when you bake a cake: </s> when the cake is done, place the cake in the cupboard </s> enjoy 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> park the car </s> go to the library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> go to the library </s> walk to the front of the library 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> go to the library </s> check in at the front desk 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> wait at the desk until it is your turn </s> go to the library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> go to the library </s> walk to your assigned book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> read the book </s> go to the library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave the library </s> go to the library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> walk to the front of the library </s> park the car 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> check in at the front desk </s> park the car 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> park the car </s> wait at the desk until it is your turn 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> park the car </s> walk to your assigned book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> park the car </s> read the book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave the library </s> park the car 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> walk to the front of the library </s> check in at the front desk 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> wait at the desk until it is your turn </s> walk to the front of the library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> walk to the front of the library </s> walk to your assigned book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> walk to the front of the library </s> read the book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> walk to the front of the library </s> leave the library 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> wait at the desk until it is your turn </s> check in at the front desk 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> check in at the front desk </s> walk to your assigned book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> check in at the front desk </s> read the book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave the library </s> check in at the front desk 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> wait at the desk until it is your turn </s> walk to your assigned book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> read the book </s> wait at the desk until it is your turn 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> wait at the desk until it is your turn </s> leave the library 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> read the book </s> walk to your assigned book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave the library </s> walk to your assigned book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> read the book </s> leave the library 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> pay for book </s> enter library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> retrieve book </s> enter library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> place book on the shelf </s> enter library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> pick up book </s> enter library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> return to counter </s> enter library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> retrieve book </s> pay for book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> pay for book </s> place book on the shelf 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> pick up book </s> pay for book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> return to counter </s> pay for book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> retrieve book </s> place book on the shelf 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> retrieve book </s> pick up book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> retrieve book </s> return to counter 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> place book on the shelf </s> pick up book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> place book on the shelf </s> return to counter 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> pick up book </s> return to counter 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> call library </s> tell the librarian 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian your book </s> call library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian when you need it </s> call library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> call library </s> give librarian your library card 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book </s> call library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your card back from the librarian </s> call library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book back from the librarian </s> call library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> call library </s> leave library 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell the librarian </s> tell librarian your book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian when you need it </s> tell the librarian 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell the librarian </s> give librarian your library card 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book </s> tell the librarian 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your card back from the librarian </s> tell the librarian 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book back from the librarian </s> tell the librarian 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave library </s> tell the librarian 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian your book </s> tell librarian when you need it 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian your book </s> give librarian your library card 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian your book </s> get your book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your card back from the librarian </s> tell librarian your book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian your book </s> get your book back from the librarian 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave library </s> tell librarian your book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian when you need it </s> give librarian your library card 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book </s> tell librarian when you need it 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your card back from the librarian </s> tell librarian when you need it 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book back from the librarian </s> tell librarian when you need it 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> tell librarian when you need it </s> leave library 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> give librarian your library card </s> get your book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> give librarian your library card </s> get your card back from the librarian 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> give librarian your library card </s> get your book back from the librarian 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave library </s> give librarian your library card 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book </s> get your card back from the librarian 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book </s> get your book back from the librarian 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave library </s> get your book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book back from the librarian </s> get your card back from the librarian 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave library </s> get your card back from the librarian 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> get your book back from the librarian </s> leave library 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> check for new books </s> check a library at 2-3:30 a.m. 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> call the person </s> check a library at 2-3:30 a.m. 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> they give you the book </s> check a library at 2-3:30 a.m. 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> check a library at 2-3:30 a.m. </s> when they are done, return the book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave the library </s> check a library at 2-3:30 a.m. 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> check for new books </s> call the person 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> check for new books </s> they give you the book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> when they are done, return the book </s> check for new books 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave the library </s> check for new books 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> call the person </s> they give you the book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> when they are done, return the book </s> call the person 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave the library </s> call the person 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> they give you the book </s> when they are done, return the book 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> they give you the book </s> leave the library 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> leave the library </s> when they are done, return the book 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> walk into the library </s> go to the section on book borrow 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> find a book that you would like to borrow </s> walk into the library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> look up the book on the internet </s> walk into the library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> take the book to your desk </s> walk into the library 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> go to the section on book borrow </s> find a book that you would like to borrow 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> look up the book on the internet </s> go to the section on book borrow 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> take the book to your desk </s> go to the section on book borrow 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> look up the book on the internet </s> find a book that you would like to borrow 0
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> find a book that you would like to borrow </s> take the book to your desk 1
+<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: </s> look up the book on the internet </s> take the book to your desk 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in the car </s> drive to the airport 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in the car </s> pay for airline 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in the car </s> find a seat 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put luggage on the seat </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in the car </s> get out of car 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in the car </s> go to ticket counter 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in the car </s> get gate phone 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> call the airline </s> get in the car 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in the car </s> go to flight 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in the car </s> board the plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> pay for airline </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> drive to the airport </s> find a seat 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put luggage on the seat </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of car </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to ticket counter </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get gate phone </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> call the airline </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> drive to the airport </s> go to flight 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board the plane </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find a seat </s> pay for airline 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> pay for airline </s> put luggage on the seat 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of car </s> pay for airline 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> pay for airline </s> go to ticket counter 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> pay for airline </s> get gate phone 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> pay for airline </s> call the airline 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to flight </s> pay for airline 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board the plane </s> pay for airline 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put luggage on the seat </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find a seat </s> get out of car 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to ticket counter </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get gate phone </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> call the airline </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find a seat </s> go to flight 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find a seat </s> board the plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of car </s> put luggage on the seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to ticket counter </s> put luggage on the seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get gate phone </s> put luggage on the seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> call the airline </s> put luggage on the seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put luggage on the seat </s> go to flight 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put luggage on the seat </s> board the plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of car </s> go to ticket counter 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of car </s> get gate phone 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> call the airline </s> get out of car 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to flight </s> get out of car 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board the plane </s> get out of car 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to ticket counter </s> get gate phone 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> call the airline </s> go to ticket counter 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to ticket counter </s> go to flight 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to ticket counter </s> board the plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> call the airline </s> get gate phone 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to flight </s> get gate phone 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board the plane </s> get gate phone 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> call the airline </s> go to flight 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board the plane </s> call the airline 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to flight </s> board the plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> wait in line </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> drive to the airport </s> sit down 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> drive to the airport </s> go through security 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board plane </s> drive to the airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> wait in line </s> sit down 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> wait in line </s> go through security 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board plane </s> wait in line 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> sit down </s> go through security 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board plane </s> sit down 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go through security </s> board plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go through security </s> go to airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to the passenger area </s> go to airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to airport </s> walk up to the boarding gate 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to airport </s> wait for your seat 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to airport </s> board plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to airport </s> go to destination 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to airport </s> leave airport 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to the passenger area </s> go through security 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go through security </s> walk up to the boarding gate 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> wait for your seat </s> go through security 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board plane </s> go through security 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go through security </s> go to destination 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> leave airport </s> go through security 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> walk up to the boarding gate </s> go to the passenger area 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> wait for your seat </s> go to the passenger area 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board plane </s> go to the passenger area 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to the passenger area </s> go to destination 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> leave airport </s> go to the passenger area 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> walk up to the boarding gate </s> wait for your seat 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> walk up to the boarding gate </s> board plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to destination </s> walk up to the boarding gate 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> walk up to the boarding gate </s> leave airport 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> wait for your seat </s> board plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> wait for your seat </s> go to destination 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> leave airport </s> wait for your seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board plane </s> go to destination 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> board plane </s> leave airport 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to destination </s> leave airport 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get to airline </s> make sure flight is booked 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> make sure flight is booked </s> find seat 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> check in with flight attendant </s> make sure flight is booked 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> take boarding pass </s> make sure flight is booked 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of seat </s> make sure flight is booked 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to check-in </s> make sure flight is booked 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> sit in seats </s> make sure flight is booked 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> talk to flight attendant </s> make sure flight is booked 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> make sure flight is booked </s> leave plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find seat </s> get to airline 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get to airline </s> check in with flight attendant 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get to airline </s> take boarding pass 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of seat </s> get to airline 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get to airline </s> go to check-in 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get to airline </s> sit in seats 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get to airline </s> talk to flight attendant 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get to airline </s> leave plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> check in with flight attendant </s> find seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find seat </s> take boarding pass 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of seat </s> find seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find seat </s> go to check-in 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find seat </s> sit in seats 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> talk to flight attendant </s> find seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> find seat </s> leave plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> check in with flight attendant </s> take boarding pass 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> check in with flight attendant </s> get out of seat 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to check-in </s> check in with flight attendant 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> check in with flight attendant </s> sit in seats 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> talk to flight attendant </s> check in with flight attendant 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> check in with flight attendant </s> leave plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of seat </s> take boarding pass 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to check-in </s> take boarding pass 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> take boarding pass </s> sit in seats 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> take boarding pass </s> talk to flight attendant 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> leave plane </s> take boarding pass 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to check-in </s> get out of seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of seat </s> sit in seats 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> talk to flight attendant </s> get out of seat 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get out of seat </s> leave plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to check-in </s> sit in seats 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to check-in </s> talk to flight attendant 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> go to check-in </s> leave plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> talk to flight attendant </s> sit in seats 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> sit in seats </s> leave plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> leave plane </s> talk to flight attendant 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> look up airline website </s> book flight 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> drive to airport </s> look up airline website 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> look up airline website </s> sit in plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in plane </s> look up airline website 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put seat in proper position </s> look up airline website 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> look up airline website </s> start engine 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> look up airline website </s> take off 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> book flight </s> drive to airport 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> book flight </s> sit in plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in plane </s> book flight 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> book flight </s> put seat in proper position 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> start engine </s> book flight 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> take off </s> book flight 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> drive to airport </s> sit in plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in plane </s> drive to airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put seat in proper position </s> drive to airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> start engine </s> drive to airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> take off </s> drive to airport 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> sit in plane </s> get in plane 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> sit in plane </s> put seat in proper position 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> sit in plane </s> start engine 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> sit in plane </s> take off 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put seat in proper position </s> get in plane 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> start engine </s> get in plane 0
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> get in plane </s> take off 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put seat in proper position </s> start engine 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> put seat in proper position </s> take off 1
+<BOS> here is an ordered sequence of events that occur when you fly in an airplane: </s> take off </s> start engine 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> pick a train at the station </s> find a seat 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> pick a train at the station </s> wait for the train 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> pick a train at the station </s> go inside the train 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> sit down and eat snacks </s> pick a train at the station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> when it's your turn board the train </s> pick a train at the station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> ride the train </s> pick a train at the station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> wait for the train </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go inside the train </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> sit down and eat snacks </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> when it's your turn board the train </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> ride the train </s> find a seat 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> wait for the train </s> go inside the train 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> wait for the train </s> sit down and eat snacks 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> when it's your turn board the train </s> wait for the train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> ride the train </s> wait for the train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go inside the train </s> sit down and eat snacks 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> when it's your turn board the train </s> go inside the train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> ride the train </s> go inside the train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> when it's your turn board the train </s> sit down and eat snacks 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> sit down and eat snacks </s> ride the train 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> when it's your turn board the train </s> ride the train 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get your ticket </s> get your tickets 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get your ticket </s> get your boarding pass 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get your ticket </s> wait for train to get to your destination 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get your boarding pass </s> get your tickets 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get your tickets </s> wait for train to get to your destination 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> wait for train to get to your destination </s> get your boarding pass 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get in line at station. </s> decide where you want to go. 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> decide where you want to go. </s> wait for train. 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> decide where you want to go. </s> get off of train at stop. 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> take train to your destination. </s> decide where you want to go. 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> wait for train. </s> get in line at station. 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get off of train at stop. </s> get in line at station. 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get in line at station. </s> take train to your destination. 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> wait for train. </s> get off of train at stop. 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> wait for train. </s> take train to your destination. 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get off of train at stop. </s> take train to your destination. 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> put on comfortable clothing </s> get in car with attendant 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> drive to station </s> put on comfortable clothing 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> put on comfortable clothing </s> purchase fare 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> ride train to your destination </s> put on comfortable clothing 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> pay for ride </s> put on comfortable clothing 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> exit car </s> put on comfortable clothing 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get in car with attendant </s> drive to station 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get in car with attendant </s> purchase fare 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get in car with attendant </s> ride train to your destination 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> pay for ride </s> get in car with attendant 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> exit car </s> get in car with attendant 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> purchase fare </s> drive to station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> ride train to your destination </s> drive to station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> pay for ride </s> drive to station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> exit car </s> drive to station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> purchase fare </s> ride train to your destination 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> purchase fare </s> pay for ride 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> purchase fare </s> exit car 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> ride train to your destination </s> pay for ride 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> exit car </s> ride train to your destination 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> exit car </s> pay for ride 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get dressed </s> go to station 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> pay for a ticket </s> get dressed 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get dressed </s> wait for your train 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get dressed </s> board the train 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get dressed </s> go to stop on the platform 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get off at stop </s> get dressed 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get dressed </s> go home 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go to station </s> pay for a ticket 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go to station </s> wait for your train 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> board the train </s> go to station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go to stop on the platform </s> go to station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go to station </s> get off at stop 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go home </s> go to station 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> wait for your train </s> pay for a ticket 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> board the train </s> pay for a ticket 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go to stop on the platform </s> pay for a ticket 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get off at stop </s> pay for a ticket 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go home </s> pay for a ticket 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> board the train </s> wait for your train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go to stop on the platform </s> wait for your train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> get off at stop </s> wait for your train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go home </s> wait for your train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> board the train </s> go to stop on the platform 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> board the train </s> get off at stop 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go home </s> board the train 0
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go to stop on the platform </s> get off at stop 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go to stop on the platform </s> go home 1
+<BOS> here is an ordered sequence of events that occur when you go on a train: </s> go home </s> get off at stop 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> pay for ticket </s> find a train 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> sit down </s> find a train 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> find a train </s> get on the bus 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> find a train </s> wait for doors to open 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> sit down </s> pay for ticket 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get on the bus </s> pay for ticket 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for doors to open </s> pay for ticket 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> sit down </s> get on the bus 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> sit down </s> wait for doors to open 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get on the bus </s> wait for doors to open 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> arrive at bus stop </s> get on bus 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for driver </s> arrive at bus stop 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board the bus </s> arrive at bus stop 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for driver to arrive </s> arrive at bus stop 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for driver </s> get on bus 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get on bus </s> board the bus 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get on bus </s> wait for driver to arrive 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board the bus </s> wait for driver 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for driver to arrive </s> wait for driver 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board the bus </s> wait for driver to arrive 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> pull up to bus </s> park at destination 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> park at destination </s> get off 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> walk to front </s> park at destination 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board the bus </s> park at destination 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get off </s> pull up to bus 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> walk to front </s> pull up to bus 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board the bus </s> pull up to bus 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> walk to front </s> get off 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board the bus </s> get off 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> walk to front </s> board the bus 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> walk to bus. </s> get on bus. 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> walk to bus. </s> sit down. 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> walk to bus. </s> wait for your bus. 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> walk to bus. </s> board bus. 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get off. </s> walk to bus. 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> sit down. </s> get on bus. 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get on bus. </s> wait for your bus. 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board bus. </s> get on bus. 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get on bus. </s> get off. 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> sit down. </s> wait for your bus. 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board bus. </s> sit down. 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get off. </s> sit down. 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board bus. </s> wait for your bus. 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for your bus. </s> get off. 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get off. </s> board bus. 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> arrive at bus stop </s> get in car 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> arrive at bus stop </s> park vehicle 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> arrive at bus stop </s> board bus 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for bus </s> arrive at bus stop 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> park vehicle </s> get in car 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> get in car </s> board bus 1
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for bus </s> get in car 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board bus </s> park vehicle 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> wait for bus </s> park vehicle 0
+<BOS> here is an ordered sequence of events that occur when you ride on a bus: </s> board bus </s> wait for bus 1

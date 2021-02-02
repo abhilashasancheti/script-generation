@@ -1,0 +1,5 @@
+<BOS> washing dishes: 1. wait for water to come to a boil 2. place dish into the dishwasher 3. wait until full 4. pour water over the soap 5. add soap and other cleaning products 6. place dishwasher settings down 7. close door 8. drain dishwasher
+<BOS> making a bonfire: 1. gather tools and materials 2. gather wood 3. put all of your materials in a large area 4. light the fire 5. wait until it is done 6. remove everything from the fire 7. put away the wood
+<BOS> going to the sauna: 1. get dressed 2. get in the car 3. drive to the sauna 4. set up a towel 5. take off clothes 6. turn on the sauna 7. get into the sauna 8. sit and relax 9. turn off the sauna 10. leave the sauna 11. get dressed
+<BOS> making coffee: 1. go to coffee shop 2. buy a cup of coffee 3. get mug 4. get your favorite cup 5. get your drink 6. place drink in mouth 7. drink to your desired strength 8. exit booth
+<BOS> going to the swimming pool: 1. buy a ticket for the time you want to visit the swimming pool 2. change into comfortable clothing 3. go inside 4. enter the swimming pool 5. grab a towel

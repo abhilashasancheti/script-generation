@@ -1,0 +1,16 @@
+having a barbecue;get to the location of the barbecue;get to the area where the BBQ is being prepared
+having a barbecue;place on the wood;enjoy the BBQ
+having a barbecue;add charcoal to the pit;place on the wood
+having a barbecue;dig a pit to the appropriate depth;add charcoal to the pit
+ordering a pizza;choose toppings;choose sauce
+ordering a pizza;place pizza on plate;enjoy
+ordering a pizza;choose sauce;wait for pizza
+cleaning up a flat;place the rag on the flat;scrub the rag again
+cleaning up a flat;dry the flat;put the flat in a cup
+cleaning up a flat;take the flat to the cleaning station;scrub the flat with a rag
+cleaning up a flat;scrub the rag again;remove the flat from the cleaning station
+making scrambled eggs;cook the egg.;put the cooked egg on top of the scrambled.
+making scrambled eggs;add egg whites and salt to water.;boil the water to the desired temperature.
+making scrambled eggs;carefully place the egg in the batter.;cook the egg.
+making scrambled eggs;put the cooked egg on top of the scrambled.;add syrup if desired.
+taking the underground;find a place to get into the underground;find a place to get out

@@ -1,0 +1,5 @@
+<BOS> these are the things that happen when you bake a cake: 
+<BOS> these are the things that happen when you borrow a book from the library: 
+<BOS> these are the things that happen when you fly in an airplane: 
+<BOS> these are the things that happen when you go on a train: 
+<BOS> these are the things that happen when you ride on a bus: 

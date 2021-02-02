@@ -1,0 +1,1 @@
+{"bos_token": "<BOS>", "eos_token": "<EOS>", "unk_token": "<|endoftext|>", "sep_token": "<SEP>", "pad_token": "<PAD>", "additional_special_tokens": ["<ANS>", "<BLK>", "<SCR>", "<ESCR>", "<BEVENT>", "<EEVENT>"]}

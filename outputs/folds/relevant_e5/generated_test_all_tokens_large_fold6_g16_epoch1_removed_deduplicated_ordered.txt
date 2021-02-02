@@ -1,0 +1,25 @@
+<BOS> <SCR> washing one's hair <ESCR>: 1. wash hair 2. scrub hair 3. rinse hair 4. rinse out excess hair 5. rinse hair from dryer sheet 
+<BOS> <SCR> washing one's hair <ESCR>: 1. get a hair shampoo 2. get a conditioner 3. turn on the shower 4. grab a hair rinse 5. grab the soap 6. spray the hair with the shampoo 7. apply the hair rinse to the hair 8. apply the conditioner to the hair 9. rinse the hair with the conditioner 10. rinse the conditioner off with the hair rinse 
+<BOS> <SCR> washing one's hair <ESCR>: 1. add water 2. add wash cloth 
+<BOS> <SCR> washing one's hair <ESCR>: 1. get the soap out of the house 2. turn on the water 3. put soap on hair 4. wash with washcloth 5. wash one's head 
+<BOS> <SCR> washing one's hair <ESCR>: 1. take clean hair into the tub 2. take the wash rag and put in the rinse water 3. put the hair in a comb 4. wash the hair in the wash rag until the hair is soft 5. brush the hair 6. let it dry 
+<BOS> <SCR> fueling a car <ESCR>: 1. fill the tank with gas. 2. plug in the car. 3. light the fuel. 
+<BOS> <SCR> fueling a car <ESCR>: 1. go to garage 2. plug in car 3. put in seat belt 4. adjust oil pump 5. wait for car to heat up 6. start car 7. turn on car 8. drive car 9. ride 
+<BOS> <SCR> fueling a car <ESCR>: 1. put oil in tank 2. fill up tank with fuel 3. plug in car 4. wait for car to warm up 5. turn on car 6. once car is warm, start to drive 
+<BOS> <SCR> fueling a car <ESCR>: 1. get car. 2. plug in the car. 3. put gas in the car. 4. put air in the car. 5. make sure the fuel is filling up. 6. start the car. 7. test it. 
+<BOS> <SCR> fueling a car <ESCR>: 1. put gas in car 2. turn on car 3. place car in drive 4. get into car 5. place gas cap on car 6. fill gas tank 7. put gas pedal down 8. wait for gas to fill up 9. place seatbelt on
+<BOS> <SCR> sending food back (in a restaurant) <ESCR>: 1. enter the restaurant 2. enter into the register 3. pay for the food 4. take the food back 5. pick up the food from the counter 6. leave the restaurant 
+<BOS> <SCR> sending food back (in a restaurant) <ESCR>: 1. look at what they want 2. give it to the cashier 3. wait for the cashier to scan it 4. tip 
+<BOS> <SCR> sending food back (in a restaurant) <ESCR>: 1. go to restaurant 2. put in food item 3. get card to pay 4. pay with card 5. take back item 6. bring back item 7. leave 
+<BOS> <SCR> sending food back (in a restaurant) <ESCR>: 1. go to counter 2. pay for food 3. pay for your drinks 4. wait for food 5. get receipt 6. eat food 
+<BOS> <SCR> sending food back (in a restaurant) <ESCR>: 1. drive to the restaurant 2. make the food 3. take the food to the car 4. pack the food back 5. eat the food 
+<BOS> <SCR> changing batteries in an alarm clock <ESCR>: 1. turn on the alarm 2. plug the battery in 3. turn the alarm on and wait for it to activate 4. remove the battery 5. replace the battery in the alarm clock 6. hang up the clock 7. put the alarm back on the wall
+<BOS> <SCR> changing batteries in an alarm clock <ESCR>: 1. open the battery compartment 2. take out a new battery 3. place the old one in the slot 4. put the old battery in the new one 5. open the switch to activate it 6. turn it on 7. enjoy the time 
+<BOS> <SCR> changing batteries in an alarm clock <ESCR>: 1. place the dial on the top 2. adjust the time 3. turn the dial to desired time 4. turn off the alarm 5. unplug the clock 
+<BOS> <SCR> changing batteries in an alarm clock <ESCR>: 1. select the desired alarm time 2. turn the alarm on 3. place the desired number of items into the alarm box 4. when the alarm is triggered, check the box to confirm if the number has been entered correctly 5. remove the items from the alarm box 6. place the selected item in the alarm drawer
+<BOS> <SCR> changing batteries in an alarm clock <ESCR>: 1. gather the batteries 2. plug the alarm into the charger 3. get the timer 4. wait for the timer to go off 5. watch the timer go off 
+<BOS> <SCR> checking in at an airport <ESCR>: 1. enter into the airport 2. pay for ticket 3. enter the terminal 4. go to the gate 5. wait 6. board plane 7. sit down 8. when you get to your destination 9. go out 
+<BOS> <SCR> checking in at an airport <ESCR>: 1. find a ticket 2. enter the airport 3. go through security 4. wait to board the plane 5. wait to get to your seat 6. find your seat 7. enjoy the ride 
+<BOS> <SCR> checking in at an airport <ESCR>: 1. find flight number 2. find departure gate 3. go to the terminal 4. pay for ticket 5. wait to enter 6. find a seat 7. sit down 8. walk to security checkpoint 9. present your boarding pass 10. board your flight
+<BOS> <SCR> checking in at an airport <ESCR>: 1. go to check in. 2. go to gate. 3. show ticket. 4. wait for the flight. 5. when boarding, put bag in overhead bin. 6. sit down. 7. wait for the plane to arrive. 8. take off.
+<BOS> <SCR> checking in at an airport <ESCR>: 1. go through security 2. check bags and pass through airport 3. sit in check in line 4. find your seat 5. wait for your flight 6. get on flight 7. put on your seatbelt 8. sit back 9. leave

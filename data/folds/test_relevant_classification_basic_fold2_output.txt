@@ -1,0 +1,224 @@
+getting a hair cut: </s> walk into the hair salon 1
+getting a hair cut: </s> show the lady your credit card 1
+getting a hair cut: </s> get your hair cut 1
+getting a hair cut: </s> put in your cut 1
+getting a hair cut: </s> make sure you're clean 1
+getting a hair cut: </s> leave the salon 1
+getting a hair cut: </s> go to salon 1
+getting a hair cut: </s> make appointment with manager 1
+getting a hair cut: </s> go to dressing room 1
+getting a hair cut: </s> put on clothes 1
+getting a hair cut: </s> go to receptionist 1
+getting a hair cut: </s> say hello to hair cut 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> take back to dressing room 1
+getting a hair cut: </s> put on hair cut 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> find a new hairstyle 1
+getting a hair cut: </s> get a new haircut 1
+getting a hair cut: </s> go to the barber shop 1
+getting a hair cut: </s> buy the hair-cut 1
+getting a hair cut: </s> go home 1
+getting a hair cut: </s> get the hair cut 1
+getting a hair cut: </s> get the scissors 1
+getting a hair cut: </s> get the conditioner 1
+getting a hair cut: </s> get the styling powder 1
+getting a hair cut: </s> get the hair dryer 1
+getting a hair cut: </s> get the hair dryer 1
+getting a hair cut: </s> get the hair dryer 1
+getting a hair cut: </s> get the conditioner 1
+getting a hair cut: </s> get the hair dryer 1
+getting a hair cut: </s> get the styling powder 1
+getting a hair cut: </s> get the hair dryer 1
+getting a hair cut: </s> get the hair dryer 1
+getting a hair cut: </s> put on your outfit 1
+getting a hair cut: </s> make a call if you need help 1
+getting a hair cut: </s> get out of the house 1
+getting a hair cut: </s> go home 1
+getting a hair cut: </s> put on proper clothes. 1
+getting a hair cut: </s> get a hair cut. 1
+getting a hair cut: </s> go into the salon. 1
+getting a hair cut: </s> talk to the clerk. 1
+getting a hair cut: </s> pay the clerk the fee. 1
+getting a hair cut: </s> sit down and wait for your hair to be cut. 1
+getting a hair cut: </s> leave. 1
+going grocery shopping: </s> go to the store 1
+going grocery shopping: </s> purchase the items 1
+going grocery shopping: </s> get a receipt 1
+going grocery shopping: </s> walk in the store 1
+going grocery shopping: </s> check out 1
+going grocery shopping: </s> leave the store 1
+going grocery shopping: </s> enter grocery store 1
+going grocery shopping: </s> choose item to buy 1
+going grocery shopping: </s> pay for item 1
+going grocery shopping: </s> go into the appropriate checkout section 1
+going grocery shopping: </s> select required item 1
+going grocery shopping: </s> select correct checkout information 1
+going grocery shopping: </s> hand the clerk your items 1
+going grocery shopping: </s> choose the items you want 1
+going grocery shopping: </s> give the clerk your total 1
+going grocery shopping: </s> put items in cart 1
+going grocery shopping: </s> leave the store 1
+going grocery shopping: </s> put grocery items into basket. 1
+going grocery shopping: </s> look over items in basket. 1
+going grocery shopping: </s> go to cashier. 1
+going grocery shopping: </s> check out items. 1
+going grocery shopping: </s> take bags. 1
+going grocery shopping: </s> go to the checkout. 1
+going grocery shopping: </s> pay for items. 1
+going grocery shopping: </s> drive to grocery store 1
+going grocery shopping: </s> look for items to purchase 1
+going grocery shopping: </s> select what you want to buy 1
+going grocery shopping: </s> take items to checkout 1
+going grocery shopping: </s> put items in basket 1
+going grocery shopping: </s> leave store 1
+going grocery shopping: </s> drive to store 1
+going grocery shopping: </s> pick out items 1
+going grocery shopping: </s> look for what you want 1
+going grocery shopping: </s> go to checkout 1
+going grocery shopping: </s> present items to cashier 1
+going grocery shopping: </s> pay for items 1
+going grocery shopping: </s> wait for items to be checked 1
+going grocery shopping: </s> pick up items 1
+going grocery shopping: </s> walk back to car 1
+going grocery shopping: </s> drive home 1
+planting a tree: </s> get a large box 1
+planting a tree: </s> get a large piece of wood 1
+planting a tree: </s> gather a lot of small trees 1
+planting a tree: </s> put the trees in the box 1
+planting a tree: </s> put some newspaper around the box 1
+planting a tree: </s> start the machine 1
+planting a tree: </s> collect a bunch of trees 1
+planting a tree: </s> collect a lot of sticks 1
+planting a tree: </s> gather some light bulbs 1
+planting a tree: </s> collect a lot of sand 1
+planting a tree: </s> place the trees on their place 1
+planting a tree: </s> place the sand on the ground 1
+planting a tree: </s> wait until the tree is complete 1
+planting a tree: </s> place the wood in the pile 1
+planting a tree: </s> light the bulbs and keep the house light on 1
+planting a tree: </s> go to the store. 1
+planting a tree: </s> buy the tree. 1
+planting a tree: </s> pick the tree. 1
+planting a tree: </s> put the tree in the ground. 1
+planting a tree: </s> watch it grow. 1
+planting a tree: </s> find a suitable location 1
+planting a tree: </s> clear the land 1
+planting a tree: </s> cut off any tall grass 1
+planting a tree: </s> find a suitable tree 1
+planting a tree: </s> select the appropriate leaves 1
+planting a tree: </s> cut the top off 1
+planting a tree: </s> lay the cut branches in a row 1
+planting a tree: </s> lay the branches down to form a straight line 1
+planting a tree: </s> secure the branches 1
+planting a tree: </s> put the branches in the ground 1
+planting a tree: </s> hang the trees with bunches of leaves 1
+planting a tree: </s> wait for the weather to turn warm to cool 1
+planting a tree: </s> cut the wood with a machete 1
+planting a tree: </s> dry off the wood with paper towels 1
+planting a tree: </s> put the wood away 1
+planting a tree: </s> put out seed money 1
+planting a tree: </s> put out desired shade 1
+planting a tree: </s> place in desired location 1
+planting a tree: </s> wait for the new tree to grow 1
+planting a tree: </s> when it is about time, move it back in 1
+planting a tree: </s> repeat 1
+repairing a flat bicycle tire: </s> pull up to flat spot 1
+repairing a flat bicycle tire: </s> pull up on the handle 1
+repairing a flat bicycle tire: </s> turn the tire on 1
+repairing a flat bicycle tire: </s> tighten the tire 1
+repairing a flat bicycle tire: </s> push it up 1
+repairing a flat bicycle tire: </s> replace the tire 1
+repairing a flat bicycle tire: </s> get flat tire 1
+repairing a flat bicycle tire: </s> take flat tire to repair store 1
+repairing a flat bicycle tire: </s> pay for repair 1
+repairing a flat bicycle tire: </s> take tire to the store 1
+repairing a flat bicycle tire: </s> repair the flat 1
+repairing a flat bicycle tire: </s> pay for new tire 1
+repairing a flat bicycle tire: </s> leave 1
+repairing a flat bicycle tire: </s> remove flat tire from bicycle. 1
+repairing a flat bicycle tire: </s> remove old tire from bicycle. 1
+repairing a flat bicycle tire: </s> take old tire off. 1
+repairing a flat bicycle tire: </s> put new tire on bicycle. 1
+repairing a flat bicycle tire: </s> replace old tire. 1
+repairing a flat bicycle tire: </s> put new tire on. 1
+repairing a flat bicycle tire: </s> pick up bicycle 1
+repairing a flat bicycle tire: </s> replace flat tire 1
+repairing a flat bicycle tire: </s> replace flat tire 1
+repairing a flat bicycle tire: </s> put on new bicycle 1
+repairing a flat bicycle tire: </s> get receipt 1
+repairing a flat bicycle tire: </s> call mechanic 1
+repairing a flat bicycle tire: </s> have him check flat tire 1
+repairing a flat bicycle tire: </s> have him put new tires on 1
+repairing a flat bicycle tire: </s> have him replace old tires with new 1
+repairing a flat bicycle tire: </s> pay the mechanic 1
+taking a bath: </s> take off clothes 1
+taking a bath: </s> put on towel 1
+taking a bath: </s> step into shower 1
+taking a bath: </s> turn on water 1
+taking a bath: </s> wait for shower to cool 1
+taking a bath: </s> step out of shower 1
+taking a bath: </s> take off clothes 1
+taking a bath: </s> wet towel 1
+taking a bath: </s> step into tub 1
+taking a bath: </s> use towel to soak 10-20 minutes 1
+taking a bath: </s> rinse off water 1
+taking a bath: </s> turn off water 1
+taking a bath: </s> dry off 1
+taking a bath: </s> step out of tub 1
+taking a bath: </s> step out of room 1
+taking a bath: </s> dry off with towel 1
+taking a bath: </s> grab towel 1
+taking a bath: </s> open water 1
+taking a bath: </s> open shower 1
+taking a bath: </s> step into shower 1
+taking a bath: </s> get in shower 1
+taking a bath: </s> wash hair and body 1
+taking a bath: </s> turn on shower 1
+taking a bath: </s> wash body 1
+taking a bath: </s> wash hair and body 1
+taking a bath: </s> wash body 1
+taking a bath: </s> turn off shower 1
+taking a bath: </s> dry off 1
+taking a bath: </s> step out of shower 1
+taking a bath: </s> get dressed 1
+taking a bath: </s> leave shower 1
+taking a bath: </s> get in car 1
+taking a bath: </s> enter bathroom 1
+taking a bath: </s> grab towel 1
+taking a bath: </s> take off clothes 1
+taking a bath: </s> step into shower 1
+taking a bath: </s> wash body 1
+taking a bath: </s> rinse soap off body 1
+taking a bath: </s> step out of shower 1
+taking a bath: </s> grab towel 1
+taking a bath: </s> dry body 1
+taking a bath: </s> put on clothing. 1
+taking a bath: </s> get into tub. 1
+taking a bath: </s> turn on water. 1
+taking a bath: </s> put in soap. 1
+taking a bath: </s> massage soap into body. 1
+taking a bath: </s> get towel out of drawer. 1
+taking a bath: </s> lay towel on the floor. 1
+taking a bath: </s> sit in tub. 1
+taking a bath: </s> get out when soap is no longer needed. 1
+taking a bath: </s> get out of tub and dry off with towel. 1
+taking a bath: </s> take a shower. 1
+taking a bath: </s> get dressed. 1
+taking a bath: </s> leave home. 1
+taking a bath: </s> dress in swimming gear 1
+taking a bath: </s> get in the shower 1
+taking a bath: </s> scrub the body 1
+taking a bath: </s> wash hair 1
+taking a bath: </s> take shower seat 1
+taking a bath: </s> get into the bath 1
+taking a bath: </s> sit in the bath and get wet 1
+taking a bath: </s> rub shampoo over hair 1
+taking a bath: </s> rinse shampoo 1
+taking a bath: </s> apply soap 1
+taking a bath: </s> wash body 1
+taking a bath: </s> rinse soap 1
+taking a bath: </s> get out of the bath 1
+taking a bath: </s> dry off 1
+taking a bath: </s> get dressed 1

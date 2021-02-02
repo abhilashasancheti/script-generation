@@ -1,0 +1,25 @@
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. grab order 2. walk to front 3. pay for order 4. wait 5. eat 
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. get a order 2. wait for your turn 3. pay at the cash register 4. get a meal 5. sit and eat 
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. walk into a fast food restaurant. 2. go to the counter. 3. place your order for the food you want. 4. take your order from the cashier. 5. wait for your meal. 
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. walk in the restaurant. 2. enter the restaurant. 3. order a meal. 4. wait for your meal to be ready. 5. enjoy your meal. 
+<BOS> <SCR> eating in a fast food restaurant <ESCR>: 1. call for a menu 2. decide what you want 3. go to the kitchen 4. wait for the correct time 5. place your order 6. eat 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. enter the card information and make payment 2. make sure the card is valid 3. take the card out of the wallet 4. close the card 5. open the wallet 6. get out the card 7. insert the card in the machine 8. change the credit or debit card information 9. pay with the card 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. pay for item 2. leave store 3. walk to card center 4. make sure card is good 5. put card on machine 6. pay for card 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. drive to your bank 2. purchase your card 3. drive to the cashier to pay 4. present your card 5. show your identification 6. exit the bank 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. pay for your meal 
+<BOS> <SCR> paying with a credit card <ESCR>: 1. go to the store and pull up a credit card information sheet. 2. select the type of card you would like to use. 3. input your card information into the machine and press the pay for credit card button. 4. pay for the credit card with the card information printed on the back of the card. 
+<BOS> <SCR> playing tennis <ESCR>: 1. buy a pair of tennis shoes 2. go to the local park 3. set up a line for yourself 4. go into the park 5. pick a ball 6. play a game of tennis 
+<BOS> <SCR> playing tennis <ESCR>: 1. put on clothes 2. drive to tennis club 3. change clothes 4. find a ball 5. grab a ball 6. put your racket in pool 7. change back into ball 
+<BOS> <SCR> playing tennis <ESCR>: 1. get a tennis ball 2. get shoes 3. put the ball in the basket 4. throw the ball at your opponent 
+<BOS> <SCR> playing tennis <ESCR>: 1. put on tennis shoes 2. go to the house 3. put on your racket 4. change into your clothes 5. put your racket in your bag 6. go back to the house 
+<BOS> <SCR> playing tennis <ESCR>: 1. buy a pair of tennis shoes 2. go to the tennis club 3. talk to the coach 4. get a match with your friends 
+<BOS> <SCR> going to the theater <ESCR>: 1. go to the theater 2. get ticket and go into the theater 3. show ticket 4. wait for the movie 5. get in line to go into the theater 6. go to your seat 7. start watching the movie 8. exit the theater 
+<BOS> <SCR> going to the theater <ESCR>: 1. go to the theater 2. enter the theater and sit down in the seat 3. look up to see the show you want to watch 4. get in line for the ticket if it's available 5. pay for the ticket if it's available 6. go to the theater entrance to check in and pay 7. wait to see the movie 8. get back into the seat when it's over 9. get up and leave the theater 
+<BOS> <SCR> going to the theater <ESCR>: 1. arrive at the theater 2. go to the front desk 3. wait for your turn 4. find a seat 5. enter the theater 6. sit down 7. show your ticket 8. enter the rest of the movie 
+<BOS> <SCR> going to the theater <ESCR>: 1. enter the theater 2. look around for a seat 3. select a seat 4. enter the theatre 5. enjoy your movie or watch a movie 
+<BOS> <SCR> going to the theater <ESCR>: 1. get in car 2. go to theater 3. go to the front desk 4. pay and enter the theater 5. find a seat and sit down 6. watch the movie 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. make sure your kids are sleeping in a soft, soft spot. 2. get your child dressed. 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. put baby in bed 2. drive to bed 3. put in bed 4. get out of bed 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. find out what kind of bed they want to have. 2. find out if they will need to use the side bunk beds. 3. get up. 4. go to their bedroom. 5. get in bed. 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. drive to the bed 2. put on slippers 3. step into bed 4. let child lay down 5. roll over and sleep 6. wake up 
+<BOS> <SCR> taking a child to bed <ESCR>: 1. walk to the bed 2. take pillow and blanket 3. place pillows on the mattress 4. put the bottle of water in the pocket of the blanket 5. go to bed 

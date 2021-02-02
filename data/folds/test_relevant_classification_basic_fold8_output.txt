@@ -1,0 +1,204 @@
+renovating a room: </s> remove furniture 1
+renovating a room: </s> take out walls 1
+renovating a room: </s> take out flooring 1
+renovating a room: </s> get flooring 1
+renovating a room: </s> dust flooring 1
+renovating a room: </s> move furniture to new location 1
+renovating a room: </s> put flooring back 1
+renovating a room: </s> turn on light 1
+renovating a room: </s> put away old carpet 1
+renovating a room: </s> clean walls and floors 1
+renovating a room: </s> get a broom and dustpan 1
+renovating a room: </s> get a bucket of soapy water 1
+renovating a room: </s> take out items from their place in the house 1
+renovating a room: </s> make sure all the items are clean 1
+renovating a room: </s> spray the soapy water on the items 1
+renovating a room: </s> add some soapy water to the dryer 1
+renovating a room: </s> clean the items 1
+renovating a room: </s> hang the items on the hook 1
+renovating a room: </s> put the door back up 1
+renovating a room: </s> get a dustpan 1
+renovating a room: </s> put the items back in their place 1
+renovating a room: </s> select a new window 1
+renovating a room: </s> buy a new door 1
+renovating a room: </s> take a look at the existing rooms 1
+renovating a room: </s> decide which room to put 1
+renovating a room: </s> go outside 1
+renovating a room: </s> take out old windows 1
+renovating a room: </s> put new windows in 1
+renovating a room: </s> make sure all furniture is back on the wall 1
+renovating a room: </s> make sure everything is neat and clean 1
+renovating a room: </s> take the room in 1
+renovating a room: </s> put it up in good condition 1
+renovating a room: </s> place the door 1
+renovating a room: </s> put things around it 1
+renovating a room: </s> turn on lights and put things in the room 1
+renovating a room: </s> enjoy the new room 1
+renovating a room: </s> select a room to renovate. 1
+renovating a room: </s> take out a room. 1
+renovating a room: </s> take away everything old. 1
+renovating a room: </s> put everything new. 1
+renovating a room: </s> set the tables up. 1
+renovating a room: </s> put on some light furniture. 1
+renovating a room: </s> make sure you have the correct number of rooms. 1
+renovating a room: </s> put all furniture in the room. 1
+renovating a room: </s> put the lights in the room. 1
+renovating a room: </s> let the room cool down. 1
+renovating a room: </s> when it's cool, get out everything. 1
+renovating a room: </s> turn the lights off. 1
+cooking pasta: </s> get a pan 1
+cooking pasta: </s> heat up a pan 1
+cooking pasta: </s> add a splash of water 1
+cooking pasta: </s> add some garlic and onion 1
+cooking pasta: </s> mix up a saucepan 1
+cooking pasta: </s> heat up the water 1
+cooking pasta: </s> add some flour 1
+cooking pasta: </s> put a plate of pasta in the pan 1
+cooking pasta: </s> cook the pasta for a few minutes 1
+cooking pasta: </s> turn off the burner 1
+cooking pasta: </s> serve the pasta 1
+cooking pasta: </s> grab pasta 1
+cooking pasta: </s> put sauce on 1
+cooking pasta: </s> pour sauce on pasta 1
+cooking pasta: </s> cook in oven 1
+cooking pasta: </s> eat 1
+cooking pasta: </s> preheat oven 1
+cooking pasta: </s> go to kitchen 1
+cooking pasta: </s> turn on stove 1
+cooking pasta: </s> turn on burner 1
+cooking pasta: </s> place pan on burner 1
+cooking pasta: </s> wait for burner to heat up 1
+cooking pasta: </s> get pan from burner 1
+cooking pasta: </s> place pan on stove 1
+cooking pasta: </s> add meat to pan 1
+cooking pasta: </s> place pan on stove 1
+cooking pasta: </s> stir occasionally 1
+cooking pasta: </s> cook meat 1
+cooking pasta: </s> turn off stove 1
+cooking pasta: </s> take out of oven 1
+cooking pasta: </s> add eggs 1
+cooking pasta: </s> serve 1
+cooking pasta: </s> enjoy! 1
+cooking pasta: </s> put a bowl in the kitchen 1
+cooking pasta: </s> place a skillet on the stove 1
+cooking pasta: </s> put a pan on the stove 1
+cooking pasta: </s> heat the pan 1
+cooking pasta: </s> add some pasta 1
+cooking pasta: </s> let the pasta cook until done 1
+cooking pasta: </s> stir the pasta to avoid sticking 1
+cooking pasta: </s> take the cooked pasta and put it in the saucepan 1
+cooking pasta: </s> stir it to make it smooth 1
+cooking pasta: </s> turn off stove and serve the pasta 1
+cooking pasta: </s> serve more of the sauce 1
+cooking pasta: </s> buy pasta 1
+cooking pasta: </s> gather ingredients in bowl 1
+cooking pasta: </s> put into the refrigerator 1
+cooking pasta: </s> set the timer 1
+cooking pasta: </s> when timer goes off, set the timer 1
+cooking pasta: </s> put the pasta into the pan 1
+cooking pasta: </s> stir constantly 1
+sewing a button: </s> get out an item that you need to sew 1
+sewing a button: </s> open up the sewing machine 1
+sewing a button: </s> turn on the machine 1
+sewing a button: </s> adjust the machine for your desired size 1
+sewing a button: </s> insert your item into the machine 1
+sewing a button: </s> adjust the machine for the proper size 1
+sewing a button: </s> insert the button 1
+sewing a button: </s> adjust the machine for the correct amount of pressure 1
+sewing a button: </s> insert the button 1
+sewing a button: </s> insert the rest of the button 1
+sewing a button: </s> find a garment 1
+sewing a button: </s> find some cloth to use as backing 1
+sewing a button: </s> fold it out 1
+sewing a button: </s> sew on the top 1
+sewing a button: </s> remove any excess 1
+sewing a button: </s> hang up the garment 1
+sewing a button: </s> go to the store. 1
+sewing a button: </s> pick out the right material. 1
+sewing a button: </s> buy the materials. 1
+sewing a button: </s> gather the buttons. 1
+sewing a button: </s> get the needles. 1
+sewing a button: </s> go to the sewing machine. 1
+sewing a button: </s> put the buttons on the machine. 1
+sewing a button: </s> close the button hole. 1
+sewing a button: </s> sew the button. 1
+sewing a button: </s> put the buttons back. 1
+sewing a button: </s> take off garment 1
+sewing a button: </s> find spot to put seam 1
+sewing a button: </s> place seam on seam 1
+sewing a button: </s> make a stitch 1
+sewing a button: </s> press button 1
+sewing a button: </s> take out buttons 1
+sewing a button: </s> open up buttons 1
+sewing a button: </s> place button on machine 1
+sewing a button: </s> press button 1
+sewing a button: </s> turn on machine 1
+sewing a button: </s> wait for it to press 1
+sewing a button: </s> put button on garment 1
+sewing a button: </s> sew buttons 1
+doing laundry: </s> turn on water 1
+doing laundry: </s> put on clothes 1
+doing laundry: </s> take out the dishes 1
+doing laundry: </s> pick out clothes to wash 1
+doing laundry: </s> hang them up 1
+doing laundry: </s> get clothes 1
+doing laundry: </s> turn on clothes 1
+doing laundry: </s> put clothes in machine 1
+doing laundry: </s> put water in machine 1
+doing laundry: </s> set time 1
+doing laundry: </s> wash each side of the clothes 1
+doing laundry: </s> remove clothes from laundry basket. 1
+doing laundry: </s> put items in drying rack. 1
+doing laundry: </s> add laundry to drying rack. 1
+doing laundry: </s> place item in drying rack. 1
+doing laundry: </s> put items in airtight bag. 1
+doing laundry: </s> put bag in the dryer. 1
+doing laundry: </s> close lid. 1
+doing laundry: </s> set timer. 1
+doing laundry: </s> wait for timer to run. 1
+doing laundry: </s> turn on. 1
+doing laundry: </s> turn on laundry 1
+doing laundry: </s> choose one item 1
+doing laundry: </s> grab it and put it in the machine 1
+doing laundry: </s> put the laundry away 1
+doing laundry: </s> put the laundry on the dryer 1
+doing laundry: </s> turn off the laundry 1
+doing laundry: </s> get laundry out of the dryer 1
+doing laundry: </s> take clothes to the sink 1
+doing laundry: </s> put on clothes 1
+doing laundry: </s> wash and dry the laundry 1
+doing laundry: </s> put the clothes away 1
+going bowling: </s> find a bowling alley. 1
+going bowling: </s> buy your shoes. 1
+going bowling: </s> walk to the alley. 1
+going bowling: </s> sit on the lanes. 1
+going bowling: </s> bowl. 1
+going bowling: </s> decide what time you want to go bowling 1
+going bowling: </s> go to bowling alley 1
+going bowling: </s> buy a drink 1
+going bowling: </s> walk into alley 1
+going bowling: </s> sit in the chair 1
+going bowling: </s> start bowling 1
+going bowling: </s> play till you are thirsty 1
+going bowling: </s> drink your drink 1
+going bowling: </s> get up 1
+going bowling: </s> leave bowling alley 1
+going bowling: </s> enter into bowling alley 1
+going bowling: </s> select a game to play 1
+going bowling: </s> throw a ball 1
+going bowling: </s> watch the ball go around 1
+going bowling: </s> score a point 1
+going bowling: </s> exit out of bowling alley 1
+going bowling: </s> watch the ball bounce in the air 1
+going bowling: </s> score another point 1
+going bowling: </s> leave bowling alley 1
+going bowling: </s> buy a ticket. 1
+going bowling: </s> go to the bowling alley. 1
+going bowling: </s> get on the bowling lane. 1
+going bowling: </s> score the ball and let it fall. 1
+going bowling: </s> toss it back into the air and wait for it to land. 1
+going bowling: </s> arrive to bowling alley 1
+going bowling: </s> get in car 1
+going bowling: </s> drive to bowling alley 1
+going bowling: </s> buy tickets 1
+going bowling: </s> get dressed 1

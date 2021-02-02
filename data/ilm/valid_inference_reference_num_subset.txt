@@ -1,0 +1,10 @@
+prop bike upside down. <ANS> <EOS>
+prop bike upside down. <ANS> <EOS>
+prop bike upside down. <ANS> <EOS>
+prop bike upside down. <ANS> <EOS>
+prop bike upside down. <ANS> <EOS>
+prop bike upside down. <ANS> <EOS>
+prop bike upside down. <ANS> <EOS>
+prop bike upside down. <ANS> <EOS>
+remove wheel. <ANS> <EOS>
+remove wheel. <ANS> <EOS>

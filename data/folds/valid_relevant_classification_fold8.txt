@@ -1,0 +1,1700 @@
+getting a hair cut: </s> enter barber shop 1
+getting a hair cut: </s> wait for empty seat 1
+getting a hair cut: </s> sit in barber chair 1
+getting a hair cut: </s> tell barber how to cut hair 1
+getting a hair cut: </s> pay barber 1
+getting a hair cut: </s> leave barber shop 1
+getting a hair cut: </s> schedule an appointment 1
+getting a hair cut: </s> go to salon 1
+getting a hair cut: </s> pick out hairstyle 1
+getting a hair cut: </s> wait for my turn 1
+getting a hair cut: </s> tell the stylist what i want 1
+getting a hair cut: </s> get hair washed 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> blow dry 1
+getting a hair cut: </s> pay 1
+getting a hair cut: </s> tip stylist 1
+getting a hair cut: </s> go home 1
+getting a hair cut: </s> choose where you want to get a hair cut 1
+getting a hair cut: </s> make an appointment 1
+getting a hair cut: </s> go to hair dresser 1
+getting a hair cut: </s> tell hair dresser the style you want 1
+getting a hair cut: </s> have the hair dresser cut your hair 1
+getting a hair cut: </s> pay the hair dresser 1
+getting a hair cut: </s> give a tip 1
+getting a hair cut: </s> go to the barber shop 1
+getting a hair cut: </s> greet the barber 1
+getting a hair cut: </s> wait until your turn 1
+getting a hair cut: </s> sit down in the barber chair 1
+getting a hair cut: </s> explain how you want your hair cut 1
+getting a hair cut: </s> talk with the barber 1
+getting a hair cut: </s> follow the barber's directions 1
+getting a hair cut: </s> look at yourself in the mirror 1
+getting a hair cut: </s> tell barber when you're satisfied 1
+getting a hair cut: </s> stand up 1
+getting a hair cut: </s> brush loose hair off your clothing 1
+getting a hair cut: </s> pay the barber 1
+getting a hair cut: </s> tip the barber if appropriate 1
+getting a hair cut: </s> leave the barber shop 1
+getting a hair cut: </s> decide what style you want. 1
+getting a hair cut: </s> you may want to prepare a picture for your hairdresser. 1
+getting a hair cut: </s> call your hairdresser and schedule an appointment. 1
+getting a hair cut: </s> go to the appointment and show him/her your style you want. 1
+getting a hair cut: </s> sit and wait as the hairdresser prepares your style. 1
+getting a hair cut: </s> when you're finished, pay the hairdresser. 1
+getting a hair cut: </s> it is customary to give a 15% tip. 1
+getting a hair cut: </s> thank him or her and enjoy your new look! 1
+getting a hair cut: </s> travel to the barber shop. 1
+getting a hair cut: </s> enter the shop and sit in the empty barber's chair in front of your barber. 1
+getting a hair cut: </s> tell your barber how you want your hair cut. 1
+getting a hair cut: </s> sit while the barber cuts your hair 1
+getting a hair cut: </s> stand when he or she is finished. 1
+getting a hair cut: </s> pay the barber including a tip. 1
+getting a hair cut: </s> leave the shop. 1
+getting a hair cut: </s> find a picture of your desired haircut in a magazine 1
+getting a hair cut: </s> tear out of magazine 1
+getting a hair cut: </s> call beauty shop to make appt. 1
+getting a hair cut: </s> go to beauty shop 1
+getting a hair cut: </s> show beautician your pic 1
+getting a hair cut: </s> allow her to work her magic 1
+getting a hair cut: </s> oooh and ahhhh when she shows you the final result 1
+getting a hair cut: </s> pay and tip generously and leave shop 1
+getting a hair cut: </s> go to salon 1
+getting a hair cut: </s> tell them what you want 1
+getting a hair cut: </s> sit down in chair 1
+getting a hair cut: </s> let them cut your hair 1
+getting a hair cut: </s> look at hair 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> enter into the barber shop 1
+getting a hair cut: </s> announce your arrival to notify the barber 1
+getting a hair cut: </s> sit in the barber chair 1
+getting a hair cut: </s> barber covers you with the cape 1
+getting a hair cut: </s> go to the hair washing station 1
+getting a hair cut: </s> have barber wash hair 1
+getting a hair cut: </s> go to the barber chair 1
+getting a hair cut: </s> tell barber what haircut you want 1
+getting a hair cut: </s> have smalltalk while barber cuts hair 1
+getting a hair cut: </s> go to the washing station 1
+getting a hair cut: </s> wash off cut hair 1
+getting a hair cut: </s> go to barber chair 1
+getting a hair cut: </s> barber styles hair 1
+getting a hair cut: </s> pay the barber 1
+getting a hair cut: </s> tip the barber 1
+getting a hair cut: </s> leave the barber shop 1
+getting a hair cut: </s> make appointment for haircut 1
+getting a hair cut: </s> go to hair cut 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> have hair cut by person who cuts hair 1
+getting a hair cut: </s> pay and tip hair stylist when done 1
+getting a hair cut: </s> arrive at the salon 1
+getting a hair cut: </s> get hair washed 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> get hair blow dried and styled 1
+getting a hair cut: </s> pay stylist 1
+getting a hair cut: </s> leave the salon 1
+getting a hair cut: </s> drive to the salon 1
+getting a hair cut: </s> enter the salon 1
+getting a hair cut: </s> tell the beautician what i want 1
+getting a hair cut: </s> sit in a chair 1
+getting a hair cut: </s> get my hair washed 1
+getting a hair cut: </s> go to another chair 1
+getting a hair cut: </s> get my hair cut 1
+getting a hair cut: </s> pay for the haircut 1
+getting a hair cut: </s> tip the beautician 1
+getting a hair cut: </s> leave the salon 1
+getting a hair cut: </s> drive to hair cutting place 1
+getting a hair cut: </s> sign in 1
+getting a hair cut: </s> wait for call 1
+getting a hair cut: </s> sit down 1
+getting a hair cut: </s> tell them how you want hair styled 1
+getting a hair cut: </s> wait until they are finished 1
+getting a hair cut: </s> check work 1
+getting a hair cut: </s> tip them 1
+getting a hair cut: </s> walk to counter 1
+getting a hair cut: </s> pay 1
+getting a hair cut: </s> exit building 1
+getting a hair cut: </s> drive or walk to the barber shop 1
+getting a hair cut: </s> enter and make an appointment 1
+getting a hair cut: </s> sit down and wait for your turn 1
+getting a hair cut: </s> when it's your turn get up and sit in the barber seat 1
+getting a hair cut: </s> tell the barber what type of hair cut you are looking for 1
+getting a hair cut: </s> enjoy the hair cut 1
+getting a hair cut: </s> pay the barber and leave 1
+getting a hair cut: </s> get in car 1
+getting a hair cut: </s> drive to hair salon 1
+getting a hair cut: </s> ask hair stylist for a hair cut 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> wait for hair cut 1
+getting a hair cut: </s> get in car 1
+getting a hair cut: </s> drive to beauty salon 1
+getting a hair cut: </s> go inside 1
+getting a hair cut: </s> ask if they can cut your hair now 1
+getting a hair cut: </s> sit down in the chair 1
+getting a hair cut: </s> after hair cut pay 1
+getting a hair cut: </s> make appointment at hair salon. 1
+getting a hair cut: </s> drive to salon and check in with receptionist. 1
+getting a hair cut: </s> discuss desired cut with your stylist. 1
+getting a hair cut: </s> get hair washed by stylist. 1
+getting a hair cut: </s> sit still in chair while stylist cuts hair. 1
+getting a hair cut: </s> wait while stylist dries and styles your hair. 1
+getting a hair cut: </s> pay for hair cut at front desk. 1
+getting a hair cut: </s> leave tip for stylist. 1
+getting a hair cut: </s> go home. 1
+getting a hair cut: </s> drive to hair salon 1
+getting a hair cut: </s> wait your turn 1
+getting a hair cut: </s> describe what hair style you would like 1
+getting a hair cut: </s> sit in salon chair and be still 1
+getting a hair cut: </s> converse with stylist as necessary 1
+getting a hair cut: </s> when finished, pay for services 1
+getting a hair cut: </s> smile and say thank you 1
+getting a hair cut: </s> leave hair salon 1
+getting a hair cut: </s> enter hair salon 1
+getting a hair cut: </s> check in at reception desk 1
+getting a hair cut: </s> wait for them to call your name 1
+getting a hair cut: </s> follow stylist to a chair 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> tell stylist how you want your hair cut 1
+getting a hair cut: </s> when they finish, go back to reception 1
+getting a hair cut: </s> pay your bill 1
+getting a hair cut: </s> leave hair salon 1
+getting a hair cut: </s> drive to salon 1
+getting a hair cut: </s> tell receptionist you want a hair cut 1
+getting a hair cut: </s> sit in waiting area 1
+getting a hair cut: </s> receptionist calls your name 1
+getting a hair cut: </s> sit in salon chair 1
+getting a hair cut: </s> tell hairdresser what hair cut you want 1
+getting a hair cut: </s> hairdresser washes your hair 1
+getting a hair cut: </s> hairdresser cuts your hair 1
+getting a hair cut: </s> hairdresser styles your hair 1
+getting a hair cut: </s> pay receptionist 1
+getting a hair cut: </s> leave tip for hairdresser 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> find out what kind of haircut you want. 1
+getting a hair cut: </s> go to barbershop. 1
+getting a hair cut: </s> wait till their is an available barber. 1
+getting a hair cut: </s> sit in chair. 1
+getting a hair cut: </s> ask for haircut you want. 1
+getting a hair cut: </s> wait while barber cuts your hair. 1
+getting a hair cut: </s> pay for haircut. 1
+getting a hair cut: </s> tip the barber. 1
+getting a hair cut: </s> go to the barber 1
+getting a hair cut: </s> sign in 1
+getting a hair cut: </s> wait until you are called 1
+getting a hair cut: </s> sit in the barber's chair 1
+getting a hair cut: </s> tell them how you'd like your hair cut 1
+getting a hair cut: </s> wait patiently whilst they cut your hair 1
+getting a hair cut: </s> make small talk with the barber 1
+getting a hair cut: </s> once they are finished, review their work 1
+getting a hair cut: </s> pay the barber 1
+getting a hair cut: </s> make an appointment with barber 1
+getting a hair cut: </s> go to the barber shop 1
+getting a hair cut: </s> give them a description of what hair cut you want 1
+getting a hair cut: </s> let the barber work his magic 1
+getting a hair cut: </s> pay barber 1
+getting a hair cut: </s> go to the barber 1
+getting a hair cut: </s> wait for your turn 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> tell them what kind of cut you want 1
+getting a hair cut: </s> let them wash hair 1
+getting a hair cut: </s> wait for the cut to be done 1
+getting a hair cut: </s> pay 1
+getting a hair cut: </s> leave barber 1
+getting a hair cut: </s> every man differs by his variety of hair cut. 1
+getting a hair cut: </s> hair cut differentiate and also out come the beauty in them. 1
+getting a hair cut: </s> first go to saloon of your choice. 1
+getting a hair cut: </s> you prefer whether short or long hair cut. 1
+getting a hair cut: </s> before starting tell the hair cutter the style you want. 1
+getting a hair cut: </s> also mention the line where you want on your head or not. 1
+getting a hair cut: </s> after hair cut wash your head twice applying shampoo to remove any bit of hairs left over. 1
+getting a hair cut: </s> make appointment at salon 1
+getting a hair cut: </s> wait for appointment 1
+getting a hair cut: </s> go to salon 1
+getting a hair cut: </s> tell stylist what haircut you want 1
+getting a hair cut: </s> let stylist wash your hair 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> watch stylist cut your hair 1
+getting a hair cut: </s> watch stylist dry your hair 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> get in car 1
+getting a hair cut: </s> drive to beauty salon 1
+getting a hair cut: </s> sign in at beauty salon desk 1
+getting a hair cut: </s> wait for my turn 1
+getting a hair cut: </s> sit in barber chair 1
+getting a hair cut: </s> relax 1
+getting a hair cut: </s> enjoy hair cut 1
+getting a hair cut: </s> get back in car 1
+getting a hair cut: </s> drive home 1
+getting a hair cut: </s> make an appointment with barber or stylist 1
+getting a hair cut: </s> arrive at barber shop or salon 1
+getting a hair cut: </s> wait to be greeted and seated 1
+getting a hair cut: </s> have a seat 1
+getting a hair cut: </s> let hairstylist take you in a different area to wash your hair 1
+getting a hair cut: </s> let hair be washed 1
+getting a hair cut: </s> return to chair with hairstylist 1
+getting a hair cut: </s> explain to stylist how you want your hair cut 1
+getting a hair cut: </s> relax while stylist cuts hair 1
+getting a hair cut: </s> go to register and pay for haircut 1
+getting a hair cut: </s> leave 1
+getting a hair cut: </s> walk in hair salon. 1
+getting a hair cut: </s> talk to receptionist. 1
+getting a hair cut: </s> sit down and wait. 1
+getting a hair cut: </s> go to lady who calls your name. 1
+getting a hair cut: </s> sit in chair. 1
+getting a hair cut: </s> tell lady how you want your haircut. 1
+getting a hair cut: </s> lady cuts hair. 1
+getting a hair cut: </s> you look in mirror. 1
+getting a hair cut: </s> you get up and give her a tip. 1
+getting a hair cut: </s> you pay bill. 1
+getting a hair cut: </s> you leave salon. 1
+getting a hair cut: </s> call barber and make appointment 1
+getting a hair cut: </s> show up on time for appointment 1
+getting a hair cut: </s> tell barber how you want your hair cut 1
+getting a hair cut: </s> wait for them to finish 1
+getting a hair cut: </s> pay for hair cut 1
+getting a hair cut: </s> go home 1
+getting a hair cut: </s> arrive salon 1
+getting a hair cut: </s> sit in a chair 1
+getting a hair cut: </s> get cape on 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> get up 1
+getting a hair cut: </s> pay for cut 1
+getting a hair cut: </s> leave 1
+getting a hair cut: </s> drive to the hair salon. 1
+getting a hair cut: </s> wait in line. 1
+getting a hair cut: </s> sit down on the salon chair. 1
+getting a hair cut: </s> tell the hair stylist what i want. 1
+getting a hair cut: </s> wait until the stylist is finished. 1
+getting a hair cut: </s> pay for my hair cut. 1
+getting a hair cut: </s> drive home. 1
+getting a hair cut: </s> walk into salon of your choice. 1
+getting a hair cut: </s> tell the stylist you would like to get a hair cut. 1
+getting a hair cut: </s> they will direct you to their station. 1
+getting a hair cut: </s> they will put a cape over you to keep you clean. 1
+getting a hair cut: </s> let them know exactly how you would like them to cut your hair. 1
+getting a hair cut: </s> they will cut your hair. 1
+getting a hair cut: </s> they will ask you if you like the way it looks. 1
+getting a hair cut: </s> let them know if it is to your liking. 1
+getting a hair cut: </s> if not let them know and they will fix it. 1
+getting a hair cut: </s> after they are done cutting they will brush the cut hair off. 1
+getting a hair cut: </s> they will remove the cape. 1
+getting a hair cut: </s> get out of the chair. 1
+getting a hair cut: </s> walk up to the cash register. 1
+getting a hair cut: </s> the stylist will tell you a balance. 1
+getting a hair cut: </s> pay the balance and thank the stylist. 1
+getting a hair cut: </s> leave the salon. 1
+getting a hair cut: </s> call the hair salon. 1
+getting a hair cut: </s> make an appointment with the stylist. 1
+getting a hair cut: </s> drive to the hair salon. 1
+getting a hair cut: </s> get the hair washed by stylist. 1
+getting a hair cut: </s> pick a hair style from the book. 1
+getting a hair cut: </s> cut the hair. 1
+getting a hair cut: </s> blow the hair with a hair drier. 1
+getting a hair cut: </s> pay the stylist. 1
+getting a hair cut: </s> leave the hair salon. 1
+getting a hair cut: </s> make an appointment with the person who will cut your hair. 1
+getting a hair cut: </s> drive to the hair salon. 1
+getting a hair cut: </s> choose a hair cut. 1
+getting a hair cut: </s> tell the hair dresser how you would like to have your hair cut. 1
+getting a hair cut: </s> have your hair washed by the hair dresser. 1
+getting a hair cut: </s> the hair dresser will now cut your hair. 1
+getting a hair cut: </s> let the hair dresser know if there is a way that they can cut your hair better. 1
+getting a hair cut: </s> pay the hair dresser. 1
+getting a hair cut: </s> leave the hair salon. 1
+getting a hair cut: </s> going to get your hair cut 1
+getting a hair cut: </s> getting a hair style 1
+getting a hair cut: </s> going to the hairdresser 1
+getting a hair cut: </s> going to the barber 1
+getting a hair cut: </s> getting a trim 1
+getting a hair cut: </s> getting a cut 1
+getting a hair cut: </s> go to barber 1
+getting a hair cut: </s> sign in 1
+getting a hair cut: </s> wait in lobby 1
+getting a hair cut: </s> barber is ready 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> get haircut 1
+getting a hair cut: </s> pay at desk 1
+getting a hair cut: </s> tip barber 1
+getting a hair cut: </s> leave barbershop/salon 1
+getting a hair cut: </s> walk into a salon 1
+getting a hair cut: </s> tell the receptionist you would like a hair cut 1
+getting a hair cut: </s> sit in the waiting area and wait for a stylist to greet you 1
+getting a hair cut: </s> sit in the stylist's chair 1
+getting a hair cut: </s> get a cape put on to keep hair off your clothes 1
+getting a hair cut: </s> tell the stylist what you want done to your hair 1
+getting a hair cut: </s> sit still while the stylist cuts your hair 1
+getting a hair cut: </s> make appointment at hair salon 1
+getting a hair cut: </s> go to hair salon 1
+getting a hair cut: </s> give name and check in 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> describe how you want hair to be cut to hair dresser 1
+getting a hair cut: </s> let hairdresser put cape on you 1
+getting a hair cut: </s> let hairdresser cut hair 1
+getting a hair cut: </s> check the haircut in mirror 1
+getting a hair cut: </s> approve or ask for changes 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> tip hairdresser 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> enter barber shop 1
+getting a hair cut: </s> wait to be seated 1
+getting a hair cut: </s> take seat on chair 1
+getting a hair cut: </s> tell barber which hairstyle 1
+getting a hair cut: </s> talk awkwardly during haircut 1
+getting a hair cut: </s> inspect haircut when shown 1
+getting a hair cut: </s> get up off chair 1
+getting a hair cut: </s> brush off stray hairs 1
+getting a hair cut: </s> tip barber 1
+getting a hair cut: </s> pay for service 1
+getting a hair cut: </s> exit barber shop 1
+getting a hair cut: </s> go to a saloon 1
+getting a hair cut: </s> wait for your turn 1
+getting a hair cut: </s> sit on the barbers chair 1
+getting a hair cut: </s> describe the kind of hair cut you need 1
+getting a hair cut: </s> pay the barber 1
+getting a hair cut: </s> leave from the saloon 1
+getting a hair cut: </s> wash hair 1
+getting a hair cut: </s> comb hair 1
+getting a hair cut: </s> get in car 1
+getting a hair cut: </s> go to hair stylist 1
+getting a hair cut: </s> wait 1
+getting a hair cut: </s> name called 1
+getting a hair cut: </s> get in chair 1
+getting a hair cut: </s> tell how you want your hair cut 1
+getting a hair cut: </s> hair is cut 1
+getting a hair cut: </s> look in mirror 1
+getting a hair cut: </s> pay 1
+getting a hair cut: </s> go to the saloon 1
+getting a hair cut: </s> sit in the chair 1
+getting a hair cut: </s> talk to the hairstylist 1
+getting a hair cut: </s> tell him what cut you want 1
+getting a hair cut: </s> get the haircut done 1
+getting a hair cut: </s> check in the mirror once done 1
+getting a hair cut: </s> pay the hair stylist 1
+getting a hair cut: </s> enter the hair salon. 1
+getting a hair cut: </s> talk to front desk. 1
+getting a hair cut: </s> sit and wait. 1
+getting a hair cut: </s> get in hair cutting chair. 1
+getting a hair cut: </s> sit and get hair cut. 1
+getting a hair cut: </s> talk about your hair. 1
+getting a hair cut: </s> thank the person cutting your hair. 1
+getting a hair cut: </s> pay at the front desk. 1
+getting a hair cut: </s> leave the salon. 1
+getting a hair cut: </s> getting a hair cut 1
+getting a hair cut: </s> go to the barber shop 1
+getting a hair cut: </s> wait and read magazines 1
+getting a hair cut: </s> when called sit in the barber's chair 1
+getting a hair cut: </s> tell barber what you want 1
+getting a hair cut: </s> do what the barber tells you 1
+getting a hair cut: </s> look in the mirror and tell barber if he has cut enough 1
+getting a hair cut: </s> pay the barber 1
+getting a hair cut: </s> leave barber shop 1
+getting a hair cut: </s> go to barber shop. 1
+getting a hair cut: </s> sit and wait your turn in designated area. 1
+getting a hair cut: </s> meet with barber and sit in chair. 1
+getting a hair cut: </s> allow barber to cut and style your hair. 1
+getting a hair cut: </s> arrange for next appointment. 1
+getting a hair cut: </s> pay for services. 1
+getting a hair cut: </s> leave shop. 1
+getting a hair cut: </s> do research on the style you would like 1
+getting a hair cut: </s> call salon and make an appointment 1
+getting a hair cut: </s> go to your hair appointment 1
+getting a hair cut: </s> talk with hairdresser about what style and cut you want 1
+getting a hair cut: </s> wait patiently while your hair is being cut and styled 1
+getting a hair cut: </s> when finished thank the stylist 1
+getting a hair cut: </s> go to front counter 1
+getting a hair cut: </s> pay for the haircut 1
+getting a hair cut: </s> offer a small tip to your hair dresser 1
+getting a hair cut: </s> thank them 1
+getting a hair cut: </s> go to the salon 1
+getting a hair cut: </s> show a picture of how you want your hair to look 1
+getting a hair cut: </s> get your hair washed 1
+getting a hair cut: </s> get your hair combed 1
+getting a hair cut: </s> beautician cuts hair 1
+getting a hair cut: </s> beautician blowdries hair 1
+getting a hair cut: </s> beautician styles hair 1
+getting a hair cut: </s> look in the mirror 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> go to barber shop. 1
+getting a hair cut: </s> sit in barber chair. 1
+getting a hair cut: </s> tell barber how you would like your hair cut. 1
+getting a hair cut: </s> allow barber to cut your hair. 1
+getting a hair cut: </s> get up from the chair. 1
+getting a hair cut: </s> pay for your hair cut. 1
+getting a hair cut: </s> go home. 1
+getting a hair cut: </s> call the salon to make an appointment 1
+getting a hair cut: </s> arrive at the salon at your scheduled time 1
+getting a hair cut: </s> check in with the receptionist 1
+getting a hair cut: </s> wait for the stylist to call your name 1
+getting a hair cut: </s> follow the stylist to the chair 1
+getting a hair cut: </s> tell the stylist how you would like your hair cut 1
+getting a hair cut: </s> sit still and follow the stylist's directions while she cuts your hair 1
+getting a hair cut: </s> when the cut is finished, take a good look from all angles 1
+getting a hair cut: </s> if you'd like anything changed, tell the stylist 1
+getting a hair cut: </s> when satisfied, tell the stylist 1
+getting a hair cut: </s> get up from the chair 1
+getting a hair cut: </s> pay for your haircut 1
+getting a hair cut: </s> tip the stylist 1
+getting a hair cut: </s> leave the salon 1
+getting a hair cut: </s> make an appointment. 1
+getting a hair cut: </s> go to the salon at the time of the appointment. 1
+getting a hair cut: </s> tell your hairdresser how you would like your hair cut. 1
+getting a hair cut: </s> wait for him/her to cut your hair. 1
+getting a hair cut: </s> pay for your haircut. 1
+getting a hair cut: </s> enjoy your new hair. 1
+getting a hair cut: </s> go to barber 1
+getting a hair cut: </s> wait for an opening 1
+getting a hair cut: </s> sit in barber's chair 1
+getting a hair cut: </s> watch barber put on bib 1
+getting a hair cut: </s> tell barber what you want 1
+getting a hair cut: </s> sit still as barber works 1
+getting a hair cut: </s> check cut in the mirror 1
+getting a hair cut: </s> get excess hair brushed off 1
+getting a hair cut: </s> pay the barber 1
+getting a hair cut: </s> tip the barber 1
+getting a hair cut: </s> get out of chair 1
+getting a hair cut: </s> exit barber shop 1
+getting a hair cut: </s> entering salon 1
+getting a hair cut: </s> telling stylist how to cut hair. 1
+getting a hair cut: </s> sitting in seat 1
+getting a hair cut: </s> washing hair 1
+getting a hair cut: </s> having the stylist cut hair 1
+getting a hair cut: </s> paying for haircut 1
+getting a hair cut: </s> leaving the salon 1
+getting a hair cut: </s> drive to the salon. 1
+getting a hair cut: </s> make an appointment. 1
+getting a hair cut: </s> sit in the hair cutting chair. 1
+getting a hair cut: </s> tell the stylist what haircut i want. 1
+getting a hair cut: </s> have her cut my hair. 1
+getting a hair cut: </s> dress to go out. 1
+getting a hair cut: </s> drive to salon or barber. 1
+getting a hair cut: </s> check in with desk person. 1
+getting a hair cut: </s> wait for name to be called. 1
+getting a hair cut: </s> explain desired cut to stylist. 1
+getting a hair cut: </s> go to sinks to have hair washed. 1
+getting a hair cut: </s> return to barber chair. 1
+getting a hair cut: </s> sit still as stylist cuts hair. 1
+getting a hair cut: </s> endure blow dry and styling. 1
+getting a hair cut: </s> admire new self in mirror. 1
+getting a hair cut: </s> pay bill. 1
+getting a hair cut: </s> give stylist cash tip. 1
+getting a hair cut: </s> drive home. 1
+getting a hair cut: </s> enter barber shop 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> chit-chat 1
+getting a hair cut: </s> check out new 'do 1
+getting a hair cut: </s> tip barber 1
+getting a hair cut: </s> pay at desk 1
+getting a hair cut: </s> leave barber shop 1
+getting a hair cut: </s> get dates 1
+getting a hair cut: </s> schedule appointment at hair salon. 1
+getting a hair cut: </s> arrive at hair salon. 1
+getting a hair cut: </s> go to hairdresser. 1
+getting a hair cut: </s> sit in chair. 1
+getting a hair cut: </s> tell hairdresser what you want. 1
+getting a hair cut: </s> sit still while hair is cut. 1
+getting a hair cut: </s> pay. 1
+getting a hair cut: </s> leave hair salon. 1
+getting a hair cut: </s> make an appointment with a beauty salon 1
+getting a hair cut: </s> go to the appointment 1
+getting a hair cut: </s> sit at the chair 1
+getting a hair cut: </s> put on salon cape 1
+getting a hair cut: </s> tell beautician how you want your hair cut 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> pay and tip beautician 1
+getting a hair cut: </s> check your hair 1
+getting a hair cut: </s> select a beauty parlor or saloon 1
+getting a hair cut: </s> fix appointment 1
+getting a hair cut: </s> enter on or before into saloon 1
+getting a hair cut: </s> select hair style 1
+getting a hair cut: </s> cooperate to hair cutter for best finish 1
+getting a hair cut: </s> wash hair 1
+getting a hair cut: </s> pay money 1
+getting a hair cut: </s> go to the hair salon 1
+getting a hair cut: </s> sit down and have hair washed 1
+getting a hair cut: </s> get the hairdresser to cut and style your hair 1
+getting a hair cut: </s> have her dry your hair 1
+getting a hair cut: </s> pay for the service 1
+getting a hair cut: </s> buy any products you want to take home 1
+getting a hair cut: </s> tip the hairdresser 1
+getting a hair cut: </s> make an appointment 1
+getting a hair cut: </s> go to your appointment 1
+getting a hair cut: </s> wait for your turn 1
+getting a hair cut: </s> sit in the barbers chair once your name is called 1
+getting a hair cut: </s> allow the barber to place smock around you 1
+getting a hair cut: </s> tell the barber what kind of cut you want 1
+getting a hair cut: </s> relax 1
+getting a hair cut: </s> sit still 1
+getting a hair cut: </s> allow barber to do the rest 1
+getting a hair cut: </s> decide what haircut you want 1
+getting a hair cut: </s> go to hair salon 1
+getting a hair cut: </s> check in at hair salon 1
+getting a hair cut: </s> wait until you are called 1
+getting a hair cut: </s> follow hair stylist to seat 1
+getting a hair cut: </s> sit 1
+getting a hair cut: </s> describe what hair cut you want 1
+getting a hair cut: </s> let stylist cut your hair 1
+getting a hair cut: </s> look at haircut in mirror 1
+getting a hair cut: </s> decide if you like it 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> tip stylist 1
+getting a hair cut: </s> go home 1
+getting a hair cut: </s> make an appointment with your hair stylist 1
+getting a hair cut: </s> go to salon for appointment 1
+getting a hair cut: </s> sit in hair stylist's chair 1
+getting a hair cut: </s> tell the hair stylist what kind of cut you would like 1
+getting a hair cut: </s> pay hair stylist when finished 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> go to hair salon 1
+getting a hair cut: </s> enter salon 1
+getting a hair cut: </s> go to reception desk 1
+getting a hair cut: </s> request haircut 1
+getting a hair cut: </s> wait to be called 1
+getting a hair cut: </s> when called, sit in chair 1
+getting a hair cut: </s> get long drape to cover clothing fastened at neck 1
+getting a hair cut: </s> staff member moistens hair 1
+getting a hair cut: </s> hair is sectioned 1
+getting a hair cut: </s> hair is cut 1
+getting a hair cut: </s> evenness between sides is checked 1
+getting a hair cut: </s> look in mirror, remove drape 1
+getting a hair cut: </s> approve haircut 1
+getting a hair cut: </s> thank staff 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> leave 1
+getting a hair cut: </s> wear old clothes 1
+getting a hair cut: </s> go to salon 1
+getting a hair cut: </s> ask barber for desired cut style 1
+getting a hair cut: </s> wear a napkin like cloth around neck 1
+getting a hair cut: </s> sit on chair in front of mirror 1
+getting a hair cut: </s> let the barber cut the hair 1
+getting a hair cut: </s> when finished remove the cloth 1
+getting a hair cut: </s> clean the pieces of hair on clothes 1
+getting a hair cut: </s> pay the fees 1
+getting a hair cut: </s> take a shower 1
+getting a hair cut: </s> enjoy the fresh look 1
+getting a hair cut: </s> call salon to make an appointment 1
+getting a hair cut: </s> drive to salon 1
+getting a hair cut: </s> enter salon 1
+getting a hair cut: </s> check in with receptionist 1
+getting a hair cut: </s> sit in stylist chair 1
+getting a hair cut: </s> tell stylist what haircut you want 1
+getting a hair cut: </s> stylist washes your hair 1
+getting a hair cut: </s> stylist combs your hair 1
+getting a hair cut: </s> stylist cuts your hair 1
+getting a hair cut: </s> stylist dries your hair 1
+getting a hair cut: </s> walk back to reception to pay 1
+getting a hair cut: </s> tip the stylist 1
+getting a hair cut: </s> leave the salon 1
+getting a hair cut: </s> decide on type of cut desired 1
+getting a hair cut: </s> wait in line 1
+getting a hair cut: </s> get in stylist's chair when your name is called 1
+getting a hair cut: </s> tell stylist the type of cut you want 1
+getting a hair cut: </s> make conversation with stylist 1
+getting a hair cut: </s> check if hair cut is acceptable when stylist is finished 1
+getting a hair cut: </s> pay stylist 1
+getting a hair cut: </s> leave tip 1
+getting a hair cut: </s> leave hair cut salon 1
+getting a hair cut: </s> open salon door. 1
+getting a hair cut: </s> sit in salon chair. 1
+getting a hair cut: </s> put on cape. 1
+getting a hair cut: </s> look straight ahead and sit up straight. 1
+getting a hair cut: </s> look at hair dresser cut hair in mirror. 1
+getting a hair cut: </s> enjoy new dew. 1
+getting a hair cut: </s> choose a style that you like. 1
+getting a hair cut: </s> choose a salon or barber, as appropriate. 1
+getting a hair cut: </s> show the stylist what you would like. 1
+getting a hair cut: </s> sit still in the chair and let the stylist cut your hair. 1
+getting a hair cut: </s> tell the stylist if you are pleased or if he or she missed any spots. 1
+getting a hair cut: </s> let the stylist brush any stray hair off your neck and shoulders. 1
+getting a hair cut: </s> pay for your haircut. 1
+getting a hair cut: </s> tip the stylist. 1
+getting a hair cut: </s> decide which saloon to go , reach and step into it. 1
+getting a hair cut: </s> see whether my regular barber is free and if he is engaged wait for him to finish his work 1
+getting a hair cut: </s> in the mean time read magazines for pictures first, then for jokes and news. 1
+getting a hair cut: </s> get my hair cut in latest style. 1
+getting a hair cut: </s> pay the amount 1
+getting a hair cut: </s> tip the barber 1
+getting a hair cut: </s> leave the saloon 1
+getting a hair cut: </s> find a style you like 1
+getting a hair cut: </s> go to a hair salon 1
+getting a hair cut: </s> show the stylist the cut you like. 1
+getting a hair cut: </s> sit down and let them cut 1
+getting a hair cut: </s> look in the mirror to see if you like it. 1
+getting a hair cut: </s> pay the stylist 1
+getting a hair cut: </s> tip the stylist 1
+getting a hair cut: </s> leave the salon. 1
+getting a hair cut: </s> go to the restaurant. 1
+getting a hair cut: </s> to get my clippers 1
+getting a hair cut: </s> shave my head. 1
+getting a hair cut: </s> clean up the clippings 1
+getting a hair cut: </s> take a shower 1
+getting a hair cut: </s> schedule appointment 1
+getting a hair cut: </s> go to hair salon 1
+getting a hair cut: </s> wait for hair cutter to call for you 1
+getting a hair cut: </s> put on the cape they give you 1
+getting a hair cut: </s> go get hair washed by staff 1
+getting a hair cut: </s> sit in chair and go over what you want 1
+getting a hair cut: </s> sit as you get your hair cut 1
+getting a hair cut: </s> pay for service 1
+getting a hair cut: </s> leave a tip for hair cutter 1
+getting a hair cut: </s> thank the staff 1
+getting a hair cut: </s> make appointment about a week in advance 1
+getting a hair cut: </s> go to appointment 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> hairdresser will cut and style hair 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> arrive at salon 1
+getting a hair cut: </s> check in at front desk 1
+getting a hair cut: </s> sit down in hair dresser's chair 1
+getting a hair cut: </s> explain how you would like to have your hair cut 1
+getting a hair cut: </s> make small talk during the hair cut 1
+getting a hair cut: </s> thank the hair dresser 1
+getting a hair cut: </s> pay at front desk 1
+getting a hair cut: </s> exit salon 1
+getting a hair cut: </s> enter salon 1
+getting a hair cut: </s> check in at receptionist 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> wait for stylist 1
+getting a hair cut: </s> have a seat at shampoo station 1
+getting a hair cut: </s> get hair washed 1
+getting a hair cut: </s> have a seat in stylist station 1
+getting a hair cut: </s> explain how hair should be cut 1
+getting a hair cut: </s> get hair cut and styled 1
+getting a hair cut: </s> return to receptionist 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> tip stylist 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> go to barbershop 1
+getting a hair cut: </s> wait to be assisted 1
+getting a hair cut: </s> when called sit on the barbers chair 1
+getting a hair cut: </s> get haircut 1
+getting a hair cut: </s> pay for the service 1
+getting a hair cut: </s> walk out of barbershop 1
+getting a hair cut: </s> go to hair salon 1
+getting a hair cut: </s> wait for stylist 1
+getting a hair cut: </s> get hair washed 1
+getting a hair cut: </s> sit in stylist's chair 1
+getting a hair cut: </s> get bib put on 1
+getting a hair cut: </s> show stylist what i want 1
+getting a hair cut: </s> make small talk with stylist 1
+getting a hair cut: </s> get hair blow dried 1
+getting a hair cut: </s> look at haircut 1
+getting a hair cut: </s> tell stylist i like my hair 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> tip stylist 1
+getting a hair cut: </s> call hair salon 1
+getting a hair cut: </s> make appointment 1
+getting a hair cut: </s> wait for appointment 1
+getting a hair cut: </s> go to salon 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> get out of chair 1
+getting a hair cut: </s> pay stylist 1
+getting a hair cut: </s> leave 1
+getting a hair cut: </s> sit down in barber chair. 1
+getting a hair cut: </s> the barber wraps the little collar around your neck. 1
+getting a hair cut: </s> the barber wraps a cape around you. 1
+getting a hair cut: </s> the barber cuts hair. 1
+getting a hair cut: </s> the barber buzzes the back of the neck. 1
+getting a hair cut: </s> the barber brushes off stray hairs. 1
+getting a hair cut: </s> the barber takes the cape off. 1
+getting a hair cut: </s> you pay for the hair cut. 1
+getting a hair cut: </s> drive to the haircut place 1
+getting a hair cut: </s> reserve your place 1
+getting a hair cut: </s> wait to get your haircut 1
+getting a hair cut: </s> go sit in the haircut chair when called 1
+getting a hair cut: </s> tell the hairdresser what kind of haircut you want 1
+getting a hair cut: </s> watch your hair get cut in the mirror 1
+getting a hair cut: </s> tell the hairdresser to make any adjustments 1
+getting a hair cut: </s> pay for haircut 1
+getting a hair cut: </s> wash my hair 1
+getting a hair cut: </s> get dressed 1
+getting a hair cut: </s> get keys and wallet 1
+getting a hair cut: </s> go to car 1
+getting a hair cut: </s> get in and start it 1
+getting a hair cut: </s> drive to barber shop 1
+getting a hair cut: </s> park 1
+getting a hair cut: </s> go in 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> go to saloon 1
+getting a hair cut: </s> find a seat 1
+getting a hair cut: </s> occupy the seat 1
+getting a hair cut: </s> tell your hair cut style to barber 1
+getting a hair cut: </s> barber makes your hair wet 1
+getting a hair cut: </s> barber takes scissor and comb 1
+getting a hair cut: </s> barber cut your hair 1
+getting a hair cut: </s> wait till barbar cut your hair 1
+getting a hair cut: </s> clean yourself 1
+getting a hair cut: </s> pay the fare 1
+getting a hair cut: </s> leave the saloon 1
+getting a hair cut: </s> make appointment at salon 1
+getting a hair cut: </s> go to salon at appointment time 1
+getting a hair cut: </s> wait to be called 1
+getting a hair cut: </s> have hair washed and conditioned 1
+getting a hair cut: </s> be directed to seat 1
+getting a hair cut: </s> have apron put across you 1
+getting a hair cut: </s> tell hairdresser what you want 1
+getting a hair cut: </s> hairdressers cuts and styles 1
+getting a hair cut: </s> look in mirror 1
+getting a hair cut: </s> pay and tip hairdresser 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> choose hair style desired 1
+getting a hair cut: </s> choose business to cute hair 1
+getting a hair cut: </s> at business choose stylist 1
+getting a hair cut: </s> advise stylist to what hair style is desired 1
+getting a hair cut: </s> have hair shampooed, if applicable 1
+getting a hair cut: </s> have hair cut by stylist 1
+getting a hair cut: </s> after cut view hair 1
+getting a hair cut: </s> verbalize if happy with hair cut 1
+getting a hair cut: </s> pay stylist 1
+getting a hair cut: </s> leave business 1
+getting a hair cut: </s> drive to the barber 1
+getting a hair cut: </s> park your car and get out 1
+getting a hair cut: </s> walk inside 1
+getting a hair cut: </s> write your name on the sign in paper 1
+getting a hair cut: </s> wait for your name to be called 1
+getting a hair cut: </s> tell the barber what style you want 1
+getting a hair cut: </s> pay when the haircut is finished 1
+getting a hair cut: </s> go to barber shop 1
+getting a hair cut: </s> sit down into seat 1
+getting a hair cut: </s> tell barber how you would like hair cut 1
+getting a hair cut: </s> watch barber cut your hair 1
+getting a hair cut: </s> look at back of your head when barber shows it with mirror 1
+getting a hair cut: </s> get out of seat 1
+getting a hair cut: </s> pay barber 1
+getting a hair cut: </s> leave barber shop 1
+getting a hair cut: </s> go do barber 1
+getting a hair cut: </s> tell them what you want 1
+getting a hair cut: </s> sit down 1
+getting a hair cut: </s> enjoy hair cut 1
+getting a hair cut: </s> pay for their time 1
+getting a hair cut: </s> go home 1
+getting a hair cut: </s> drive to beauty shop 1
+getting a hair cut: </s> sign in with clerk 1
+getting a hair cut: </s> wait for your name to be called 1
+getting a hair cut: </s> go to clerk's chair 1
+getting a hair cut: </s> sit while she cuts your hair 1
+getting a hair cut: </s> pay and tip the clerk when finished 1
+getting a hair cut: </s> call barber 1
+getting a hair cut: </s> take an appointment 1
+getting a hair cut: </s> go to barber 1
+getting a hair cut: </s> wait in line 1
+getting a hair cut: </s> get seated 1
+getting a hair cut: </s> choose a haircut 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> decide how you want it cut. 1
+getting a hair cut: </s> go to salon. 1
+getting a hair cut: </s> sit in chair. 1
+getting a hair cut: </s> put cape on. 1
+getting a hair cut: </s> have hair cut by stylist. 1
+getting a hair cut: </s> take cape off. 1
+getting a hair cut: </s> brush off hair. 1
+getting a hair cut: </s> pay for haircut. 1
+getting a hair cut: </s> find a place you trust to get your hair cut. 1
+getting a hair cut: </s> make an appointment. 1
+getting a hair cut: </s> show up. 1
+getting a hair cut: </s> sit in the hair dressing chair. 1
+getting a hair cut: </s> get your hair shampooed or wet with water for the cut. 1
+getting a hair cut: </s> wait while the hair dresser cuts, shaves or styles your hair. 1
+getting a hair cut: </s> shake the excess hair off your body. 1
+getting a hair cut: </s> pay and thank the stylist. 1
+getting a hair cut: </s> leave. 1
+getting a hair cut: </s> go to the salon 1
+getting a hair cut: </s> take the seat 1
+getting a hair cut: </s> choose the style of haircut you want 1
+getting a hair cut: </s> beautician cuts your hair 1
+getting a hair cut: </s> wash the head after hair cut 1
+getting a hair cut: </s> dry your hair 1
+getting a hair cut: </s> pay for the haircut 1
+getting a hair cut: </s> leave the salon 1
+getting a hair cut: </s> go to the hair cutting salon 1
+getting a hair cut: </s> tell the hair stylist that you need a haircut 1
+getting a hair cut: </s> choose a hairstyle that you want your hair to be cut 1
+getting a hair cut: </s> sit on the hair cutting seat 1
+getting a hair cut: </s> let the hair stylist cut your hair 1
+getting a hair cut: </s> go to the saloon 1
+getting a hair cut: </s> wait for your turn 1
+getting a hair cut: </s> sit on the barber's chair when called 1
+getting a hair cut: </s> instruct the barber about the style 1
+getting a hair cut: </s> follow the instructions of the barber 1
+getting a hair cut: </s> get up from chair when finished 1
+getting a hair cut: </s> pay the fee 1
+getting a hair cut: </s> leave the saloon 1
+getting a hair cut: </s> head to the barber nearby. 1
+getting a hair cut: </s> make an appointment or let them know if you're waiting for a particular barber. 1
+getting a hair cut: </s> explain what you'd like done with your hair 1
+getting a hair cut: </s> decide if your hair should be washed and shampooed first 1
+getting a hair cut: </s> have them cut your hair based on your request 1
+getting a hair cut: </s> pay for your haircut 1
+getting a hair cut: </s> get in car 1
+getting a hair cut: </s> drive to haircut place 1
+getting a hair cut: </s> order a hair cut 1
+getting a hair cut: </s> sit in chair 1
+getting a hair cut: </s> get hair cut 1
+getting a hair cut: </s> pay for hair cut 1
+getting a hair cut: </s> get receipt 1
+getting a hair cut: </s> leave haircut place 1
+getting a hair cut: </s> look up nearby places. 1
+getting a hair cut: </s> make an appointment. 1
+getting a hair cut: </s> drive to the hair salon. 1
+getting a hair cut: </s> check in. 1
+getting a hair cut: </s> get my hair cut. 1
+getting a hair cut: </s> go to salon 1
+getting a hair cut: </s> sign check in list 1
+getting a hair cut: </s> wait for name to be called 1
+getting a hair cut: </s> accompany stylist to chair 1
+getting a hair cut: </s> have protective cape put on 1
+getting a hair cut: </s> describe to stylish cut / length desired 1
+getting a hair cut: </s> look at and approve cut after stylish finished 1
+getting a hair cut: </s> pay and tip stylist 1
+getting a hair cut: </s> leave salon 1
+getting a hair cut: </s> wet hair 0
+getting a hair cut: </s> go into the sauna. 0
+getting a hair cut: </s> gather up items that are laying around. 0
+getting a hair cut: </s> prepare your cake 0
+getting a hair cut: </s> gather small, dry wood pieces 0
+getting a hair cut: </s> put back cover on alarm clock 0
+getting a hair cut: </s> determine destination 0
+getting a hair cut: </s> wait until it is warmed up 0
+getting a hair cut: </s> wait in line. 0
+getting a hair cut: </s> put on bathing suit 0
+getting a hair cut: </s> meet driving teacher 0
+getting a hair cut: </s> dig hole 0
+getting a hair cut: </s> towel dry 0
+getting a hair cut: </s> get laundry to iron 0
+getting a hair cut: </s> go to train station 0
+getting a hair cut: </s> rinse the conditioner out of the hair. 0
+getting a hair cut: </s> optional, get x-rays 0
+getting a hair cut: </s> hand over reservation information and passport 0
+getting a hair cut: </s> install new batteries properly 0
+getting a hair cut: </s> go to the pool 0
+getting a hair cut: </s> consult map 0
+getting a hair cut: </s> eat eggs 0
+getting a hair cut: </s> reading them a story 0
+getting a hair cut: </s> put new filter in. 0
+getting a hair cut: </s> at bedtime, tell child it's time for bed 0
+getting a hair cut: </s> call sauna to see if they are open 0
+getting a hair cut: </s> sit down for service 0
+getting a hair cut: </s> take the book of the shelf. 0
+getting a hair cut: </s> tell waiter food is not to expectation 0
+getting a hair cut: </s> check out the things 0
+getting a hair cut: </s> add coffee powder 0
+getting a hair cut: </s> exit airport 0
+getting a hair cut: </s> hand dish to waiter 0
+getting a hair cut: </s> insert the filter 0
+getting a hair cut: </s> wait until cake is baked. 0
+getting a hair cut: </s> leave store 0
+getting a hair cut: </s> explain what would be acceptable 0
+getting a hair cut: </s> give ticket to steward when asked 0
+getting a hair cut: </s> decide what items you want to eat 0
+getting a hair cut: </s> find something wrong with the food 0
+getting a hair cut: </s> put it back on the bike 0
+getting a hair cut: </s> go home 0
+getting a hair cut: </s> get coffee. 0
+getting a hair cut: </s> carry food to bus stop 0
+getting a hair cut: </s> leave sauna 0
+getting a hair cut: </s> frost cake 0
+getting a hair cut: </s> follow funeral procession to cemetery 0
+getting a hair cut: </s> purchase the tickets - this can either be done on location, or ahead of time. 0
+getting a hair cut: </s> mop floors. 0
+getting a hair cut: </s> set clock down. 0
+getting a hair cut: </s> place meat on grill. 0
+getting a hair cut: </s> give library worker the book and library card. 0
+getting a hair cut: </s> get coffee grounds and coffee maker (and filter if necessary) 0
+getting a hair cut: </s> agree on the desired pizzeria 0
+getting a hair cut: </s> start heading towards your gate 0
+getting a hair cut: </s> exit plane after successful land 0
+getting a hair cut: </s> replace cover 0
+getting a hair cut: </s> decide whether the food is to your liking. 0
+getting a hair cut: </s> park gas tank side next to pump 0
+getting a hair cut: </s> wait for butter to melt. 0
+getting a hair cut: </s> eat food with guests 0
+getting a hair cut: </s> go on appointed time. 0
+getting a hair cut: </s> wait in terminal 0
+getting a hair cut: </s> place rocks around hole 0
+getting a hair cut: </s> spray lighter fluid on wood pile 0
+getting a hair cut: </s> serve to guests. 0
+getting a hair cut: </s> park car in front of a fueling station 0
+getting a hair cut: </s> drive home 0
+getting a hair cut: </s> call pizza place or drive there and go in 0
+getting a hair cut: </s> dig hole 0
+getting a hair cut: </s> invite friends 0
+getting a hair cut: </s> repeat as needed 0
+getting a hair cut: </s> dusting the furniture. 0
+getting a hair cut: </s> go to proper boarding area 0
+getting a hair cut: </s> get cake mix out 0
+getting a hair cut: </s> apply conditioner to hair. 0
+getting a hair cut: </s> purchase a tree to plant 0
+getting a hair cut: </s> tell server what is wrong with the food 0
+getting a hair cut: </s> boil the kettle 0
+getting a hair cut: </s> pay the bill 0
+getting a hair cut: </s> adjust mirrors and seat. 0
+getting a hair cut: </s> choose what i want 0
+getting a hair cut: </s> step out of the car 0
+getting a hair cut: </s> wet hair 0
+getting a hair cut: </s> show boarding pass to gate worker 0
+getting a hair cut: </s> bake cake 0
+getting a hair cut: </s> produce id if requested 0
+getting a hair cut: </s> rub all over your head and into your scalp 0
+getting a hair cut: </s> put lit match on kindling 0
+getting a hair cut: </s> go on eating your food. 0
+getting a hair cut: </s> pack sunscreen, books. 0
+getting a hair cut: </s> locate and navigate to the proper train platform. 0
+getting a hair cut: </s> pull plug and let water drain out 0
+getting a hair cut: </s> dusting the furniture. 0
+getting a hair cut: </s> walk them to their bed 0
+getting a hair cut: </s> get in the tub 0
+getting a hair cut: </s> go to counter 0
+getting a hair cut: </s> get boarding pass 0
+getting a hair cut: </s> wipe dirty dish with soapy sponge until clean 0
+getting a hair cut: </s> pay respects to family 0
+getting a hair cut: </s> make sure it is not plugged in 0
+getting a hair cut: </s> sit in chair 0
+getting a hair cut: </s> drive to the grocery store 0
+getting a hair cut: </s> open the battery slot. 0
+getting a hair cut: </s> buy the batteries you are in need of 0
+getting a hair cut: </s> turn on the water 0
+getting a hair cut: </s> press the hot iron over the clothes, using water spray and steam as needed 0
+getting a hair cut: </s> ask them if they want to have the door open. 0
+getting a hair cut: </s> listen to instructor 0
+getting a hair cut: </s> go to concessions 0
+getting a hair cut: </s> go through the entrance. 0
+getting a hair cut: </s> clean all the items 0
+getting a hair cut: </s> leave cemetery. 0
+getting a hair cut: </s> put coffee in cup 0
+getting a hair cut: </s> tuck child in bed 0
+getting a hair cut: </s> pick up racket 0
+getting a hair cut: </s> insert the new batteries 0
+getting a hair cut: </s> get on bus through door. 0
+getting a hair cut: </s> mix sugar 0
+getting a hair cut: </s> drive back home 0
+getting a hair cut: </s> when dishes are dry, put them away. 0
+getting a hair cut: </s> choose flight need to fly 0
+getting a hair cut: </s> ride to destination 0
+getting a hair cut: </s> lower heat on pan 0
+getting a hair cut: </s> put skewers and salads on table 0
+getting a hair cut: </s> decorate for the barbecue 0
+getting a hair cut: </s> plug hole 0
+getting a hair cut: </s> remove plate from dish rack. 0
+getting a hair cut: </s> go to the theater 0
+getting a hair cut: </s> open pizza. 0
+getting a hair cut: </s> hit ball back and forth 0
+getting a hair cut: </s> wait two minutes 0
+getting a hair cut: </s> buy a ticket online. 0
+getting a hair cut: </s> leave library 0
+getting a hair cut: </s> schedule the next appointment 0
+getting a hair cut: </s> light wood with a match or lighter 0
+getting a hair cut: </s> empty food trash into trash bin. 0
+getting a hair cut: </s> pick which one serves first 0
+getting a hair cut: </s> dig a hole 0
+getting a hair cut: </s> fill rest of hole back up with dirt. 0
+getting a hair cut: </s> go to sauna room 0
+getting a hair cut: </s> light the newspaper 0
+getting a hair cut: </s> watch movie. 0
+getting a hair cut: </s> unplug iron and pour water out 0
+getting a hair cut: </s> print out or write down the recipe 0
+getting a hair cut: </s> wash with sponge 0
+getting a hair cut: </s> allow assistant to cover body with x ray protection 0
+getting a hair cut: </s> sit down in the chair 0
+getting a hair cut: </s> light this starter bundle and place it in the teepee. 0
+getting a hair cut: </s> put in new batteries. 0
+getting a hair cut: </s> open coffee 0
+getting a hair cut: </s> walk into the library 0
+getting a hair cut: </s> explain him pizza is under baked 0
+getting a hair cut: </s> remove gas cap 0
+getting a hair cut: </s> find your route 0
+getting a hair cut: </s> go to the airport 0
+getting a hair cut: </s> go the receptionist 0
+getting a hair cut: </s> wait for train 0
+getting a hair cut: </s> eat a snack 0
+getting a hair cut: </s> point out problem 0
+getting a hair cut: </s> get out of shower 0
+getting a hair cut: </s> remove the tire and use a screwdriver to peel the rubber off. 0
+getting a hair cut: </s> call the waiter 0
+getting a hair cut: </s> thank restaurant workers 0
+getting a hair cut: </s> throw tennis ball high into the air 0
+getting a hair cut: </s> enjoy the food. 0
+getting a hair cut: </s> arrive at train station/ depot 0
+getting a hair cut: </s> wait for the train 0
+getting a hair cut: </s> tell waiter food is raw 0
+getting a hair cut: </s> change into appropriate clothes 0
+getting a hair cut: </s> cook the food until it is done 0
+getting a hair cut: </s> dry off with a towel 0
+getting a hair cut: </s> go into flat 0
+getting a hair cut: </s> put in pjs. 0
+getting a hair cut: </s> wait until bus stops completely 0
+getting a hair cut: </s> keep a medium heat 0
+getting a hair cut: </s> put coverup over swimsuit 0
+getting a hair cut: </s> go to ticket booth 0
+getting a hair cut: </s> sign your receipt 0
+getting a hair cut: </s> dry off with towel 0
+getting a hair cut: </s> set up some lawn chairs 0
+getting a hair cut: </s> approach counter 0
+getting a hair cut: </s> help child with pajamas 0
+getting a hair cut: </s> take receipt from cashier 0
+getting a hair cut: </s> clean counters 0
+getting a hair cut: </s> drive to theater. 0
+getting a hair cut: </s> turn on the grill 0
+getting a hair cut: </s> position the car with the gas cap on the same side as the pump. 0
+getting a hair cut: </s> park 0
+getting a hair cut: </s> light paper 0
+getting a hair cut: </s> eat your food. 0
+getting a hair cut: </s> mix it until smooth 0
+getting a hair cut: </s> go to grave yard 0
+getting a hair cut: </s> get credit card from wallet 0
+getting a hair cut: </s> receive receipt 0
+getting a hair cut: </s> turn off light switch 0
+getting a hair cut: </s> make payment 0
+getting a hair cut: </s> drive to health club. 0
+getting a hair cut: </s> wait on the platform for the train to come. 0
+getting a hair cut: </s> turn clock upside-down 0
+getting a hair cut: </s> let cool 0
+getting a hair cut: </s> find rail for your train 0
+getting a hair cut: </s> get in line to board 0
+getting a hair cut: </s> put them in the clock. 0
+getting a hair cut: </s> go to counter. 0
+getting a hair cut: </s> mop un-carpeted floors. 0
+getting a hair cut: </s> go through security screening 0
+getting a hair cut: </s> swipe your credit card 0
+getting a hair cut: </s> run water that is a comfortable temperature for hair washing. 0
+getting a hair cut: </s> pick up all clothing and place it in the hamper. 0
+getting a hair cut: </s> drive to gas station 0
+getting a hair cut: </s> wash dishes. 0
+getting a hair cut: </s> instructor gives instructions 0
+getting a hair cut: </s> thank dentist for his time 0
+getting a hair cut: </s> take out cooked barbecue 0
+getting a hair cut: </s> place newspaper on ground 0
+getting a hair cut: </s> swipe through machine 0
+getting a hair cut: </s> get in the pool. 0
+getting a hair cut: </s> pack luggage (if necessary) 0
+getting a hair cut: </s> collect tennis racket and tennis balls 0
+getting a hair cut: </s> cook until it's done 0
+getting a hair cut: </s> set timer 0
+getting a hair cut: </s> gather wood 0
+getting a hair cut: </s> thank waiter. 0
+getting a hair cut: </s> pull cord to stop 0
+getting a hair cut: </s> sing if desired 0
+getting a hair cut: </s> run the water 0
+getting a hair cut: </s> dentist cleans your teeth 0
+getting a hair cut: </s> brush iron over clothing for only a few seconds at a time 0
+getting a hair cut: </s> cook food 0
+getting a hair cut: </s> close fuel tank cap tightly 0
+getting a hair cut: </s> kiss them goodnight 0
+getting a hair cut: </s> put coffee beans in cup 0
+getting a hair cut: </s> dress in appropriate clothes for theater. 0
+getting a hair cut: </s> read book or magazine 0
+getting a hair cut: </s> remove tire 0
+getting a hair cut: </s> close drain. 0
+getting a hair cut: </s> buckle up 0
+getting a hair cut: </s> wait for the bus to come to a complete halt before boarding it. 0
+getting a hair cut: </s> select items to buy 0
+getting a hair cut: </s> drive to pool 0
+getting a hair cut: </s> remove the flat tire 0
+getting a hair cut: </s> remove old batteries 0
+getting a hair cut: </s> put laundry in hamper 0
+getting a hair cut: </s> put water in pitcher. 0
+getting a hair cut: </s> take out ticket and id card 0
+getting a hair cut: </s> dusting the tables and such 0
+getting a hair cut: </s> pick up anything out of place 0
+getting a hair cut: </s> learn the rules 0
+getting a hair cut: </s> signing for purchase 0
+getting a hair cut: </s> water for coffee to brew 0
+getting a hair cut: </s> sit in seat 0
+getting a hair cut: </s> make beds 0
+getting a hair cut: </s> go through security screening 0
+getting a hair cut: </s> take luggage into terminal. 0
+getting a hair cut: </s> go to security 0
+getting a hair cut: </s> enter train station. 0
+getting a hair cut: </s> dry the hair with the towel. 0
+getting a hair cut: </s> put loose dirt around roots 0
+getting a hair cut: </s> take the subway to your destination 0
+getting a hair cut: </s> ask if they can take the food and fix it. 0
+getting a hair cut: </s> wait to get to destination 0
+getting a hair cut: </s> go in the theater. 0
+getting a hair cut: </s> retrieve iron 0
+getting a hair cut: </s> receive receipt 0
+getting a hair cut: </s> remove clothes in changing room (naked or to underwear/swimwear). 0
+getting a hair cut: </s> choose a locker 0
+getting a hair cut: </s> throw away old filter 0
+getting a hair cut: </s> find a seat 0
+getting a hair cut: </s> receive your boarding pass 0
+getting a hair cut: </s> go to cashier 0
+getting a hair cut: </s> walk into the library 0
+getting a hair cut: </s> you take out tube. 0
+getting a hair cut: </s> get in the car 0
+getting a hair cut: </s> placing the seeds in the ground 0
+getting a hair cut: </s> press the hot iron over the clothes, using water spray and steam as needed 0
+getting a hair cut: </s> take a sapling 0
+getting a hair cut: </s> put barbecue sauce on meat. 0
+getting a hair cut: </s> wear old casual clothes 0
+getting a hair cut: </s> adjust setting 0
+getting a hair cut: </s> leave store parking lot. 0
+getting a hair cut: </s> find book in the aisles 0
+getting a hair cut: </s> board plane 0
+getting a hair cut: </s> put them in bed 0
+getting a hair cut: </s> step on the court 0
+getting a hair cut: </s> get the eggs needed 0
+getting a hair cut: </s> put new tube into tire. 0
+getting a hair cut: </s> buy movie ticket 0
+getting a hair cut: </s> find a seat 0
+getting a hair cut: </s> sit patiently until the bus reaches your destination bus stop 0
+getting a hair cut: </s> unload and put items away 0
+getting a hair cut: </s> wait for the clerk to do things 0
+getting a hair cut: </s> get off at your correct destination 0
+getting a hair cut: </s> start the car 0
+getting a hair cut: </s> hang up the pump when finished 0
+getting a hair cut: </s> add water to iron for steam 0
+getting a hair cut: </s> enter the hall area 0
+getting a hair cut: </s> wait for patch to dry 0
+getting a hair cut: </s> get pump for tire 0
+getting a hair cut: </s> pour cake batter into desired pan shape or size 0
+getting a hair cut: </s> give tire to shop owner to be fixed 0
+getting a hair cut: </s> step out of shower 0
+getting a hair cut: </s> plug in iron. 0
+getting a hair cut: </s> get dressed 0
+getting a hair cut: </s> getting a recipe for a cake 0
+getting a hair cut: </s> have the book stamped 0
+getting a hair cut: </s> put in key. 0
+getting a hair cut: </s> get into car 0
+getting a hair cut: </s> dry off with towel 0
+getting a hair cut: </s> heat frying pan 0
+getting a hair cut: </s> get tennis equipment 0
+getting a hair cut: </s> gather up items that are laying around. 0
+getting a hair cut: </s> find where to check in 0
+getting a hair cut: </s> drive around 0
+getting a hair cut: </s> listen to stories of the lost person. 0
+getting a hair cut: </s> fold and store garment 0
+getting a hair cut: </s> check-in the bags 0
+getting a hair cut: </s> dig a pit. 0
+getting a hair cut: </s> remove from packaging 0
+getting a hair cut: </s> use toilet 0
+getting a hair cut: </s> put the back on 0
+getting a hair cut: </s> get together a bag with clothes, towel, shower items, shoes for the sauna 0
+getting a hair cut: </s> go back and sit in chair 0
+getting a hair cut: </s> pour it into a cake pan 0
+getting a hair cut: </s> get a bus schedule 0
+getting a hair cut: </s> turn on the shower 0
+getting a hair cut: </s> with small shovel dig hole. 0
+getting a hair cut: </s> go home 0
+getting a hair cut: </s> keep carry-on 0
+getting a hair cut: </s> go to nursery 0
+getting a hair cut: </s> sign scanner with digital pen 0
+getting a hair cut: </s> gather ingredients and materials listed in recipe 0
+getting a hair cut: </s> go home 0
+getting a hair cut: </s> board plane 0
+getting a hair cut: </s> put some of the thicker wood around the lit fire 0
+getting a hair cut: </s> rinse hair with water 0
+getting a hair cut: </s> insert key into ignition 0
+getting a hair cut: </s> partner hits ball back over net 0
+getting a hair cut: </s> get total of purchase 0
+getting a hair cut: </s> make an appointment with your dentist. 0
+getting a hair cut: </s> wait for knock at the door 0
+getting a hair cut: </s> retrieve ticket (if it still has money on it). 0
+getting a hair cut: </s> rinse out shampoo 0
+getting a hair cut: </s> take a shower 0
+getting a hair cut: </s> fill sink with hot water 0
+getting a hair cut: </s> tell the operator how you plan to pay for the order. 0
+getting a hair cut: </s> put some conditioner in your hair 0
+getting a hair cut: </s> open your gas cap 0
+getting a hair cut: </s> realize it's not what you wanted or cooked to your liking 0
+getting a hair cut: </s> place in the oven for set amount of time. 0
+getting a hair cut: </s> let dry 0
+getting a hair cut: </s> in a smaller bowl, mix dry ingredients. 0
+getting a hair cut: </s> stick into gas hole 0
+getting a hair cut: </s> add the whipped eggs to the skillet. 0
+getting a hair cut: </s> start heading towards your gate 0
+getting a hair cut: </s> board train. 0
+getting a hair cut: </s> when the bus comes enter the bus 0
+getting a hair cut: </s> on the day of travel pack baggage 0
+getting a hair cut: </s> push brew button. 0
+getting a hair cut: </s> get wrong order 0
+getting a hair cut: </s> when pot is filled, pour coffee into mug 0
+getting a hair cut: </s> come out from the bathroom 0
+getting a hair cut: </s> purchase the tree 0
+getting a hair cut: </s> turn out light 0
+getting a hair cut: </s> listen to any speakers, singers, etc 0
+getting a hair cut: </s> make an appointment 0
+getting a hair cut: </s> find battery size 0
+getting a hair cut: </s> go through security scan 0
+getting a hair cut: </s> unplug iron and pour water out 0
+getting a hair cut: </s> wait for food 0
+getting a hair cut: </s> turn off car 0
+getting a hair cut: </s> dig the fire pit 0
+getting a hair cut: </s> waiter/waitress brings me a new plate 0
+getting a hair cut: </s> turn off lights 0
+getting a hair cut: </s> cook food 0
+getting a hair cut: </s> clean decorative items in the house 0
+getting a hair cut: </s> place meat on grill. 0
+getting a hair cut: </s> buy ticket 0
+getting a hair cut: </s> return to base 0
+getting a hair cut: </s> walk out the subway gate 0
+getting a hair cut: </s> iron the yoke on back of shirt. 0
+getting a hair cut: </s> enter out 0
+getting a hair cut: </s> mash things up in a bowl according to exact instructions 0
+getting a hair cut: </s> get a shovel 0
+getting a hair cut: </s> look at map 0
+getting a hair cut: </s> add dishwashing liquid 0
+getting a hair cut: </s> take receipt 0
+getting a hair cut: </s> get in pool 0
+getting a hair cut: </s> fill up drink yourself if you ordered one 0
+getting a hair cut: </s> the bonfire is ready in a couple of minutes 0
+getting a hair cut: </s> dentist checks status of teeth 0
+getting a hair cut: </s> kneel by the bed 0
+getting a hair cut: </s> go to the airport 0
+getting a hair cut: </s> return to locker room 0
+getting a hair cut: </s> replace with new batteries. 0
+getting a hair cut: </s> call the restaurant. 0
+getting a hair cut: </s> enter correct theater for showing 0
+getting a hair cut: </s> when it is done, take you pizza home. 0
+getting a hair cut: </s> park and walk inside 0
+getting a hair cut: </s> bus stops 0
+getting a hair cut: </s> rinse off all over. 0
+getting a hair cut: </s> sign your name on the recite if required 0
+getting a hair cut: </s> carry bags to vehicle 0
+getting a hair cut: </s> on the day of travel pack baggage 0
+getting a hair cut: </s> check in luggage bags 0
+getting a hair cut: </s> choose the route you want to take 0
+getting a hair cut: </s> disrobe 0
+getting a hair cut: </s> drive to the airport. 0
+getting a hair cut: </s> pump the gas into the car. 0
+getting a hair cut: </s> place empty coffee pot in coffee maker 0
+getting a hair cut: </s> when your name is called you may go to the dentist chair 0
+getting a hair cut: </s> wait for your turn 0
+getting a hair cut: </s> push the nozzle into the car's fuel tank 0
+getting a hair cut: </s> enter into the restaurant 0
+getting a hair cut: </s> soap yourself up 0
+getting a hair cut: </s> gather thicker wood 0
+getting a hair cut: </s> move hot iron across wrinkles 0
+getting a hair cut: </s> organize the rooms 0
+getting a hair cut: </s> take book to check-out desk 0
+getting a hair cut: </s> enter the sauna 0
+getting a hair cut: </s> follow instructions 0
+getting a hair cut: </s> ask him to take it back 0
+getting a hair cut: </s> grind coffee beans 0
+getting a hair cut: </s> give the ticket to check in staff 0
+getting a hair cut: </s> pour lighter fluid on wood. 0
+getting a hair cut: </s> unplug iron 0
+getting a hair cut: </s> make sure you are wearing proper clothing and tennis shoes. 0
+getting a hair cut: </s> remove the flat wheel from the bicycle 0
+getting a hair cut: </s> after the funeral gather with the others to have refreshments 0
+getting a hair cut: </s> take x-rays. 0
+getting a hair cut: </s> miss ball and cry 0
+getting a hair cut: </s> cashier rings up items 0
+getting a hair cut: </s> find a seat 0
+getting a hair cut: </s> remove screws so you can remove the entire tire and rim. 0
+getting a hair cut: </s> go over basic driving laws 0
+getting a hair cut: </s> find a seat 0
+getting a hair cut: </s> take article out of basket 0
+getting a hair cut: </s> install new inner tube. 0
+getting a hair cut: </s> wash dishes with sponge and soap 0
+getting a hair cut: </s> listen to driving instructor and drive 0
+getting a hair cut: </s> take out your racket. 0
+getting a hair cut: </s> use towels to clean dishes 0
+getting a hair cut: </s> get in the tub 0
+getting a hair cut: </s> tell the child it is bedtime 0
+getting a hair cut: </s> decide the meat you want to cook 0
+getting a hair cut: </s> find a seat 0
+getting a hair cut: </s> adjust mirrors 0
+getting a hair cut: </s> thank instructor 0
+getting a hair cut: </s> receive the book back 0
+getting a hair cut: </s> swipe credit card through machine 0
+getting a hair cut: </s> board the plane. 0
+getting a hair cut: </s> fill carafe with water 0
+getting a hair cut: </s> place pan on stove 0
+getting a hair cut: </s> cover the hole 0
+getting a hair cut: </s> hand ticket to the person at the counter 0
+getting a hair cut: </s> talk about whether a follow-up appointment will be necessary. 0
+getting a hair cut: </s> listen to eulogy and rest of service 0
+getting a hair cut: </s> go home 0
+getting a hair cut: </s> find a tennis partner 0
+getting a hair cut: </s> leave library 0
+getting a hair cut: </s> locate spot to insert air into tire 0
+getting a hair cut: </s> pour a layer of fertilizer around the tree 0
+getting a hair cut: </s> use the cloth to  wash your body 0
+getting a hair cut: </s> pack up for swimming occasion 0
+getting a hair cut: </s> put on bikini 0
+getting a hair cut: </s> get a coffee filter 0
+getting a hair cut: </s> replace cover 0
+getting a hair cut: </s> let dentist examine teeth 0
+getting a hair cut: </s> get out and dry yourself 0
+getting a hair cut: </s> get a water hose 0
+getting a hair cut: </s> go to sauna room 0
+getting a hair cut: </s> gather dirt into a dustpan 0
+getting a hair cut: </s> buy refreshments if you'd like them. 0
+getting a hair cut: </s> pick up your food when your ticket number is called 0
+getting a hair cut: </s> enter into the restaurant 0
+getting a hair cut: </s> deposit the fare into the container. 0
+getting a hair cut: </s> close the drain 0
+getting a hair cut: </s> take separate small bag for phone 0
+getting a hair cut: </s> get out ironing board and iron 0
+getting a hair cut: </s> board train. 0
+getting a hair cut: </s> get in car 0
+getting a hair cut: </s> sit in the sauna for as long as you need 0
+getting a hair cut: </s> wait for food 0
+getting a hair cut: </s> stand up when bus stops at your stop 0
+getting a hair cut: </s> get out of the car 0
+getting a hair cut: </s> insert the new batteries into the alarm clock 0
+getting a hair cut: </s> leave the library. 0
+getting a hair cut: </s> make a list of items you wish to purchase 0
+getting a hair cut: </s> get sauce pan 0
+getting a hair cut: </s> dry hair 0
+getting a hair cut: </s> say what size pizza you want 0
+getting a hair cut: </s> take a shovel 0
+getting a hair cut: </s> make a grocery list. 0
+getting a hair cut: </s> remove tube 0
+getting a hair cut: </s> put some fuel on wood 0
+getting a hair cut: </s> put the tree in 0
+getting a hair cut: </s> go into bathroom. 0
+getting a hair cut: </s> go down the stairs 0
+getting a hair cut: </s> watch fire grow 0
+getting a hair cut: </s> enter your pin 0
+getting a hair cut: </s> measure the coffee 0
+getting a hair cut: </s> fill hole with soil 0
+getting a hair cut: </s> get popcorn 0
+getting a hair cut: </s> find a seat 0
+getting a hair cut: </s> walk to the sauna 0
+getting a hair cut: </s> walk up the stairs 0
+getting a hair cut: </s> put nozzle back on the station 0
+getting a hair cut: </s> enjoy better meal. 0
+getting a hair cut: </s> once your server understands, explain precisely what must be done, within reason. 0
+getting a hair cut: </s> wait in line 0
+getting a hair cut: </s> pick up the washcloth 0
+getting a hair cut: </s> light 0
+getting a hair cut: </s> leave train at destination. 0
+getting a hair cut: </s> turn off water when bathtub is full. 0
+getting a hair cut: </s> train arrives 0
+getting a hair cut: </s> dig a hole. 0
+getting a hair cut: </s> when arriving at destination, prepare your belongings 0
+getting a hair cut: </s> plug in iron 0
+getting a hair cut: </s> taste food 0
+getting a hair cut: </s> open fuel hole 0
+getting a hair cut: </s> use the shampoo to lather up into your hair. 0
+getting a hair cut: </s> get card out wallet 0
+getting a hair cut: </s> set timer. 0
+getting a hair cut: </s> arrive at subway 0
+getting a hair cut: </s> rub hair until completely covered with shampoo 0
+getting a hair cut: </s> purchase your ticket at the designated ticket window. 0
+getting a hair cut: </s> place the child in their bed 0
+getting a hair cut: </s> get back into car 0
+getting a hair cut: </s> get dressed in a tennis outfit 0
+getting a hair cut: </s> get in car 0
+getting a hair cut: </s> browse titles 0
+getting a hair cut: </s> take food to seat 0
+getting a hair cut: </s> place the pitcher on the coffee machine 0
+getting a hair cut: </s> enter train. 0
+getting a hair cut: </s> turn bicycle upside down 0
+getting a hair cut: </s> order food from waiter 0
+getting a hair cut: </s> choose the type of pizza that you are going to order 0
+getting a hair cut: </s> sign up for a library card. 0
+getting a hair cut: </s> stake the tree. 0
+getting a hair cut: </s> place a small skillet on the burner of the stove. 0
+getting a hair cut: </s> listen to eulogies 0
+getting a hair cut: </s> find secure spot to stand 0
+getting a hair cut: </s> put the mixture in a baking 0
+getting a hair cut: </s> putting shampoo in your hair 0
+getting a hair cut: </s> put clothes on ironing board 0
+getting a hair cut: </s> look out window 0
+getting a hair cut: </s> put in the ground 0
+getting a hair cut: </s> put oil into frying pan 0
+getting a hair cut: </s> clean any visible glass. 0
+getting a hair cut: </s> accumulate bonfire materials, primarily wood 0
+getting a hair cut: </s> agree to necessary work. 0
+getting a hair cut: </s> take towel 0
+getting a hair cut: </s> allow the hygienist to clean your teeth. 0
+getting a hair cut: </s> put away cleaning supplies 0
+getting a hair cut: </s> use washing utensil to scrub clean 0
+getting a hair cut: </s> vigorously scrub the hair and head with your fingers. 0
+getting a hair cut: </s> take shoes off 0
+getting a hair cut: </s> read them a bed time story 0
+getting a hair cut: </s> lay clothing item flat on ironing board 0
+getting a hair cut: </s> get tree in pot 0
+getting a hair cut: </s> locate battery compartment 0
+getting a hair cut: </s> go to driving school 0
+getting a hair cut: </s> sign up for lesson 0
+getting a hair cut: </s> pull signal for stop 0
+getting a hair cut: </s> insert nozzle into gas tank 0
+getting a hair cut: </s> lay the cycle flat on the floor 0
+getting a hair cut: </s> throw trash away and place tray by trash 0
+getting a hair cut: </s> get to station 0
+getting a hair cut: </s> go to court. 0
+getting a hair cut: </s> order 0
+getting a hair cut: </s> rinse off all over. 0
+getting a hair cut: </s> find sauna room 0
+getting a hair cut: </s> receive your receipt 0
+getting a hair cut: </s> follow assistant to room 0
+getting a hair cut: </s> ask for the waiter to come to your table 0
+getting a hair cut: </s> get bowl 0
+getting a hair cut: </s> close the fuel tank 0
+getting a hair cut: </s> get complementary toothbrush, floss, and paste from hygienist. 0
+getting a hair cut: </s> find a seat in the chapel 0
+getting a hair cut: </s> receipt will print. 0
+getting a hair cut: </s> have snuggle time with child 0
+getting a hair cut: </s> put dishwasher pack in dishwasher 0
+getting a hair cut: </s> say you love them 0
+getting a hair cut: </s> pay for pizza 0
+getting a hair cut: </s> mix wet ingredients. 0
+getting a hair cut: </s> clean up 0
+getting a hair cut: </s> drive car controlling by steering 0
+getting a hair cut: </s> check the menu 0
+getting a hair cut: </s> get clothing 0
+getting a hair cut: </s> get up and pay bill. 0
+getting a hair cut: </s> when the bus and the door of the bus opens, enter it. 0
+getting a hair cut: </s> watch your step when getting down from the bus. 0
+getting a hair cut: </s> walk up the stairs 0
+getting a hair cut: </s> present the librarian with the book you'd like to borrow. 0
+getting a hair cut: </s> enter bus 0
+getting a hair cut: </s> gather wood. 0
+getting a hair cut: </s> unplug and put away iron when cool 0
+getting a hair cut: </s> pick a seat and sit down 0
+getting a hair cut: </s> to scramble, stir eggs as they cook. 0
+getting a hair cut: </s> put a seed in the hole 0
+getting a hair cut: </s> change them into night clothes 0
+getting a hair cut: </s> wrap dry off towel around you 0
+getting a hair cut: </s> put my credit card back in my wallet 0
+getting a hair cut: </s> crack eggs into bowl 0
+getting a hair cut: </s> apply soap to sponge 0
+getting a hair cut: </s> wait for train to arrive. 0
+getting a hair cut: </s> get bowl. 0
+getting a hair cut: </s> go to dentist office. 0
+getting a hair cut: </s> take plate to table. 0
+getting a hair cut: </s> wait in the office to be seen 0
+getting a hair cut: </s> walk down corridor to the plane. 0
+getting a hair cut: </s> apply sun screen 0
+getting a hair cut: </s> sit down 0
+getting a hair cut: </s> get eggs from refrigerator. 0
+getting a hair cut: </s> wash the windows 0
+getting a hair cut: </s> go through security 0
+getting a hair cut: </s> remove battery cover 0
+getting a hair cut: </s> water it. 0
+getting a hair cut: </s> take the garbage out. 0
+getting a hair cut: </s> take book to checkout area 0
+getting a hair cut: </s> leave 0
+getting a hair cut: </s> check your surroundings 0
+getting a hair cut: </s> drive according to laws and guidance from driver 0
+getting a hair cut: </s> once those are burning, add logs to make your fire larger 0
+getting a hair cut: </s> decide what pizza i want 0
+getting a hair cut: </s> roast marshmallows 0
+getting a hair cut: </s> put left foot on accelerator 0
+getting a hair cut: </s> wash face 0
+getting a hair cut: </s> depart at appropriate destination 0
+getting a hair cut: </s> if there isn't a hole, get a pump 0
+getting a hair cut: </s> place mulch around bottom of sapling 0
+getting a hair cut: </s> change into bathing clothes or undress entirely 0
+getting a hair cut: </s> go to kitchen 0
+getting a hair cut: </s> sit down and eat 0
+getting a hair cut: </s> replace the cover 0
+getting a hair cut: </s> sit down. 0
+getting a hair cut: </s> locate an air pump 0
+getting a hair cut: </s> additionally, if it's a combo spa/sauna, you can get massages too. 0
+getting a hair cut: </s> get wash cloth and body wash. 0
+getting a hair cut: </s> pour in some milk into bowl, depending on your tastes. 0
+getting a hair cut: </s> pour batter into baking dish 0
+getting a hair cut: </s> turn out the light 0
+getting a hair cut: </s> reading them a story 0
+getting a hair cut: </s> look for the items on the list 0
+getting a hair cut: </s> receive boarding passes 0
+getting a hair cut: </s> practice driving with your instructor 0
+getting a hair cut: </s> measure 4 coffee scoops of whole coffee beans into a grinder. 0
+getting a hair cut: </s> check out the book 0
+getting a hair cut: </s> walk out 0
+getting a hair cut: </s> place kindling at the foot of the stack of wood 0
+getting a hair cut: </s> drive home. 0
+getting a hair cut: </s> wash hair 0
+getting a hair cut: </s> buy a ticket 0
+getting a hair cut: </s> add cream and sugar. 0
+getting a hair cut: </s> show the librarian your library card 0
+getting a hair cut: </s> chew some gum 0
+getting a hair cut: </s> organize furniture 0
+getting a hair cut: </s> get eggs 0
+getting a hair cut: </s> turn off the water. 0
+getting a hair cut: </s> turn on water 0
+getting a hair cut: </s> rinse hair completely until all suds are gone 0
+getting a hair cut: </s> get in car 0
+getting a hair cut: </s> check out 0
+getting a hair cut: </s> buying tickets 0
+getting a hair cut: </s> pump the tire up to check for leaks. 0
+getting a hair cut: </s> drive to dentist 0
+getting a hair cut: </s> put the dirty dishes in the machine. 0
+getting a hair cut: </s> set out tables and chairs 0
+getting a hair cut: </s> rinse dishes in clear water 0
+getting a hair cut: </s> sweat 0
+getting a hair cut: </s> press the button to start the brewing cycle. 0
+getting a hair cut: </s> book gets scanned 0
+getting a hair cut: </s> turn on the  sink. 0
+getting a hair cut: </s> secure the campsite 0
+getting a hair cut: </s> name is called 0
+getting a hair cut: </s> get to lesson on time 0
+getting a hair cut: </s> let child choose a storybook to read before bed. 0
+getting a hair cut: </s> wait in terminal for plane 0
+getting a hair cut: </s> use an air spray or deodorizer to freshen the air 0
+getting a hair cut: </s> pour lighter fluid onto charcoal. 0
+getting a hair cut: </s> add groceries from list to cart 0
+getting a hair cut: </s> bus leaves 0
+getting a hair cut: </s> tell the cashier it is credit 0
+getting a hair cut: </s> place it in the hole 0
+getting a hair cut: </s> ask the waiter to take back the food 0
+getting a hair cut: </s> put bags into cart 0
+getting a hair cut: </s> rub sponge all over body. 0
+getting a hair cut: </s> add a pinch of salt and pepper to the bowl 0
+getting a hair cut: </s> find the alarm clock 0
+getting a hair cut: </s> begin running the water, ensuring that it is the right temperature for you. 0
+getting a hair cut: </s> buy airline tickets 0
+getting a hair cut: </s> get in bathtub 0
+getting a hair cut: </s> go to tennis court 0
+getting a hair cut: </s> pick the product you wish to buy 0
+getting a hair cut: </s> kiss child goodnight. 0
+getting a hair cut: </s> place pans into oven 0
+getting a hair cut: </s> sweep floors. 0
+getting a hair cut: </s> place the filter in the basket 0
+getting a hair cut: </s> go to bus stop. 0
+getting a hair cut: </s> select a book that you would like to read 0
+getting a hair cut: </s> walk to your desired train 0
+getting a hair cut: </s> open dishwasher. 0
+getting a hair cut: </s> comfort 0
+getting a hair cut: </s> scrub dishes until clean 0
+getting a hair cut: </s> fill coolers with ice and drinks 0
+getting a hair cut: </s> enjoy the new food 0
+getting a hair cut: </s> sit down in exam room. 0
+getting a hair cut: </s> when your stop comes get up and exit the bus 0
+getting a hair cut: </s> decide which pool is the destination 0
+getting a hair cut: </s> vacuum the carpet 0
+getting a hair cut: </s> in your kitchen, get out a mixing bowl. 0
+getting a hair cut: </s> put the baggage on the over-head storage cabin 0
+getting a hair cut: </s> let the patch dry 0
+getting a hair cut: </s> get boarding pass 0
+getting a hair cut: </s> put foot on the brake 0
+getting a hair cut: </s> show the membership card at the entry 0
+getting a hair cut: </s> get inside the shower 0
+getting a hair cut: </s> switch off the iron box 0
+getting a hair cut: </s> allow grill to cool. 0
+getting a hair cut: </s> cut the call 0
+getting a hair cut: </s> fan flames. 0
+getting a hair cut: </s> get out of pool 0
+getting a hair cut: </s> add dish soap while water is sill running 0
+getting a hair cut: </s> await for train to arrive 0
+getting a hair cut: </s> get book 0
+getting a hair cut: </s> check out 0
+getting a hair cut: </s> check in 0
+getting a hair cut: </s> get undressed 0
+getting a hair cut: </s> go home 0
+getting a hair cut: </s> listen to priest. 0
+getting a hair cut: </s> thank them. 0
+getting a hair cut: </s> leave the fuel bunk 0
+getting a hair cut: </s> get on the bus 0
+getting a hair cut: </s> go to subway depot 0
+getting a hair cut: </s> turn on the dishwashing machine. 0
+getting a hair cut: </s> get out all the ingredients 0
+getting a hair cut: </s> pass through metal detector 0
+getting a hair cut: </s> turn off car. 0
+getting a hair cut: </s> open up the gas hatch 0
+getting a hair cut: </s> offer condolences. 0
+getting a hair cut: </s> wait for iron to get hot 0
+getting a hair cut: </s> determine destination 0
+getting a hair cut: </s> pay for visit 0
+getting a hair cut: </s> place food on grill 0
+getting a hair cut: </s> take out your racket. 0
+getting a hair cut: </s> have child use bathroom if needed 0
+getting a hair cut: </s> watch tree grow. 0
+getting a hair cut: </s> get off bus 0
+getting a hair cut: </s> greet delivery driver 0
+getting a hair cut: </s> bake 0
+getting a hair cut: </s> take a towel with you into the sauna 0
+getting a hair cut: </s> wash the windows and mirrors. 0
+getting a hair cut: </s> put on your swimsuit 0
+getting a hair cut: </s> frost cake 0
+getting a hair cut: </s> go inside. 0
+getting a hair cut: </s> roll the covers down. 0
+getting a hair cut: </s> got to library 0
+getting a hair cut: </s> get pan. 0
+getting a hair cut: </s> take food to seat 0
+getting a hair cut: </s> talk with others about fond memories of deceased 0
+getting a hair cut: </s> drive to the dentist 0
+getting a hair cut: </s> pick up dirt and debris with dustpan 0
+getting a hair cut: </s> put away the vacuum 0
+getting a hair cut: </s> go to sauna. 0
+getting a hair cut: </s> click my checkout code 0
+getting a hair cut: </s> put nozzle back on the station 0
+getting a hair cut: </s> put on flip flops 0
+getting a hair cut: </s> take book and library card 0
+getting a hair cut: </s> place new tube inside tube 0
+getting a hair cut: </s> get home 0
+getting a hair cut: </s> greet the shop keeper 0
+getting a hair cut: </s> turn water off 0
+getting a hair cut: </s> get in car 0
+getting a hair cut: </s> arrive at sauna of your choice 0
+getting a hair cut: </s> walk through exit 0
+getting a hair cut: </s> get in car 0
+getting a hair cut: </s> order pizza with toppings 0
+getting a hair cut: </s> take off clothing. 0
+getting a hair cut: </s> get frying pan 0
+getting a hair cut: </s> open back of the alarm clock 0
+getting a hair cut: </s> get new batteries 0
+getting a hair cut: </s> turn off light 0
+getting a hair cut: </s> rinse conditioner 0
+getting a hair cut: </s> dive into the pool. 0
+getting a hair cut: </s> brush her teeth 0
+getting a hair cut: </s> wait until it is a few minutes before the time of your appointment. 0
+getting a hair cut: </s> make payment 0
+getting a hair cut: </s> enter the store. 0
+getting a hair cut: </s> wait for the bus 0
+getting a hair cut: </s> get dressed in playing closes 0
+getting a hair cut: </s> get out of car. 0
+getting a hair cut: </s> wait for another dish to come 0
+getting a hair cut: </s> wait till my stop is approaching 0
+getting a hair cut: </s> ensure the coffee carafe is in position in the coffee maker. 0
+getting a hair cut: </s> lay clothing item flat on ironing board 0
+getting a hair cut: </s> take the mobile 0
+getting a hair cut: </s> sit in chair while they clean teeth 0
+getting a hair cut: </s> put dirty dishes in water 0
+getting a hair cut: </s> rinse. 0
+getting a hair cut: </s> call friend to meet at tennis court. 0
+getting a hair cut: </s> give luggage to persons 0
+getting a hair cut: </s> test to assure function. 0
+getting a hair cut: </s> put in the ground 0
+getting a hair cut: </s> walk out 0
+getting a hair cut: </s> empty bath 0
+getting a hair cut: </s> exit the bathroom 0
+getting a hair cut: </s> apply shampoo. 0
+getting a hair cut: </s> light on fire 0
+getting a hair cut: </s> turn on water 0
+getting a hair cut: </s> read the child a bedtime story 0
+getting a hair cut: </s> stack small branches 0
+getting a hair cut: </s> say i love you and goodnight. 0
+getting a hair cut: </s> type in your pin number. 0
+getting a hair cut: </s> go to designated room 0
+getting a hair cut: </s> eventually someone scores points and wins 0
+getting a hair cut: </s> get into tub 0
+getting a hair cut: </s> clean the floor 0
+getting a hair cut: </s> put your ticket in machine 0
+getting a hair cut: </s> they will bring your food back. 0
+getting a hair cut: </s> follow road rules 0
+getting a hair cut: </s> put them in their proper spots 0
+getting a hair cut: </s> attach tire back on to the bike 0
+getting a hair cut: </s> put clothes back on 0
+getting a hair cut: </s> remove any hair accessories 0
+getting a hair cut: </s> pull up to gas pump 0
+getting a hair cut: </s> place new filter in filter cup 0
+getting a hair cut: </s> deposit the luggage 0
+getting a hair cut: </s> wait for the timer to go off 0
+getting a hair cut: </s> close the shower 0
+getting a hair cut: </s> wait for your appointment to begin 0
+getting a hair cut: </s> let child choose a storybook to read before bed. 0
+getting a hair cut: </s> go through security 0
+getting a hair cut: </s> look closely to exclude any expired items 0
+getting a hair cut: </s> look at food 0
+getting a hair cut: </s> go home 0
+getting a hair cut: </s> turn on vehicle 0
+getting a hair cut: </s> sit down in seats 0
+getting a hair cut: </s> give condolences to family 0
+getting a hair cut: </s> mix together wet ingredients 0
+getting a hair cut: </s> fill container with water. 0
+getting a hair cut: </s> put clothing item on ironing board. 0
+getting a hair cut: </s> get on the plane 0
+getting a hair cut: </s> undress. 0
+getting a hair cut: </s> take your item that you bought and leave 0
+getting a hair cut: </s> check in at airline counter. 0
+getting a hair cut: </s> set iron to appropriate setting 0
+getting a hair cut: </s> go to locker room 0
+getting a hair cut: </s> remove any debris or nails that may have caused the damage. 0
+getting a hair cut: </s> add more water 0
+getting a hair cut: </s> drink 0

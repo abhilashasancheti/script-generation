@@ -1,0 +1,27 @@
+Here is a sequence of events that happen while baking a cake: 
+These are the things that happen when you bake a cake: 
+Here is an ordered sequence of events that occur when you bake a cake:
+Describe baking a cake in small sequences of short sentences:
+Here is a sequence of events that happen while baking a cake: 1.
+These are the things that happen when you bake a cake: 1.
+Here is an ordered sequence of events that occur when you bake a cake: 1.
+Describe baking a cake in small sequences of short sentences: 1.
+Here is a sequence of events that happen while baking a cake: 1. get a cake mix
+These are the things that happen when you bake a cake: 1. get a cake mix
+Here is an ordered sequence of events that occur when you bake a cake: 1. get a cake mix
+Describe baking a cake in small sequences of short sentences: 1. get a cake mix
+Here is a sequence of events that happen while baking a cake: 1. get a cake mix 2. gather together other ingredients
+These are the things that happen when you bake a cake: 1. get a cake mix 2. gather together other ingredients
+Here is an ordered sequence of events that occur when you bake a cake: 1. get a cake mix 2. gather together other ingredients
+Describe baking a cake in small sequences of short sentences: 1. get a cake mix 2. gather together other ingredients
+
+
+
+Here is a sequence of events that happen while baking a cake: 1. Get a cake mix
+These are the things that happen when you bake a cake: 1. Get a cake mix
+Here is an ordered sequence of events that occur when you bake a cake: 1. Get a cake mix
+Describe baking a cake in small sequences of short sentences: 1. Get a cake mix
+Here is a sequence of events that happen while baking a cake: 1. Get a cake mix 2. Gather together other ingredients
+These are the things that happen when you bake a cake: 1. Get a cake mix 2. Gather together other ingredients
+Here is an ordered sequence of events that occur when you bake a cake: 1. Get a cake mix 2. Gather together other ingredients
+Describe baking a cake in small sequences of short sentences: 1. Get a cake mix 2. Gather together other ingredients

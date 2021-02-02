@@ -1,0 +1,25 @@
+<BOS> these are the things that happen when you have a barbecue: 1. gather materials for a BBQ 2. get to the location of the barbecue 3. get to the area where the BBQ is being prepared 4. add charcoal to the pit 5. enjoy the BBQ 
+<BOS> these are the things that happen when you have a barbecue: 1. get a grill 2. get a smoker 3. add some barbecue sauce 4. enjoy 
+<BOS> these are the things that happen when you have a barbecue: 1. find a pit pit 
+<BOS> these are the things that happen when you have a barbecue: 1. make a pit 
+<BOS> these are the things that happen when you have a barbecue: 1. enjoy the BBQ. 
+<BOS> these are the things that happen when you order a pizza: 1. eat 2. throw away trash when finished eating 
+<BOS> these are the things that happen when you order a pizza: 1. choose sauce 2. choose toppings 3. wait for pizza 4. enjoy 5. place pizza on plate 
+<BOS> these are the things that happen when you order a pizza: 1. look online for pizza 2. wait for the pizza to arrive 3. place pizza in the trash 
+<BOS> these are the things that happen when you order a pizza: 1. order a pizza 2. pay for the pizza 3. take the pizza 
+<BOS> these are the things that happen when you order a pizza: 1. find correct toppings for your order 2. place order 3. wait for order to be ready 4. eat pizza 
+<BOS> these are the things that happen when you clean up a flat: 1. take the flat to the cleaning station 2. place the rag on the flat 3. scrub the flat with a rag 4. scrub the rag again 5. dry the flat 6. remove the flat from the cleaning station 
+<BOS> these are the things that happen when you clean up a flat: 1. clear the trash from the room 2. go to the washing machine 3. put the dirty clothes into the washer 4. turn on the washer 5. place the wet clothes in the washer 6. turn off the washer 
+<BOS> these are the things that happen when you clean up a flat: 1. run water in the room 2. start to wash all of the water off the floor 3. put everything back in the room 
+<BOS> these are the things that happen when you clean up a flat: 1. get rag 2. get a sponge 3. put water in the sponge 4. wash with sponge 5. scrub with rag 6. repeat step 5 until everything is clean 
+<BOS> these are the things that happen when you clean up a flat: 1. find the flat 2. take off the flat 3. use a toothbrush to clean it 4. place the flat into a clean area 5. rinse and wipe all the dirt out of the flat
+<BOS> these are the things that happen when you make scrambled eggs: 1. put in the egg basket 2. take out eggs 3. put some of water in the eggs 4. mix the eggs 5. add the toppings and stir 
+<BOS> these are the things that happen when you make scrambled eggs: 1. get eggs 2. get pot 3. get pot stand 4. put eggs in pot 5. boil water 6. pour pot stand in 7. add eggs 8. stir 9. pour mixture into the pot stand
+<BOS> these are the things that happen when you make scrambled eggs: 1. boil the water to the desired temperature. 2. add egg whites and salt to water. 3. cook the egg. 4. mix the egg whites with the water in a bowl. 5. put the cooked egg on top of the scrambled. 
+<BOS> these are the things that happen when you make scrambled eggs: 1. take eggs out of box 2. put in boiling water 3. add salt and stir 
+<BOS> these are the things that happen when you make scrambled eggs: 1. get eggs 2. get eggs in carton 3. wait for eggs to finish cooking 4. let cool 
+<BOS> these are the things that happen when you take the underground: 1. walk back into train station 
+<BOS> these are the things that happen when you take the underground: 1. enter the underground 2. enter the elevator 3. get back in the elevator 4. go down into the underground 5. leave the underground 
+<BOS> these are the things that happen when you take the underground: 1. drive to underground park 2. drive to the entrance 3. enter the park 
+<BOS> these are the things that happen when you take the underground: 1. find a place to get into the underground 2. find a place to get out 
+<BOS> these are the things that happen when you take the underground: 1. go to the underground 2. locate a safe place to stop 3. arrive at the destination 

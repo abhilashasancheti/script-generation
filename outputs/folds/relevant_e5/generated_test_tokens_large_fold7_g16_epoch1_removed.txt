@@ -1,0 +1,25 @@
+<BOS> <SCR> having a barbecue <ESCR>: 
+<BOS> <SCR> having a barbecue <ESCR>: 1. get a smoker 2. get a grill 3. put a big pile of coals in the center of the grill 4. put some coals in the front of the grill 5. turn on the grill 6. turn off the grills 7. put the grill away 
+<BOS> <SCR> having a barbecue <ESCR>: 1. decide on a location for the barbecue 2. get some supplies for the BBQ 3. gather supplies for the barbecue 
+<BOS> <SCR> having a barbecue <ESCR>: 1. get a nice big pit 2. close the pit 3. let it burn 
+<BOS> <SCR> having a barbecue <ESCR>: 
+<BOS> <SCR> ordering a pizza <ESCR>: 1. eat order 
+<BOS> <SCR> ordering a pizza <ESCR>: 1. choose toppings 2. choose cheese 3. wait for pizza 4. pick toppings 5. eat 
+<BOS> <SCR> ordering a pizza <ESCR>: 1. call pizza place 2. have a pizza 3. order 4. have pizza delivered 5. enjoy pizza 
+<BOS> <SCR> ordering a pizza <ESCR>: 1. pick a pizza 2. order it 3. wait for pizza to arrive 4. get the toppings 5. eat 
+<BOS> <SCR> ordering a pizza <ESCR>: 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. turn on the water 2. use a rag to clean up the items 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. turn on the water 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. open all the drain 2. turn off the water 3. close the drain 4. turn off the water 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. take things off of the floor 2. turn on the water 3. scrub up everything 4. put on a clean towel 5. dry with a dryer sheet 6. put things away 
+<BOS> <SCR> cleaning up a flat <ESCR>: 1. place contents into container 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. turn on the stove 2. get an egg 3. add a pinch of salt 4. mix the eggs 5. add a pinch of oil 6. put the lid on the stove 7. turn the stove on 8. wait for the timer 9. cut the eggs 10. put the scrambled eggs in a bowl 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. get eggs 2. add water 3. get pan 4. add eggs 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. gather eggs 2. boil water 3. add eggs to boiling water 4. wait for eggs to boil 5. stir 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. find eggs 2. get eggs out of fridge 3. put eggs into pan 4. add noodles 
+<BOS> <SCR> making scrambled eggs <ESCR>: 1. get eggs 2. get eggs in egg carton 3. get eggs in cupboard 4. put in pan 5. wait for eggs to cook 6. place eggs in paper towels 7. drain the eggs 
+<BOS> <SCR> taking the underground <ESCR>: 
+<BOS> <SCR> taking the underground <ESCR>: 1. enter the underground 2. go to the bottom 3. enter the tunnel 4. open the door 5. leave the underground 
+<BOS> <SCR> taking the underground <ESCR>: 1. drive to underground park 2. walk to the right entrance 
+<BOS> <SCR> taking the underground <ESCR>: 
+<BOS> <SCR> taking the underground <ESCR>: 1. climb the stairs 2. climb the stairs 3. walk through the door 4. enter the tunnel 

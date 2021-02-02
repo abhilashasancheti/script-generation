@@ -1,0 +1,5 @@
+<BOS> describe eating in a fast food restaurant in small sequences of short sentences: 
+<BOS> describe paying with a credit card in small sequences of short sentences: 
+<BOS> describe playing tennis in small sequences of short sentences: 
+<BOS> describe going to the theater in small sequences of short sentences: 
+<BOS> describe taking a child to bed in small sequences of short sentences: 

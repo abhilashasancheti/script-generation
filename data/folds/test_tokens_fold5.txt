@@ -1,0 +1,5 @@
+<BOS> <SCR> taking a shower <ESCR>: 
+<BOS> <SCR> ironing laundry <ESCR>: 
+<BOS> <SCR> taking a driving lesson <ESCR>: 
+<BOS> <SCR> going to the dentist <ESCR>: 
+<BOS> <SCR> going to a funeral <ESCR>: 

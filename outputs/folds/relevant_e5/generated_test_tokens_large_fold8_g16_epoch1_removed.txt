@@ -1,0 +1,25 @@
+<BOS> <SCR> renovating a room <ESCR>: 1. choose what you want to do with the room. 2. put out some light to see what the job needs to be done. 3. fill in any areas with dirt or dust. 4. once finished, clean the room with a vacuum. 5. vacuum the carpets. 6. vacuum the walls. 7. vacuum the floor. 8. vacuum the tables. 9. vacuum the floors. 10. put away all trash and toys. 
+<BOS> <SCR> renovating a room <ESCR>: 1. water the spot 
+<BOS> <SCR> renovating a room <ESCR>: 1. install a new wall 2. make a new floor 3. decorate the floor 4. do the furniture 5. decorate the wall 
+<BOS> <SCR> renovating a room <ESCR>: 1. put in place the old floor and replace the ceiling 2. replace all furniture that was not up to the standard 3. start the new floor 
+<BOS> <SCR> renovating a room <ESCR>: 1. collect all necessary items. 2. put on any clean clothes. 3. dust and polish any surfaces. 4. fill any vacuum in the house. 5. vacuum the carpeted floor. 6. vacuum all furniture. 7. vacuum the walls of the room. 8. vacuum the windows and all of the walls. 
+<BOS> <SCR> cooking pasta <ESCR>: 1. get a pan 2. heat pan on stove 3. add food on to pan 4. stir until it becomes evenly cooked 5. take food out of pan 6. put cooked food on serving plate 7. eat food 
+<BOS> <SCR> cooking pasta <ESCR>: 1. fill boiling water 2. place pan on stovetop 3. place pan on stove 4. add butter or oil 5. stir eggs 6. cook until yolk is runny 7. add salt and pepper 8. serve with crusty bread 
+<BOS> <SCR> cooking pasta <ESCR>: 1. add pasta to bowl 2. add salt and pepper 3. mix up 4. get pan 5. heat pan 6. turn on burner 7. add butter to pan 8. put in skillet 9. cook 10. take out 11. cool 12. put into cupboard 
+<BOS> <SCR> cooking pasta <ESCR>: 1. put a bowl in the kitchen. 2. put the water in the bowl. 3. pour the pasta into the water bowl. 4. stir the pasta well. 5. once the pasta is done put it into the dish. 
+<BOS> <SCR> cooking pasta <ESCR>: 1. buy ingredients 2. prepare ingredients in pan 3. turn on stove 4. put water in pan 5. add eggs and milk to pan 6. stir and cook 7. pour into pan 8. stir regularly 
+<BOS> <SCR> sewing a button <ESCR>: 1. get the correct size fabric 2. get the right size needle 3. find a spot to sew the button 4. start sewing the button 5. remove the button from the fabric 6. dry the button 7. hang the button 
+<BOS> <SCR> sewing a button <ESCR>: 1. turn on sewing machine 2. lay out a piece of cloth 3. grab the button 4. sew the button on 5. put button on and press 
+<BOS> <SCR> sewing a button <ESCR>: 1. find a button. 2. buy the button. 3. get the scissors. 4. attach the button to the fabric. 5. fold the fabric. 6. hang the button on the wall. 
+<BOS> <SCR> sewing a button <ESCR>: 1. find out button size 2. take out a sewing machine 3. find out size of button 4. sew button onto button hole 5. fasten button 6. set back 
+<BOS> <SCR> sewing a button <ESCR>: 1. find the button you want to sew 2. gather the buttons from your buttons and place them on the cloth 3. when finished, hang them up 
+<BOS> <SCR> doing laundry <ESCR>: 1. turn on water 2. turn on clothes 3. take clothes to rack 4. grab clean clothes from rack 5. plug in water 6. lay clothing flat 7. turn clothes on 8. get clothes out of rack 9. dry clothes 
+<BOS> <SCR> doing laundry <ESCR>: 1. get dirty laundry 2. turn on the faucet in the laundry room 3. put clothes on the faucet 4. add a few clothes and soap to the clothes 5. wash clothes on the towel 6. put the clothes on the dryer 7. hang up the clothes 
+<BOS> <SCR> doing laundry <ESCR>: 1. grab laundry 2. fill it with water 3. turn laundry over 4. put in laundry bag 5. hang up on clothes line 
+<BOS> <SCR> doing laundry <ESCR>: 1. turn on laundry 2. remove clothes from rack 3. iron them on clothes 4. lay them out to dry 
+<BOS> <SCR> doing laundry <ESCR>: 1. get laundry 2. go to laundry room 3. pick out clean clothes 4. put them on the clothes rack 5. get laundry to hang over the clothes rack 6. wait for laundry to dry 
+<BOS> <SCR> going bowling <ESCR>: 1. find a buddy 2. place your bowling balls in the air 3. drive to the bowling alley 4. purchase your ticket 5. check out the game 6. score points 
+<BOS> <SCR> going bowling <ESCR>: 1. wear appropriate clothing 2. go to bowling alley 3. purchase ticket 
+<BOS> <SCR> going bowling <ESCR>: 1. choose a bowling partner 2. drive to the bowling alley 3. choose a chair 4. enjoy the game 5. get up when the score is over 6. drive home 
+<BOS> <SCR> going bowling <ESCR>: 1. buy a ticket. 2. go to the bowling alley. 3. get on the bowling lane. 4. score the ball and place it in the basket. 5. score another ball. 
+<BOS> <SCR> going bowling <ESCR>: 1. arrive at bowling alley 2. drive to bowling alley 3. enter bowling alley 4. grab bowling balls 5. throw balls at your opponent 6. watch for a long time until one team scores 7. leave bowling alley 

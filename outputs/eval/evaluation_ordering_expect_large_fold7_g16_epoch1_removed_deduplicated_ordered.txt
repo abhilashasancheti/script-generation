@@ -1,0 +1,29 @@
+having a barbecue;find a place for the fire;make a pit
+having a barbecue;place the wood into the pit;set the fire
+having a barbecue;set the fire;enjoy the meal
+having a barbecue;gather wood;place the wood into the pit
+having a barbecue;make a pit;gather wood
+having a barbecue;get a piece of wood;find a place for the fire
+ordering a pizza;place pizza in the trash;leave restaurant
+ordering a pizza;order food;wait for the pizza to arrive
+ordering a pizza;get receipt;take food
+ordering a pizza;take food;place pizza in the trash
+ordering a pizza;get into the delivery room;order food
+ordering a pizza;look online for pizza;get into the delivery room
+ordering a pizza;wait for the pizza to arrive;get receipt
+cleaning up a flat;scrub the rag again;remove the flat from the cleaning station
+cleaning up a flat;remove the flat from the cleaning station;put the flat in a locker
+cleaning up a flat;take the flat to the cleaning station;scrub the flat with a rag
+cleaning up a flat;put the flat in a locker;dry the flat
+cleaning up a flat;dry the flat;put the flat in a cup
+cleaning up a flat;scrub the flat with a rag;place the rag on the flat
+cleaning up a flat;place the rag on the flat;scrub the rag again
+cleaning up a flat;get the flat;take the flat to the cleaning station
+making scrambled eggs;get some water;put in the egg basket
+making scrambled eggs;put some of water in the eggs;mix the eggs
+making scrambled eggs;take out eggs;put some of water in the eggs
+making scrambled eggs;mix the eggs;add the toppings and stir
+making scrambled eggs;put in the egg basket;take out eggs
+taking the underground;drive to the entrance;go inside and get changed
+taking the underground;drive to underground park;drive to the entrance
+taking the underground;go inside and get changed;go back outside and sit down

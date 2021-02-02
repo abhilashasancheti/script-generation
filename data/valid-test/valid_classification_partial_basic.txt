@@ -1,0 +1,250 @@
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> test ride bike. </s> remove wheel. 0
+here is a sequence of events that happen while going grocery shopping: </s> go home. </s> make list of needed items. 0
+here is a sequence of events that happen while going grocery shopping: </s> put items on table </s> wheel cart outside 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> grab tire </s> locate puncture 1
+here is a sequence of events that happen while taking a bath: </s> take off clothes </s> step into bath tub 1
+here is a sequence of events that happen while going grocery shopping: </s> push cart back to car </s> get in checkout line 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> inspect the tire to make sure it doesn't leak </s> put air in the tire. 0
+here is a sequence of events that happen while getting a hair cut: </s> make appointment at hair salon. </s> discuss desired cut with your stylist. 1
+here is a sequence of events that happen while going grocery shopping: </s> get in the car </s> look in the fridge 0
+here is a sequence of events that happen while planting a tree: </s> start digging </s> put tree in hole 1
+here is a sequence of events that happen while going grocery shopping: </s> grab a shopping cart </s> drive to grocery store 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> remove tire </s> place new tube inside tube 1
+here is a sequence of events that happen while getting a hair cut: </s> sit in salon chair and be still </s> wait your turn 0
+here is a sequence of events that happen while getting a hair cut: </s> pay and tip generously and leave shop </s> tear out of magazine 0
+here is a sequence of events that happen while getting a hair cut: </s> pay for your haircut. </s> sit still in the chair and let the stylist cut your hair. 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> find the hole </s> put the pump back 1
+here is a sequence of events that happen while planting a tree: </s> cover the seed loosely with soil </s> dig the soil about two fingers deep 0
+here is a sequence of events that happen while planting a tree: </s> hold the tree upright while filling the hole back up </s> water the tree 1
+here is a sequence of events that happen while getting a hair cut: </s> go in </s> get in and start it 0
+here is a sequence of events that happen while taking a bath: </s> get out and drain the bath rub </s> start running the bath water 0
+here is a sequence of events that happen while taking a bath: </s> get undressed. </s> turn on water in the bathtub. 0
+here is a sequence of events that happen while taking a bath: </s> grab a towel </s> fill tub with warm water 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> unhook the bicycle chains. </s> hook the chain back on. 1
+here is a sequence of events that happen while planting a tree: </s> pack down the dirt around the tree </s> cover tree roots with dirt 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> air up tire </s> remove tire from rim 0
+here is a sequence of events that happen while getting a hair cut: </s> pay barber </s> tell barber how to cut hair 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> use a bike pump to add air to the inner tube until correct pressure is reached </s> stuff the new inner-tube in the tire 0
+here is a sequence of events that happen while getting a hair cut: </s> drive home. </s> give stylist cash tip. 0
+here is a sequence of events that happen while planting a tree: </s> tamp down dirt </s> put away shovel and watering can 1
+here is a sequence of events that happen while getting a hair cut: </s> get in car </s> after hair cut pay 1
+here is a sequence of events that happen while planting a tree: </s> water your tree </s> fill in space around the roots with dirt or potting soil 0
+here is a sequence of events that happen while going grocery shopping: </s> look at ads </s> make list 1
+here is a sequence of events that happen while taking a bath: </s> dry yourself using towel and hair dryer </s> get undressed 0
+here is a sequence of events that happen while taking a bath: </s> get soap and shampoo </s> get in the tub 1
+here is a sequence of events that happen while getting a hair cut: </s> get bib put on </s> tip stylist 1
+here is a sequence of events that happen while going grocery shopping: </s> proceed to store. </s> pay for items. 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> put tire patch on leak </s> take wheel off bike 0
+here is a sequence of events that happen while taking a bath: </s> remove all your clothing </s> rinse yourself by taking water from the bath and pouring it over yourself 1
+here is a sequence of events that happen while getting a hair cut: </s> get in car </s> wait for hair cut 1
+here is a sequence of events that happen while going grocery shopping: </s> get in my car </s> put bags in car 1
+here is a sequence of events that happen while getting a hair cut: </s> telling stylist how to cut hair. </s> sitting in seat 1
+here is a sequence of events that happen while going grocery shopping: </s> get grocery cart. </s> enter store. 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> ride bicycle </s> remove old tire 0
+here is a sequence of events that happen while going grocery shopping: </s> get everything on your list. </s> make a grocery list. 0
+here is a sequence of events that happen while going grocery shopping: </s> go through a check out line </s> put groceries in your trunk 1
+here is a sequence of events that happen while getting a hair cut: </s> see whether my regular barber is free and if he is engaged wait for him to finish his work </s> leave the saloon 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> wait until the glued patch is dry. </s> add air to the tire. 1
+here is a sequence of events that happen while getting a hair cut: </s> getting a trim </s> getting a hair style 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> put the tube back inside the tire </s> put the aerated tube in a water tub 0
+here is a sequence of events that happen while going grocery shopping: </s> put products in your cart </s> consult list and find products 0
+here is a sequence of events that happen while taking a bath: </s> step inside the bath tub </s> hang the clothes 0
+here is a sequence of events that happen while taking a bath: </s> make sure the water is adjusted to your desired temperature. </s> fill the bath with water. 0
+here is a sequence of events that happen while going grocery shopping: </s> walk in store </s> grab a grocery cart 1
+here is a sequence of events that happen while taking a bath: </s> get in bath tub </s> wash out all the soap and water 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> locate bike </s> dry tube 1
+here is a sequence of events that happen while going grocery shopping: </s> find items on your list </s> place items in cart on belt for cashier to scan 1
+here is a sequence of events that happen while going grocery shopping: </s> go home </s> look for the food you want 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> move the bike back and forth so the patch gets accustomed to the tire. </s> enjoy your bike! 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> removing the tire from one side of rim </s> remove tube 1
+here is a sequence of events that happen while going grocery shopping: </s> drive home and put away groceries </s> take inventory of items you will need 0
+here is a sequence of events that happen while taking a bath: </s> open the overhead shower rinse the body fully </s> come out of the bath room 1
+here is a sequence of events that happen while getting a hair cut: </s> make an appointment. </s> tell the stylist what haircut i want. 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> take the tire off the bike </s> patch the innertube 1
+here is a sequence of events that happen while taking a bath: </s> put plug in bath tub. </s> relax. 1
+here is a sequence of events that happen while going grocery shopping: </s> get a shopping cart. </s> take the purchases in the house. 1
+here is a sequence of events that happen while planting a tree: </s> buy tree seed </s> water seed every day 1
+here is a sequence of events that happen while taking a bath: </s> rinse body with water </s> put towel near outside of bath tub 0
+here is a sequence of events that happen while planting a tree: </s> go to nursery </s> dig hole 1
+here is a sequence of events that happen while taking a bath: </s> get out when water starts to get cool. </s> add bubble bath. 0
+here is a sequence of events that happen while taking a bath: </s> wash your body </s> open the shower 0
+here is a sequence of events that happen while going grocery shopping: </s> enter grocery store </s> grab a shopping cart 1
+here is a sequence of events that happen while planting a tree: </s> select a correct place in my backyard </s> refill some more soil to fill the gap if any 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> inflate the new tire. </s> put new tire on bicycle. 0
+here is a sequence of events that happen while planting a tree: </s> put a small amount of water in hole </s> dig hole for tree 0
+here is a sequence of events that happen while getting a hair cut: </s> tell the stylist what you want done to your hair </s> tell the receptionist you would like a hair cut 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> ride bicycle </s> get tire patch kit 0
+here is a sequence of events that happen while going grocery shopping: </s> pay for the grocery </s> get dressed to go out 0
+here is a sequence of events that happen while getting a hair cut: </s> get your hair washed </s> look in the mirror 1
+here is a sequence of events that happen while planting a tree: </s> choose a tree that you want to grow </s> cover the hole with topsoil 1
+here is a sequence of events that happen while going grocery shopping: </s> enter store </s> find parking spot 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> remove tire from bike frame. </s> follow directions and plug the hole. 1
+here is a sequence of events that happen while going grocery shopping: </s> enter grocery store </s> take things off shelf 1
+here is a sequence of events that happen while planting a tree: </s> plant tree seed about 4 inches in the dirt. </s> water the area daily. 1
+here is a sequence of events that happen while taking a bath: </s> get undressed </s> fill bathtub with warm water 0
+here is a sequence of events that happen while taking a bath: </s> take the clean cloths out of the closet </s> get inside the bathtub 1
+here is a sequence of events that happen while taking a bath: </s> shut off water </s> sit in bathtub 0
+here is a sequence of events that happen while going grocery shopping: </s> get in car </s> take bags to your car 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> unscrew cap on tire </s> place hose end into the tire 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> attach tire back on to the bike </s> purchase new bike tube from store 0
+here is a sequence of events that happen while going grocery shopping: </s> go to grocery store </s> write list 0
+here is a sequence of events that happen while taking a bath: </s> open drain </s> dry off 1
+here is a sequence of events that happen while taking a bath: </s> drain bathtub </s> enter bathtub 0
+here is a sequence of events that happen while going grocery shopping: </s> get a basket if needed. </s> take your items to the checkout counter. 1
+here is a sequence of events that happen while planting a tree: </s> go buy a tree </s> fill in with dirt 1
+here is a sequence of events that happen while going grocery shopping: </s> put items on counter </s> put them in your cart 0
+here is a sequence of events that happen while planting a tree: </s> cover with soil. </s> with small shovel dig hole. 0
+here is a sequence of events that happen while getting a hair cut: </s> look in the mirror to see if you like it. </s> sit down and let them cut 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> when satisfied, put tire back on bike </s> using a tire repair kit, cover the hole 0
+here is a sequence of events that happen while planting a tree: </s> watch your tree grow over the years. </s> fill in any gaps in the hole with soil. 0
+here is a sequence of events that happen while going grocery shopping: </s> drive back home </s> pay the total amount 0
+here is a sequence of events that happen while planting a tree: </s> replace the dirt </s> place tree in hole 0
+here is a sequence of events that happen while going grocery shopping: </s> when all items are scanned, the cashier will give you a total. </s> check list and find items that you need. 0
+here is a sequence of events that happen while planting a tree: </s> watering the dirt </s> digging in the ground 0
+here is a sequence of events that happen while going grocery shopping: </s> check for the price and validity </s> refer my list and pick up what is needed from the shelves 0
+here is a sequence of events that happen while planting a tree: </s> buy a tree sapling </s> place sapling in hole 1
+here is a sequence of events that happen while getting a hair cut: </s> pay the hair stylist </s> talk to the hairstylist 0
+here is a sequence of events that happen while planting a tree: </s> put tree seedling into hole. </s> find place in ground with enough space for tree. 0
+here is a sequence of events that happen while taking a bath: </s> run water into the tub </s> clean out tub 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> drive home </s> air up to approx 35psi 1
+here is a sequence of events that happen while planting a tree: </s> watch tree grow (years) </s> dig a hole 0
+here is a sequence of events that happen while planting a tree: </s> pat the dirt down with the shovel </s> go to a field or a yard 0
+here is a sequence of events that happen while getting a hair cut: </s> let hairdresser put cape on you </s> tip hairdresser 1
+here is a sequence of events that happen while getting a hair cut: </s> arrive salon </s> pay for cut 1
+here is a sequence of events that happen while planting a tree: </s> buy a tree. </s> get the hose. 1
+here is a sequence of events that happen while going grocery shopping: </s> take the things you want to buy </s> get the bill 1
+here is a sequence of events that happen while getting a hair cut: </s> enter salon </s> request haircut 1
+here is a sequence of events that happen while going grocery shopping: </s> start at the non cold side of the store. </s> get the boxed, bagged, jarred food from your list. 1
+here is a sequence of events that happen while getting a hair cut: </s> have the hair dresser cut your hair </s> choose where you want to get a hair cut 0
+here is a sequence of events that happen while taking a bath: </s> first should set the water at a temperature they can stand. </s> now shut the shower wipe your body with bath towel for dry. 1
+here is a sequence of events that happen while going grocery shopping: </s> find the food you need and put in cart </s> go into grocery store 0
+here is a sequence of events that happen while planting a tree: </s> buy a young tree. </s> take it home. 1
+here is a sequence of events that happen while getting a hair cut: </s> leave the hair salon. </s> cut the hair. 0
+here is a sequence of events that happen while going grocery shopping: </s> drive to store </s> drive home 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> put tube and tire back on bicycle. </s> remove tire and tube from bicycle. 0
+here is a sequence of events that happen while getting a hair cut: </s> relax </s> sit in barber chair 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> remove tire </s> check psi with gauge 1
+here is a sequence of events that happen while getting a hair cut: </s> sit down in chair </s> let them cut your hair 1
+here is a sequence of events that happen while getting a hair cut: </s> go to salon </s> sit on chair in front of mirror 1
+here is a sequence of events that happen while going grocery shopping: </s> take groceries to car </s> make a list of needed items 0
+here is a sequence of events that happen while planting a tree: </s> place tree in hole. </s> dig a very deep hole with a shovel. 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> fill tube with air. </s> insert new or fixed tube back into tire. 0
+here is a sequence of events that happen while getting a hair cut: </s> wait for appointment </s> let stylist wash your hair 1
+here is a sequence of events that happen while going grocery shopping: </s> bring items to cashier at front of store. </s> put items away at home. 1
+here is a sequence of events that happen while taking a bath: </s> gather towel and body wash </s> run bath water until tub is full 1
+here is a sequence of events that happen while taking a bath: </s> pull the drain plug </s> pour in the bubble bath 0
+here is a sequence of events that happen while going grocery shopping: </s> place items into basket </s> pay the cashier for your items 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> taking old tire off </s> get spare tire 0
+here is a sequence of events that happen while planting a tree: </s> take the seed </s> buy some seeds of desired tree 0
+here is a sequence of events that happen while going grocery shopping: </s> go to the store </s> get what you need from the aisles 1
+here is a sequence of events that happen while planting a tree: </s> dig hole </s> go to garden 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> remove tire </s> get bike 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> find hole in tire </s> plug hole 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> remove tire from wheel rim </s> allow to dry 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> attach wheel to bicycle </s> place tube in tire 0
+here is a sequence of events that happen while going grocery shopping: </s> take your groceries to your car and place them in the car. </s> put all of your groceries on the belt for the cashier to ring up and bag. 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> replace the cap </s> refill the tire 0
+here is a sequence of events that happen while planting a tree: </s> get shovel and water ready. </s> purchase seeds. 0
+here is a sequence of events that happen while getting a hair cut: </s> park your car and get out </s> walk inside 1
+here is a sequence of events that happen while planting a tree: </s> fill hole with dirt around the tree </s> get seeds, seedling, or bush 0
+here is a sequence of events that happen while going grocery shopping: </s> enter store and buy what is on your list </s> make out a list 0
+here is a sequence of events that happen while taking a bath: </s> gather towel and soaps, place them within reach of bathtub </s> allow bathtub to fill about half way 1
+here is a sequence of events that happen while taking a bath: </s> fill tub with water </s> enter tub 1
+here is a sequence of events that happen while going grocery shopping: </s> shop </s> check out food 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> put air in tire </s> put tire back on the bike 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> put new tire in its place </s> get tools 0
+here is a sequence of events that happen while planting a tree: </s> make a hole </s> buy a tree 0
+here is a sequence of events that happen while taking a bath: </s> get in the bathtub </s> add bubbles or other skin treatment 0
+here is a sequence of events that happen while getting a hair cut: </s> brush loose hair off your clothing </s> talk with the barber 0
+here is a sequence of events that happen while taking a bath: </s> get into the bath </s> get out of the tub 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> push on tire with thumb and feel pressure </s> store pump 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> if there are any holes, plug them up </s> get air pump 1
+here is a sequence of events that happen while going grocery shopping: </s> line up to pay. </s> browse the store. 0
+here is a sequence of events that happen while taking a bath: </s> lather with soap </s> add bubbles 0
+here is a sequence of events that happen while taking a bath: </s> soak </s> remove clothing 0
+here is a sequence of events that happen while going grocery shopping: </s> take the full cart to the checkout lane </s> walk through the aisles of the store, add items to your cart 0
+here is a sequence of events that happen while going grocery shopping: </s> bagger places items into bags </s> place bags of groceries into cart 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> find hole in bicycle tire </s> test bike to make sure it holds 1
+here is a sequence of events that happen while getting a hair cut: </s> put on salon cape </s> pay and tip beautician 1
+here is a sequence of events that happen while planting a tree: </s> dig a hole </s> cover hole with dirt 1
+here is a sequence of events that happen while planting a tree: </s> dig a hole into the ground </s> water the tree generously 1
+here is a sequence of events that happen while getting a hair cut: </s> tell them how you'd like your hair cut </s> pay the barber 1
+here is a sequence of events that happen while going grocery shopping: </s> go shopping </s> making grocery list 0
+here is a sequence of events that happen while going grocery shopping: </s> wait for total </s> take cart to checkout line 0
+here is a sequence of events that happen while taking a bath: </s> get towel </s> get out of tub 0
+here is a sequence of events that happen while getting a hair cut: </s> pay for haircut. </s> tip the barber. 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> find a pump. </s> attach air pump to tire. 1
+here is a sequence of events that happen while getting a hair cut: </s> go to salon </s> sit in chair 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> put the tire back on the bicycle. </s> repair or replace the tube as needed. 0
+here is a sequence of events that happen while taking a bath: </s> turn on the water </s> get undressed 1
+here is a sequence of events that happen while taking a bath: </s> get out of tub </s> drain water from tub 0
+here is a sequence of events that happen while taking a bath: </s> turn on hot and cold faucets to preferred water temperature </s> dry off with towel 1
+here is a sequence of events that happen while planting a tree: </s> pat gently to secure sapling </s> use shovel to dig hole 0
+here is a sequence of events that happen while planting a tree: </s> flatten soil with shovel </s> admire tree 1
+here is a sequence of events that happen while getting a hair cut: </s> sit in hair stylist's chair </s> tell the hair stylist what kind of cut you would like 1
+here is a sequence of events that happen while planting a tree: </s> purchase a tree to plant </s> dig hole in ground about 16 inches deep 1
+here is a sequence of events that happen while planting a tree: </s> add shoveled dirt back into hole </s> dig hole in ground 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> deflate any remaining air </s> remove the tire from your bike 0
+here is a sequence of events that happen while taking a bath: </s> plug the bath drain </s> get in the tub 1
+here is a sequence of events that happen while taking a bath: </s> drain tub. </s> undress. 0
+here is a sequence of events that happen while taking a bath: </s> dry off with towel </s> wash your body with soap 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> put pump away </s> rescrew cap on tire 0
+here is a sequence of events that happen while taking a bath: </s> wash body. </s> run bath faucet. 0
+here is a sequence of events that happen while planting a tree: </s> get tree seeds. </s> dig a hole in the ground. 1
+here is a sequence of events that happen while planting a tree: </s> place seedling into hole. </s> dig hole big enough for seedling. 0
+here is a sequence of events that happen while getting a hair cut: </s> hair cut differentiate and also out come the beauty in them. </s> every man differs by his variety of hair cut. 0
+here is a sequence of events that happen while getting a hair cut: </s> sit in the hair dressing chair. </s> show up. 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> you air up tire. </s> you put glue on hole. 0
+here is a sequence of events that happen while planting a tree: </s> put tree in hole </s> pack dirt back in 1
+here is a sequence of events that happen while taking a bath: </s> turn on the hot and cold water in tub </s> check temp of water 1
+here is a sequence of events that happen while getting a hair cut: </s> leave salon </s> wait to be called 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> ride away on bicycle </s> throw flat tire away 0
+here is a sequence of events that happen while taking a bath: </s> get in the tub </s> wash hair 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> align new tire </s> use tools to secure 1
+here is a sequence of events that happen while going grocery shopping: </s> scan all my items while somebody bags them </s> enter the grocery store and grab a shopping cart 0
+here is a sequence of events that happen while taking a bath: </s> rinse </s> soap body 0
+here is a sequence of events that happen while going grocery shopping: </s> first see that you prepare the entire list for shopping </s> now time for oil, milk items so that it won't get crushed by other heavy things. 1
+here is a sequence of events that happen while planting a tree: </s> water tree </s> dig a hole 0
+here is a sequence of events that happen while getting a hair cut: </s> talk with hairdresser about what style and cut you want </s> pay for the haircut 1
+here is a sequence of events that happen while planting a tree: </s> water tree </s> place tree in hole 0
+here is a sequence of events that happen while taking a bath: </s> get into tub </s> fill tub with water 0
+here is a sequence of events that happen while getting a hair cut: </s> tell the hair stylist that you need a haircut </s> sit on the hair cutting seat 1
+here is a sequence of events that happen while taking a bath: </s> step into bathtub </s> undress 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> pump air into tire </s> place tire pump hose on nozzle 0
+here is a sequence of events that happen while getting a hair cut: </s> wait to be seated </s> inspect haircut when shown 1
+here is a sequence of events that happen while getting a hair cut: </s> sit while she cuts your hair </s> pay and tip the clerk when finished 1
+here is a sequence of events that happen while getting a hair cut: </s> tell the hair stylist what i want. </s> drive to the hair salon. 0
+here is a sequence of events that happen while getting a hair cut: </s> go to barber shop. </s> leave shop. 1
+here is a sequence of events that happen while getting a hair cut: </s> take an appointment </s> go to barber 1
+here is a sequence of events that happen while taking a bath: </s> step into tub </s> soak 1
+here is a sequence of events that happen while getting a hair cut: </s> take the seat </s> pay for the haircut 1
+here is a sequence of events that happen while planting a tree: </s> water tree daily and wait to grow </s> add additional dirt if necessary 0
+here is a sequence of events that happen while going grocery shopping: </s> pay for groceries </s> get fruits and veggies on list 0
+here is a sequence of events that happen while planting a tree: </s> prepare soil. </s> cover hole with soil. 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> wait for patch to dry </s> use screwdriver to pry off old tire 0
+here is a sequence of events that happen while going grocery shopping: </s> find the items from the list. </s> go home. 1
+here is a sequence of events that happen while going grocery shopping: </s> drive home. </s> put the groceries away. 1
+here is a sequence of events that happen while planting a tree: </s> put in the ground </s> water again 1
+here is a sequence of events that happen while taking a bath: </s> plug drain in tub </s> turn on water 1
+here is a sequence of events that happen while taking a bath: </s> close bath drain </s> relax 1
+here is a sequence of events that happen while planting a tree: </s> cover hole back up </s> buy seeds 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> open the protective sticker and paste it to close the puncture </s> fill the air 1
+here is a sequence of events that happen while planting a tree: </s> buy the tree </s> select a site to plant the tree 1
+here is a sequence of events that happen while taking a bath: </s> add bubble bath, bath salts, or oils if desired. </s> soak as long as you like. 1
+here is a sequence of events that happen while going grocery shopping: </s> take groceries home. </s> make a list. 0
+here is a sequence of events that happen while planting a tree: </s> place the roots of the tree into the hole you have dug. </s> choose a spot to plant the tree. 0
+here is a sequence of events that happen while taking a bath: </s> dry off </s> get dressed 1
+here is a sequence of events that happen while getting a hair cut: </s> sit in chair </s> get haircut 1
+here is a sequence of events that happen while getting a hair cut: </s> you pay for the hair cut. </s> sit down in barber chair. 0
+here is a sequence of events that happen while planting a tree: </s> take off gloves and put away with shovel </s> get a sapling, shovel and garden gloves. 0
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> take off tube </s> put new tube on 1
+here is a sequence of events that happen while getting a hair cut: </s> go to hair cut </s> pay and tip hair stylist when done 1
+here is a sequence of events that happen while getting a hair cut: </s> hairdresser washes your hair </s> pay receptionist 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> find leak </s> put inner tube back into bike tire 1
+here is a sequence of events that happen while planting a tree: </s> determine where to plant it </s> replace displaced dirt 1
+here is a sequence of events that happen while taking a bath: </s> adjust to desired temperature </s> get out of bath tub 1
+here is a sequence of events that happen while repairing a flat bicycle tire: </s> patch damaged area from tire </s> remove tire from bike 0
+here is a sequence of events that happen while planting a tree: </s> get seeds </s> cover up hole 1
+here is a sequence of events that happen while getting a hair cut: </s> go to the barber shop </s> tell barber what you want 1
+here is a sequence of events that happen while taking a bath: </s> take off clothes. </s> unplug the stopper to drain water. 1
+here is a sequence of events that happen while planting a tree: </s> cover sapling with dirt </s> go home 0
