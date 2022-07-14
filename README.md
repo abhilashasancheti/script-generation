@@ -22,14 +22,17 @@ cd code.py
 ```
 
 ### GPT2
-```CUDA_VISIBLE_DEVICES=0 python run_language_modeling.py --output_dir=../models/models_gptl_basic_fold6_g16 --model_type=gpt2 --model_name_or_path=gpt2-large --do_train --train_data_file=../data/folds/train_basic_fold6_shuf.txt --tokenizer=../gpt-tokenizer --num_train_epochs=1 --overwrite_output_dir --save_steps=100 --per_device_eval_batch_size=1 --per_device_train_batch_size=1 --block_size=150  --logging_steps=100 --logging_dir=../logging/ --line_by_line --gradient_accumulation_steps=16 > ../train_outputs/folds/lm_large_epoch1_basic_fold6_g16.txt
+```
+CUDA_VISIBLE_DEVICES=0 python run_language_modeling.py --output_dir=../models/models_gptl_basic_fold6_g16 --model_type=gpt2 --model_name_or_path=gpt2-large --do_train --train_data_file=../data/folds/train_basic_fold6_shuf.txt --tokenizer=../gpt-tokenizer --num_train_epochs=1 --overwrite_output_dir --save_steps=100 --per_device_eval_batch_size=1 --per_device_train_batch_size=1 --block_size=150  --logging_steps=100 --logging_dir=../logging/ --line_by_line --gradient_accumulation_steps=16 > ../train_outputs/folds/lm_large_epoch1_basic_fold6_g16.txt
 ```
 
 ### BART
-```CUDA_VISIBLE_DEVICES=0 python run_seq2seq_bart.py --model_name_or_path facebook/bart-large --do_train --task summarization --train_file ../data/folds/seq2seq/train_ordered_fold1.csv --output_dir ../models_bartl_ordered_fold1_g16 --max_source_length 15 --max_target_length 150 --overwrite_output_dir --per_device_train_batch_size=1 --per_device_eval_batch_size=1 --predict_with_generate --text_column input --summary_column output --tokenizer=../bart-tokenizer --num_train_epochs=1 --overwrite_output_dir --save_steps=100 --logging_steps=100 --logging_dir=../logging/ --gradient_accumulation_steps=16 > ../train_outputs/folds-bart/bart_large_epoch1_ordered_fold1_g16.txt
+```
+CUDA_VISIBLE_DEVICES=0 python run_seq2seq_bart.py --model_name_or_path facebook/bart-large --do_train --task summarization --train_file ../data/folds/seq2seq/train_ordered_fold1.csv --output_dir ../models_bartl_ordered_fold1_g16 --max_source_length 15 --max_target_length 150 --overwrite_output_dir --per_device_train_batch_size=1 --per_device_eval_batch_size=1 --predict_with_generate --text_column input --summary_column output --tokenizer=../bart-tokenizer --num_train_epochs=1 --overwrite_output_dir --save_steps=100 --logging_steps=100 --logging_dir=../logging/ --gradient_accumulation_steps=16 > ../train_outputs/folds-bart/bart_large_epoch1_ordered_fold1_g16.txt
 ```
 ### T5
-```CUDA_VISIBLE_DEVICES=0 python run_seq2seq.py --model_name_or_path t5-large --do_train --task summarization --train_file ../data/folds/t5/train_ordered_fold1.csv --output_dir ../models_t5l_ordered_fold1_g16 --max_source_length 15 --max_target_length 150 --overwrite_output_dir --per_device_train_batch_size=1 --per_device_eval_batch_size=1 --predict_with_generate --text_column input --summary_column output --tokenizer=../t5-tokenizer --num_train_epochs=3 --overwrite_output_dir --save_steps=100 --logging_steps=100 --logging_dir=../logging/ --gradient_accumulation_steps=16 > ../train_outputs/folds-t5/t5_large_epoch3_ordered_fold1_g16.txt
+```
+CUDA_VISIBLE_DEVICES=0 python run_seq2seq.py --model_name_or_path t5-large --do_train --task summarization --train_file ../data/folds/t5/train_ordered_fold1.csv --output_dir ../models_t5l_ordered_fold1_g16 --max_source_length 15 --max_target_length 150 --overwrite_output_dir --per_device_train_batch_size=1 --per_device_eval_batch_size=1 --predict_with_generate --text_column input --summary_column output --tokenizer=../t5-tokenizer --num_train_epochs=3 --overwrite_output_dir --save_steps=100 --logging_steps=100 --logging_dir=../logging/ --gradient_accumulation_steps=16 > ../train_outputs/folds-t5/t5_large_epoch3_ordered_fold1_g16.txt
 ```
 
 ## Generating from the LM
@@ -39,7 +42,8 @@ cd code.py
 ```
 
 ### GPT-2
-```CUDA_VISIBLE_DEVICES=0 python run_generation.py --model_type=gpt2 --model_name_or_path=../models_gptl_ordered_fold8_g16 --length=150 --k=50 --num_return_sequences=5 --sample --stop_token='<EOS>' --prompt=../data/folds/test_ordered_fold8.txt --output ../outputs/folds/generated_test_ordered_large_fold8_g16_epoch1.txt
+```
+CUDA_VISIBLE_DEVICES=0 python run_generation.py --model_type=gpt2 --model_name_or_path=../models_gptl_ordered_fold8_g16 --length=150 --k=50 --num_return_sequences=5 --sample --stop_token='<EOS>' --prompt=../data/folds/test_ordered_fold8.txt --output ../outputs/folds/generated_test_ordered_large_fold8_g16_epoch1.txt
 ```    
 ### BART
 ```
@@ -47,7 +51,8 @@ CUDA_VISIBLE_DEVICES=0 python run_eval_bart.py ../models_bartl_basic_fold4_g16 .
 ``` 
   
 ### T5
-```CUDA_VISIBLE_DEVICES=0 python run_eval.py ../models_t5l_expect_fold1_g16 ../t5-tokenizer ../data/folds/t5/test_expect_fold1.txt ../outputs/folds/t5/generated_test_expect_large_fold1_g16_epoch3.txt --reference_path ../data/folds/t5/test_expect_fold1.txt --score_path enro_bleu.json --task summarization --n_obs 100 --device cuda --bs 5 --length=150 --k=50 --num_return_sequences=5 --sample --stop_token='<EOS>'
+```
+CUDA_VISIBLE_DEVICES=0 python run_eval.py ../models_t5l_expect_fold1_g16 ../t5-tokenizer ../data/folds/t5/test_expect_fold1.txt ../outputs/folds/t5/generated_test_expect_large_fold1_g16_epoch3.txt --reference_path ../data/folds/t5/test_expect_fold1.txt --score_path enro_bleu.json --task summarization --n_obs 100 --device cuda --bs 5 --length=150 --k=50 --num_return_sequences=5 --sample --stop_token='<EOS>'
 ```   
     
 ## Relvance Classifier 
