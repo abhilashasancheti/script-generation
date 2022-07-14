@@ -1,5 +1,0 @@
-<BOS> baking a cake: 
-<BOS> borrowing a book from the library: 
-<BOS> flying in an airplane: 
-<BOS> going on a train: 
-<BOS> riding on a bus: 

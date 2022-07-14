@@ -1,5 +1,0 @@
-<BOS> here is a sequence of events that happen while building a bomb: 
-<BOS> here is a sequence of events that happen while getting juice out of lime: 
-<BOS> here is a sequence of events that happen while chopping a bunch of fresh herbs: 
-<BOS> here is a sequence of events that happen while separating an egg: 
-<BOS> here is a sequence of events that happen while using a food processor:

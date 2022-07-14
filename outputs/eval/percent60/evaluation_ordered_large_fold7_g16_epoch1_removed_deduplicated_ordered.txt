@@ -1,5 +1,0 @@
-<BOS> here is an ordered sequence of events that occur when you have a barbecue: 1. go to a place called the barbecue counter. 2. go to the grill. 3. put on the chair. 4. put your items in the grill. 5. enjoy.
-<BOS> here is an ordered sequence of events that occur when you order a pizza: 1. drive to the restaurant 2. sit in the restaurant 3. wait for your food 4. order the food 5. pay the bill 6. eat your food
-<BOS> here is an ordered sequence of events that occur when you clean up a flat: 1. remove all the items from the flat 2. place the flat on the trash tray 3. place the items on top of the trash 4. put the trash away 5. place the garbage away
-<BOS> here is an ordered sequence of events that occur when you make scrambled eggs: 1. gather eggs 2. boil water 3. add eggs to boiling water 4. wait for eggs to boil 5. throw away egg when done
-<BOS> here is an ordered sequence of events that occur when you take the underground: 1. drive to underground 2. park 3. go into the place 4. go down to the pit 5. go inside 6. wait in the pit 7. get a shovel 8. dig a hole 9. go back 10. get out

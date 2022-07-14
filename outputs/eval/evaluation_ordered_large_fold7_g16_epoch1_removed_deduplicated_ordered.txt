@@ -1,5 +1,0 @@
-<BOS> here is an ordered sequence of events that occur when you have a barbecue: 1. get a smoker 2. get some coals 3. put coals in the water 4. put wood in the fire 5. throw hot coals down the coals 6. add some water to the fire 7. keep an eye on the fire 8. keep the fire going
-<BOS> here is an ordered sequence of events that occur when you order a pizza: 1. look online for pizza 2. get your order 3. wait for the pizza 4. wait for the pizza to be ready 5. pay for your pizza
-<BOS> here is an ordered sequence of events that occur when you clean up a flat: 1. remove all the items from the flat 2. place the flat on the trash tray 3. place the items on top of the trash 4. put the trash away 5. place the garbage away
-<BOS> here is an ordered sequence of events that occur when you make scrambled eggs: 1. gather eggs 2. boil water 3. wait for eggs to boil 4. add eggs to boiling water 5. throw away egg when done
-<BOS> here is an ordered sequence of events that occur when you take the underground: 1. park 2. walk to place 3. enter place 4. wait for someone to enter

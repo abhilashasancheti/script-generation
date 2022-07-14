@@ -199,63 +199,7 @@ def replace_blanks(hypotheses):
         new_hypotheses.append(scenario.replace('<BLK>', answer).strip())
     return new_hypotheses
 
-def event_level_bleu_metric(in_path, scenarios):
-    with open(in_path) as f:
-        lines = f.readlines()
-        precision = []
-        coverage = []
-        for scenario in lines:
-            splitted = scenario.split(": ")
-            scenario = splitted[1].rstrip(' <EOS>')
-            if prompt=='direct':
-                script = splitted[0].strip().lstrip('<BOS> <SCR> ').rstrip('<ESCR>') # direct
-            elif prompt=='describe':
-                script = splitted[0].strip().replace("<BOS> describe ","") # for describe
-                script = script.replace(" in small sequences of short sentences","") #for describe 
-            elif prompt=='expect':
-                script = splitted[0].strip().replace("<BOS> these are the things that happen when you ","") # expect
-                script = dict_script[script]
-            elif prompt=='ordered':
-                script = splitted[0].strip().replace("<BOS> here is an ordered sequence of events that occur when you ","")
-                script = dict_script[script]
-            elif prompt=='basic':
-                script = splitted[0].strip().replace("<BOS> here is a sequence of events that happen while ","")
-            else:
-                script = splitted[0].rstrip(' <ESCR>').replace("<BOS> <SCR> ","")
-            new_scenario = script + ": "
-            scenario = re.sub(r'\d+[.]', '</bevent> <bevent>', scenario)
-            scenario = re.sub(r'<EEVENT>', '</bevent>', scenario)
-            scenario = scenario + '</bevent>'
-            scenario = scenario.strip().lstrip('</bevent>')
-            soup = BeautifulSoup(scenario)
-#             print(scenario, soup)
-            events = []
-            for a in soup.find_all('bevent'):
-                events.append(a.string.strip())
-            
-            
-            bleus=[]
-            labels=[]
-            for i in range(len(events)):
-                max_bleu = -1
-                max_label = ""
-                if script in scenarios:
-                    event_label = scenarios[script]
-                else:
-                    event_label = scenarios[dict_script[script]]
-                for label in event_label:
-                    bleu = sentence_bleu([ref.split() for ref in event_label[label]], events[i].strip().split(), weights=(0.25,0.25,0.25,0.25),smoothing_function=chencherry.method1)
-                    #print(bleu)
-                    if bleu > max_bleu:
-                        max_bleu = bleu
-                        max_label = label
-                bleus.append(max_bleu)
-                labels.append(max_label)
-#                 print(events,bleus, max_label)
-            coverage.append(len(list(set(labels)))/ len(list(set(event_label))))
-            precision.append(np.mean(bleus))
-        return precision, coverage
-    
+
     
 def eval_bleu(split, prompt, out_type, references, out_file, method='corpus'):
     hypotheses = read_finetuned(out_file)
@@ -352,49 +296,19 @@ def eval_bleu_normal(split, prompt, out_type):
     #print(scores)   
     
 if __name__=="__main__":
-#     # for old split
-#     references = read_references("./data/test_references.txt")
+
     method = 'scenario' #'corpus' #'sent' #'avg' #
-    # for k fold
-    with open('paraphrase.json') as f:
-        scenarios = json.load(f)
         
     for prompt in ['basic',  'ordered', 'direct', 'describe', 'expect', 'tokens', 'all_tokens']:#,
-        for fold in range(1,9): #[4,7]:#
-# #         for split in ['test', 'valid']:
-#             # for normal version of basic
-#             eval_bleu_for_k_fold(fold, 'test', prompt, '')
+        for fold in range(1,9): 
+
+            eval_bleu_for_k_fold(fold, 'test', prompt, '', method)
             eval_bleu_for_k_fold(fold, 'test', prompt, '_removed', method)
             eval_bleu_for_k_fold(fold, 'test', prompt, '_removed_deduplicated', method)
             eval_bleu_for_k_fold(fold, 'test', prompt, '_removed_deduplicated_ordered', method)
-#             eval_bleu_for_k_fold_manual(fold, 'test', prompt, '_removed_deduplicated_ordered', method)
-#         eval_bleu_normal('valid', prompt, '')
-#         eval_bleu_normal('test', prompt, '')
-#         eval_bleu_normal('valid', prompt, '_removed')
-#         eval_bleu_normal('test', prompt, '_removed')
-#         eval_bleu_normal('valid', prompt, '_removed_deduplicated')
-#         eval_bleu_normal('test', prompt, '_removed_deduplicated')
-#         eval_bleu_normal('valid', prompt, '_removed_deduplicated_ordered')
-#         eval_bleu_normal('test', prompt, '_removed_deduplicated_ordered')
-            # for removed version of basic
-#             eval_bleu_for_k_fold(fold, 'test', 'basic', '_removed')
-#             # for removed version of basic
-#             eval_bleu_for_k_fold(fold, 'test', 'basic', '_removed_deduplicated')
-#             # for removed version of basic
-#             eval_bleu_for_k_fold(fold, 'test', 'basic', '_removed_deduplicated_ordered')
-
-
-#             precision, coverage = event_level_bleu_metric('./outputs/generated_'+split+'_'+prompt+'_large_g16_epoch1.txt', scenarios)
-#             precision1, coverage1 = event_level_bleu_metric('./outputs/generated_'+split+'_'+prompt+'_large_g16_epoch1_removed.txt', scenarios)
-#             precision2, coverage2 = event_level_bleu_metric('./outputs/generated_'+split+'_'+prompt+'_large_g16_epoch1_removed_deduplicated.txt', scenarios)
-#             print(split, prompt)
-#             print(np.mean(precision), np.std(precision))
-#             print(np.mean(precision1), np.std(precision1))
-#             print(np.mean(precision2), np.std(precision2))
-#             print("****coverage******")
-#             print(np.mean(coverage), np.std(coverage))
-#             print(np.mean(coverage1), np.std(coverage1))
-#             print(np.mean(coverage2), np.std(coverage2))
+            
+            # for manual evaluation data use below function in the same way
+            # eval_bleu_for_k_fold_manual(fold, 'test', prompt, '_removed_deduplicated_ordered', method)
 
     
 

@@ -428,38 +428,36 @@ def create_lines_for_gt_classification(fold):
 
 
 if __name__=="__main__":
-#     ordering train data
-#     for fold in range(1,9):
-#         classification_all_combinations_partial_data("./data/folds/train_all_tokens_fold"+str(fold)+"_shuf.txt", "./data/folds/train_classification_partial_context_all_fold"+str(fold)+".txt")
-#         lines = create_lines_for_gt_classification(fold)
-#         test_classification_all_combinations_partial_data_from_lines(lines,"./data/folds/test_classification_partial_context_all_fold"+str(fold)+".txt")
     
+    ##################################################################
+    # Data creation for training the temporal ordering classifer
+    ##################################################################
+    for fold in range(1,9):
+        classification_all_combinations_partial_data("./data/folds/train_all_tokens_fold"+str(fold)+"_shuf.txt", "./data/folds/train_classification_partial_context_all_fold"+str(fold)+".txt")
+        lines = create_lines_for_gt_classification(fold)
+        test_classification_all_combinations_partial_data_from_lines(lines,"./data/folds/test_classification_partial_context_all_fold"+str(fold)+".txt")
+
+    ##################################################################
+    # Data creation for training relevance classifier
+    ##################################################################
+    for fold in range(1,9):
+        scene_dict = train_relevant_classification_positive_data("./data/folds/train_all_tokens_fold"+str(fold)+"_shuf.txt", './data/folds/train_relevant_classification_fold'+str(fold)+'.txt')
+        train_relevant_classification_negative_data(scene_dict, './data/folds/train_relevant_classification_fold'+str(fold)+'.txt')
+        lines = create_lines_for_gt_classification(fold)
+        test_relevant_classification_positive_data(lines, './data/folds/test_relevant_classification_fold'+str(fold)+'.txt')
+     
+    
+    ##################################################################
+    # For creating relevance classification data in the pipeline
+    ##################################################################
+    for fold in range(1,9):   
+        for prompt in ['basic', 'expect', 'ordered', 'direct', 'describe', 'tokens', 'all_tokens']:
+            generated_relevant_classification_positive_data('./outputs/folds/generated_test_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1.txt', './data/folds/test_relevant_classification_'+prompt+'_fold'+str(fold)+'_output.txt', prompt)
+
+
+    ##################################################################
+    # For creating temporal ordering data in the pipeline
+    ##################################################################
     for prompt in ['basic', 'ordered', 'direct', 'describe', 'expect', 'tokens', 'all_tokens']:
         for fold in range(1,9):
             test_classification_all_combinations_partial_data("./outputs/folds/generated_test_" +prompt+ "_large_fold"+str(fold)+"_g16_epoch1_removed_deduplicated.txt","./data/folds/test_classification_"+prompt+"_fold"+str(fold)+"_output_removed_deduplicated.txt", prompt)
-
-#     relevancy train data
-#     for fold in range(1,9):
-#         scene_dict = train_relevant_classification_positive_data("./data/folds/train_all_tokens_fold"+str(fold)+"_shuf.txt", './data/folds/train_relevant_classification_fold'+str(fold)+'.txt')
-#         train_relevant_classification_negative_data(scene_dict, './data/folds/train_relevant_classification_fold'+str(fold)+'.txt')
-#         lines = create_lines_for_gt_classification(fold)
-#         test_relevant_classification_positive_data(lines, './data/folds/test_relevant_classification_fold'+str(fold)+'.txt')
-#         for prompt in ['basic', 'expect', 'ordered', 'direct', 'describe', 'tokens', 'all_tokens']:
-#             generated_relevant_classification_positive_data('./outputs/folds/generated_test_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1.txt', './data/folds/test_relevant_classification_'+prompt+'_fold'+str(fold)+'_output.txt', prompt)
-#         manual evaluation data for fold data
-#         for fold in [4,7]:
-#             in_path = './outputs/folds/generated_test_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1_removed_deduplicated_ordered.txt'
-#             out_order_path = './outputs/eval/evaluation_ordering_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1_removed_deduplicated_ordered.txt'
-#             out_rel_path = './outputs/eval/evaluation_relevancy_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1_removed_deduplicated_ordered.txt'
-#             out_path = './outputs/eval/evaluation_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1_removed_deduplicated_ordered.txt'
-#             evaluation_data(in_path, out_order_path, out_rel_path, out_path, prompt, percent=1.0)
-    
-#         manual evaluation data for novel scenarios
-#     for prompt in ['basic']:
-#         for fold in [1]:
-#             in_path = './outputs/folds/generated_new_scenarios_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1_removed_deduplicated_ordered.txt'
-#             out_order_path = './outputs/eval_novel/evaluation_ordering_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1_removed_deduplicated_ordered.txt'
-#             out_rel_path = './outputs/eval_novel/evaluation_relevancy_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1_removed_deduplicated_ordered.txt'
-#             out_path = './outputs/eval_novel/evaluation_'+prompt+'_large_fold'+str(fold)+'_g16_epoch1_removed_deduplicated_ordered.txt'
-#             evaluation_data(in_path, out_order_path, out_rel_path, out_path, prompt, percent=1.0)
-    

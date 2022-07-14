@@ -1,5 +1,0 @@
-<BOS> describe baking a cake in small sequences of short sentences: 
-<BOS> describe borrowing a book from the library in small sequences of short sentences: 
-<BOS> describe flying in an airplane in small sequences of short sentences: 
-<BOS> describe going on a train in small sequences of short sentences: 
-<BOS> describe riding on a bus in small sequences of short sentences: 

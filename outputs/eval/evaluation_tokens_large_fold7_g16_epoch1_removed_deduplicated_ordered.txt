@@ -1,5 +1,0 @@
-<BOS> <SCR> having a barbecue <ESCR>: 1. gather materials for a pit 2. put some wood in a hole 3. start the fire 4. add more wood or water when needed 5. add some food and water
-<BOS> <SCR> ordering a pizza <ESCR>: 1. call pizza place 2. have a pizza 3. order 4. pay 5. have pizza delivered 6. enjoy pizza
-<BOS> <SCR> cleaning up a flat <ESCR>: 1. get soap and water 2. turn on the water 3. take things off of the floor 4. scrub up everything 5. rinse off everything 6. dry with a dryer sheet 7. put things away 8. put on a clean towel
-<BOS> <SCR> making scrambled eggs <ESCR>: 1. gather eggs 2. boil water 3. add eggs to boiling water 4. wait for eggs to boil 5. stir 6. place on plate
-<BOS> <SCR> taking the underground <ESCR>: 1. climb the stairs 2. walk to the next floor 3. walk through the door 4. enter the tunnel 5. take a look at the wall 6. enter the storage room

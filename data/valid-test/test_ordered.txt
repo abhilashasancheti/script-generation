@@ -1,5 +1,0 @@
-<BOS> here is an ordered sequence of events that occur when you bake a cake: 
-<BOS> here is an ordered sequence of events that occur when you borrow a book from the library: 
-<BOS> here is an ordered sequence of events that occur when you fly in an airplane: 
-<BOS> here is an ordered sequence of events that occur when you go on a train: 
-<BOS> here is an ordered sequence of events that occur when you ride on a bus: 

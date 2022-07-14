@@ -337,14 +337,7 @@ if __name__=="__main__":
         scheduler = get_linear_schedule_with_warmup(
             optimizer, num_warmup_steps=total_steps*0.06, num_training_steps=total_steps
         )
-#         optimizer = AdamW(model.parameters(), lr=learning_rate)
-        
 
-#         scheduler = get_linear_schedule_with_warmup(
-#           optimizer,
-#           num_warmup_steps=0,
-#           num_training_steps=total_steps
-#         )
 
         # start training
         print("Training starts ....")

@@ -1,4 +1,0 @@
-loading new tokenizer
-Training starts ....
-Epoch 1/20
-----------

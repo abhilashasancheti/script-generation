@@ -1,5 +1,0 @@
-<BOS> these are the things that happen when you have a barbecue: 1. get a piece of wood 2. find a place for the fire 3. make a pit 4. gather wood 5. place the wood into the pit 6. set the fire 7. enjoy the meal
-<BOS> these are the things that happen when you order a pizza: 1. look online for pizza 2. get into the delivery room 3. order food 4. wait for the pizza to arrive 5. get receipt 6. take food 7. place pizza in the trash 8. leave restaurant
-<BOS> these are the things that happen when you clean up a flat: 1. get the flat 2. take the flat to the cleaning station 3. scrub the flat with a rag 4. place the rag on the flat 5. scrub the rag again 6. remove the flat from the cleaning station 7. put the flat in a locker 8. dry the flat 9. put the flat in a cup
-<BOS> these are the things that happen when you make scrambled eggs: 1. get some water 2. put in the egg basket 3. take out eggs 4. put some of water in the eggs 5. mix the eggs 6. add the toppings and stir
-<BOS> these are the things that happen when you take the underground: 1. drive to underground park 2. drive to the entrance 3. go inside and get changed 4. go back outside and sit down

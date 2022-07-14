@@ -1,5 +1,0 @@
-<BOS> here is an ordered sequence of events that occur when you get a hair cut: 
-<BOS> here is an ordered sequence of events that occur when you go grocery shopping: 
-<BOS> here is an ordered sequence of events that occur when you plant a tree: 
-<BOS> here is an ordered sequence of events that occur when you repair a flat bicycle tire: 
-<BOS> here is an ordered sequence of events that occur when you take a bath: 

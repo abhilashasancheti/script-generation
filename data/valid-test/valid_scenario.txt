@@ -1,5 +1,0 @@
-<BOS> getting a hair cut <EOS>
-<BOS> going grocery shopping <EOS>
-<BOS> planting a tree <EOS>
-<BOS> repairing a flat bicycle tire <EOS>
-<BOS> taking a bath <EOS>

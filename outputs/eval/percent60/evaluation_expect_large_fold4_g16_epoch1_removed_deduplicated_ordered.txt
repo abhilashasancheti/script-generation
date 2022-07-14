@@ -1,5 +1,0 @@
-<BOS> these are the things that happen when you wash dishes: 1. collect the clean dishes 2. put the dish in the washing machine 3. turn the washing machine on 4. wait for the water to turn the soap 5. take out the dirty dishes 6. wash the dishes with soap 7. put dish in the dishwasher 8. wait for the water to turn soap 9. put dish in dishwasher 10. turn the washing machine on
-<BOS> these are the things that happen when you make a bonfire: 1. gather supplies 2. take charcoal and match 3. light matches 4. light wood 5. light wood and charcoal 6. throw wood and charcoal away
-<BOS> these are the things that happen when you go to the sauna: 1. get your bath towel 2. turn it on 3. get in the sauna 4. wash your body 5. start the sauna 6. dry off 7. leave
-<BOS> these are the things that happen when you make coffee: 1. get coffee maker 2. plug in the coffee maker 3. fill with water 4. pour coffee into a cup 5. let it sit 6. pour out of the cup 7. add flavorings 8. taste the coffee
-<BOS> these are the things that happen when you go to the swimming pool: 1. drive to the pool 2. walk up to the counter 3. give a card to the clerk 4. pay the clerk 5. swim pool
